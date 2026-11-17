@@ -12,6 +12,8 @@ Subcommands
 Typical workflow
 ----------------
   python othello_split.py label  --play othello.txt --script video1.srt --out video1_labeled.csv
+  # or several transcripts at once (each gets its own 3 output files):
+  python othello_split.py label  --play othello.txt --script v1.srt v2.srt v3.vtt v4.txt v5.csv --out-dir labeled/
   # open video1_labeled.csv, fill `final_label` for rows where auto_label == "review"
   python othello_split.py sample --labeled video1_labeled.csv --n 100 --out gold_sample.csv
   # fill `gold_label` in gold_sample.csv WITHOUT looking at the labeled file
@@ -31,6 +33,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import glob
 import math
 import random
 import re
@@ -142,18 +145,43 @@ _SPEAKER_TAG = re.compile(r"^\s*([A-Za-z][\w .'-]{0,30}):\s+(.*)$")
 _SENT_SPLIT = re.compile(r"(?<=[.!?;])\s+")
 
 
-def load_transcript(path: Path) -> list[dict]:
-    """Returns turns: {speaker, start, text}."""
+TEXT_COL_GUESSES = ["text", "full_transcript", "transcript", "content", "utterance"]
+ID_COL_GUESSES = ["transcript_number", "transcript_id", "video_id", "id"]
+
+
+def load_transcript(path: Path, text_col="auto", speaker_col="speaker", start_col="start") -> list[dict]:
+    """Returns turns: {transcript, speaker, start, text}.
+
+    CSV cells may hold a whole multi-line transcript ("SPEAKER_13: ...\nSPEAKER_00: ...");
+    each line becomes its own turn, with the speaker taken from its tag."""
     suffix = path.suffix.lower()
     turns = []
     if suffix == ".csv":
+        csv.field_size_limit(min(sys.maxsize, 2**31 - 1))     # full transcripts can be huge cells
+        speaker_col, start_col = speaker_col.lower().strip(), start_col.lower().strip()
         with path.open(newline="", encoding="utf-8-sig") as f:
-            for row in csv.DictReader(f):
-                row = {k.lower().strip(): v for k, v in row.items()}
-                if "text" not in row:
-                    sys.exit("CSV transcript needs a 'text' column (optional: speaker, start).")
-                turns.append({"speaker": row.get("speaker", ""), "start": row.get("start", ""),
-                              "text": row["text"]})
+            reader = csv.DictReader(f)
+            cols = [c.lower().strip() for c in (reader.fieldnames or []) if c]
+            if text_col == "auto":
+                text_col = next((c for c in TEXT_COL_GUESSES if c in cols), None)
+                if text_col is None:
+                    sys.exit(f"Couldn't find the text column. Columns found: {', '.join(cols) or '(none)'}. "
+                             f"Pass it with --text-col.")
+            text_col = text_col.lower().strip()
+            if text_col not in cols:
+                sys.exit(f"CSV has no '{text_col}' column. Columns found: {', '.join(cols) or '(none)'}.")
+            id_col = next((c for c in ID_COL_GUESSES if c in cols), None)
+            for row in reader:
+                row = {(k or "").lower().strip(): (v or "") for k, v in row.items()}
+                tid = row.get(id_col, "") if id_col else ""
+                row_spk, row_start = row.get(speaker_col, ""), row.get(start_col, "")
+                for line in row[text_col].splitlines():
+                    line = line.strip()
+                    if not line:
+                        continue
+                    m = _SPEAKER_TAG.match(line)
+                    spk, txt = (m.group(1), m.group(2)) if m else (row_spk, line)
+                    turns.append({"transcript": tid, "speaker": spk, "start": row_start, "text": txt})
         return turns
 
     raw = path.read_text(encoding="utf-8", errors="replace")
@@ -189,11 +217,13 @@ def segment(turns: list[dict], unit: str) -> list[dict]:
         pieces = [t["text"]] if unit in ("line", "turn") else _SENT_SPLIT.split(t["text"])
         for p in pieces:
             if p.strip():
-                segs.append({"speaker": t["speaker"], "start": t["start"], "text": p.strip()})
+                segs.append({"transcript": t.get("transcript", ""), "speaker": t["speaker"],
+                             "start": t["start"], "text": p.strip()})
     if unit == "turn":   # merge consecutive lines from the same speaker
         merged = []
         for s in segs:
-            if merged and s["speaker"] and merged[-1]["speaker"] == s["speaker"]:
+            if (merged and s["speaker"] and merged[-1]["speaker"] == s["speaker"]
+                    and merged[-1]["transcript"] == s["transcript"]):
                 merged[-1]["text"] += " " + s["text"]
             else:
                 merged.append(dict(s))
@@ -274,11 +304,45 @@ def resolve_binary(rows, hi, lo):
             r["confidence"] = "low"
 
 
-def cmd_label(a):
-    play = load_play(Path(a.play))
-    windows, index = build_windows(play, a.max_span)
-    segs = segment(load_transcript(Path(a.script)), a.unit)
-    print(f"Play: {len(play)} lines -> {len(windows)} match windows | Transcript: {len(segs)} segments")
+def expand_scripts(patterns: list[str]) -> list[Path]:
+    """Accept explicit paths and glob patterns (e.g. "transcripts/*.srt", handy on Windows)."""
+    paths = []
+    for p in patterns:
+        hits = sorted(glob.glob(p)) if any(ch in p for ch in "*?[") else [p]
+        if not hits:
+            print(f"WARNING: pattern matched no files: {p}", file=sys.stderr)
+        paths.extend(Path(h) for h in hits)
+    seen, unique = set(), []
+    for p in paths:                      # drop exact duplicates, keep order
+        key = p.resolve()
+        if key not in seen:
+            seen.add(key)
+            unique.append(p)
+    return unique
+
+
+def output_paths(scripts: list[Path], a) -> list[Path]:
+    if a.out:
+        if len(scripts) > 1:
+            sys.exit("--out is for a single transcript. With several, use --out-dir "
+                     "(each file is written as <name>_labeled.csv).")
+        return [Path(a.out)]
+    out_dir = Path(a.out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    stems = Counter(s.stem for s in scripts)
+    outs = []
+    for s in scripts:
+        # same file name in different folders -> prefix the parent folder so nothing is overwritten
+        stem = f"{s.parent.name}_{s.stem}" if stems[s.stem] > 1 else s.stem
+        outs.append(out_dir / f"{stem}_labeled.csv")
+    if len(set(outs)) != len(outs):
+        sys.exit("Two transcripts would write to the same output name; rename one of them.")
+    return outs
+
+
+def label_one(a, script: Path, out: Path, windows, index):
+    segs = segment(load_transcript(script, a.text_col, a.speaker_col, a.start_col), a.unit)
+    print(f"  Transcript: {len(segs)} segments")
 
     rows = []
     for i, s in enumerate(segs, 1):
@@ -286,7 +350,7 @@ def cmd_label(a):
         full, part, wid, span = best_match(norm, windows, index)
         label = classify(full, part, len(norm.split()), a.hi, a.lo, a.min_words)
         rows.append({
-            "segment_id": i, "speaker": s["speaker"], "start": s["start"], "text": s["text"],
+            "segment_id": i, "transcript": s["transcript"], "speaker": s["speaker"], "start": s["start"], "text": s["text"],
             "auto_label": label,
             "final_label": label if label in LABELS else "",
             "confidence": "high" if label in LABELS else "",
@@ -298,27 +362,59 @@ def cmd_label(a):
     if a.labels == "binary":
         resolve_binary(rows, a.hi, a.lo)
 
-    fields = ["segment_id", "speaker", "start", "text", "final_label", "confidence", "auto_label",
+    fields = ["segment_id", "transcript", "speaker", "start", "text", "final_label", "confidence", "auto_label",
               "full_score", "partial_score", "archaic_density", "quoted_span", "matched_play_text"]
-    with open(a.out, "w", newline="", encoding="utf-8") as f:
+    with open(out, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fields)
         w.writeheader()
         w.writerows(rows)
 
-    print("Final label counts:", dict(Counter(r["final_label"] or "UNRESOLVED" for r in rows)))
+    print("  Final label counts:", dict(Counter(r["final_label"] or "UNRESOLVED" for r in rows)))
+    written = [out]
     if a.labels == "binary":
-        print("Confidence:", dict(Counter(r["confidence"] for r in rows)),
+        print("  Confidence:", dict(Counter(r["confidence"] for r in rows)),
               "-> spot-check the 'low' rows if you have time.")
-        stem = Path(a.out).with_suffix("")
+        stem = out.with_suffix("")
         for lab in ("in_character", "out_of_character"):
-            out = Path(f"{stem}_{lab}.txt")
-            out.write_text("\n".join(r["text"] for r in rows if r["final_label"] == lab) + "\n",
+            txt = Path(f"{stem}_{lab}.txt")
+            txt.write_text("\n".join(r["text"] for r in rows if r["final_label"] == lab) + "\n",
                            encoding="utf-8")
-            print(f"Wrote {out}")
+            written.append(txt)
     else:
         todo = sum(1 for r in rows if not r["final_label"])
-        print(f"{todo} rows need a human decision in `final_label`.")
-    print(f"Wrote {a.out}")
+        print(f"  {todo} rows need a human decision in `final_label`.")
+    for p in written:
+        print(f"  Wrote {p}")
+
+
+def cmd_label(a):
+    scripts = expand_scripts(a.script)
+    play_path = Path(a.play).resolve()
+    if any(s.resolve() == play_path for s in scripts):
+        print("Skipping the play file, which matched --script.", file=sys.stderr)
+        scripts = [s for s in scripts if s.resolve() != play_path]
+    if not scripts:
+        sys.exit("No transcript files to process.")
+    outs = output_paths(scripts, a)
+
+    # The play index is the slow part, so build it once and reuse it for every transcript.
+    play = load_play(Path(a.play))
+    windows, index = build_windows(play, a.max_span)
+    print(f"Play: {len(play)} lines -> {len(windows)} match windows | {len(scripts)} transcript(s)")
+
+    failed = []
+    for n, (script, out) in enumerate(zip(scripts, outs), 1):
+        print(f"\n[{n}/{len(scripts)}] {script}")
+        try:
+            label_one(a, script, out, windows, index)
+        except (Exception, SystemExit) as e:   # one bad file shouldn't stop the batch
+            print(f"  FAILED: {e}", file=sys.stderr)
+            failed.append(script)
+
+    print(f"\nDone: {len(scripts) - len(failed)} succeeded, {len(failed)} failed.")
+    if failed:
+        print("Failed files:", ", ".join(str(f) for f in failed), file=sys.stderr)
+        sys.exit(1)
 
 
 def cmd_sample(a):
@@ -374,8 +470,15 @@ def main():
 
     l = sub.add_parser("label", help="auto-label a transcript")
     l.add_argument("--play", required=True, help="plain-text Othello (Folger or Gutenberg .txt)")
-    l.add_argument("--script", required=True, help="transcript: .txt, .srt, .vtt, or .csv")
-    l.add_argument("--out", default="labeled.csv")
+    l.add_argument("--script", required=True, nargs="+",
+                   help="one or more transcripts (.txt, .srt, .vtt, .csv); glob patterns like 'data/*.srt' work too")
+    l.add_argument("--out", help="output CSV path (single transcript only)")
+    l.add_argument("--out-dir", default=".",
+                   help="folder for outputs when not using --out; each file -> <name>_labeled.csv (default: current folder)")
+    l.add_argument("--text-col", default="auto",
+                   help="CSV transcripts: column holding the text (auto tries: " + ", ".join(TEXT_COL_GUESSES) + ")")
+    l.add_argument("--speaker-col", default="speaker", help="CSV transcripts: column holding the speaker name")
+    l.add_argument("--start-col", default="start", help="CSV transcripts: column holding the timestamp")
     l.add_argument("--labels", choices=["binary", "three"], default="binary",
                    help="binary: in_character / out_of_character only (default); three: also 'mixed' + manual review")
     l.add_argument("--unit", choices=["sentence", "line", "turn"], default="sentence")
