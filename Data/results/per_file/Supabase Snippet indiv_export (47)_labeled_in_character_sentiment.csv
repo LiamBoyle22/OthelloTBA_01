@@ -1,0 +1,253 @@
+line_num,line,bing_liu_score,n_tokens
+1,"This first line into seek him, one of those lines that's like line 19 or 18, into wish I lose a handkerchief.",0,26
+2,Where should I lose that handkerchief?,-1,7
+3,"Do you know, Syrah, where Lieutenant Cassio lies?",-1,11
+4,Seek him.,0,3
+5,"Bid him come hither, tell him I have moved my lord on his behalf, and hope all will be well.",1,23
+6,"Where should I lose that handkerchief, Amelia?",-1,9
+7,I know not that.,0,5
+8,"But my noble man is true of mind and made of no such baseness as jealous creatures are, if we're enough to put into ill thinking.",1,29
+9,Is he not jealous?,-1,5
+10,"Who, he?",0,4
+11,I think the son where he was born drew all such humors brought him.,0,15
+12,Look where he comes.,0,5
+13,I will not leave him now till,0,7
+14,"Well, my good lady, how do you, Mr.",2,12
+15,"Well, my good lord.",2,6
+16,"It yet hath felt no age, nor known no sorrow.",-1,12
+17,This argues fruitfulness and a liberal heart.,0,8
+18,"May indeed say so, which was that?",0,9
+19,hand that gave away my heart.,0,7
+20,A liberal hand.,0,4
+21,I cannot speak of this.,0,7
+22,Give me a promise.,1,5
+23,What promise?,1,3
+24,I have sent to bid Cassio come speak with you.,0,11
+25,I have a soft and solid room offends me.,2,10
+26,Lend me the handkerchief.,0,5
+27,That which I gave you.,0,6
+28,"Make it a darling, like your precious eye, to lose or to give it away with such perdition as nothing else could match.",2,26
+29,It's true.,0,4
+30,There's magic in the web of it.,1,9
+31,"A symbol that had numbered the world, the sun, to force two hundred compasses, in her prophetic fury, sowed the worm.",-1,26
+32,"The worms were hallowed, that degree of the silk, and it was dyed in mummy, which the skillful conserved of maiden's farms.",2,27
+33,"Faith, it's true.",1,6
+34,"Most veritable, therefore look to it well.",2,9
+35,Wherefore?,0,2
+36,Why do you speak so staryly of rash?,-1,9
+37,"I say, it is not lost.",-1,8
+38,"Why, so I can, sir, but I will not now.",0,14
+39,This is a trick.,-1,5
+40,To put me for my suit.,0,7
+41,I pray you let Cassio be received.,0,8
+42,"Best be the handkerchief, my mind is pale.",0,10
+43,"Come on, you'll never meet a more sufficient- The handkerchief.",0,13
+44,"I pray, talk me of Cassio.",0,8
+45,The handkerchief!,0,3
+46,"A man that all his time had founded his good fortunes on your love, shared dangers with you.",2,20
+47,The handkerchief!,0,3
+48,I never saw this before.,0,6
+49,"Sure, there is some wonder in this handkerchief.",1,10
+50,I am most unhappy in the loss of it.,-2,10
+51,It is not a year or two shows us a man.,0,12
+52,They are all but stomachs and eat all but food.,0,11
+53,"They eat us hungrily, and when they are full, they vouch us.",1,15
+54,"There is no delight, as she must do it.",1,11
+55,"But to know so must be my benefit, so shall I clothe me in a force content and shut myself up in some other course to fortune's arms.",2,31
+56,Alas!,0,2
+57,"Christ, gentle Cassio, my advocation is not now the tomb.",1,13
+58,My lord is not my lord.,0,7
+59,Nor should I know him.,0,6
+60,Are he in favor as if he were altered?,1,10
+61,So how the other spirit sanctifies.,0,7
+62,I have spoken for you all my best.,1,9
+63,Is my lord angry?,-1,5
+64,"He went hence, but now and certainly in strange unquietness.",-1,12
+65,"Something sure of state, either from Venice or some unhatched practice, made demonstrable here in Cyprus to him, hath puddled his clear spirit.",1,27
+66,"But jealous souls will not be answered, for they are not ever jealous for the cause, but jealous for their jealous.",-4,24
+67,"For heaven, you keep that monster from Othello's mind.",0,12
+68,Amen.,0,2
+69,I will go seek him.,0,6
+70,"Cassia, walk you here about.",0,7
+71,"If I do find him fit, I'll move your suit and seek to affect it to my other ones.",0,22
+72,that she loved me for the dangers I have passed.,1,11
+73,"And so I'm thinking about this term, danger.",-1,11
+74,She loved me for the dangers I have passed.,1,10
+75,"She didn't get to experience that with him, but her hearing about it, somehow that built",0,19
+76,infatuated.,0,2
+77,She loved me for the dangers I had passed.,1,10
+78,Where should I lose that handkerchief?,-1,7
+79,I know not.,0,4
+80,But my noble more is true of mind and made of no such baseness as jealous creatures are if were enough to put into ill thinking.,1,27
+81,Is he not jealous?,-1,5
+82,I think the son where he was born drew all such humors from him.,0,15
+83,Look where he comes.,0,5
+84,"It yet hath felt no age, nor known no sorrow.",-1,12
+85,"This argues fruitfulness, a liberal heart.",0,8
+86,You may indeed say so.,0,6
+87,It was that hand that gave away my heart.,0,10
+88,I cannot speak of this.,0,7
+89,I have said to bid Cassio come speak with you.,0,11
+90,I have a salt and sorry room offends me.,-1,10
+91,Lend me that handkerchief.,0,5
+92,"Yeah, no one.",0,5
+93,That's what I gave you.,0,7
+94,I have it not about me.,0,7
+95,"I did so, and take heed on't.",0,10
+96,"Make it a darling, like your precious eye, to lose, Tola, to give it away with such perdition as nothing else could match.",2,28
+97,It is possible.,0,4
+98,"Tis true, there's magic in the web of it.",1,12
+99,"A sybil that had numbered in the world the sun to course two hundred compasses, and her prophetic fury sowed the work.",0,24
+100,"The worms were hallowed that did breed the silk, and it was dyed in mummy, with the skillful conserve of maidens' hearts.",2,26
+101,Most fair it will therefore look to it.,1,9
+102,Wherefore?,0,2
+103,It's gone?,0,4
+104,"Heaven, bless us!",2,5
+105,"Fetch it, let me see.",0,7
+106,"Why so I can, sir, but I will not now.",0,13
+107,This is a trip to put me from my spirit.,0,11
+108,"Pray you, let Cassio be received again.",0,9
+109,"Fetch me the handkerchief, my mind is yours.",0,10
+110,"Oh, come, you'll never be the more sufficient.",1,12
+111,The handkerchief.,0,3
+112,"I pray, talk me of Cassio.",0,8
+113,The handkerchief.,0,3
+114,A man that all his time hath founded his good fortunes on your love.,2,15
+115,Share tinctures with you.,0,5
+116,The handkerchief.,0,3
+117,Why isn't I jealous?,-1,6
+118,I never saw this before.,0,6
+119,I'm sure there's some wonder in this anchorchip.,1,11
+120,I am most unhappy in the loss of it.,-2,10
+121,It is not a year or two shows us lamb.,0,11
+122,They are all but stomachs and we all but food.,0,11
+123,"They eat us hungrily and when they are full, they belch us.",0,14
+124,There is no other way she wants to do it.,0,11
+125,I am most happy in the loss of it.,0,10
+126,"Because just a little bit ago, she said, I wish I hadn't seen it.",0,18
+127,Now she's most unhappy in the loss of it.,-2,11
+128,"We took out, I'm glad I have found this napkin.",1,13
+129,This was her first remembrance from the war.,0,9
+130,"Come, come, you'll never meet a more sufficient man.",1,13
+131,"Come, come, come, you'll never meet a more sufficient man.",1,15
+132,Not handkerchief.,0,3
+133,"I pray, talk me of Cassius.",0,8
+134,Not handkerchief.,0,3
+135,"A man that all his time hath founded his good fortunes on your love, shared dangers with you.",2,20
+136,Not handkerchief!,0,3
+137,Is not this man jealous?,-1,6
+138,I never saw this before.,0,6
+139,"Sure, there's some wonder in this handkerchief.",1,10
+140,I am most unhappy in the loss of it.,-2,10
+141,"Tis not a year or two, shows us a man.",0,12
+142,"They are all but stomachs, and we all but food.",0,12
+143,"They eat us hungrily, and when they're full, they belch us.",0,15
+144,"Alas, nice, gentle Cassio, my application is not now tuned.",2,14
+145,"My lord is not my lord, nor should I know him, were he in favor as in humor altered.",2,22
+146,"So help me every spirit sanctified, as I have spoke for you all my best, and stood within the blank of his displeasure for my free speech.",1,30
+147,Is my lord angry?,-1,5
+148,"He went hence, but now, and certainly in strange unquietness.",-1,13
+149,"something sure of state, either from Venice or some unhatched practice may demonstrable here in Cyprus to him, hath puddled his clear spirit.",1,26
+150,"It happened to be state matters as you think, and no conception nor no jealous toy concerning you.",-1,20
+151,Bless the day.,1,4
+152,I never gave him cause.,0,6
+153,Jealous souls will not be answered so.,-1,8
+154,"They're not ever jealous for the cause, but jealous for they're jealous.",-3,16
+155,Heaven keep that monster from Othaya's mind.,0,9
+156,I will go seek him.,0,6
+157,"Cassio, talk hereabout.",0,5
+158,"If I do find him fit, I will move your suit and seek to be effective to my otherness.",1,21
+159,"There is no other way, because she must do it, and lo the happiness going into her.",1,20
+160,"She says, my lord is not my lord, nor should I know him were he in favor as a humor alter.",2,24
+161,Can ransom me into his love again.,1,8
+162,"But to know is kind of a new thought, and there's not enough of us to get a sense of where the thought's going yet, right?",2,31
+163,But to know is not quite enough.,1,8
+164,But to know so must be my benefit.,1,9
+165,Can ransom me into his love again?,1,8
+166,"I mean, his thought starts way up at, I would not be delayed.",-1,16
+167,"He says, I do beseech you that by your virtuous means I may again exist and be a member of his love.",1,24
+168,My application is not now in tune.,0,8
+169,That's another admonition.,-1,5
+170,Still within the blank of his displeasure.,-1,8
+171,Is my Lord angry?,-1,5
+172,"Why would he interject something that would cause, raise a further question.",0,14
+173,Men's hands wrangle with inferior things.,-2,8
+174,Though great ones are your object.,0,7
+175,Is my lord angry?,-1,5
+176,"He went hence by now, and certainly in strange unquietness.",-1,12
+177,"Something sure of state, either from Venice or some unhatched practice made demonstrable here in Cyprus, to him have puddled his clear spirit.",1,26
+178,"""'Tis even so, for let our finger ache, ""'and it indues our other healthful members ""'even to that sense of pain.",-1,28
+179,"""'Nay, we must not think that men are.",0,11
+180,"""'Nay, we must think men are not gods, ""'nor of them look for such observancy ""'as fits the bridle.",0,25
+181,"""'I'm a handsome warrior that I am,",1,11
+182,"arraigning his unkindness with my soul, but now I find that I have suborned the witness, and he's indicted falsely.",-1,24
+183,"Pray, heaven of me, state matters as you think, and no conception or no jealous toy concerning you.",0,22
+184,Bless the day I never gave him cause.,1,9
+185,"The jealous souls will not be answered, so they're not ever jealous for the cause, but jealous for their jealous.",-4,24
+186,Heaven keep that monster from the tiger's mind.,0,10
+187,"How do you feel about losing, because even so, when they're up in your day, and you didn't use other helpful members, even in the sense of pain?",-1,35
+188,I arraigned his unkindness with my soul.,0,8
+189,Unhandsome warrior as I am.,0,6
+190,"unhandsome warrior that I am, arraigning his unkindness with your soul, but now I find I had suborned the witness, and he's indicted falsely.",-1,29
+191,"Pray heaven it be stayed not as, as you think, and no conception nor no jealous to what concern you.",-1,23
+192,I never made a cause.,0,6
+193,"Jealous souls will not be answered, sir.",-1,9
+194,"They are not ever jealous for the cause, but jealous for their jealous.",-3,15
+195,"It is a monster, the God upon himself, born on himself.",-1,14
+196,I will go seek him.,0,6
+197,"Cassio, walk here about.",0,6
+198,"If I do find him fit, move your suit and seek to affect it to my uttermost.",0,19
+199,"Alas, today, I never gave him cause.",0,10
+200,I'm privy to do so.,0,7
+201,"Something sure of state, either from Venice, or some unhatched practice made demonstrable here in Cyprus to him, that puddled his pure spirit.",1,27
+202,"Pray heaven to be state matters as you think, and no conception nor no jealous toy concerning you.",0,20
+203,What was the day?,0,5
+204,I never gave him cause.,0,6
+205,But jealous souls will not be answered so.,-1,9
+206,"They're not ever jealous for the cause, but jealous for their jealous.",-3,15
+207,"Save you, friend Cassio.",0,6
+208,Ugh.,-1,2
+209,What make you from home?,0,6
+210,"How is it with you, my most fair Bianca?",1,11
+211,"If a sweet lover, I was coming to your house.",2,12
+212,"And I was going to your lodging, Cassio.",0,10
+213,What kept a week away?,0,6
+214,"Seven days and nights, eight score, eight hours, and lovers' absent hours more tedious than a dial eight score times.",-1,25
+215,"Oh, Cassio, whence came this?",0,8
+216,This is some token from a newer friend.,0,9
+217,To the felt absent now I feel a cause.,0,10
+218,It's come to this.,0,6
+219,"Well, well.",2,4
+220,"Ah, go to, woman.",0,7
+221,Throw your vile guesses in the devil's teeth from whence you have them.,-2,15
+222,"No, by my faith, Bianca.",1,8
+223,Why?,0,2
+224,Whose is it?,0,4
+225,I know neither.,0,4
+226,I found it in my chamber.,0,7
+227,"I like the work well, ere it be demanded, as like enough it will, I'd have it copied.",5,23
+228,Take it.,0,3
+229,Leave you?,0,3
+230,Wherefore?,0,2
+231,"I do attend here on the general, and they get no audition or my wish to have him seeming woman.",0,22
+232,"Why, I pray you— Not that I love you not.",1,12
+233,But that you do not love me.,1,8
+234,"I pray you bring me on this way a little, and say, if I shall see you soon at night— Tis but a little way that I can bring you, for I attend here, but I'll see you soon.",0,45
+235,Tis very good.,1,4
+236,Do we think it's true that he doesn't know whose handkerchief this is?,0,16
+237,"I was going to your lodging, Casio.",0,9
+238,"I was going to your lodging, Cassio.",0,9
+239,Whence came this?,0,4
+240,This is some token from a newer friend.,0,9
+241,"No, by my faith, Bianca.",1,8
+242,I visit.,0,3
+243,I know not neither.,0,5
+244,I found it in my chamber.,0,7
+245,I do attend here on the general.,0,8
+246,"And I think in audition, I wish to have him see me womaned.",0,15
+247,I like that.,1,4
+248,"You know, let the devil and his damn haunt you.",-3,12
+249,What you mean by that same handkerchief you gave me.,0,11
+250,I was a fine fool to take it.,0,9
+251,What do you mean by this haunting of me?,-1,10
+252,What do you mean by this haunting of me?,-1,10

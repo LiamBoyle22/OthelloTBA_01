@@ -1,0 +1,476 @@
+line_num,line,bing_liu_score,n_tokens
+1,"I take it much unkindly that thou, Iago, who hast had my purse, as if the strings were thine, shouldst know of this.",-1,28
+2,"It's blood, but you'll not hear me if ever I did dream of such a matter of worry.",-1,22
+3,Thou toldst me that thou couldst hold him in thy hate.,-1,12
+4,And what was he?,0,5
+5,"And I, of whom his eyes had seen the proof, at Rhodes, at Cyprus, and on other grounds, Christian and heathen, must be believed and calmed by debtor and creditor.",-1,37
+6,"Bless the mark, his worship's ancient.",1,9
+7,"By heaven, I rather would have been his hangman.",1,11
+8,"Why, there's no remedy to the curse of service.",0,12
+9,"I would not follow him, then.",0,8
+10,"Oh, sir, continue.",0,6
+11,I follow him to serve my turn upon him.,0,10
+12,"cannot all be masters, nor all masters cannot be truly followed.",2,15
+13,"You shall mark many a duteous and knee-crooking knave that, doting on his own obsequious",-1,16
+14,"It is as sure as you are Rodrigo, or either more I would not be Iago.",0,18
+15,"And following him, I follow but myself.",0,9
+16,"Heaven is my judge, not I for love and duty, but seeming so for my peculiar end.",1,20
+17,"For when my outward action doth demonstrate the native act and figure of my heart in compliment extern, tis not long after that I will be well.",2,29
+18,Call up her father.,0,5
+19,Proclaim him in the streets.,0,6
+20,"joy be joy, yet throw such changes of vexation on as he may lose some color.",0,18
+21,"Do, with like timorous accent and dire yell as when by night and negligence the fire is spied in populous cities.",-1,23
+22,What ho!,0,3
+23,"Brabantio, senor Brabantio, ho!",0,7
+24,"Awake, what ho, Brabantio.",0,7
+25,"Thieves, thieves, thieves.",0,6
+26,"Look to your house, your daughter,",0,8
+27,What is the matter there?,0,6
+28,"Senor, is all your family within?",0,8
+29,Are your doors locked?,0,5
+30,Wherefore ask you this?,0,5
+31,You have lost half your soul.,-1,7
+32,"Even now, now, very now, an old black ram is toughing your white hue.",0,18
+33,"Arise, arise.",0,4
+34,"Awake the snorting citizens with the bell, or else the devil will make a grandsire of you.",-1,19
+35,"Arise, I say.",0,5
+36,What?,0,2
+37,Have you lost your wits?,-1,6
+38,"Most reverend, senor.",0,5
+39,Do you know my voice?,0,6
+40,Not I.,0,3
+41,What are you?,0,4
+42,My name is Rodrigo.,0,5
+43,The worser welcome.,1,4
+44,I have charged thee not to haunt about my doors.,-1,11
+45,"In honest plainness thou hast heard me say, my daughter is not for thee.",1,16
+46,"Now in madness, being full of supper and distempery drafts upon malicious bravery, dost thou come to start my quiet?",0,23
+47,"Sir, sir, sir, thou must needs be sure my spirit and my place have in them power to make this bitter to thee.",-1,27
+48,"Patience, good sir.",2,5
+49,Book tells me of robbing.,0,6
+50,This is Venice.,0,4
+51,My house is not but the grave.,0,8
+52,"Most grave, Brabantio.",0,5
+53,In simple and pure soul I come to you.,1,10
+54,"Because we come to do you service and you think we are ruffians, you'll have your daughter covered with a barbary horse.",0,25
+55,You'll have nephews neigh to you.,0,8
+56,You'll have coursers for cousins and jennets for Germans.,0,11
+57,What profane wretch art thou?,-2,6
+58,"I want, sir, that comes to tell you your daughter and the moor are now making a piece with two backs.",0,24
+59,Thou art the villain.,0,5
+60,You are a senator.,0,5
+61,This thou shalt answer.,0,5
+62,"I know thee, Rodrigo.",0,6
+63,"But if you know not this, my manners tell me we have your wrong rebuke.",-2,17
+64,Do not believe that from the sense of all civility I thus would play and trifle with your reverence.,2,20
+65,her chamber or your house.,0,6
+66,Let loose on me the justice of the state for thus deluding you.,-1,14
+67,"Strike on the tinder, ho.",-1,7
+68,Give me a taper.,0,5
+69,Call up my people.,0,5
+70,This accident is not unlike my dream.,0,8
+71,Belief of it oppresses me,0,5
+72,"Though I do hate him as I do hell pains, yet for necessity of present life I must show out a flag and sign of love, which is indeed but a sign.",-2,35
+73,It is too true and evil.,-1,7
+74,And what's to come of my despised time is lot but bitterness.,-2,14
+75,"Now, Rodrigo, where didst thou see her, O unhappy girl?",-1,14
+76,"With the moor, says thou.",0,7
+77,Who would be a father?,0,6
+78,How didst thou know it was she?,0,8
+79,"Though she deceives me past thought,",0,7
+80,What said she to you?,0,6
+81,"Get more tapers, raise all my kindred.",0,9
+82,"Are they married, think you?",0,7
+83,"Truly, I think they are.",0,7
+84,"Oh, heaven, how got she out?",1,9
+85,"Oh, treason of the blood.",-1,7
+86,"Fathers, from hence trust not your daughters' minds by what you see them act.",1,17
+87,"Yes, sir, I have indeed.",0,8
+88,where we may apprehend her and the more?,0,9
+89,"I think I can discover him, if you please, to get good guard and go along with me.",1,21
+90,Pray you lead on.,1,5
+91,"At every house I'll call, I may command at most.",0,13
+92,Get weapons!,0,3
+93,"Oh, and raise some special officers of the night.",0,11
+94,"On good, Rodrigo.",1,5
+95,I'll deserve your pains.,-1,6
+96,"Though in the trade of war I have slain men, yet do I hold it very stiff of the conscience to do no contrived murder.",-3,27
+97,Nine or ten times I had thought to have Yurkton there under the ribs.,0,15
+98,Tis a better riff it is.,1,7
+99,Let him do his spite.,-1,6
+100,"My services, which I have done the signory, shall outtongue his complaints.",-1,15
+101,"For know, Iago, but that I love the gentle Desdemona, I would not my unhoused free condition put into circumscription and confine for the sea's worth.",4,31
+102,"But look, what lights come yond.",0,8
+103,"So the raised father and his friends, you were best to go in.",1,15
+104,Not I.,0,3
+105,I must be found.,0,5
+106,"My parts, my title, and my perfect soul shall manifest to me rightly.",2,16
+107,Is it they?,0,4
+108,"Janus, I think no.",0,6
+109,The servants of the Duke?,0,6
+110,And my lieutenant?,0,4
+111,"The goodness of the night upon you, friends.",1,10
+112,What is the news?,0,5
+113,"The Duke does greet you, General, and he requires your haste-post-haste appearance, even on the instant.",0,20
+114,"Something from Cyprus, as I may divine.",1,9
+115,It is a business of some heat.,0,8
+116,"You have been hotly called for when, being not at your lodging to be found, the Senate hath sent about three several quests to search you out.",0,30
+117,It is well I am found by you.,1,9
+118,I will but spend a word here in the house and go with you.,0,15
+119,Ancient?,0,2
+120,What makes he here?,0,5
+121,"Faith, he tonight hath boarded a land carrick.",1,10
+122,"If it proved lawful prize, he's made forever.",2,11
+123,I do not understand.,0,5
+124,He's married.,0,4
+125,To whom?,0,3
+126,"Barry, to...",0,4
+127,"Come, Captain, will you go?",0,8
+128,"Ha, with you.",0,5
+129,Here comes another truth to seek for you.,0,9
+130,"Signor, it is the moron.",-1,7
+131,"Down with him, thief.",0,6
+132,"You, Rodrigo.",0,4
+133,"Keep up your bright swords, for the dew will rust them.",0,13
+134,"Good senor, you shall more command with years than with your weapons.",1,14
+135,Where hast thou stowed my daughter?,0,7
+136,Is thou art?,0,4
+137,Thou hast enchanted her.,1,5
+138,"For I'll refer me to all things of sense if she, in chains of magic, were not bound.",1,22
+139,"therefore apprehend, and do attach thee for an abuser of the world.",0,14
+140,"Hold your hands, both you of my inclining and the rest.",0,13
+141,What if I do obey?,0,6
+142,"How may the Duke be therewith satisfied, whose messengers are here about my side upon some present business of the state to bring thee to him?",1,28
+143,The duke in council?,0,5
+144,In this time of the night?,0,7
+145,Mine's not an idle cause.,-1,7
+146,The duke himself or any of my brothers of the state cannot but feel this wrong as toward their own.,-1,22
+147,"For if such actions may have passage free, bond slaves and pagans shall our statesmen be.",0,18
+148,There is no composition in these news that gives them credit.,0,12
+149,"Indeed, they are disproportioned.",0,6
+150,"In my letters say, 107 galleys, and mine 140, and mine 200.",0,16
+151,But though they jump not on a just account,0,9
+152,"Nay, if it's possible enough to judgment, I do not so secure me in the error, but the main article I do approve in fearful sense.",1,31
+153,A message from the galleys.,0,6
+154,"Now, what's the business?",0,7
+155,Turkish preparation makes for roads.,0,6
+156,So was I bid report here to the state by senior Angelo.,0,13
+157,I'll say you by this change.,0,8
+158,"The Ottomites, reverend and gracious, steering with due course toward the Isle of Rhodes, have therein jointed with an after fleet.",1,25
+159,"Aye, so I thought.",0,6
+160,How many has you guessed?,0,6
+161,"A thirty sail, and now they do re-stem their backward course, bearing the frank appearance, their purpose toward Cyprus.",-1,23
+162,"Senior Montano, your trusty and most valiant servitor, with his free duty, recommends you thus and prays you to relieve him.",3,25
+163,Tis certain,0,2
+164,Write from us to him.,0,6
+165,"Post, post haste.",-1,5
+166,Dispatch.,0,2
+167,Here comes Brabantio in the valiant Moor.,1,8
+168,"Valiant Othello, we must straight employ you against the general enemy Ottoman.",0,14
+169,I did not see you.,0,6
+170,"Welcome, gentle senior.",2,5
+171,We lacked your counsel and your help tonight.,-1,9
+172,"So did I yours, would your grace.",1,9
+173,"For my particular grief is of so floodgate and ore-bearing nature that it engluts and swallows all other sorrows, and it is still itself.",-1,26
+174,"Why, what's the matter?",0,7
+175,stolen from me and corrupted by spells and medicines bought of mountain banks.,-2,14
+176,"For nature so preposterously to err, beating not deficient, blind or lame of sense, sans witchcraft, sans witchcraft,",-5,23
+177,Humbly I thank your grace.,2,6
+178,Here is the man this moored,0,6
+179,whom now it seems your special mandate for the state affairs hath hither brought.,0,15
+180,We are very sorry for it.,-1,7
+181,What in your own part can you say to this?,0,11
+182,"Nothing, but this is so.",0,7
+183,Stood in your action.,0,5
+184,"Oh, no.",0,4
+185,"Sorry, yep.",-1,4
+186,"More than pertains to feats of broil and battle, and therefore little shall I grace my cause in speaking for myself.",1,23
+187,"A maiden, never bold.",0,6
+188,so still and quiet that her motion blushed at herself.,1,11
+189,"And she, in spite of nature, of years, of country, credit, everything, to fall in love with what she feared to look on?",-1,30
+190,It is a judgment maimed.,0,6
+191,"against all rules of nature, and must be driven to find out practices of cunning hell, why this should be.",-1,23
+192,"I therefore vouch again that with some mixtures, powerful o'er the blood, or with some dram conjured to this effect, he wrought upon her.",1,28
+193,"Did you, by indirect and forcid courses, subdue and poison this young maid's affections?",-1,18
+194,Or came it by request in such fair question as soul to soul affordeth?,1,15
+195,I do beseech you.,-1,5
+196,"Send for the lady to the Sagittarius, and let her speak of me before her father.",0,18
+197,"Ancient, conductive, you best know the place.",1,10
+198,"From year to year, the battles, sieges, fortunes that I had passed.",0,16
+199,"She swore in faith t'was strange, t'was passing strange, t'was pitiful, t'was wondrous pitiful.",-2,18
+200,"She wished she had not heard it, yet she wished that heaven had made her such a man.",1,20
+201,"She thanked me, and bade me if I had a friend that loved her, I should but teach him how to tell my story, and that would woo her.",2,33
+202,Upon this hint I spake.,0,6
+203,"She loved me for the dangers I had passed, and I loved her that she did pity them.",1,20
+204,This only is the witchcraft I have used.,0,9
+205,Let her witness it.,0,5
+206,"I think this tale would win my daughter, too.",1,11
+207,"Good provascio, take up this mangled matter at the best.",1,12
+208,Men do their broken weapons rather use than their bare hands.,-1,12
+209,"I pray you, hear her speak.",0,8
+210,"If she confess that she was half the wooer, destruction on my head.",-2,15
+211,"Chancellor mistress, do you perceive in all this noble company where most you owe obedience?",0,17
+212,"My noble father, I do perceive here a divided duty.",1,12
+213,"To you, I am bound for life and education.",0,11
+214,I am hitherto your daughter.,0,6
+215,"And so much duty as my mother showed to you, preferring you before her father, so much I challenge that I may profess due to the moor, my lord.",1,33
+216,God be with you.,0,5
+217,I am done.,0,4
+218,"Please, your grace, on to the state affairs.",1,11
+219,I'd rather adopt a child than get it.,0,10
+220,"Come hither, morn.",0,5
+221,For thy escape would teach me tyranny to hang clogs on them.,-3,13
+222,"Let me speak like yourself in the last sentence, which as a grace or death may",1,17
+223,that is past and gone is the next way to draw new mischief on.,-1,15
+224,"What cannot be preserved when fortune takes, patience or injury a mockery makes.",0,16
+225,The rob that smiles steals something from the thief.,0,10
+226,He robs himself that spends a bootless grief.,-1,9
+227,So let the Turk of Cyprus us beguile.,-1,9
+228,We lose it not so long as we can smile.,0,11
+229,He bears the sentence well that nothing bears but the free comfort which from then he hears.,3,18
+230,But he bears both the sentence and the sorrow that to pay brief must of poor patience borrow.,-1,19
+231,These sentences,0,2
+232,"Being strong on both sides are equivocal, but words are words.",0,13
+233,"I humbly beseech you, proceed to the affairs",-1,9
+234,You must therefore be content to slumber the gloss of your new fortune.,1,14
+235,"The tyrant custom, most grave senators, have made the flinty and steel couch of war my thrice driven better down.",0,23
+236,I do have knives of natural and prompt alacrity I find in hardness and do undertake this present war against the Ottomites.,1,23
+237,"Most gracious duke, to my unfolding, lend your prosperous ear and let me find a tartar in your voice to assist my simpleness.",2,26
+238,What would you have at the moment?,0,8
+239,That I did love the more to live with him.,1,11
+240,My downright violence and storm of fortunes made trumpet to the world.,1,13
+241,I saw Othello's visage in his mind.,0,9
+242,Let her have your voice.,0,6
+243,And heaven defend your good souls that you think I will your serious and great business scant when she is with me.,2,23
+244,make head against my estimation.,0,6
+245,"Be it as you shall privately determine, either for a stay or going, the fair cries haste and speed must answer it.",0,25
+246,He must away tonight.,0,5
+247,"Tonight, my lord?",0,5
+248,This night.,0,3
+249,9 in the morning here we'll meet again.,0,10
+250,"Othello, leave some officer behind, and he shall our commission bring to you, and such things else of quality and respect as doth import you.",1,29
+251,"So please your grace, my agent.",1,8
+252,He is a man of honesty and trust.,2,9
+253,To his conveyance I assign my wife.,0,8
+254,With what else needful your good grace shall think to be sent after me.,2,15
+255,Let it be so.,0,5
+256,Good night to everyone.,1,5
+257,"If thou hast eyes to see, she has deceived her father.",0,13
+258,My life upon her faith.,1,6
+259,"Honest, Iago, my Desdemona must I lead to thee.",2,12
+260,"I pray thee, let thy wife attend on her and bring them after in the best advantage.",2,19
+261,"Come, Desdemona, I have but an hour of love, of worldly matter and direction to spend with thee.",1,22
+262,We must obey the time.,0,6
+263,"Iago, what say'st thou, noble heart?",1,9
+264,What will I do with these things?,0,8
+265,"Why, go to bed and sleep.",0,8
+266,I will incontinently drown myself.,0,6
+267,It is silliness to live when to live is torment.,-1,11
+268,And then have we a prescription to die when death is our physician?,-2,14
+269,"Ere I would say I would drown myself for the love of a guinea, and I would change my humanity with a baboon.",1,25
+270,"I confess it is my shame to be so fond, but it is not in my virtue to amend it.",0,22
+271,It is in ourselves that we are thus or thus.,0,11
+272,"If the balance of our lives had not one scale of reason to poise another of sensuality, the blood and baseness of our natures would conduct us to the most",1,31
+273,"But we have reason to cool our raging motions, our carnal stings, our unbidden lusts.",0,18
+274,Where have I take this that you call love to be a set or sign?,1,16
+275,It cannot be.,0,5
+276,It is merely a lust of the blood and permission of the will.,0,14
+277,It was a violent commencement in her.,-1,8
+278,And thou shalt see an answerable sequestration.,0,8
+279,Put money in thy purse.,0,6
+280,The food that to him now is as luscious as locusts shall be to him shortly as colon contida.,0,20
+281,She must change for youth.,0,6
+282,make all the money thou canst.,0,7
+283,"If sanctimony and a frail vow betwixt an erring barbarian and a super-subtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her.",-3,33
+284,Therefore make money.,0,4
+285,a pox of drowning thyself.,-1,6
+286,It is clean out of the way.,1,8
+287,"Seek thou rather to be hanged, encompassing thy joy, than to be drowned and go without her.",1,20
+288,"Wilt thou be fast to my hopes, if I depend on the issue?",-1,15
+289,"I have told thee often, and I retell thee again.",0,12
+290,"If thou canst cuckle them, thou dost thyself the pleasure be a sport.",1,15
+291,There are many events in the womb of time which will be delivered.,0,14
+292,"Traverse, go.",0,4
+293,Provide thy money.,0,4
+294,We will have of this tomorrow.,0,7
+295,Adieu.,0,2
+296,Where shall we meet in the morning?,0,8
+297,I have my lodging.,0,5
+298,I'll be with you at times.,0,8
+299,Go to.,0,3
+300,Farewell.,0,2
+301,"Do you hear, Rodrigo?",0,6
+302,What say you?,0,4
+303,"No more of drowning, do you hear?",-1,9
+304,I'm changed.,0,4
+305,I'll sell all my land.,0,7
+306,Don't be very well put money enough in your purse.,2,12
+307,Thus do I ever make my fool my purse.,-1,10
+308,For I mine own gained knowledge should profane if I would time expend to this night.,0,17
+309,But I for mere suspicion in that kind will do as if for surety.,-1,15
+310,The better shall my purpose work on him.,2,9
+311,Cassio is a proper man.,1,6
+312,"The more is of a free and open nature that thinks men honest, but that seem to be so.",2,21
+313,The will is tenderly be led by the nose,2,9
+314,I have it.,0,4
+315,It is engendered.,0,4
+316,Hell and night must bring this monster's birth to the world's light.,-2,15
+317,What from the Cape can descend at sea?,0,9
+318,Nothing at all.,0,4
+319,"There is a high, rough flood.",-1,8
+320,I cannot twixt the heaven in the main to cry a sail.,0,14
+321,"Methinks the wind has spoke loud at land, a fuller blast never shook out battlements.",-1,17
+322,"If it had ruffian so upon the sea, what ribs of oak when mountains melt on them?",-1,19
+323,What shall we hear of this?,0,7
+324,segregation of the Turkish fleet.,0,6
+325,I never did like molestation view on the enchafed flood.,0,11
+326,Is that the,0,3
+327,"is commensure, the Moor himself at sea, and is in full commission here for Cyprus.",0,18
+328,Tis a worthy governor.,1,5
+329,"But this same Cassiel, though he speak of comfort touching the Turkish laws, yet he looks sadly and prays the Moor be safe, for they were parted with foul and violent tempest.",-2,36
+330,Even did we make the main and the aerial blue an indistinct regard.,1,14
+331,"Come, let's do so.",0,7
+332,For every minute is expectancy of more arrivals.,0,9
+333,"is stoutly timbered, and is pilot of very expert and approved allowance.",0,14
+334,"Therefore my hopes, not surfeited to death, stand in bold cure.",0,14
+335,"A sail, a sail, a sail.",0,9
+336,But Noyes?,0,3
+337,The town is empty.,0,5
+338,"On the brow of the sea stand ranks of people, and they cry a sail.",-1,17
+339,But my hopes do shape him for the governor.,0,10
+340,"I pray you, sir, go forth and give us truth who tis that is arrived.",0,18
+341,"I pray you, sir, go forth and give us truth who tis that has arrived.",0,18
+342,The good temple is your general wife?,1,8
+343,"How now, who's the kid?",0,8
+344,"Tis one Iago, ancient to the general.",0,9
+345,He's had most favorable in happy speed.,2,9
+346,"The tempests themselves, high seas and howling winds,",0,10
+347,"and swell his sail with thine own powerful breath, that he may bless this bay with his whole ship.",2,21
+348,"Make love's quick pants in Desdemona's arms, give renewed fire to our extinct spirits, and bring all Cyprus comfort.",3,24
+349,"Oh, behold, the riches of this ship is come on shore.",0,14
+350,"You men of Cyprus, let her have your knees.",0,11
+351,"Hail to thee, lady, and the grace of heaven before battle.",3,14
+352,Behind thee and on every hand in wheel thee round.,0,11
+353,"I thank you, Helion.",1,6
+354,"Cassio, what tidings can you tell me of my lord?",0,12
+355,"He is not yet arrived, nor know I ought, but that he's well and will be shortly here.",1,22
+356,"Oh, I fear.",-1,5
+357,How lost you company?,-1,5
+358,The great contention of the sea and sky is part of our fellowship.,0,14
+359,"But hark, sail.",0,5
+360,They give their greeting to the citadel.,0,8
+361,This likewise is a friend.,0,6
+362,See for the news.,0,5
+363,"Welcome, mistress.",0,4
+364,"Sir, would she give you so much of her lips as of her tongue she oft bestows on me?",0,21
+365,You'd have enough.,1,5
+366,"Alas, she has no speech.",0,7
+367,And faith too much.,1,5
+368,"Mary, before your ladyship I grant, she puts her tongue a little in her heart and chides with thinking.",0,22
+369,You have little cause to say so.,0,8
+370,"Come on, come on, you are pictures out of doors.",0,13
+371,"Bells in your parlors, wildcats in your kitchen, saints in your injuries, devils being offended, players in your housewivery, and housewives in your beds.",0,30
+372,"Fire upon me, slanderer!",-1,6
+373,"Nay, it is true, or else I would turk.",0,12
+374,You rise to play and go to bed to work.,1,11
+375,You shall not write my phrase.,0,7
+376,"No, let me not.",0,6
+377,"What wouldst thou write of me, if thou shouldst praise me?",1,13
+378,"O gentlelady, do not put me to it, for I am nothing if not critical.",-1,18
+379,"Come on, assay.",0,5
+380,There's one gone to the harbor.,0,8
+381,"Aye, madam.",0,4
+382,"I am not married, but I do beguile the thing I am by seeming otherwise.",-1,17
+383,"Come, thou wouldst thou praise me.",1,8
+384,"I am about it, but indeed my invention comes from my paint as a bird line does from freeze.",-1,21
+385,"It plucks out brains and all, but my news labors and thus she is delivered.",0,17
+386,"If she be fair and wise, fairness and wit, the ones for use, the other uses it.",3,21
+387,Well praised.,1,3
+388,How would she be black and weighty?,0,8
+389,"If she be black and thereto have a wit, she'll find a white that shall her blackness fit.",0,21
+390,Worse and worse.,-2,4
+391,How fair and foolish.,0,5
+392,"She never yet was foolish that was fair, for even her folly held her to an heir.",0,19
+393,These are all fond paradoxes to make fools laugh at the alehouse.,1,13
+394,"There's none so foul and foolish thereunto, but does foul pranks which fair and wise ones too.",-1,20
+395,O heavy ignorance!,-1,4
+396,Thou praisest the worst best!,0,6
+397,"But what praise couldst thou bestow on a deserving woman indeed, one that in the authority of her merit did justly put on the velch of very malice itself?",3,31
+398,"She that was ever fair and never proud, had tongue at will, and yet was never loud, never lacked gold, and yet went never gay, fled from her wish, and yet said, now I may.",1,43
+399,"She was a white, if ever such whites were.",0,11
+400,To do what?,0,4
+401,To suckle fools and chronicle small men.,0,8
+402,Most lame and impotent conclusion!,-2,6
+403,"Do not learn of him, Amelia, though he be thy husband.",0,14
+404,"How say you, Cassio, is he not a most profane and liberal counselor?",-1,16
+405,"If tricks as these strip you out of your lieutenantry, is that right?",1,15
+406,"It had been better you had not kissed your three fingers so oft, which now again you are most aptly to play the sir in.",1,27
+407,"And again, your fingers to your lips?",0,9
+408,What if they were clusterfights for your sake?,0,9
+409,The more I know is true.,0,7
+410,It is truly so.,0,5
+411,Let's meet him and receive him.,0,8
+412,"Lo, where he comes?",0,6
+413,O my fair warrior.,1,5
+414,My dear Othello.,0,4
+415,It gives me wonder great is my content to see you here before me.,2,15
+416,"The heavens forbid, but that our loves and comforts should increase even as our days do grow.",0,19
+417,Amen to that sweet palace.,1,6
+418,I cannot speak enough of this content.,1,9
+419,It stops me.,0,4
+420,"And this, the greatest discourse be, that e'er our hearts shall make.",1,15
+421,I'll set down the pegs that make this music as honest as I am.,1,16
+422,"Come, let us to the castle.",0,8
+423,"News, friends, our wars are done, the Turks are drowned.",0,14
+424,How does my old acquaintance of this isle?,0,9
+425,"Honey, you shall be well desired in Cyprus.",1,10
+426,I have found great love amongst them.,2,8
+427,Bring thou the master to the citadel.,1,8
+428,"He is a good one, and his worthiness does challenge much respect.",3,14
+429,"Come, Desdemona.",0,4
+430,"Once more, well met at Cyprus.",1,8
+431,Do thou meet me presently at the harbor?,0,9
+432,"If thou beest valiant, as they say, base men, being in love, have been a nobility in their natures more than is native to them.",2,30
+433,Testimonow is directly in love with him.,1,8
+434,Which is not possible.,0,5
+435,"Mark me with what violence she first loved more, but for bragging and telling her fantastical lies.",0,19
+436,And will she love him still for praying?,1,9
+437,And what delight shall she have to look on the devil?,0,12
+438,"When the blood is made dull with the act of sport, there should be again to inflame it.",-2,20
+439,"Now, for want of these required conveniences, her delicate tenderness will find itself abused, begin to heave the gorge, disrelish, and abhor the moor.",-1,30
+440,Very nature will instruct her in it and compel her to some second choice.,0,15
+441,"Now, sir, this granted, as it is",0,10
+442,as Cassio does.,0,4
+443,"A knave very voluble, no farther consumable than in putting on the mere form of civil and humane seeming for the better compassing of his salt and most hidden loose affection.",1,33
+444,Why none?,0,3
+445,Why none?,0,3
+446,"A slipper and subtle knave, a fine round of occasions that has an eye, can stamp at counterfeit advantages, though true advantage never present itself.",2,29
+447,A devilish name.,-1,4
+448,"Besides, the name is handsome, young, and hath all those requisites in him that folly and green minds look after.",1,24
+449,"A pestilent, complete name, and the woman hath found him already.",-1,14
+450,She's full of most blessed condition.,0,8
+451,Didst thou not see her paddle with the palm of his hand?,0,13
+452,Didst thou mark that?,0,5
+453,"Yes, that I did, but that was but courtesy.",0,12
+454,"Lechery by this hand, an index, an obscure prologue to the history of lust and foul thoughts.",-3,20
+455,They met so near with their lips that their breaths embraced together.,0,13
+456,I have brought you from Venice.,0,7
+457,"For the command, I'll let upon you.",0,10
+458,Cassio knows you not.,0,5
+459,I'll not be far from you.,0,8
+460,"Do you find some occasion to anger Cassio, either by speaking too loud or tainting his discipline, or from what other course you please, which the time shall more feverably minister?",-2,35
+461,"Provoke him that way, for even out of that will I cause these of Cyprus to mute me, whose qualification shall come into no true trust again but by the displanting of Cassio.",0,36
+462,So shall you have a shorter journey to your desires.,0,11
+463,"by the means I shall then have to prefer them and the impediment most profitably removed, without the which there were no expectation of our prosperity.",1,28
+464,I will do this if you can bring it to any opportunity.,0,13
+465,"I'll warn thee, meet me by and by the citadel.",0,13
+466,I must fetch his necessaries,0,5
+467,"Now I do love her too, not out of absolute lust, though peradventure I stand accounting for as great a sin.",1,24
+468,"Partly led to my diet, my revenge, for that I do suspect the lusty more hath",-1,18
+469,"Leaped into my seat, the thought whereof to, like a poisonous mineral, gnaw my inwards.",0,19
+470,And nothing can or shall content my soul till I evened with him life or life.,0,17
+471,"Or failing so, yet that I put the more at least into a jealousy so strong that judgment cannot cure.",0,23
+472,"Which thing to do if this poor trash of Venice, who I trash for his quick hunting, stand the putting on?",-3,24
+473,"Make the moor thank me, love me, and reward me for making him egregiously an ass, and practicing upon his peace and quiet even to madness.",3,30
+474,So much was his pleasure should be proclaimed.,1,9
+475,"All offices are open, and there is full liberty of feasting from the present hour of five till the bell have tolled 11.",1,25

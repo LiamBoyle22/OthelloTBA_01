@@ -1,0 +1,62 @@
+line_num,line,bing_liu_score,n_tokens
+1,Was not that Cassio that parted from my wife?,0,10
+2,"Cassio, my lord.",0,5
+3,"No, sure, I cannot think of that, that he would steal away so guilty like seeing you coming.",-1,23
+4,"Oh, come now, my lord.",0,8
+5,"I have been talking with a suitor here, a man that languishes in your displeasure.",-1,17
+6,Who wished you mean?,0,5
+7,"Why is Lieutenant Cassio good, my lord?",1,9
+8,It shall be shortly.,0,5
+9,The sooner sweet for you.,1,6
+10,It shall be tonight at supper.,0,7
+11,"No, not tonight.",0,5
+12,"Tomorrow, dinner then.",0,5
+13,I shall not dine at home.,0,7
+14,I meet the captains at the Citadel.,0,8
+15,"Oh, when then tomorrow, night or Tuesday morn?",0,11
+16,On Tuesday afternoon or night on Wednesday morn?,0,9
+17,"I prove you name the time, but let it not",0,11
+18,I will deny thee nothing.,-1,6
+19,We're on.,0,4
+20,I do beseech thee.,-1,5
+21,Grant me this.,0,4
+22,TO LEAVE ME BUT A LITTLE TO MYSELF.,0,9
+23,"SHALL I DENY YOU NO FAREWELL, MY LORD.",-1,10
+24,"Excellent wretch, perdition gets my soul.",0,8
+25,"But I do love thee, and when I love thee not, chaos has come again.",1,18
+26,He looks gentler than he did.,0,7
+27,He says he will return in conference and have commanded me to go to bed and made me to dismiss you.,0,22
+28,Dismiss me?,0,3
+29,We must not now displease him.,-1,7
+30,I would you had never seen him.,0,8
+31,So would not I.,0,5
+32,"My love doth so approve him, that even his stubbornness, his checks, his frowns, pretty and many, have grace and favor in him.",4,29
+33,I've laid those sheets you bade me on the bed.,0,12
+34,"Good thing, how foolish are our minds.",0,9
+35,"If I do die before thee, put thee, shrug me in one of those same sheets.",-2,19
+36,"Come, come, you talk.",0,7
+37,My mother had a maid called Barbary.,0,8
+38,Shall I go fetch your nightgown?,0,7
+39,Desdemona hums.,0,3
+40,"This Ludovico is a proper man, a very handsome man.",2,12
+41,Lay by these.,0,4
+42,Tis neither here nor there.,0,6
+43,I've heard it say so.,0,7
+44,Wist thou do such a deed for all the world?,0,11
+45,Why would not you?,0,5
+46,"Oh, by this heavenly light.",1,7
+47,Nor I neither by this heavenly light.,1,8
+48,I might do it as well in the dark.,0,10
+49,Does not do such a deed for all the world?,0,11
+50,"By my troth, I think I should, and undo it when I had done.",0,17
+51,"Mary, I would not do such a thing for a joint ring, nor for measures of lawn, nor for gowns, petticoats, nor caps, nor any petty exhibition.",-1,34
+52,I should venture purgatory for it.,0,7
+53,Assure me if I would do such a wrong for all the world.,0,14
+54,"Why, the wrong is but a wrong in the world, and having the world for your labors is a wrong in your own world, and you might quickly make it right.",-2,35
+55,I do not think there is any such one.,0,10
+56,"Yes, a dozen, and as many to the vantage as would store the world they played for.",0,20
+57,"Why, we have galls, and though we have some grace, yet have we some revenge.",-1,19
+58,Is frailty that thus errs?,0,6
+59,It is so too.,0,5
+60,"And have we not affections, desires for sport and frailty, as men have?",0,16
+61,"Then let them use us well, else let them know the ills we do, their ills instruct us so.",1,22

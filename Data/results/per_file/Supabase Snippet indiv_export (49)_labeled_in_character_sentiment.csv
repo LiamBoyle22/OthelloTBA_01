@@ -1,0 +1,167 @@
+line_num,line,bing_liu_score,n_tokens
+1,You could change enough.,1,5
+2,You could change enough.,1,5
+3,Would you bear your fortune like a man?,2,9
+4,Is my lord angry?,-1,5
+5,Does it matter if indeed he be angry?,-1,9
+6,"sure of state, either from Venice or some unhedged practice, made demonstrable here in Cyprus to him, hath puddled his clear spirit.",1,26
+7,"I was a handsome warrior as I am, arraigning his unkindness with my soul, but now I find I had suborned the witness, and he's indicted falsely.",0,32
+8,"Pray have in it be state matters as you think, and no conception, no nor jealous toy concerning you.",-1,22
+9,Alas the day!,0,4
+10,I never gave him cause.,0,6
+11,But jealous souls will not be answered so.,-1,9
+12,"They're not ever jealous for the cause, but jealous for their jealous.",-3,15
+13,"If I do find him fit, I'll move your suit and seek to affect it to my uttermost.",0,21
+14,"Caratismus, Cassio.",0,4
+15,What make you the moment?,0,6
+16,"How is it with you, most fair Bianca?",1,10
+17,"Faith, I was coming to your house.",1,9
+18,"And I was going to your lodging, Cassio.",0,10
+19,"Pardon me, that Bianca.",1,6
+20,"I have this wild, leaden thoughts been pressed.",-1,10
+21,But I shall in a more continuate time strike off this score of absence.,-2,15
+22,Sweet Bianca.,1,3
+23,"Take me this one, girl.",0,7
+24,Once came this.,0,4
+25,This is some token from a newer friend.,0,9
+26,"No, by my faith, Bianca.",1,8
+27,Found it in my chamber.,0,6
+28,Take it and do it and leave me for this time.,0,12
+29,"I intend to hear on the general and think it no addition on my wish to have him see me, woman.",0,23
+30,"Why, I pray, not that I love you not.",1,12
+31,But that you do not love me.,1,8
+32,I pray you bring me on the way alone.,0,10
+33,"Tis but a little way that I can bring you, for I tend here, but I'll see you soon.",0,23
+34,Tis very good.,1,4
+35,There must be circumstance.,0,5
+36,like a handkerchief.,1,4
+37,What then?,0,3
+38,"Why then, it is hers, my lord, and being hers, she may, I think, bestow it on any man.",0,26
+39,"She is protectress of her honor, too.",1,9
+40,May she give that?,0,5
+41,"Well, her honor is, in essence, that's not seen.",2,14
+42,They have it very often.,0,6
+43,For the handkerchief.,0,4
+44,"Heaven, I wish more gladly I forgot it.",2,10
+45,What if I'd said that I'd seen him do you wrong?,-1,14
+46,"He hath, my lord, but be you well assured no more than he'll unswear.",1,18
+47,What hath he said?,0,5
+48,Handkerchief.,0,2
+49,To confess and be hanged for his labor.,-1,9
+50,Make sure she would not invest herself in such shadowing passion without some instruction.,1,15
+51,It is not words that shake me thus.,-1,9
+52,"Nose, ears, lips.",0,6
+53,It's possible.,0,4
+54,Confess.,-1,2
+55,Handkerchief.,0,2
+56,"Now, Cassia.",0,4
+57,What's the matter?,0,5
+58,My lord has fallen in two.,-1,7
+59,This is the second fit.,0,6
+60,He had one yesterday.,0,5
+61,No.,0,2
+62,The refugee must have his quiet course.,1,8
+63,"If not, he forms a mouth and by and by breaks up to savage madness.",-3,17
+64,There's millions now alive that simply lie in those improper beds which they dare swear peculiar.,-3,18
+65,Stand you apart a while and confine yourself but in a patient list.,1,14
+66,"Do but encave yourself and mark the fears, the jives, and notable scorns that dwell in every region of his face.",-1,24
+67,"For I will make him tell the tale anew, where, how, how oft, how long ago, and when he hath and is again to cope your life.",0,33
+68,So where are you?,0,5
+69,Is my lord angry?,-1,5
+70,"Assure me much, Amelia, I was unhandsome warrior, and I am arraining his unkindness with my soul.",1,21
+71,"But now I find I have suborned the witness, and he's indicted falsely.",-1,16
+72,"Rayhaven, it is.",0,5
+73,"He state matters as you think, and no conception nor no jealous joy concerning you.",0,17
+74,"Unless the day I never gave him cause, but jealous souls will not be answered so.",-1,18
+75,They're never jealous for the cause.,-1,8
+76,"If I do find him fit, I'll move your suit and seek to affect it to my uttermost.",0,21
+77,What make you from home?,0,6
+78,"How is it with you, my most fair Bianca?",1,11
+79,"Faith, I was coming to your house.",1,9
+80,And I was going to your lodging.,0,8
+81,Cassio.,0,2
+82,"Pardon me, Bianca.",1,5
+83,"I have this while with leaden thoughts been pressed, but I shall in a more continued time strike off this score of absence.",-2,25
+84,This is some token from a newer friend?,0,9
+85,"This is from some mistreat, some remembrance.",0,9
+86,"No, by my faith beyond.",1,7
+87,I found it in my chamber.,0,7
+88,I do attend here on the general and think it no addition nor my wish to have him see me woman.,0,22
+89,Why?,0,2
+90,I pray.,0,3
+91,Not that I love you not.,1,7
+92,But that you do not love me.,1,8
+93,I pray you bring me on the way a little.,0,11
+94,Tis but a little way that I can bring you before I attend here but I'll see you soon.,0,21
+95,Tis very good.,1,4
+96,I must be circumcised.,0,5
+97,If I give my wife a handkerchief.,0,8
+98,What then?,0,3
+99,"Why, then, it is hers, my lord, and being hers she may, I think, to show it on any man.",0,27
+100,"She is protectors of her honor, too.",1,9
+101,May she give that?,0,5
+102,"Well, her honor's but in essence that's not seen.",2,13
+103,"They have it very often, have it not?",0,10
+104,But for the handkerchief.,0,5
+105,"Heaven, I would most gladly have forgot it.",2,10
+106,"Now said so, therefore comes my memory.",0,9
+107,"As doth the raven or the infected house, he had my handkerchief.",-1,14
+108,you a while apart.,0,5
+109,Confine yourself but in a patient list.,1,8
+110,Did he confess it?,-1,5
+111,Bade him anon return.,0,5
+112,"Do what impaved yourself and mark the fleers, the jibes, and notable scorns that dwell in every region of his face.",0,24
+113,For I will make him tell the tale anew.,0,10
+114,Is my lord angry?,-1,5
+115,"He went hence, but now and certainly in strange unquietness.",-1,12
+116,"something sure of state, either from Venice or some unhatched practice made demonstrable here in Cyprus, that puddled his clear spirit.",1,24
+117,"this unhandsome warrior that I am, arraining his unkindness with my soul.",0,14
+118,"But now I find I hath suborned the witness, and he's indicted falsely.",-1,16
+119,"Pray, heaven it be, state matters as you think, and not some conception or some jealous toy pertaining to you.",0,24
+120,Alas the day I never gave him cause.,0,9
+121,But jealous souls will not be answered so.,-1,9
+122,They are not jealous for the cause.,-1,8
+123,They are jealous for their jealousy.,-2,7
+124,"upon itself, born on itself.",0,7
+125,Heaven keep that monster from Othello's mind.,0,9
+126,"Lady, amen.",0,4
+127,I will go seek him out.,0,7
+128,"Casting a walk hereabout, if I do find him fit, I will seek to move him and move your suit to my uttermost.",0,26
+129,I humbly thank your ladyship.,1,6
+130,What make you from home?,0,6
+131,"I was with you, my fair Bianca.",1,9
+132,I think I was coming to your house.,0,9
+133,"I was going to your lodging, Cassio.",0,9
+134,Pardon me.,1,3
+135,"I had this while with the lead and the bolts being pressed, but I shall in a more continued time.",1,22
+136,What's came this?,0,5
+137,Is this some talking from a newer friend?,0,9
+138,"You are jealous now that this is some mystery, some remembrance known by my faith beyond me.",-1,19
+139,I found it in my chamber.,0,7
+140,I do attend here on the general and think it no addition or my wish to have him see me.,0,21
+141,Why?,0,2
+142,I pray.,0,3
+143,Not that I love you.,1,6
+144,Not that I love you not.,1,7
+145,But that you do not love me.,1,8
+146,I pray you bring me on the way a little.,0,11
+147,Tis very good.,1,4
+148,That must be circumstance.,0,5
+149,"She's a protectress of her honor, too.",1,10
+150,May she give that?,0,5
+151,Her honor's an essence that's not seen.,1,10
+152,They have it very often that have it not.,0,10
+153,But for the handkerchief...,0,5
+154,"By heaven, I would most gladly have forgotten it.",2,11
+155,"Thou says, or it comes over my memory, as doth the raven order the infected house, he hath my handkerchief.",-1,24
+156,"With her, on her, what you will.",0,10
+157,and be hanged for his labor.,0,7
+158,Nature would not invest herself in such shadowing passion without some instruction.,1,13
+159,"How now, Cassie?",0,5
+160,My lord has fallen into it.,-1,7
+161,This is his second fitting heaven mystery.,0,8
+162,Rub him about the death of me.,-1,8
+163,The refugee must have his quiet course.,1,8
+164,Do you withdraw yourself for a little while?,0,9
+165,"Do you but incave yourself and mock the fleers, the jibes, and notable scorns that dwell on every region of his face.",-1,25
+166,"I will make him tell the tale anew, where, how, how oft, how long ago, and when he hath and is again to cope your wife.",0,32

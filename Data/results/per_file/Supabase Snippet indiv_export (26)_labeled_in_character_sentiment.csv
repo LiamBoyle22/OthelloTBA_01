@@ -1,0 +1,163 @@
+line_num,line,bing_liu_score,n_tokens
+1,See for the news.,0,5
+2,"Good ancient, you are welcome.",2,7
+3,"Welcome, mistress.",0,4
+4,"Let it not gall your patience, good Iago, that I extend my manners.",1,16
+5,"Oh, sir, would she give you so much of her lips as of her tongue she oft bestows on me?",0,23
+6,You'll have enough.,1,5
+7,"Alas, she has no speech.",0,7
+8,"In faith, too much.",1,6
+9,I find it still when I have list to sleep.,0,11
+10,"Mary, before your ladyship, I grant, she puts her tongue a little in her heart and chides with thinking.",0,23
+11,Come on.,0,3
+12,Come on!,0,3
+13,"You are pictures out of doors, bells in your parlors, wild cats in your kitchens, saints in your injuries, devils being offended, players in your housewifery, and housewives in your beds.",-1,38
+14,"I am not merry, and I do beguile the thing I am by seeming otherwise.",0,17
+15,Has one gone to the harbor?,0,7
+16,"Aye, madam.",0,4
+17,You rise to play and go to bed to work.,1,11
+18,Yeah.,0,2
+19,"In your beds, or else I am a Turk?",0,11
+20,"No, tis true.",0,5
+21,"Tis true, or else I am a Turk.",0,10
+22,They give their greeting to the citadel.,0,8
+23,This likewise is a friend.,0,6
+24,Seat for the news.,0,5
+25,"Good ancient, you are welcome.",2,7
+26,"Welcome, mistress.",0,4
+27,"Let it not gall your patience, good Iago, that I extend my manners.",1,16
+28,"Sir, would she give you as much of her lips as of her tongue she oft bestows on me.",0,21
+29,You'll have enough.,1,5
+30,"Alas, she has no tongue.",0,7
+31,Speak.,0,2
+32,"In faith, too much.",1,6
+33,I find it still when I have list to sleep.,0,11
+34,"Mary, before your ladyship, I grant, she puts her tongue a little in her heart and chides with thinking.",0,23
+35,Come on.,0,3
+36,Come on!,0,3
+37,You were pictures out of doors.,0,7
+38,"Bells in your parlors, wildcats in your kitchens, saints in your injuries, devils being offended, players in your housewifery, and housewives in your beds.",0,30
+39,And I do beguile the thing I am by seeming otherwise.,-1,12
+40,"Your bed is true, or else I am a Turk.",0,12
+41,"The rice play, go to bed to work.",1,10
+42,She says there's one gone to the harbor.,0,10
+43,"They give their greeting to the Citadel, this likewise is a friend.",0,14
+44,See for the news.,0,5
+45,"Good ancient, you are welcome, welcome mistress.",2,10
+46,"Let it not gall your patience, good Iago, that I extend my manners.",1,16
+47,"Sir, would she give you as much of her lips as of her tongue she oft bestows on me?",0,21
+48,You'll have enough.,1,5
+49,"Alas, she has no speech.",0,7
+50,"Faith, too much.",1,5
+51,I find it still when I have list to sleep.,0,11
+52,"Mary before your ladyship, I grant.",0,8
+53,"She pulls her, she puts her tongue a little in her heart and chides with thinking.",0,18
+54,You have little cost to say so.,0,8
+55,"Tis true, nay, tis true, or else I am a Turk.",0,15
+56,You rise to play and go to bed to work.,1,11
+57,"I am not Mary, and I do beguile the thing I am by seeming otherwise.",-1,17
+58,"Aye, madam.",0,4
+59,"Do not learn of him, Amelia, though he be thy husband.",0,14
+60,"Aye, well said.",1,5
+61,Tis true or else I am a Turk.,0,9
+62,It's more you rise to play and go to bed to work.,1,14
+63,"Maybe you can put, maybe we can put, maybe, so indeed, very good, well-kissed, and excellent courtesy.",2,24
+64,"If such a trick as these strip you out of your lieutenant, you had better you had not.",0,20
+65,I also don't know if I need tis truly so.,0,12
+66,"Desdemona says, let's meet him and receive him.",0,11
+67,"You're well tuned now, but I'll set down the pegs that make this music as honest as I am.",2,23
+68,But I'll set down the pegs that make this music as honest as I am.,1,17
+69,"Iago, oh, you are well tuned now, but I'll set down the pegs that make this music as honest as I am.",2,27
+70,"Oh, my fair warrior.",1,6
+71,"If after every tempest comes, such comes.",-1,9
+72,May the winds blow till they have wakened to death.,-2,11
+73,Let the laboring bark climb hills of seas on Olympus high and duck again as low as hells from heaven.,0,21
+74,"The heavens forbid, but that our love and comfort should increase, even as our days do grow.",1,20
+75,"Amen to that, sweet powers.",1,7
+76,I cannot speak enough of this content.,1,9
+77,It stops me here.,0,5
+78,It is too much of joy.,1,7
+79,"And this and this, the greatest discords be, that e'er our hearts shall make.",1,17
+80,and this and this the greatest discourse be.,1,9
+81,I'll set down the pegs that make this music as honest as I am.,1,16
+82,"Come, letters to the castle, news, friends, our wars are done, the Turks are drowned.",0,21
+83,How does my old acquaintance of this isle?,0,9
+84,Honey shall be well desired in Cyprus.,1,8
+85,"I have found great love amongst them.""",2,9
+86,I prithee good Iago.,1,5
+87,Go to the bay and disembark my coffers.,0,9
+88,Bring thou the master to the citadel.,1,8
+89,"He is a good one, and his worthiness does challenge much respect.",3,14
+90,"The purchase made, the fruits are to ensue.",0,10
+91,Got profits yet to come between me and you.,0,10
+92,"Come hither if thou beest valiant, as they say, base men being in love.",2,17
+93,"So the line is, one Michael Cassio, a Florentine, a fellow almost damned in a fair wife that never set a squadron in the field, etc.",0,31
+94,Desdemona is indirectly in love with him.,1,8
+95,With him?,0,3
+96,like this is not possible.,1,6
+97,"Lay thy finger thus, and let thy soul be instructed.",0,12
+98,"Mark me with what violence she first loved the more, but for bragging and telling her fantastical lies, and will she love him still for prating?",1,29
+99,"Now, for want of these required conveniences, her delicate tenderness will find itself abused, begin to heave the gorge, disrelish and abhor the moor.",-1,29
+100,Very nature will instruct her in it and compel her to some second choice.,0,15
+101,"Now, sir, this granted, as it is a most pregnant and unforced position, who stands so eminent in the degree of this fortune as Cassio does.",2,31
+102,A knave.,-1,3
+103,Very voluble.,0,3
+104,No further conscionable...,0,4
+105,"than in putting on the mere form of civil and humane seeming, for the better compassing of his salt and most hidden loose affection.",2,26
+106,"A finder out of occasions that has an eye, can stamp and counterfeit advantages through true advantage never present itself.",2,22
+107,"The knave is handsome, young, and hath all those requisites in him that folly and green minds look after.",0,22
+108,"A pestilent, complete knave, and the woman hath found him already.",-2,14
+109,I cannot believe that in her.,0,8
+110,She's full of most blessed condition.,0,8
+111,Blessed fig's end!,0,5
+112,The wine she drinks is made of grapes.,0,9
+113,"If she had been blessed, she would never have loved the more.",1,14
+114,Blessed pudding!,0,3
+115,Didst thou not see her paddle with the palm of his hand?,0,13
+116,Didst not mark that?,0,5
+117,"Yes, that I did, but that was but courtesy.",0,12
+118,Lechery by this hand.,-1,5
+119,And...,0,2
+120,index an obscure prologue to the history of lust and foul thoughts.,-2,13
+121,They met so near with their lips that their breaths embraced together.,0,13
+122,"Villainous thoughts, Rodrigo.",-1,5
+123,"When these mutualities so marshal the way, hard at hand comes the master and main exercise, the incorporate conclusion.",0,22
+124,I have brought you from Venice.,0,7
+125,For the command I'll late upon...,0,8
+126,"For the command I'll late upon you, Cassio knows you not.",0,14
+127,I'll not be far from you.,0,8
+128,Do you find some occasion...,0,6
+129,"Do you find some occasion to anger Cassio, either by speaking too loud or tainting his discipline, or from what other cause you please which the time shall more favorably minister?",-2,34
+130,Well?,1,2
+131,"Provoke him that he may, for even out of that will I cause these of Cyprus to mutiny, whose qualification shall come into no true trust again but by the displanting of Cassio.",0,36
+132,I will do this if you can bring it to any opportunity.,0,13
+133,"I warned thee, meet me by and by at the Citadel.",-1,13
+134,I must fetch his necessities ashore.,0,7
+135,And let thy soul be instructed.,0,7
+136,Mark me with what violence she first loved the more.,1,11
+137,Mark me with what violence she first loved the more.,1,11
+138,But for bragging and telling her fantastical lies.,-1,9
+139,And will she love him still for prating?,1,9
+140,"Who stands so eminent in the degree of misfortune as Cassio does, and nay, very voluble.",0,19
+141,No further conscionable than in putting on the mere form of civil and humane seeming.,1,16
+142,No further conscionable than in putting on.,0,8
+143,"In the former civil and humancy, he gave me for the better company of assault, and the most hidden.",0,22
+144,"A slippery and subtle knave, a finder out of occasions.",-1,12
+145,"that has an eye, can stamp and counterfeit advantages.",1,11
+146,And a woman hath found him already.,0,8
+147,And a woman hath found him already.,0,8
+148,"Uh, they met so near with their lips that their breasts are basic.",0,15
+149,"Villainous thoughts, Rodrigo.",-1,5
+150,"With these mutualities so marshaled away, hard at hand comes the master and main exercise, the incorporate conclusion, pish.",0,23
+151,Where was I?,0,4
+152,"For the command, I'll lay it upon you.",0,11
+153,Cassio knows you're not.,0,6
+154,I'll not be far from you.,0,8
+155,"Do you find some occasion to anger Cassio, either speaking too loud or tainting his discipline, or from what other cause you please, which the time shall more favorably minister?",-2,34
+156,"For even out of that will I cause these of Cyprus to mutiny, which will come into no true end but by the displanting of Cassio.",0,28
+157,"I think you could say, will I cause these of Cyprus to mutiny, who shall come into no true end?",0,23
+158,"trust again, but by the disappointing of Cassia.",0,10
+159,So shall you have a shorter journey to your desire by the means I shall then have to prefer them.,1,21
+160,"Yep, by the means that I shall then have to prefer them.",1,14
+161,"And the impediment most profitably removed, without the which there were no expectation of our prosperity.",0,18
+162,"The impediment most profitably removed, without the which there were no expectations.",-1,14

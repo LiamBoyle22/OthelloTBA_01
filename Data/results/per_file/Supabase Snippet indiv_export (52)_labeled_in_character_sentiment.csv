@@ -1,0 +1,116 @@
+line_num,line,bing_liu_score,n_tokens
+1,"Nor ever heard, nor ever did suspect.",-1,9
+2,"Yes, you have seen Cassio and she together.",0,10
+3,"But then I saw no harm, and then I heard each syllable that breath made between them.",-1,19
+4,"What, did they never whisper?",0,7
+5,"No, my lord.",0,5
+6,Nor send you out of the way?,0,8
+7,Never.,0,2
+8,"Do you fetch her fan, her gloves, nor nothing?",0,12
+9,"Never, my lord.",0,5
+10,I direct my lord to wager she is honest.,1,10
+11,Lay down my soul at stake.,0,7
+12,"If any wretch had put this in your head, let heaven requite it with the serpent's curse.",-1,20
+13,"Never, my lord.",0,5
+14,"Lord, send you out of the way.",0,9
+15,"Never, my lord.",0,5
+16,She is honest.,1,4
+17,"If you think other, remove your thoughts.",0,9
+18,It doth abuse your bosom.,-1,6
+19,"If any wretch hath put this in your head, let heaven recline it with the serpent's curse.",-1,20
+20,Nor ever heard nor ever did suspect.,-1,8
+21,You've seen Cassio and she together.,0,8
+22,"But then I saw no harm, right?",0,9
+23,"Do you know, Sira, where Lieutenant Casio lies?",-1,11
+24,"Seek him, bid him come hither.",0,8
+25,"Tell him I have moved my lord on his behalf, and hope all will be well.",1,18
+26,"Where shall I lose that handkerchief, Amelia?",-1,9
+27,"But my noble moor is true of mind, and made of no such baseness as jealous creatures are, it were enough to put into ill thinking.",1,29
+28,Is he not jealous?,-1,5
+29,"Who, he?",0,4
+30,I think the sun where he was born drew all such humors from him.,0,15
+31,"Ah, look where he comes.",0,7
+32,Felt no age nor no sorrow.,-1,7
+33,There's argued spruitfulness and a liberal heart.,0,9
+34,"You may indeed say so, for t'was that hand that gave away my heart.",0,16
+35,A liberal hand.,0,4
+36,I cannot speak of this.,0,7
+37,"Come now, you promise.",1,6
+38,What promise?,1,3
+39,I have sent to bid Cassio come speak with you.,0,11
+40,I have a salt and a sorry room offends me.,-1,11
+41,Let me thy handkerchief.,0,5
+42,Have it not about me?,0,6
+43,"She was a charmer, could almost read the thoughts of people she told her while she kept it, to make her amiable and subdue my father entirely to her love.",2,33
+44,"Make it a darling, like your precious eye, to loose a giveaway for such perdition as nothing else could match.",2,23
+45,Mr.,0,2
+46,Possible.,0,2
+47,"It is true, there's magic in the web of it.",1,13
+48,"A symbol that had numbered in the world, the sun to course two hundred compasses, and her prophetic fury sold the work.",0,25
+49,"The worms were hallowed that did breed in silk, and it was dyed mummy, which the skillful conserved a maiden's hearts.",2,25
+50,If faith is't true.,1,5
+51,"The most veritable, therefore look to it well.",2,10
+52,Then what to God I'd never seat.,0,9
+53,"Ha, wherefore?",0,4
+54,Sorry.,-1,2
+55,Wherefore?,0,2
+56,Why do you speak so startlingly and well?,0,9
+57,But what an if it were.,0,7
+58,I say it is not lost.,-1,7
+59,"Why, so I can, sir, but I will not now.",0,14
+60,Fetch me the handkerchief my mind misgives.,0,8
+61,This is a trick to put me from my suit again.,-1,12
+62,Pray you let Cassio be received again.,0,8
+63,"Come, come.",0,4
+64,You'll never meet a more sufficient man.,1,9
+65,The handkerchief.,0,3
+66,"I pray, talk me of Cassidy.",0,8
+67,The handkerchief.,0,3
+68,"A man that all his time hath founded his good fortunes on your love, shared dangers with you.",2,20
+69,The handkerchief.,0,3
+70,In faith.,1,3
+71,You are to blame.,-1,5
+72,Is not this man jealous?,-1,6
+73,I never saw this before.,0,6
+74,I'm sure there's some wonder in this handkerchief.,1,11
+75,I am most unhappy in the loss of it.,-2,10
+76,Tis not a year or two shows us men.,0,10
+77,"They are all but stomachs, and we all but food.",0,12
+78,"They eat us hungrily, and when they are full, they watch us.",0,15
+79,"How now, you, Cassian, and my husband?",0,11
+80,"Good Cassia, what's the news with you?",1,10
+81,"My foremore suit, I do beseech you that by your virtuous means I may again exist.",0,18
+82,My advocation is not now in tune.,0,8
+83,My lord is not my lord.,0,7
+84,So help me every spirit sanctified as I have spoken for you all my best and stood within the blank of his displeasure for my free speech.,1,28
+85,Is my lord angry?,-1,5
+86,"He went hence by now, and certainly in strange unquietness.",-1,12
+87,Pray thee do so.,0,5
+88,Something sure of state.,0,5
+89,"either from Venice or some unhatched practice made demonstrable here in Cyprus to him, hath huddled his clear spirit.",1,21
+90,"Pray, heaven, it be, state matters, as you think, and no conception, nor no jealous toy concerning you.",0,25
+91,"Alas, the day I never gave him cause.",0,10
+92,"But jealous souls will not be answered, so they are not ever jealous, for they're jealous.",-3,20
+93,"Heaven, keep that monster from Othello's mind.",0,10
+94,I'll move your suit and seek to effect it to your arms.,0,14
+95,"Humbly, thank you, lady.",1,7
+96,"How is it with you, my most fair Bianca?",1,11
+97,"Faith, I was coming to your house.",1,9
+98,"And I was going to your lodging, Cassie.",0,10
+99,"Pardon me, Bianca.",1,5
+100,"I have this while with blood and thoughts been pressed, but I shall, in more continual time, strike off this score of absence.",-2,27
+101,Whence came this,0,3
+102,Is this some token from a newer friend?,0,9
+103,I found it in my chamber.,0,7
+104,"I do attend here on the general and think it no addition, nor my wish to have him see me.",0,22
+105,Woman.,0,2
+106,"Why, I pray.",0,5
+107,Not that I love you not.,1,7
+108,But that you do not love me.,1,8
+109,I pray you bring me on the way a little.,0,11
+110,"Tis but a little way that I can bring you, for I tend here, but I'll see you soon.",0,23
+111,drew all such humors from him.,0,7
+112,I think so too.,0,5
+113,What is the other?,0,5
+114,And what is the familiarity that she hears within,0,9
+115,Othello's world.,0,4

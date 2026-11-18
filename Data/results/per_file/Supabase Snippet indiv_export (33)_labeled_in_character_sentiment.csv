@@ -1,0 +1,225 @@
+line_num,line,bing_liu_score,n_tokens
+1,My noble lord.,1,4
+2,"Excellent wretch, could you catch my sword?",0,9
+3,"When I do love thee, and when I love thee not, chaos is come again.",1,18
+4,My noble lord.,1,4
+5,"What does thou say, Yahweh?",0,7
+6,"He did, from first to last.",0,8
+7,Why dost thou ask?,0,5
+8,But for a satisfaction in my thoughts.,0,8
+9,No further on.,0,4
+10,I did not think he had been acquainted with her.,0,11
+11,"Oh, yes.",0,4
+12,And went between us very often.,0,7
+13,"Aye, indeed.",0,4
+14,Is he not honest?,1,5
+15,"Honest, my lord.",1,5
+16,Honest?,1,2
+17,"Aye, honest.",1,4
+18,"My lord, for odd I know.",-1,8
+19,What dost thou think?,0,5
+20,"Think, my lord.",0,5
+21,"Think, my lord.",0,5
+22,Thou dost mean something.,0,5
+23,"I heard thee say, even now, thou likes not that when Cassio left my wife.",1,18
+24,What didst thou like?,1,5
+25,"My Lord, you know I love you.",1,9
+26,I think thou dost.,0,5
+27,"And for I know thou art full of love and honesty, and waits thy words before thou gifts them breath, Therefore these stops of thine frighten me the Lord.",1,32
+28,"But in a man that's just, there are close delations working from the heart that passion cannot rule.",1,22
+29,"For Michael Cassio, I dare be sworn, I think, that he is honest.",1,17
+30,I think so too.,0,5
+31,"Men should be what they seem, or those that be not, what they might seem not.",0,19
+32,Certain men should be what they see.,0,8
+33,"Why, then I think Cassio's an honest man.",1,11
+34,Nay.,0,2
+35,Yet there's more in this.,0,7
+36,"I pray thee, speak to me, as to thy thinkings, as thou dost ruminate, and give thy worst of thoughts the worst of words.",-2,29
+37,"Good my lord, pardon me.",2,7
+38,"Though I am bound to every act of duty, I am not bound to that all slaves are free to utter my thoughts.",0,25
+39,"Thou dost conspire against thy friend, Diardo, and thou but think'st him wrong, and make'st his ear a stranger to thy thoughts.",-3,26
+40,I do beseech you.,-1,5
+41,"Zunes, what dost thou mean?",0,7
+42,"Good name in man and woman, dear my lord, is the immediate jewel of their souls, who steals my purse, steals trash.",-2,27
+43,Tis something not.,0,4
+44,"Tis mine, tis his, and has been slaved two thousands.",0,13
+45,"But he that filtseth from me my good name,",1,10
+46,"robs me of that which not enriches him, and makes me poor indeed.",-1,15
+47,"By heaven, I'll know thy thoughts.",1,9
+48,"You cannot, if my heart were in your hand, nor shall not whilst it is in my custom.",0,22
+49,Ha!,0,2
+50,"Oh, beware, my lord, of jealous.",-2,10
+51,It is the green-eyed monster which doth mock,-2,8
+52,"Poor and content is rich, and rich enough, but rich and spineless is as poor as winter.",2,20
+53,"To him that ever fears he shall be poor,",-2,10
+54,"Good God, the souls of all my tribe defend from jealousy.",0,13
+55,Why?,0,2
+56,Why is this?,0,4
+57,Thinks thou I'd make a life of jealousy?,-1,10
+58,"To say my wife is fair, feeds well, loves company, is free of speech, sings, plays, and dances well.",5,26
+59,"Where virtue is, these are more virtuous.",2,9
+60,Nor from my own weak merits will I draw the smallest fear or doubt of her revolt.,-4,18
+61,For she had eyes and chose me.,0,8
+62,"No, Iago, I'll see before I doubt.",-1,11
+63,"When I doubt, prove.",-1,6
+64,"And on the proof, there is no more but this.",0,12
+65,away at once with love or jealousy.,0,8
+66,Observe her well with Cassia.,1,6
+67,"Wear your eyes thus, not jealous, nor secure, I would not have your free and noble nature out of self-pounding degrees.",2,25
+68,Look to it.,0,4
+69,I know our country disposition well.,1,7
+70,I know our country disposition well.,1,7
+71,"In Venice, they do let God see the pranks they dare not show their husbands.",0,17
+72,Does thou say so?,0,5
+73,"She did deceive her father, Mary, and when she seemed to shake inferior looks, she loved her most.",-2,22
+74,And so she did.,0,5
+75,Why go through that?,0,5
+76,"She that so young could give out such a seeming to seal her father's eyes out, close as over.",0,22
+77,He thought was witchcraft.,0,5
+78,But I am much to blame.,-1,7
+79,I hope we will seek you of your pardon.,1,10
+80,For too much love.,1,5
+81,I am bound to thee forever.,0,7
+82,I see this hat a little dash for spirits.,0,10
+83,But I do see you're moved.,0,8
+84,"I am to pray you not to strain my speech to grosser issues, nor to larger reach than to suspicion.",-3,22
+85,I will not.,0,4
+86,"Should you do so, my lord?",0,8
+87,My speech should fall into such vile success as my thoughts aimed not at.,-1,15
+88,And long live you to think so.,0,8
+89,And yet how nature erring from itself.,0,8
+90,"For one may smell in such a will most rank, foul disproportion, bust, unnatural,",-4,18
+91,"If more thou dost perceive, let me know more.",0,11
+92,Set on thy life to observe.,0,7
+93,"Think, my Lord, by heaven thou reckless me.",0,11
+94,"As if there was a monster in my thought, too hideous to be shown.",-2,16
+95,"If thou dost love me, yeah, yeah.",1,10
+96,"My Lord, you know I love you.",1,9
+97,I think thou dost.,0,5
+98,"To hideous to be shown, thou dost mean something.",-1,11
+99,For I know thou art full of love and honesty.,2,11
+100,"My lord, for all I know.",0,8
+101,What dost thou think?,0,5
+102,"Think, my lord?",0,5
+103,"Think, my lord.",0,5
+104,"By heaven, thou echoest me.",1,7
+105,"as if there was some monster in thy thought, too hideous to be shown.",-2,16
+106,Thou dost mean something.,0,5
+107,What didst not like?,1,5
+108,If thou dost love me.,1,6
+109,"My Lord, you know I love you.",1,9
+110,I think thou dost.,0,5
+111,"And for I know thou art full of love and honesty, and waste thy words before thou give'st them breath.",1,22
+112,Therefore these stops of thine frighten me the more.,-1,10
+113,"My Lord, you know I love you.",1,9
+114,I think thou dost.,0,5
+115,"And for I know thou art full of love and honesty, and waste thy words before thou gifts them breath.",1,22
+116,"Okay, so I waste thy words before thou gives the breath, and then...",-1,16
+117,"From Michael Cassio, I dare be sworn I think that he is honest.",1,15
+118,My lord for all I know.,0,7
+119,My lord for all I know.,0,7
+120,What does thou think?,0,5
+121,Think my lord?,0,4
+122,"Thank my Lord, by heaven thou echoest me, as if there was some monster in thy thought.",1,20
+123,"Too hideous to be shown, thou dost mean something.",-1,11
+124,I think that he's honest.,1,7
+125,"I think so, too.",0,6
+126,Yeah.,0,2
+127,"My lord, so ought I know.",0,8
+128,What dost thou think?,0,5
+129,"Think, my lord?",0,5
+130,"Think, my lord.",0,5
+131,"By heaven, thou echoest me, as if there were some monster in thy thought, too hideous to be shown.",-1,23
+132,Thou dost mean something.,0,5
+133,What didst not like?,1,5
+134,If thou dost love me.,1,6
+135,"My lord, you know I love you.",1,9
+136,I think thou dost.,0,5
+137,and waits thy words before thy gives them breath.,0,10
+138,"For Michael Cassio, I dare be sworn I think that he's honest.",1,15
+139,I think so too.,0,5
+140,Men should be what they seem.,0,7
+141,"For those that be not, would they might seem not.",0,12
+142,Certain men should be what they seem.,0,8
+143,Why then I think Cassio's an honest man.,1,10
+144,Nay.,0,2
+145,Yet there's more in this.,0,7
+146,"Good my lord, pardon me.",2,7
+147,"Though I am bound to every act of duty, I am not bound to that all slaves are free to utter my thoughts.",0,25
+148,"He says, Thou dost conspire against thy friend.",-1,10
+149,What he says after that...,0,6
+150,I pray thee speak to me as to thy thinking as thou dost ruminate and give thy worst of thoughts thy worst of words.,-2,25
+151,"Good my Lord, pardon me.",2,7
+152,"Though I am bound to every act of duty, I am not bound to that all slaves are free to.",0,22
+153,"If we're not for your quiet, nor your good, nor for my manhood, honesty, and wisdom, to let you know my thoughts.",4,29
+154,"I like thou dost conspire against thy friend, right?",1,11
+155,"I do beseech you, though I portrayance ambitious in my guess.",0,13
+156,"As I confess, it is my nature's plague, despite the abuses, and oft my jealousy shapes faults that are not.",-5,25
+157,"We're not for your quiet, nor your good.",2,11
+158,you know my thoughts.,0,5
+159,"As I confess, it is my nature's plague to spy into abuses and oft my jealousy shapes faults that are not.",-5,24
+160,"You take no notice, nor build yourself a trouble out of my scattering and unsure observance.",-2,18
+161,"Yes, I do beseech you, though I perchance am vicious in my gets.",-2,16
+162,"As I confess, it is my nature's plague to spy into abuses, and off my jealousy shapes faults that are not.",-5,25
+163,"from one that so imperfectly injects, you take no notice, nor build yourself a trouble out of my scattering and unsure observance.",-3,25
+164,"It were not for your quiet, nor for your good, nor for my manhood, honesty, or wisdom, to let you know my thoughts.",4,29
+165,"Good name in man and woman, dear my lord, is the immediate jewel of their souls.",1,19
+166,Who steals my purse till it's trashed is something nothing.,-2,12
+167,"But he that filches from me, my good name, robs me of that which not enriches him and makes me poor indeed.",0,25
+168,Do you need good name in man and woman since it's repeated?,1,14
+169,It's just good name in man and woman's ear by Lord.,1,14
+170,"I don't like, by heaven I'll know thy thoughts.",2,13
+171,Beware my lord of jealousy.,-2,6
+172,"Koko lives in bliss, who's certain of his faith, loves not his wronger, but oh, what damn minutes tells he or...",2,27
+173,"who dotes yet doubts, respects yet strongly loves.",0,10
+174,"Poor and content is rich and rich enough, but rich as fineness is as poor as winter, to him that ever fears he shall be poor.",0,29
+175,"Good God, the souls of all my tribe defend from Genesis.",1,13
+176,The riches boundless is as poor as one too.,0,10
+177,"To him that ever fears, it shall be poor.",-2,11
+178,"So, good God, the souls of all my tribe defend from jealousy.",0,15
+179,"To say my wife is fair, feeds well, loves company, is free of speech, sings, plays, and dances well, but virtue is to be so more virtuous.",7,35
+180,"Wear your eyes thus, not jealous nor secure.",0,10
+181,I would not have your free and noble nature out of self-foundly abuse.,1,14
+182,Look to them.,0,4
+183,I know our country's disposition well.,1,8
+184,I think it's superfluous.,-1,6
+185,I would not have your free and noble nature be abused.,1,12
+186,Look to it.,0,4
+187,I know our country disposition well.,1,7
+188,"In Venice, they do let God see the pranks they dare not show their husbands.",0,17
+189,This does say so?,0,5
+190,"She did see if her father married you, and when she seemed to shake and fear your looks, she loved them most.",-1,25
+191,And so she did.,0,5
+192,She that's so young could give out such a seaweed to see her father's eyes up close as oak.,0,22
+193,"He thought, t'was witchcraft, but I am too much to blame.",-1,14
+194,I am bound to be forever.,0,7
+195,"she lets a young who give out such a seeming, to seal her father's eyes up close as oak.",0,22
+196,"He thought it was witchcraft, but I am to blame.",-1,12
+197,I see this hath a little dashed your spirits.,0,10
+198,"I hope you will consider what his spoke comes from my love, but I do see you removed.",1,20
+199,"I am to pray you not to strain my speech to grosser issue, nor to larger reach than to suspicion.",-3,22
+200,"Should you do so, my lord, my speech should fall into such vile success as my thoughts aim not at.",-1,23
+201,Cassio is my worthy friend.,1,6
+202,"My lord, I see you're moved.",0,9
+203,These things like not a jot and not much moved are common to me and they should be gone.,1,20
+204,"My Lord, I see you are moved.",0,9
+205,I do not think Bethesda Moniz honest.,1,8
+206,"My Lord, I see you are moved.",0,9
+207,"Long live you so, and live you so to think so.",0,13
+208,"Long live she so, and long live you to think so.",0,13
+209,And yet how nature erring from itself.,0,8
+210,"Client complexion and degree, where we see all things nature tends.",0,13
+211,"If Iago is correctly picking up on what Othello means by how nature airs from itself, that means we have to buy into the idea of Othello's",1,29
+212,"One may smell in such a will most rank and all disproportion, thoughts unnatural.",-2,16
+213,"My lord, I see you moved.",0,8
+214,Desdemona is honest.,1,4
+215,"Long live you so, and long live you to think so.",0,13
+216,"Brown, you're saying we need to climb, complexion, and degree.",0,15
+217,"My Lord, I see you're moved.",0,9
+218,Desdemona's honest.,1,4
+219,"And long live she so, and long live you to think so.",0,14
+220,"And yet, to be bold with you, not to affect many proposed matches of her own clime, complexion, and degree, where we see in all things nature tends.",0,34
+221,Pardon me.,1,3
+222,I do not in position distinctly speak of her.,0,10
+223,"Though I may fear her will, recoiling to her better judgment, may fall to match with her country's forms, and happily repent.",0,27
+224,"And then he almost leaving, and then I say, if more thou dost receive, let me win.",1,21

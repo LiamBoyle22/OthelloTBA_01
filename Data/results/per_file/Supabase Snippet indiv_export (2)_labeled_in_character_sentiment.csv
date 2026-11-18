@@ -1,0 +1,539 @@
+line_num,line,bing_liu_score,n_tokens
+1,Have you seen nothing there?,0,6
+2,"Nor ever heard, nor ever did suspect.",-1,9
+3,"Yes, you have seen Cassio and she together.",0,10
+4,Did they never whisper?,0,5
+5,"Never, my lord.",0,5
+6,"To fetch her fang, her gloves, her mask, her nothing?",0,14
+7,"Never, my lord.",0,5
+8,That's strange.,-1,4
+9,I durst whether to wager she is honest.,1,9
+10,Lay down my soul at stake.,0,7
+11,"If any wretch have put this in your head, let heaven requite it with the serpent's curse.",-1,20
+12,What horrible fancy is this?,0,6
+13,Leave procreants alone and shut the door.,0,8
+14,Cough or cry in heaven if anybody come.,0,9
+15,"Your mystery, your mystery.",-2,6
+16,I understand a theory in the words but not the words.,0,12
+17,Why?,0,2
+18,What art thou?,0,4
+19,"Your wife, my dear children, and your loyal wife.",1,12
+20,"Come, swear, damn thyself.",-1,7
+21,"Thus being like one of heaven, the devils themselves should fear to seize thee.",1,16
+22,"Swear, thou art honest.",1,6
+23,Heaven doth truly know it.,1,6
+24,Heaven truly knows that thou art false as hell.,-1,10
+25,Alas the heavy day!,0,5
+26,"If happily you do my father suspect an instrument of this your calling back, lay not your blame on me if you have lost him while I have lost him too.",-3,33
+27,Had it pleased heaven to try me with affliction.,1,10
+28,"Here, look, grim as hell.",-2,8
+29,I hope my noble lord esteems me honest.,2,9
+30,"O, aye, as summer flies are in the shambles, that quicken even with blowing.",-1,18
+31,"O thou weed, who art so lovely, fair, and smell so sweet, that the sins aches at thee, but thou hast ne'er been born.",0,30
+32,"Alas, what ignorant sin have I committed?",-2,9
+33,"Was this fair paper, this most goodly book, made to write whore upon?",1,16
+34,What committed?,0,3
+35,Committed?,0,2
+36,"Oh, thou public commoner, I should make very forages of my cheeks that went to sinners burn up modesty.",0,22
+37,Did I speak thy deeds?,0,6
+38,What committed?,0,3
+39,"Heaven stops the nose at it, and the moon waits.",1,12
+40,"The body wind that kisses all it meets is hushed within the hollow mine of earth, and will not hear it.",-1,23
+41,Why commit it?,0,4
+42,"Impudent, stupid!",-2,4
+43,"By heaven, you do me wrong!",0,8
+44,Are you not a strumpet?,0,6
+45,"No, as I am a Christian!",0,8
+46,"If to preserve this vessel for, my lord, from any foul, hated, unlawful touch, be not to be a strumpet, I am none.",-3,30
+47,"What, not a whore?",-1,6
+48,"No, as I shall be saved.",0,8
+49,This is possible.,0,4
+50,"I cry your mercy, then.",0,7
+51,Then have the office opposite to St.,0,8
+52,I pray you turn the key and keep on counseling.,0,11
+53,"Alas, what does the gentleman conceive?",0,8
+54,"How do you, my good lady?",1,8
+55,Who do I with my lord?,0,7
+56,Who is thy lord?,0,5
+57,"He that is yours, sweet lady.",1,8
+58,"Do not talk to me, Amelia.",0,8
+59,"Your answer is, have I none, but what should go by water?",0,15
+60,"Remember, I call thy husband him.",0,8
+61,There's a change indeed.,0,6
+62,It is mean I should be used so.,0,9
+63,Those that do teach young babes deal with gentle means and easy tasks.,2,14
+64,"What is the matter, lady?",0,7
+65,"Alas, Yaga, my lord has so behoored her, thrown such despite and heavy terms upon her that true hearts cannot bear it.",0,27
+66,"Am I that name, Yaga?",0,7
+67,"What name, fair lady?",1,6
+68,"Such as she said, my lord did say I was.",0,12
+69,Why did he so?,0,5
+70,I do not know.,0,5
+71,I am sure I am not a subject.,0,9
+72,Do not we.,0,4
+73,Do not we.,0,4
+74,Bless the day.,1,4
+75,"Had she forsake so many noble matches, her father and her country and her friends, to be called whore, would it not make one weep?",-2,29
+76,"If there are any such, there be heaven pardon him.",2,12
+77,"A halter pardon him, and hell not his bones.",0,11
+78,Why should he call her whore?,-1,7
+79,"The Moors abused by some most villainous knave, some base notorious knave, some scurvy fellow,",-5,18
+80,"Some such squire he was, That turned your wit to the seamy side without, And made you suspect me with them all.",-1,25
+81,You are a fool.,-1,5
+82,"it doesn't warn me now I speak the word, to do the act that might the addition earn, not the world's mass of vanity could make way.",-1,32
+83,"I pray be content, tis but his humor, the business of the state does him offense, and he does try with him.",1,26
+84,If t'were no other.,0,5
+85,Tis but so I warrant.,0,6
+86,"All things shall be well,",1,6
+87,"How now, Rodrigo?",0,5
+88,I do not find that thou dealst justly with me.,1,11
+89,What in the contrary?,0,5
+90,"I will indeed no longer endure it, nor am I yet persuaded to put up the peace that already I have foolishly suffered.",-1,25
+91,and your words and performances are no kin together.,0,10
+92,You charge me most unjustly.,-1,6
+93,"You have told me she had received them and returned me expectations and comforts of sudden respect and acquittance, but I find",1,23
+94,"Well, go to very well.",2,7
+95,Very well.,1,3
+96,Nor tis not very well.,1,6
+97,and begin to find myself fought in it.,0,9
+98,Very well.,1,3
+99,"I tell you, tis not very well.",1,9
+100,You have said now.,0,5
+101,I have said nothing but what I protest intendant of doing.,-1,12
+102,"Thou hast taken against me a most just exception, but yet I protest I have dealt most directly in thy affair.",-1,23
+103,But it hath not appeared.,0,6
+104,"I grant indeed it hath not appeared, and your suspicion is not without wit and judgment.",-1,18
+105,But what are you hoping?,0,6
+106,"If thou hast that in thee indeed which I have greater reason to believe now than ever, I mean purpose, courage, valor, this night show it.",2,31
+107,"If thou the next night following, enjoy not Desdemona, take from me this world with treachery and devise engines for my life.",0,25
+108,"Sir, there is a special commission to come from Venice to depute Cassio in a lover's place.",1,20
+109,Is that true?,0,4
+110,Why then Othello and Desdemona return to Venice?,0,9
+111,"No, he goes to Mauritania and taketh away with him an affair in Desdemona, unless his abode be lingered here by some accident.",0,26
+112,where none can be so determinate as the removing of Cassio.,0,12
+113,How do you mean removing him?,0,7
+114,By making him incapable of Othello's place.,-1,9
+115,Knocking out his brains.,0,5
+116,And that you would have me to do?,0,9
+117,"I, if you dare, do yourself a profit and a right.",1,14
+118,"He sucks tonight with a harlotry, and thither will I go to him.",-1,15
+119,He knows not yet of his honorable fortune.,2,9
+120,"If you will watch us going thence, that I will fashion to fall out between twelve and one, you may take him at your pleasure.",0,28
+121,"Come, stand not amazed at it, but go along with me.",1,14
+122,"I will show you such a necessity in this death, that you shall think yourself bound to put it on him.",-1,23
+123,I will hear further reason for this.,0,8
+124,You will be satisfied.,1,5
+125,"I do beseech you, sir, trouble yourself no further.",-2,12
+126,It will do me good to walk.,1,8
+127,I humbly thank your leadership.,1,6
+128,Your honor is most welcome.,2,6
+129,"Will you walk, sir?",0,6
+130,He looks gentler than he did.,0,7
+131,Says he will return incontinent.,0,6
+132,And hath commanded me to go to bed and bid me to dismiss you.,0,15
+133,Dismiss me?,0,3
+134,They must not now displease them.,-1,7
+135,"I, would you have never seen him, so would not I.",0,14
+136,"My love doth so approve him, that even his stubbornness, his checks, his frowns, for the unpin me, have grace and favor in them.",3,30
+137,I've laid those sheets you've had me on the bed.,0,13
+138,"Good thing, how foolish are our minds.",0,9
+139,"And all things was that it expressed her fortune, and she died of seeing it.",0,17
+140,"There was much to do, but to go and hang my head on one side and sing it like, hold on, right?",1,26
+141,Shall I go fetch your nightgown?,0,7
+142,This Lollivico is a proper man.,1,7
+143,A very handsome man.,1,5
+144,He speaks well.,1,4
+145,I know a lady in Venice would have walked barefoot to Palestine for a touch of his leather leg.,0,20
+146,"Her hand brought her buzzer, her help on her knee.",0,12
+147,"Sing willow, willow, willow.",0,7
+148,"Her fresh streams ran by her, and my, my, her bones.",1,15
+149,"Sing willow, willow, willow.",0,7
+150,"Her salt tears fell from her, and softened the stones.",-1,12
+151,So get thee gone.,0,5
+152,"My niece do itched up that, both weeping.",0,10
+153,Tis neither here nor there.,0,6
+154,"Wouldst thou do such a deep, raw world?",0,10
+155,Why would not you?,0,5
+156,By this heavenly light.,1,5
+157,Nor I neither by this heavenly light.,1,8
+158,Might do it as well in the dark.,0,9
+159,Who's thou?,0,4
+160,Who's thou do such a deed for all the world?,0,12
+161,"By my truth, I think thou wast not.",0,10
+162,"By my truth, I think I should, and undo it when I had to.",0,17
+163,"I would not do such a thing for a joint ring, or for measures of lawn, or for gowns, or petticoats, or caps, or for any petty exhibition.",-1,34
+164,The wrong has been a wrong in the world.,-2,10
+165,"and having the world for your labors is a wrong in your own world, and you might quickly make it right again.",0,24
+166,I do not think there is any such woman.,0,10
+167,"Yes, a dozen, and as many to the vantage as would store the world they played for.",0,20
+168,Say that they slack their duties and pour our treasures into foreign laps.,-1,14
+169,"It is so too, and have not we affections, desires for sport, and frailty as men have?",0,21
+170,"Oh, then let them use us well, as let them know the ills we do, their ills instruct us so.",1,24
+171,"Here, stand behind this belt, straightly come.",0,10
+172,"Wear thy good great ear bare, and put it home.",2,12
+173,"Quick, quick, fear nothing, I'll be at thy elbow.",-1,14
+174,"Least us or at mars us, think on that, and fix most firm thy resolution.",0,18
+175,"Be near at hand, I may be miscarried.",0,10
+176,"Here, at thy hand, be bold, take thy stand.",0,13
+177,"I have no great devotion to the deed, and yet he hath given me satisfying reasons.",2,18
+178,"With Rodrigo, he calls me to a restitution large of gold and jewels that I bob from him as gifts to Desdemona.",1,24
+179,"No, he must die, be it so I hear him coming.",-1,14
+180,"I know his game, tis he.",0,8
+181,Bellow thou dyest!,0,4
+182,"That thrust hath been mine enemy indeed, but that my coat is better than thou knowest, I will make proof of thine.",0,25
+183,"O, I am slain!",0,6
+184,I'm maimed forever.,0,5
+185,Help!,0,2
+186,"Oh, murder!",-1,4
+187,Murder!,-1,2
+188,The voice of Cassio.,0,5
+189,Iago keeps his word.,0,5
+190,"Oh, villain that I am!",0,7
+191,It seems so.,0,4
+192,"Oh, how Paul, like a surgeon.",1,9
+193,"Is he a brave Iago, honest and just, that has such noble sense of thy friend's wrong?",2,21
+194,Thou teachest me.,0,4
+195,"To some mischance, the voice is very direful.",0,10
+196,A wretched villain.,-1,4
+197,Nobody come and I shall bleed to death.,-2,9
+198,Hark!,0,2
+199,Here's one who comes in his shirt with light and weapons.,0,13
+200,Who's there?,0,4
+201,What noise is this that cries on murder?,-2,9
+202,We do not know.,0,5
+203,Did you hear a cry?,-1,6
+204,"I'm here, here.",0,6
+205,"For heaven's sake, help me.",1,8
+206,What's the matter?,0,5
+207,"This is Othello's agent, as I take it.",0,11
+208,"The same indeed, a very valiant fellow.",1,9
+209,What are you here that cry so grievously?,-2,9
+210,"Iago, I am spoiled, undone by villains.",-3,10
+211,Give me some help.,0,5
+212,"Me, lieutenant!",0,4
+213,What villains have done this?,-1,6
+214,I think that one of them is here about and cannot make way.,0,15
+215,"Oh, treacherous villain!",-1,5
+216,What are you there?,0,5
+217,Come in and give some help.,0,7
+218,"Oh, help me here!",0,6
+219,One of them!,0,4
+220,"Oh, murderous slave!",-2,5
+221,"Oh, villain!",0,4
+222,"Oh,",0,2
+223,Kill men in the dark?,-2,6
+224,Where be these bloody thieves?,-1,6
+225,"Oh, how silent is this town?",1,8
+226,"Oh, murder, murder!",-2,6
+227,What may you be?,0,5
+228,Are you of good or evil?,0,7
+229,"As you shall prove us, praise us.",1,9
+230,Senor Lovico?,0,3
+231,"Peace, sir.",1,4
+232,I cry you mercy.,0,5
+233,"Here's Cassio, hurt my villains.",-2,8
+234,Cassio?,0,2
+235,"How is't, brother?",0,5
+236,My leg is cut in two.,0,7
+237,"Marry, heaven forbid.",0,5
+238,"Life, gentlemen, I'll bind it with my shirt.",0,12
+239,What's the matter?,0,5
+240,Who is that cried?,0,5
+241,Who is that cried?,0,5
+242,"Cassio, Cassio, Cassio, Cassio, Cassio.",0,10
+243,"Oh, notable strumpet, Cassio, may you suspect who they should be that thus have mangled you now?",-2,21
+244,"I am sorry to find you thus, I have been to seek you.",-1,15
+245,"Lend me a garter, so whole for a chair to bare him easily hence.",0,16
+246,"Alessia fainsome, Cassio, Cassio, Cassio.",0,9
+247,"Gentlemen, oh, I do suspect this trash to be a party in this injury.",-3,17
+248,"Patience a while, good Cassio.",2,7
+249,"Alas, my friend and dear countryman Roderigo.",0,9
+250,"No, yes, sure, oh, heaven, Roderigo.",1,12
+251,What offense.,0,3
+252,"Even he, sir, did you know him?",0,10
+253,"No, am I.",0,5
+254,"Ah, signor Graciano.",0,5
+255,"I cry your pardon, gentle, gentle pardon.",3,10
+256,I cry your gentle pardon.,1,6
+257,"Those, these bloody accidents must excuse my manners that so neglected you.",-3,14
+258,I'm glad to see you.,1,7
+259,"How do you, Cassio?",0,6
+260,"Oh, well, that's well, said the chair.",2,12
+261,Some good man bare him carefully from hence.,1,9
+262,I'll fetch this general surgeon.,0,7
+263,"For you, mistress, save you your labor.",-1,10
+264,"He that lies slain here, Cassio, was my dear friend.",-1,13
+265,Was malice between you?,-1,5
+266,"Not in the world, nor do I know the man.",0,12
+267,"Look you pale, mistress.",-2,6
+268,Do you perceive the gaspness of her eye?,0,9
+269,"Nay, if you stare, we shall hear you anon.",0,12
+270,"Behold her well, I pray you look upon her.",1,11
+271,"Alas, what's the matter?",0,7
+272,Cassio hath here been set on in the dark by Rodrigo and fellows that are escaped.,-1,17
+273,He's almost slain and Rodrigo dead.,-1,8
+274,"Alas, good gentlemen, alas, good Cassio.",2,10
+275,Tis the fruits of whoring.,0,6
+276,"Oh, what, do you shake at that?",-1,10
+277,"He supped at my house, but I therefore shake not.",-1,12
+278,"Oh, did he so?",0,6
+279,"I charge you, go with me.",0,8
+280,"Fire upon thee, strumpet.",0,6
+281,"I am no strumpet, but of a life as honest as you, that thus abuse me.",0,19
+282,As I throw fire upon thee.,0,7
+283,"Kind gentlemen, let's go see poor Cassio dressed.",-1,11
+284,"Come, mistress, you must tell another tale.",-1,10
+285,"Emilia, run you to the citadel, and tell, and tell my lord and lady what hath happed.",0,21
+286,"Let me not lead to you, you chase stars.",1,11
+287,It is the cause.,0,5
+288,Yet I'll not shed her blood.,0,8
+289,Her scarred as whiter skin of hers in the snow.,-1,11
+290,Smooth as monumental alamaster.,2,5
+291,"Yet she must die, else she'll betray more men.",-2,12
+292,"If I quench thee, thou play me minister.",0,10
+293,It strikes where it doesn't lie.,-1,8
+294,"Come together, my Lord.",0,6
+295,"Have you prayed tonight, Mr.",0,7
+296,Lord?,0,2
+297,I'm very welcome.,1,5
+298,"If you bethink yourself of any crime, unreconciled as yet to heaven and grace, so the support straight.",2,21
+299,I'm very welcome.,1,5
+300,What do you mean by that?,0,7
+301,We'll do it and be brief.,0,8
+302,I would not kill thy unprepared spirit.,-2,8
+303,"No, heaven forbid, I would not kill that soul.",-1,12
+304,I'll kill you.,-1,5
+305,"Aye, I do.",0,5
+306,And in heaven have mercy on me.,2,8
+307,"Amen, with all my heart.",0,7
+308,"If you say so, I hope you will not kill me.",-1,13
+309,Think on thy sins.,0,5
+310,That our loves I bear to you.,1,8
+311,"Aye, and for that thou diest.",0,8
+312,"That death's unnatural, that kills for loving.",-2,10
+313,"Alas, I gnaw you so, you would never live.",0,12
+314,Some bloody passion shakes your very frame.,0,8
+315,"These are portents, but yet I hope, I hope they do not point on me.",0,18
+316,Be still.,0,3
+317,I will.,0,3
+318,So.,0,2
+319,"That handkerchief which I so loved and gave thee, thou gavest to Cassio.",1,15
+320,No.,0,2
+321,"By my life and soul, send for the man and ask him.",0,14
+322,"Sweet soul, take heed, take heed of perjury.",1,11
+323,Thou art on thy deathbed.,0,6
+324,"I, but not to die.",-1,7
+325,"Yes, presently.",0,4
+326,"Therefore confess thee freely of thy sin, for to deny each article with oath cannot remove nor choke the strong conception that I do groan withal.",-3,29
+327,Thou art to die.,-1,5
+328,"Then, Lord, have mercy on me.",1,9
+329,I never gave him token.,0,6
+330,"By heaven, I saw my handkerchief in his hand.",1,11
+331,"O purgent woman, thou dost stone my heart.",0,10
+332,"It makest me call when I intend to do a murder, when I thought a sacrifice.",-1,18
+333,I saw my handkerchief.,0,5
+334,"He found it, then.",0,6
+335,Aye.,0,2
+336,He will not say so.,0,6
+337,"No, his mouth is stumped.",-1,7
+338,Honest Iago hath tamed the order for it.,1,9
+339,"Oh, my fear and turbulence, why is he death?",-2,12
+340,"Had all his hares been lives, my great revenge had stomach for them all.",0,16
+341,"Alas, he is betrayed, I undone.",-1,9
+342,"Out, Strumpet, thou, thou weakness for him to my face.",-1,14
+343,"You say initially, my lord, but kill me not.",-1,12
+344,"Down, Strumpet.",0,4
+345,"Kill me tomorrow, let me live tonight.",-1,9
+346,"Nay, if you strive.",0,6
+347,"Being done, there is no boss.",0,8
+348,"Oh, I say one prayer.",0,7
+349,It is too late.,0,5
+350,"My lord, my lord, what ho, my lord.",0,12
+351,My lord.,0,3
+352,What noise is this?,-1,5
+353,Not dead?,-1,3
+354,Not yet quite dead?,-1,5
+355,"I am that cruel and yet merciful, and would not have thee linger in thy pain.",-1,18
+356,So.,0,2
+357,So.,0,2
+358,"What ho, my lord?",0,6
+359,My lord?,0,3
+360,Who's there?,0,4
+361,"Oh good, my lord, I'd speak a word with you.",1,14
+362,"If she come in, she'll sure speak to my wife.",0,13
+363,"My wife, my wife, I have no wife.",0,11
+364,What wife?,0,3
+365,"Oh, insupportable of heavy hour, methinks it should be now a huge eclipse of sun and moon, and that the affrighted globes should yawn at altercation.",-3,30
+366,I am to beseech you that I may speak with you.,-1,12
+367,"Oh, good my lord.",1,6
+368,I have forgot thee.,0,5
+369,Let me the curtains draw.,0,6
+370,Where art thou?,0,4
+371,What's the matter with thee now?,0,8
+372,"Oh, my good lord, yonder's foul murder's done.",-1,13
+373,What?,0,2
+374,Now?,0,2
+375,"But now, my lord.",0,6
+376,It is the very era of the moon.,0,9
+377,"She comes more nearer earth than she was wont, and makes men mad.",-1,15
+378,"Cassio, my lord, hath killed a young Venetian called Rodrigo.",-1,13
+379,Rodrigo killed?,-1,3
+380,And Cassio killed?,-1,4
+381,"No, Cassio is not killed.",-1,7
+382,"Oh, Lord, what cry is that?",-1,9
+383,That was my lady's voice.,0,7
+384,"Sweetest Simona, oh, sweet mistress, speak.",0,10
+385,Mortless death I die.,-2,5
+386,"Oh, who hath done this deed?",0,8
+387,Nobody.,0,2
+388,I myself.,0,3
+389,Farewell.,0,2
+390,"Commend me to you, my kind Lord.",1,9
+391,"Oh, why, how should she be murdered?",0,10
+392,"Alas, who knows?",0,5
+393,"You heard her say herself, it was not I.",0,11
+394,She said so.,0,4
+395,I must needs report the truth.,0,7
+396,She's like a liar going to burning hell.,-2,10
+397,It was I that killed her.,-1,7
+398,"Oh, the more angels see, and you the black are devils.",0,14
+399,"She turned to folly, and she was a whore.",-1,11
+400,"Thou just belie her, and thou art a devil.",-2,11
+401,Thou art rashest fire to say that she was false.,-1,11
+402,Thy husband knew it all.,0,6
+403,My husband?,0,3
+404,Thy husband.,0,3
+405,"Had she did true, if heaven would make me such another world of one entire and perfect chrysolite, I'd not have sold her for it.",2,29
+406,My husband!,0,3
+407,"Ay, t'was he that told me on her first.",0,11
+408,"An honest man he is, and hates the slime that sticks on filthy dears.",-2,16
+409,My husband!,0,3
+410,"Who needs this iterance, woman?",0,7
+411,I say thy husband!,0,5
+412,"Oh, mistress, villainy hath made marks with love.",0,11
+413,My husband say she was false.,-1,7
+414,"Woman, I say, thy husband, doth thou understand the word?",0,14
+415,"My friend, thy husband, honest, honest Diago.",2,11
+416,"If he say so, may his pernicious soul rot half a grain a day.",-2,16
+417,Do thy worst.,-1,4
+418,This deed of thine is no more worthy heaven than thou wast worthy of her.,3,16
+419,"Peace, you were best.",2,6
+420,Thou hast not half the power to do me harm as I have to be hurt.,-2,17
+421,O go!,0,3
+422,"O dold, as ignorant as dirt thou hast done indeed.",-2,12
+423,"O I care not for thy sword, I'll make thee known, though I lost twenty lives.",-1,20
+424,Help!,0,2
+425,Help!,0,2
+426,O help!,0,3
+427,The more hath killed my mistress!,-2,7
+428,Murder!,-1,2
+429,Murder!,-1,2
+430,What is the matter?,0,5
+431,"How now, general?",0,5
+432,"Oh, are you come, Iago?",0,8
+433,You have done well that men must lay their murders on your neck.,1,14
+434,What is the matter?,0,5
+435,Disprove this villain if thou be'st a man.,-1,9
+436,He says thou told'st him that his wife was false.,-1,11
+437,"I know that didst not, though not such a villain, speak, for my heart is full.",0,20
+438,"I told him what I thought, and no more than what he found himself was apt and true.",0,20
+439,Did you ever tell him she was false?,-1,9
+440,I did.,0,3
+441,"You told a lie, an odious damned lie.",-3,10
+442,"Upon my soul a lie, a wicked lie.",-3,10
+443,My mistress here lies murdered in her bed.,-2,9
+444,Your reports have set the murder on.,-1,8
+445,"Nay, stare not, masters.",1,7
+446,It is true indeed.,0,5
+447,"It is a strange truth, O monstrous act.",-2,10
+448,"Villainy, villainy, villainy.",0,6
+449,"I think I smell it, O villainy.",-1,9
+450,"I thought so then I'll kill myself for grief, O villainy, villainy!",-2,16
+451,"What, are you mad?",-1,6
+452,I charge you get you home.,0,7
+453,"Good gentleman, let me have leave to speak.",1,10
+454,"Tis proper I obey him, but not now.",1,10
+455,"Perchance, Iago, I will ne'er go home.",0,10
+456,I know this act shows horrible and grim.,-2,9
+457,"Poor Desdemone, I'm glad thy father's dead.",-1,11
+458,"Thy match was mortal to him, And pure grief shore his old thread in twain.",0,17
+459,"Yea, curse his better angel from his side, And fall to reverence.",1,15
+460,"It is pitiful, but yet he on the wills.",-1,11
+461,that she with Cassio had the act of shame a thousand times committed.,-1,14
+462,"It was a handkerchief, an antique token my father gave my mother.",0,14
+463,"Oh, God, oh, heavenly God.",1,9
+464,Hold your peace.,1,4
+465,"Dwell out, dwell out, eyepiece.",0,8
+466,No one will speak as liberal as the North.,0,10
+467,"Let heaven and men and devils, let them all, all, all cry shame against me, and I'll speak.",-1,24
+468,Be wise and get you.,1,6
+469,I will not.,0,4
+470,Fly your sword upon a woman.,0,7
+471,"Thou dull moor, that handkerchief now speak'st of, I found my fortune, and did give my husband.",0,21
+472,Fill thou lyst.,0,4
+473,What should such a fool do with so good a wife?,0,12
+474,"If the woman falls, she might have killed his wife.",-2,12
+475,"Oh, lay me by my mistress.",-1,8
+476,"He's gone, but his wife's killed.",-1,10
+477,Tis a notorious villain.,-1,5
+478,"I am not valiant, neither.",1,7
+479,"But every puny whisper, whipster, gets my sword.",-1,11
+480,But why shall honor outlive honesty?,2,7
+481,Let it go on.,0,5
+482,How canst thou hear me?,0,6
+483,"So come, my soul, to bliss as I speak true.",1,13
+484,"So, streaking as I think, alas, I die.",-1,12
+485,There's another weapon in this chamber.,0,8
+486,"It is a sword of Spain, but the eyes of Ruth's temper.",-1,15
+487,"Uncle, I must come forth.",0,7
+488,"If thou are tempted, it will cost thee dear.",0,11
+489,"Thou hast no weapon, and perforce must suffer.",-1,10
+490,"Look in upon me, then, and speak with me, or naked as I am, I will assault thee.",-1,23
+491,What is the matter?,0,5
+492,"Behold, I have a weapon.",0,7
+493,"that with this little arm and this good sword, I have made my way through more impediments than twenty times your stop.",1,24
+494,"But, O vain boast, who can control this fate?",-1,12
+495,It is not so now.,0,6
+496,"Be not afraid, though you do see me weaponed.",-1,11
+497,Here is my journey's end.,0,7
+498,"Blow me about it winds, roast me in sulfur, wash me in steeped down gulfs of liquid fire.",-1,21
+499,"O Destemone dead, Destemone dead, oh, oh.",-2,11
+500,There was this rash of the most unfortunate man.,-2,10
+501,"That he that was a fellow, here I am.",0,11
+502,"I look down towards his feet, but that's fatal.",-1,12
+503,"That thou beast of devil, I cannot kill thee.",-2,12
+504,Wrench his sword away from him.,0,7
+505,"I plead, sir, but not kill.",-1,9
+506,"O foul Othello that works once so good, fallen in the practice of a cursed slave, what shall be said to thee?",-2,25
+507,"Why, anything.",0,4
+508,"An honorable murderer, if you will.",0,8
+509,"For naught I did in hate, but all in honor.",0,12
+510,This wretch hath part confessed his villainy.,-1,8
+511,Did you and he consent in Cassio's death?,-1,10
+512,"I, dear General, I never gave you call.",0,11
+513,"I do believe it, and I ask your body.",0,11
+514,"Will you, I pray, demand that ditty devil?",-1,11
+515,Why he hath thus ensnared my soul and body?,0,10
+516,In this time forth I will never speak word.,0,10
+517,"What not to pray, torments will open your lips.",0,11
+518,The one of them imports the death of Cassio to be undertook by Rodrigo.,-1,15
+519,"No villain, the most heathenest and the most gross.",-1,11
+520,"Oh, thou pernicious caitiff, how came you, Cassio, by that handkerchief that was my wife's?",-1,21
+521,"Found it in my chamber, and he himself confessed, but even now, that there he dropped it for a special purpose, which wrought to his desire, oh fool.",-2,34
+522,You must forsake this room and go with us.,-1,10
+523,"Your power and your command is taken off, and Cassio rules in Cyprus.",0,15
+524,"It's after you, a word or two, before you know.",0,14
+525,"I have done the states of service, and they know it.",0,13
+526,"Then must you speak of one that loved, not wisely, but too well, of one not easily jealous, but being wrought.",1,26
+527,Killing myself to die upon a kiss.,-2,8
+528,I thought he had no weapon.,0,7
+529,But he was great of heart.,1,7
+530,Spartan dog.,0,3
+531,"More fell than anguish, hunger were the sea.",-2,10
+532,Look on the tragic loading of this bed.,-1,9
+533,This is thy work.,1,5
+534,The object poisons sight.,-1,5
+535,Let it be hidden.,0,5
+536,"Graziano, keep the house and seize upon the fortunes of the moor, for they succeed to you.",1,20
+537,"The time, the place, the torture, oh, force it.",-1,14
+538,"Myself will straight aboard, and to the state, this heavy act with heavy heart relate.",0,18

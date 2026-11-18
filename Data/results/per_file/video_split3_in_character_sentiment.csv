@@ -1,0 +1,133 @@
+line_num,line,bing_liu_score,n_tokens
+1,They give their greeting to the Citadel.,0,8
+2,"All right, I'm with you.",1,8
+3,"To give their greeting to the citadel, this likewise is a friend.",0,14
+4,Seat for the news.,0,5
+5,"Good ancient, you are welcome.",2,7
+6,"Welcome, mistress.",0,4
+7,"Let it not gall your patience, good Iago, that I extend my manners.",1,16
+8,"Sir, would she give you so much of her lips as of her tongue she oft bestows on me?",0,21
+9,You'll have enough.,1,5
+10,"Alas, she has no speech.",0,7
+11,In faith too much.,1,5
+12,I find it still when I have list to sleep.,0,11
+13,"Mary, before your ladyship, I grant.",0,9
+14,She puts her tongue a little in her heart and chides with thinking.,0,14
+15,You have little cause to say so.,0,8
+16,"Oh, fie upon thee, slanderer.",-1,8
+17,"Nay, it is true, or else I am a Turk.",0,13
+18,You rise to play and go to bed to work.,1,11
+19,You shall not write my praise.,1,7
+20,"No, let me not.",0,6
+21,"Do not learn of him, Emilia, though he be thy husband.",0,14
+22,"I'll say you, Cassio, is he not a most profane and liberal counselor?",-1,17
+23,"Madam, you may relish him more in the soldier than in the scholar.",1,15
+24,She has no speech.,0,5
+25,You have a little cause to say so?,0,9
+26,She puts her tongue a little in her heart and tries with thinking.,0,14
+27,"They give their greeting to the Citadel, this likewise is a friend.",0,14
+28,See for the news.,0,5
+29,"Good ancient, you are welcome.",2,7
+30,"Welcome, mistress.",0,4
+31,"Let it not gall your patience, good Iago, that I extend my manners.",1,16
+32,"Oh, sir, would she give you as much of her lips as of her tongue she oft bestows on me?",0,23
+33,You'll have enough.,1,5
+34,"Alas, she has no speech.",0,7
+35,"In faith, too much.",1,6
+36,I find it still when I have list to sleep.,0,11
+37,"Mary, before your ladyship I grant, she puts her tongue a little in her heart and chides with thinking.",0,22
+38,You have little cause to say so?,0,8
+39,"You are pictures out of doors, bells in your parlor, wildcats in your kitchens, saints in your injuries, devils being offended, players in your housewifery, and housewives in your beds.",0,37
+40,"Fie upon thee, slanderer.",-1,6
+41,"Nay, it is true, or else I am a Turk.",0,13
+42,You rise to play and go to bed to work.,1,11
+43,You shall not write my praise.,1,7
+44,"No, let me not.",0,6
+45,What wouldst thou write of me if thou shouldst praise me?,1,12
+46,"O gentlelady, do not put me to it, for I am nothing if not critical.",-1,18
+47,"Come on, essay.",0,5
+48,There's one gone to harbor?,0,7
+49,"Aye, madam.",0,4
+50,"I am not merry, but I do beguile the thing I am by seeming otherwise.",0,17
+51,"Come, how wouldst thou praise me?",1,8
+52,"Alas, she has no speech in faith too much.",1,11
+53,They give their greeting to the Citadel.,0,8
+54,This likewise is afraid.,-1,5
+55,See for the news.,0,5
+56,"Good ancient, you are welcome.",2,7
+57,"Welcome, mistress.",0,4
+58,"Let it not gall your patience, good Iago, that I extend my manners.",1,16
+59,"Oh, sir, would she give you so much of her lips as of her tongue she oft bestows on me?",0,23
+60,You'll have enough.,1,5
+61,"Alas, she has no speech.",0,7
+62,"In faith, too much.",1,6
+63,I find it still when I have list to sleep.,0,11
+64,"Mary, before your ladyship, I grant, she puts her tongue in her cheek, tongue a little in her heart, and chides with thinking.",0,29
+65,You have little cause to say so?,0,8
+66,"Come, come.",0,4
+67,"You are pictures out of doors, bells in your parlors, wild cats in your kitchens, saints in your injuries, devils being offended, players in your huswifery, and housewives in your beds.",-1,38
+68,"Fie upon thee, slanderer.",-1,6
+69,"Nay, it is true, or else I am a Turk.",0,13
+70,You rise to play and go to bed to work.,1,11
+71,You shall not write my praise.,1,7
+72,"No, let me not.",0,6
+73,"What wouldst thou write of me, if thou shouldst praise me?",1,13
+74,"Oh, gentlelady, do not put me toot, for I am nothing if not critical.",-1,18
+75,"Come on, essay.",0,5
+76,There's one gone to harbor.,0,7
+77,I am not.,0,4
+78,"I am not merry, but I do beguile the thing I am by seeming otherwise.",0,17
+79,What wouldst thou praise me?,1,6
+80,You have little cause to say so.,0,8
+81,What are your thoughts?,0,5
+82,"If we take the line literally, you have little cause to say that to me.",0,17
+83,What do you think he's saying in the previous line?,0,12
+84,"Oh, I find it still when I have Liz to sleep.",0,13
+85,"Mary, before your ladyship, I grant.",0,9
+86,She puts a tongue a little in her heart and chides with thinking.,0,14
+87,"to not tell Michael how to play this, but looking at the words alone, in Iago's line, marry before your ladyship to me.",0,28
+88,I grant she puts her tongue a little in her heart and chides with thinking.,0,16
+89,You have little cause to say so?,0,8
+90,"Desdemona responds, fie upon thee slanderer, which seems almost tame in the wake of what that is.",-1,20
+91,you rise to play and go to bed to work.,1,11
+92,"That's another, like, horror reference.",1,9
+93,You shall not write my praise.,1,7
+94,"Do not learn of him, Amelia, though he be thy husband.",0,14
+95,"If it cuts from she puts her tongue a little in her heart and chides with thinking, cut to",0,20
+96,you shall not write my praise.,1,7
+97,You shall not write my praise.,1,7
+98,"Cassio responds, Madam, you may relish him more in the soldier than in the scholar.",1,18
+99,"Do not learn of him, Amelia, though he be thy husband.",0,14
+100,They give their greeting to the Citadel.,0,8
+101,This likewise is a friend.,0,6
+102,See for the news.,0,5
+103,"Good agent, you are welcome.",2,7
+104,"Welcome, mistress.",0,4
+105,"Let it not gall your patience, good Iago, that I extend my manners.",1,16
+106,Tis my breeding that gives me bold show of courtesy.,0,11
+107,"Oh, sir!",0,4
+108,"Would she give you so much of her lips as she, of her tongue, she so oft bestows on me?",0,23
+109,You'll have enough.,1,5
+110,"Alas, she has no speech.",0,7
+111,"In faith, too much.",1,6
+112,I find it still when I have list to sleep.,0,11
+113,"Mary, before your ladyship, I grant, she puts her tongue a little in her heart and chides with thinking.",0,23
+114,You have little cause to say so.,0,8
+115,"You are pictures out of doors, bells in your parlors, wildcats in your kitchens, saints in your injuries, devils being offended.",0,26
+116,players in your housewifery and housewives in your beds.,0,10
+117,"Do not learn of him, Amelia, though he be thy husband.",0,14
+118,"They give their greeting to the Citadel, this likewise is a friend.",0,14
+119,See for the news.,0,5
+120,"Good ancient, you are welcome.",2,7
+121,"Welcome, mistress.",0,4
+122,"Let it not gall your patience, good Iago, that I extend my manners.",1,16
+123,"Sir, would she give you so much of her lips as of her tongue she oft bestows on me?",0,21
+124,You'll have enough.,1,5
+125,Unless she has no speech.,0,6
+126,"Faith, too much.",1,5
+127,I find it still when I have list to sleep.,0,11
+128,"Mary, before your ladyship I grant, she puts her tongue a little into her heart and chides with thinking.",0,22
+129,You've had little cause to say so.,0,9
+130,"I am not Mary, and I do beguile the thing I am by seeming otherwise.",-1,17
+131,There's one gone to harbor?,0,7
+132,"And I think, too, back at 3.05.",0,10

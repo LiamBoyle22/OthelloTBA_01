@@ -1,0 +1,284 @@
+line_num,line,bing_liu_score,n_tokens
+1,My mother had a maid called Barbary.,0,8
+2,What a full fortune does the thick lips owe if he can carry it thus.,1,16
+3,Call up her father.,0,5
+4,Proclaim him in the streets.,0,6
+5,"Though that his joy be joy, yet throw such changes of vexation on't as it may lose some color.",0,22
+6,Here's her father's house.,0,7
+7,"Do with like timorous accent and dire yell, as when by night and negligence the fire is spied in populous cities.",-1,23
+8,What ho!,0,3
+9,Brabantio!,0,2
+10,Senor Brabantio!,0,3
+11,Ho!,0,2
+12,Awake!,0,2
+13,What ho?,0,3
+14,Brabantio!,0,2
+15,Thieves!,0,2
+16,Thieves!,0,2
+17,Thieves!,0,2
+18,Look to your house!,0,5
+19,Your daughter!,0,3
+20,Your bags!,0,3
+21,Thieves!,0,2
+22,Thieves!,0,2
+23,What is the reason of this terrible summons?,-1,9
+24,What is the matter there?,0,6
+25,"Senor, is all your family within?",0,8
+26,Are your doors locked?,0,5
+27,"Why, wherefore ask you this?",0,7
+28,You have lost half your soul!,-1,7
+29,"Now, very now, the black ram is tupping your white ewe.",0,14
+30,"Arise, arise!",0,4
+31,"Awake the snorting citizens with the bell, or else the devil will make a grandsire of you.",-1,19
+32,"Arise, I say!",0,5
+33,What have you lost your wits?,-1,7
+34,"Most reverend, senor, do you know my voice?",0,11
+35,"Not I, what are you?",0,7
+36,My name is Rodrigo.,0,5
+37,Worse and welcome.,0,4
+38,I have charged thee not to haunt about my doors.,-1,11
+39,"In honest plainness thou hast heard me say, my daughter is not for thee.",1,16
+40,"And now in madness, being full of supper and distempering draughts, upon malicious bravery dost thou come to start my quiet.",0,24
+41,"Sir, sir, sir.",0,6
+42,But thou must needs be sure my spirit and my place have in them power to make this bitter to thee.,-1,22
+43,"Patience, good sir.",2,5
+44,What tellst me thou of robbing?,0,7
+45,This is Venice.,0,4
+46,My house is not a grange.,0,7
+47,"Most grave, Brabantio, in simple and pure soul, I come to you.",1,16
+48,"Zunes, sir, are you one of those that will not serve God if the devil bid you?",-1,20
+49,"Because we come to do you service, and you think we are ruffians?",0,15
+50,"You'll have your daughter covered with a barbary horse, you'll have your nephews neigh at you, and you'll have coursers of cousins and jennets for Germans.",0,32
+51,What profane wretch art thou?,-2,6
+52,"I am one, sir, that comes to tell you your daughter and the moor are now making the beast with two backs.",0,25
+53,Thou art a villain.,0,5
+54,You're a senator.,0,5
+55,This thou shalt answer.,0,5
+56,"I know thee, Rodrigo.",0,6
+57,"Sir, I will answer anything.",0,7
+58,"If this be known to you, and your allowance, we then have done you bold and saucy wrongs.",0,21
+59,"But if you know not this, my manners tell me we have your wrong rebuke.",-2,17
+60,Do not believe that from the sense of all civility I thus would play and trifle with your reverence.,2,20
+61,"Your daughter, if you have not given her leave, I say again, hath made a gross revolt.",-2,21
+62,"tying her duty, beauty, wit, and fortunes in an extravagant and wheeling stranger of here and everywhere.",-1,21
+63,Straight satisfy yourself.,1,4
+64,"If she be in her chamber or your house, let loose on me the justice of the state for thus deluding you.",-1,24
+65,"Strike on the tinder, huh?",-1,7
+66,What a full fortune does the thick lips owe if he can carry it thus.,1,16
+67,Call her father.,0,4
+68,Rouse him.,0,3
+69,Make after him.,0,4
+70,Poison his delight.,0,4
+71,Proclaim him in the streets.,0,6
+72,Incense her kinsmen.,-1,4
+73,"Though he in a fertile climate dwell, plague him with lies, though that his joy be joy, yet throw such changes of vexation on't as it may lose some color.",-1,35
+74,Do with like timorous accent and dire yell as when by night and negligence the fire is spied in populous cities.,-1,22
+75,What ho?,0,3
+76,Brabantio!,0,2
+77,"Senor Brabantio, ho!",0,5
+78,Awake!,0,2
+79,What ho?,0,3
+80,"Brabantio, thieves!",0,4
+81,Thieves!,0,2
+82,Thieves!,0,2
+83,"Look to your house, your daughter, your bags!",0,11
+84,Thieves!,0,2
+85,Thieves!,0,2
+86,What is the reason of this terrible summons?,-1,9
+87,What is the matter here?,0,6
+88,"Senor, is all your family within?",0,8
+89,Are your doors locked?,0,5
+90,"Why, wherefore we ask you this?",0,8
+91,"Dooms, sir, you're robbed for shame.",-1,10
+92,Your heart is burst and you have lost half your soul.,-1,12
+93,"Even now, now, very now, an old black ram is tupping your white ewe.",0,18
+94,"Arise, arise.",0,4
+95,Awake the snorting citizens with the bell or else the devil will make a grandsire of you.,-1,18
+96,"Arise, I say.",0,5
+97,What have you lost your wits?,-1,7
+98,"Most reverend, senor, do you know my voice?",0,11
+99,Not I.,0,3
+100,What are you?,0,4
+101,My name is Rodrigo.,0,5
+102,Worser welcome.,1,3
+103,I have charged thee not to haunt about my doors.,-1,11
+104,But thou must needs be sure my spirit and my place have in them power to make this bitter to thee.,-1,22
+105,"Patience, good sir.",2,5
+106,What tellst thou me of robbing?,0,7
+107,My house is not a grange.,0,7
+108,"Must grave, Brabantio, in simple and pure soul.",1,11
+109,"Because we come to do you service and you think we are ruffians, you'll have your daughter covered with a barbary horse.",0,25
+110,You'll have nephews neigh at you.,0,8
+111,You'll have coursers for cousins and jennets for Germans.,0,11
+112,What profane wretch art thou...,-2,6
+113,"I am one, sir, that comes to tell you your daughter and the moor are now making the beast with two backs.",0,25
+114,Thou art a villain.,0,5
+115,You're a senator.,0,5
+116,"This thou shalt answer, I know thee, Rodrigo.",0,11
+117,"But if you know not this, my manners tell me we have your wrong rebuke.",-2,17
+118,Do not believe that from the sense of all civility I thus would play and trifle with your reverence.,2,20
+119,"If she be in her chamber of your house, let loose on me the justice of the state for thus deluding you.",-1,24
+120,Strike on the tender hoe.,0,6
+121,I do say she was in love and he she loved proved mad.,1,14
+122,This load of ego is a proper man.,1,9
+123,What have you lost your wits?,-1,7
+124,"Most reverend senor, do you know my voice?",0,10
+125,"Hi, what are you?",0,6
+126,My name is Rodrigo.,0,5
+127,A worse are welcome.,0,5
+128,I have charged thee not to haunt about my doors.,-1,11
+129,"In honest plainness thou hast heard me say, my daughter is not for thee.",1,16
+130,"That now, in madness, being full of supper and distempering draughts, upon malicious bravery dost thou come to start my choir?",-1,25
+131,"Sir, sir, sir.",0,6
+132,But thou must needs be sure my spirit and my place have in them power to make this bitter to thee.,-1,22
+133,"Patience, good sir.",2,5
+134,What tellst thou me of robbing?,0,7
+135,This is Venice.,0,4
+136,My house is not a grange.,0,7
+137,"Most grave, Brabantio, in simple and pure soul I come to you.",1,15
+138,"Zun, sir, are you one of these that will not serve God if the devil bids you?",-1,20
+139,"Arise, arise!",0,4
+140,"Awake the snorting citizens with the bell, or else the devil will make a grandsire of you arise, I say.",-1,23
+141,"What, have you lost your wits?",-1,8
+142,"Most reverend senor, do you know my voice?",0,10
+143,"Not I, what are you?",0,7
+144,My name is Rodrigo.,0,5
+145,The worser welcome.,1,4
+146,I have charged thee not to haunt about my doors.,-1,11
+147,"In honest plainness, thou hast heard me say, my daughter is not for thee.",1,17
+148,But thou must needs be sure.,0,7
+149,My spirit and my place have in them power to make this bitterly...,-1,14
+150,"Patience, good sir.",2,5
+151,What tellst thou me of robbing?,0,7
+152,"Arise, arise!",0,4
+153,"Awake the snorting citizens with the bell, or else the devil will make a grandsire of you.",-1,19
+154,"Arise, I say.",0,5
+155,"What, have you lost your wits?",-1,8
+156,"Most reverend senor, do you know my voice?",0,10
+157,"Not I, what are you?",0,7
+158,My name is Rodrigo.,0,5
+159,The worse are welcome.,0,5
+160,I have charged thee not to haunt about my doors.,-1,11
+161,"In honest plainness thou hast heard me say, my daughter is not for thee.",1,16
+162,"And now in madness, being full of supper and distempering draughts, upon malicious bravery, dost thou come to start my fight?",-1,25
+163,But thou must needs be sure my spirit and my place have in them power to make this bitter to thee.,-1,22
+164,What tell thou me of robbing?,0,7
+165,"This is Venice, my house is not a grange.",0,11
+166,"My most grave, Brabantio, in simple and pure soul I come to you.",1,16
+167,"Zunes, are you one of those that will not serve God if the devil bid you?",-1,18
+168,"Because we come to do you service, and you think we are ruffians.",0,15
+169,You'll have your daughter covered by a barbary horse.,0,11
+170,"You'll have your nephews neigh to you, and you'll have coursers for cousins and jennets for Germans.",0,21
+171,What profane wretch art thou?,-2,6
+172,"Oh, I am one, sir, that comes to tell your daughter and the moor are now making the beast with two backs.",0,26
+173,Thou art a villain!,0,5
+174,Then you're a senator!,0,6
+175,This thou shalt answer!,0,5
+176,"I know thee, Rodrigo!",0,6
+177,"Sir, I will answer anything.",0,7
+178,"But if you know not this, my manners tell me, we have your wrong rebuke.",-2,18
+179,Do not believe that from the sense of all civility I thus would play and trifle with your reverence.,2,20
+180,"If she be in her chamber or your house, let loose on me the justice of the state for thus deluding you.",-1,24
+181,"Strike on the tinder, hope.",-1,7
+182,"Awake the snorting citizens with a bell, or else the devil will make a grandsire of you!",-1,19
+183,"Arise, I say!",0,5
+184,"What, have you lost your wits?",-1,8
+185,"Most reverend senor, do you know my voice?",0,10
+186,"Not I, what are you?",0,7
+187,My name is Rodrigo.,0,5
+188,The worse are welcome.,0,5
+189,I have charged thee not to haunt about my doors.,-1,11
+190,"In honest plainness thou hast heard me say, my daughter is not for thee.",1,16
+191,"And now in madness, being full of supper and distempering drafts upon malicious bravery, dost thou come to start, my quiet?",0,25
+192,"Sir, sir, sir.",0,6
+193,But thou must need be sure my spirit and my place have in them power to make this mission to thee.,0,22
+194,"Patience, good sir.",2,5
+195,What tell thou me of robbing?,0,7
+196,This is Venice.,0,4
+197,My house is not a grave.,0,7
+198,"Most grave, Brabantio, in simple and pure soul I come to you.",1,15
+199,"Because we come to do you service, and you think we are ruffians.",0,15
+200,You'll have your daughter covered with a Barbary horse.,0,11
+201,You'll have your nephews neigh to you.,0,9
+202,What profane wretch art thou?,-2,6
+203,"I'm one, sir, who comes to tell you your daughter in the moor are now making the beast.",0,22
+204,With two backs!,0,4
+205,Thou art a villain!,0,5
+206,"Yeah, and you are a senator.",0,8
+207,This thou shalt answer.,0,5
+208,"I know thee, Rodrigo.",0,6
+209,"Sir, I will answer anything.",0,7
+210,"But if you know not this, my manners tell me we have your wrong rebuke,",-2,17
+211,Do not believe that from the sense of all civility I thus would play and trifle with your reverence.,2,20
+212,"If she be in her chamber of your house, let loose on me the justice of the state for thus deluding you.",-1,24
+213,"Strike on the tinder, Hope.",-1,7
+214,Give me a taper.,0,5
+215,Call up all my people.,0,6
+216,This accident is not unlike my dream.,0,8
+217,Belief of it oppresses me already.,0,7
+218,"Light, I say, light!",0,7
+219,"Farewell, I must leave you.",0,7
+220,"It seems not meet, nor wholesome to my place, to be produced, as if I stay, I shall, against the moor.",1,27
+221,"Have you not read, Rodrigo, of some such thing?",0,12
+222,"Yes, sir, I have indeed.",0,8
+223,"Call him, my brother.",0,6
+224,"Oh, would you had had her.",0,8
+225,"Some one way, some another.",0,7
+226,Do you know...,0,4
+227,where we may apprehend her and the more.,0,9
+228,"I think I can discover him, if you please, to get good guard and go along with me.",1,21
+229,"At every house I'll call, I may command at most.",0,13
+230,It seems not meet nor wholesome to my place to be produced as if I stay I shall against the Moor.,1,22
+231,"For I do know the state, however, this may gall him with some check.",-1,17
+232,"cannot with safety cast him, right?",1,9
+233,Though I do hate him as I do hell pains.,-3,11
+234,"Lead to the Sagittary, the razed search.",1,9
+235,Which is indeed but a sign that you shall surely find him.,0,13
+236,It is too true an evil.,-1,7
+237,And what's to come of my despised time is not but bitterness.,-2,14
+238,It is too true an evil.,-1,7
+239,And what's to come of my despised time is not but bitterness.,-2,14
+240,"Now, Rodrigo, where didst thou see her?",0,10
+241,"Oh, unhappy girl.",-1,5
+242,"With the moor, say'st thou, who would be a father?",0,13
+243,How didst thou know it was she?,0,8
+244,It is too true an evil.,-1,7
+245,And what's to come of my despised time is not but bitterness.,-2,14
+246,"Now, Rodrigo, where didst thou see her?",0,10
+247,"Oh, unhappy girl.",-1,5
+248,"With the moor, sayest thou, who would be a father?",0,13
+249,How didst thou know t'was she?,0,7
+250,She deceives me past thought.,0,6
+251,What said she to you?,0,6
+252,"Truly, I think they are.",0,7
+253,"Oh, heaven.",1,4
+254,"Fathers, from hence, trust not your daughter's mind by what you see them act.",1,18
+255,"Have you not read, Rodrigo, of some such thing?",0,12
+256,"Yes, sir, I have indeed.",0,8
+257,Call up my brother.,0,5
+258,Would you had had her.,0,6
+259,"Some one way, some another.",0,7
+260,Do you know where we may apprehend her and the moor?,0,12
+261,"I think I can discover him, if you please, to get good guard and go along with me.",1,21
+262,You lead on.,1,4
+263,"At every house I'll call, I may command at most.",0,13
+264,"Get weapons, ho!",0,5
+265,And raise some special officers of night on.,0,9
+266,"Good Rodrigo, I'll deserve your pains.",0,9
+267,I'm really interested in those special officers of the night.,0,12
+268,It is too true an evil.,-1,7
+269,And what's to come of my despised time is not but bitterness.,-2,14
+270,"Now, Rodrigo, where didst thou see her?",0,10
+271,"Fathers, from hence, trust not your daughters' minds by what you see them act.",1,18
+272,"Have you not read, Rodrigo, of some such thing?",0,12
+273,"Yes, sir, I have indeed.",0,8
+274,Call up my brother.,0,5
+275,Who would you had had her?,0,7
+276,"Some one way, some another.",0,7
+277,Do you know where we may apprehend her in the moor?,0,12
+278,"I think I can discover him, if you please, to get good guard and go along with me.",1,21
+279,Pray you lead on.,1,5
+280,"At every house I'll call, I may command at most, Get weapons!",0,16
+281,Ho!,0,2
+282,And raise some special officers of night.,0,8
+283,"On, good Rodrigo, I'll deserve your pains.",0,11

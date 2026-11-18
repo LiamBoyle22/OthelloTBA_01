@@ -1,0 +1,274 @@
+line_num,line,bing_liu_score,n_tokens
+1,What made you from that?,0,6
+2,"How was it with you, my most fair Bianca?",1,11
+3,I was coming to your house.,0,7
+4,And I was going to your house.,0,8
+5,"Pardon me, Bianca.",1,5
+6,"I had this while with eleven thoughts been pressed, but I shall in a more continued time strike off this score.",-1,23
+7,"No, by my faith.",1,6
+8,I found it in my chamber.,0,7
+9,"Now, if this suit lay in Bianca's power, how quickly should you speak?",0,17
+10,"Alas, poor Kate.",-1,5
+11,I never knew a woman loved a man so far.,1,11
+12,"Alas, poor rogue.",-2,5
+13,"Do you hear, Cassia?",0,6
+14,She gives it out that you shall marry her.,0,10
+15,Do you intend it?,0,5
+16,Well.,1,2
+17,"Now, if this suit lay in Bianca's power, how quickly you should speak.",0,17
+18,"Alas, poor cages.",-1,5
+19,"I never knew a woman loved a man, sir.",1,11
+20,"Alas, poor rogue.",-2,5
+21,"Ah, do you hear, Cassia?",0,8
+22,She gives it up that you shall marry her.,0,10
+23,Do you intend it?,0,5
+24,I must leave her company.,0,6
+25,"For me, look here where she comes.",0,9
+26,What do you mean by this haunting of me?,-1,10
+27,Let the devil and his dam haunt you.,-2,9
+28,Come when you're next prepared for.,0,8
+29,"After her, after her.",0,6
+30,"Wheresoever you had it, I'll take out no work on it.",1,14
+31,"Wheresoever you had it, I'll take out more work on it.",1,14
+32,"How now, my sweet Bianca?",1,7
+33,How now?,0,3
+34,How now?,0,3
+35,That's you.,0,4
+36,"Oh, sorry.",-1,4
+37,And you'll come to supper tonight.,0,8
+38,You may.,0,3
+39,And you will not come when you're next prepared for.,0,12
+40,"Faith, I must, she'll rail in the streets else.",0,13
+41,How is the brother?,0,5
+42,My leg is cut in two.,0,7
+43,"Mary, heaven forbid.",0,5
+44,"Like, gentlemen, I'll find you with my shirt.",1,12
+45,What is the matter?,0,5
+46,Who is it that cry?,-1,6
+47,"A notable strumpet, Cassio.",0,6
+48,"Oh, but she had bared him but easily, hence.",0,12
+49,"Gentlemen, all, I do suspect this trash to be a party in this injury.",-3,17
+50,"Patience a while, but Cassio.",1,7
+51,"Come, come, let me alight.",0,8
+52,"Know we this face, I know.",0,8
+53,"Alas, my friend, and my dear countryman, Rodrigo,",0,12
+54,"How do you, Cassio, Rodrigo?",0,8
+55,"He, tis he.",0,5
+56,Some good men bear him carefully from hens.,1,9
+57,I'll fetch the general surgeon.,0,7
+58,"You, mistress!",-1,4
+59,"He, Cassio, there lies slain here with my dear friend.",-1,13
+60,What malice was between you?,-1,6
+61,"None in the world, nor do I know the man.",0,12
+62,"Look, you pale mistress.",-2,6
+63,Do you perceive the gassedness of her eye?,0,9
+64,"I pray you, look upon her.",0,8
+65,What's the matter?,0,5
+66,Cassio has here been set on in the dark by Rodrigo and fellows that escaped.,-1,16
+67,He's almost slain and Rodrigo dead.,-1,8
+68,"Alas, good gentleman, alas, good Cassio.",2,10
+69,"What, do you shake at that?",-1,8
+70,He supped.,0,3
+71,"at my house, but I therefore shake not.",-1,10
+72,"Fie, fie upon these strumpets.",0,7
+73,"Kind gentlemen, let go see poor Cassio dressed.",-1,10
+74,"Amelia, run you to the citadel and tell my lord and lady what hath happened.",0,17
+75,"I say, what's the matter?",0,8
+76,What make you from home?,0,6
+77,"How is it with you that was fair, Bianca?",1,11
+78,"Faith, I was coming to your house.",1,9
+79,And I was going to your night in Kansas.,0,10
+80,"Pardon me, Bianca.",1,5
+81,"I have this while with leaden thoughts been pressed, but I shall, in a more continuate time, strike off this score of absence, sweet Bianca.",-1,30
+82,Whence came this?,0,4
+83,Some token from a new friend.,0,7
+84,"Oh, you're my, oh, yes, it's in the devil's teeth from whence you have it.",-1,23
+85,"No, by my faith.",1,6
+86,I found it in my chamber.,0,7
+87,"I like the work, well.",3,7
+88,"There'd be demand that is like it, and like enough it will.",3,15
+89,"If I'd have it copied, take it and do it and leave me.",0,16
+90,This time.,0,3
+91,Leave me?,0,3
+92,"I do pretend here on the general and think it no addition, nor my wish to have him see me.",-1,22
+93,To the woman.,0,4
+94,"I pray, why?",0,5
+95,Not that I love you not.,1,7
+96,But that you do not love me.,1,8
+97,I pray you bring me fifty-one of it.,0,9
+98,"How do you do now, Lieutenant?",0,8
+99,The worst that you give me the addition whose want even kills me.,-2,14
+100,"I never knew a woman loved a man, so.",1,11
+101,"Alas, poor rogue.",-2,5
+102,"Do you hear, Cassia?",0,6
+103,She gives it out that you shall marry her.,0,10
+104,Do you intend it?,0,5
+105,"Well, I must leave her company.",1,8
+106,Let the devil and the dam haunt you.,-2,9
+107,"Wheresoever you had it, I'll take out no work.",1,12
+108,"What happened to you, sweet Bianca?",1,8
+109,"How now, how now?",0,6
+110,And you'll come to supper tonight.,0,8
+111,And you will not come when you are next prepared for.,0,12
+112,Will you stop there?,0,5
+113,"Faith, I intend so.",1,6
+114,"Go to, say no more.",0,7
+115,I was coming to your house.,0,7
+116,This is some token from a newer friend.,0,9
+117,What make you from home?,0,6
+118,"I was looking for my most fair, Bianca.",1,10
+119,And I was coming to your lodging castle.,0,9
+120,"Pardon me, Bianca.",1,5
+121,I found it in the chamber.,0,7
+122,"It would be demanded as like enough, if though I have a copy, take you, and do it, and leave me.",2,26
+123,Not that I love you not.,1,7
+124,But that you do not love me.,1,8
+125,I think maybe Bianca's line needs to be done.,0,11
+126,Not that I love you not.,1,7
+127,Pray you bring me on away a while.,0,9
+128,"I attend here, but I'll see you soon at night.",0,13
+129,"Tis very good, I must be circumstanced.",1,9
+130,But that you do not love me.,1,8
+131,"How is it with you, my most fair Bianca?",1,11
+132,"Faith, I was coming to your house.",1,9
+133,And I was coming to you as your castle.,0,10
+134,"Pardon you, Bianca.",1,5
+135,Have this while with us.,0,6
+136,"but I shall, in a more continued time, strike off this score of absence.",-2,17
+137,Whence came this?,0,4
+138,"And to get no addition on my wish to have him see me, woman.",0,16
+139,I think that you do not love me.,1,9
+140,Who has put in?,0,5
+141,"This one Iago, agent to the general.",0,9
+142,He's at most favorable and happy speed.,2,9
+143,What is she?,0,4
+144,"She, our great captain's captain, left in the conduct of the bold Iago, whose footing here anticipates our thoughts.",1,24
+145,"Behold, the riches of the ship is come on shore.",0,12
+146,"Hail to thee, lady, in grace of heaven, before, behind thee, and on.",3,19
+147,Cassio.,0,2
+148,"What tidings, can you tell me, my lord?",0,11
+149,"He has not yet arrived, nor know I ought, but that he is well, and will be here shortly.",1,23
+150,"Oh, my fear.",-1,5
+151,How lost your company?,-1,5
+152,The great contingent of the sea and skies parted our fellowship.,1,12
+153,The dark.,-1,3
+154,They give their greeting to the citadel.,0,8
+155,This likewise is a friend.,0,6
+156,See for the news.,0,5
+157,"Welcome, mistress.",0,4
+158,"Sir, would she give you so much of her lips as her tongue she ought bestows upon me?",0,20
+159,You'll ever know.,0,5
+160,Alas she has you of speech.,0,7
+161,"In fey, too much.",0,6
+162,I find it still when I have list to sleep.,0,11
+163,"Mary, before your ladyship, I grant she to put her tongue a little in her heart and jive with thinking.",0,23
+164,You don't have little cause to say so.,0,10
+165,"Bells in your parlors, wildcats in your kitchen, saints in your injuries, devils being offended, plays in your house, whippery, and housewives in your place.",0,32
+166,Tis true or else I'm a turk.,0,9
+167,You rise to play and go there to work.,1,10
+168,You shall not write my praise.,1,7
+169,"No, let me know.",0,6
+170,"Emilia, though, he be thy husband.",0,9
+171,Whisper with as little a weapon as this.,0,9
+172,Tis so indeed.,0,4
+173,The more I know his trumpet is truly so.,1,10
+174,Let's meet him and receive him.,0,8
+175,"Lo, where he comes.",0,6
+176,How was my old acquaintance of this island?,0,9
+177,"Oh, fair warrior.",1,5
+178,That gives me wonder great as my content to see you here before me.,2,15
+179,May the winds blow till they have wakened death.,-2,10
+180,"and let the laboring bark climb hills of seas, a lip as high and duck again as low as hell's from heaven.",0,25
+181,The heavens forbid but that our loves and comforts should increase even as our days do grow.,0,18
+182,"Amen to that, sweet powers.",1,7
+183,I cannot speak enough of his content.,1,9
+184,It stops me here.,0,5
+185,It is too much of joy.,1,7
+186,"And this, and this, the greatest discourse be.",1,11
+187,That air our hearts shall make.,0,7
+188,"Come, let us to the castle.",0,8
+189,"Honey, you shall be well desired in Cyprus.",1,10
+190,I have found great love amongst them.,2,8
+191,Pray thee.,0,3
+192,Go to the bay and disembark my conference.,0,9
+193,Bring thou the master to the citadel.,1,8
+194,"He is a good one, and his worthiness does challenge much respect.",3,14
+195,"Come, testimony.",0,4
+196,"Once more, well met in Cyprus.",1,8
+197,What's the line?,0,5
+198,"Sir, would she give you so much of her lips as her tongue she off bestows on me?",0,20
+199,You'll have enough.,1,5
+200,Would she give you so much of her lips?,0,10
+201,Would she give you as much of her lips?,0,10
+202,"This is Juan Iago, agent to the general.",0,10
+203,He's had most favorable and happy speed.,2,9
+204,What is she?,0,4
+205,"She, our great captain's captain, left in the conduct of the bold Iago, who's footing here anticipates our thoughts, us a knight's speed.",1,31
+206,"Behold, the riches of this ship have come ashore.",0,11
+207,"Hail to thee, lady, and the grace of heaven before, behind thee, and on thee.",3,20
+208,"If we are, how lost do you accompany?",-1,10
+209,The great contention of the sea and skies parted our fellowship.,0,12
+210,But hark.,0,3
+211,They give their greeting to the citadel.,0,8
+212,This likewise is a friend.,0,6
+213,See for the news.,0,5
+214,"Good ancient, you are welcome.",2,7
+215,Welcome.,1,2
+216,"Now, let it not call me your patience, good young girl, that I extend my manners to my breeding that gives me this bold show of courtesy.",2,31
+217,"Oh, would she give you so much of her lips as her tongue she all bestows upon me?",0,20
+218,"Alas, she has no speech.",0,7
+219,You say too much.,0,5
+220,I find it still when I have the list to sleep.,0,12
+221,Married before your ladyship.,0,5
+222,I grant she puts her tongue a little in her heart and chides with thinking.,0,16
+223,You have no cause to say so.,0,8
+224,"Bells in your harbor, wild cats in your kitchen, saints in your injuries, devils being offended, players in your hospitality, and housewives in your dance.",-1,31
+225,"It is true, or else I'm a Turk.",0,11
+226,You rise to play and go with dead people.,-1,10
+227,You shall not write my phrase.,0,7
+228,"No, let me not.",0,6
+229,Tis so indeed.,0,4
+230,"Ah, the Lord, I know his trumpet.",1,10
+231,It is truly so.,0,5
+232,"Lo, where he comes.",0,6
+233,Tell me how.,0,4
+234,The riches of the ship has come on shore.,0,10
+235,"Hail to thee, lady, in the grace of heaven.",3,12
+236,"Behold for thee, behind thee and upon thee.",0,10
+237,"Cassio, what times can you tell me of our lord?",0,12
+238,"He has not yet arrived, nor I ought.",0,10
+239,"But that he's well, then we'll be shortly here.",1,13
+240,"Oh, I fear.",-1,5
+241,How lost your company?,-1,5
+242,The great contention of the sea and sky is part of our fellowship.,0,14
+243,"But hark, they give their greeting to the Citadel.",0,11
+244,This likewise is a friend.,0,6
+245,See for the news.,0,5
+246,"Good ancient, you're welcome.",2,7
+247,"We're better not go on your patience, good young girl.",3,13
+248,"Sir, would she give you so much of her lips as of her tongue that Ioth bestows me?",0,20
+249,You'll have enough.,1,5
+250,"Alas, she has no spirit.",0,7
+251,"I find it still, when I have Liz to sleep.",0,12
+252,"Marry your ladyship, I grant.",0,7
+253,"You have low cause to say so, ma'am.",0,10
+254,"You have pictures out of doors, bells in your harbors, wild cats in your kitchen, saints in your injuries, devils being offended, plays in your housewifery, and housewives in your beds.",-2,38
+255,You shall not read my phrase.,0,7
+256,"No, let me not.",0,6
+257,I know his trumpet.,1,5
+258,Tis truly so.,0,4
+259,Let's meet him and receive him.,0,8
+260,"Hello, where he comes?",0,6
+261,"You rise to play, and you're to bed to work.",1,13
+262,"Bells in your harbors, wildcats in your kitchen.",-1,10
+263,"Saints in your injuries, devils being offended.",0,9
+264,Plays in your housewifery and housewives in your beds.,0,10
+265,This tour or else I'm a Turk?,0,9
+266,You rise to play and go to bed to work.,1,11
+267,You'll have little cause to say so.,0,9
+268,"No, let me not.",0,6
+269,The moor!,0,3
+270,I know his trumpets.,0,5
+271,Let's meet him and receive him?,0,8
+272,"Lo, where he comes?",0,6
+273,What is whisper there?,0,5

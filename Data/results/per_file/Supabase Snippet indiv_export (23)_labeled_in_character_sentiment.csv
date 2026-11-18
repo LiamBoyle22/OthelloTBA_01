@@ -1,0 +1,230 @@
+line_num,line,bing_liu_score,n_tokens
+1,"And, Zach, I'll read with you.",0,10
+2,"What say's thou, noble heart?",1,8
+3,"What will I do, thinks thou?",0,8
+4,If I go to bed and sleep.,0,8
+5,I will incontinently drown myself.,0,6
+6,"If thou dost, I shall never love thee after.",1,11
+7,"Why, thou silly gentleman.",-1,6
+8,It is silliness to live when to live is torment.,-1,11
+9,And then have we a prescription to die when death is our physician.,-2,14
+10,I would say I would drown myself for the love of a guinea hen.,1,15
+11,I would change my humanity with a baboon.,0,9
+12,"I confess it is my shame to be so fond, but it is not in my virtue to amend it.",0,22
+13,It is in ourselves that we are thus and thus.,0,11
+14,"But we have reason to cool our raging motions, our carnal stings, our unbitted lusts, whereof I take this that you call love to be a sect or science.",1,33
+15,It cannot be.,0,5
+16,It is merely a lust of the blood and a permission of the will.,0,15
+17,"Come be a man, drown thyself.",0,8
+18,"It was a violent commencement in her, and thou shalt see an answerable sequestration.",-1,16
+19,These moors are changeable in their wills.,0,8
+20,The food that to him now is as luscious as locust shall be to him shortly as bitter as Cola Quintita.,-1,22
+21,She must change for youth.,0,6
+22,"When she is sated with his body, she will find the error of her choice.",-1,17
+23,"If sanctimony and a frail vow betwixt an erring barbarian and a super subtle Venetian be not too hard for my wits, and all the tribe of hell, thou shalt enjoy her.",-2,35
+24,Pox of drowning.,-1,4
+25,It is clean out of the way.,1,8
+26,Seek thou rather to be hanged in compassing thy joy than to be drowned and go without her.,1,19
+27,Wilt thou be fast to my hopes if I depend on the issue?,-1,14
+28,"I have told thee often, and I retell thee again and again.",0,14
+29,There are many events in the womb of time which will be delivered.,0,14
+30,"Traverse, go.",0,4
+31,Provide thy money.,0,4
+32,We will have more of this tomorrow.,0,8
+33,Adieu.,0,2
+34,Where shall we meet in the morning?,0,8
+35,At my lodging.,0,4
+36,"Do you hear, Rodrigo?",0,6
+37,Do you hear?,0,4
+38,"Iago, what will I do, thinks thou?",0,10
+39,Go to bed and sleep.,0,6
+40,I will incontinently drown myself.,0,6
+41,"If thou dost, I shall never love thee after, thou silly gentleman.",0,15
+42,"It is silliness to live when to live is torment, and then have we a prescription to die when death is our physician.",-3,25
+43,"Ere I would say I would drown myself for the love of a guinea hen, I would change my humanity with a baboon.",1,25
+44,"I confess it is my shame to be so fond, but it is not in my virtue to amend it.",0,22
+45,A virtue?,1,3
+46,A fig.,0,3
+47,It is in ourselves that we are thus and thus.,0,11
+48,Our bodies are our gardens to which our wills are gardeners.,0,12
+49,"If the balance of our lives had not one scale of reason to poison another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions.",-2,33
+50,"But we have reason to cool our raging motions, our carnal stings, our unbittered lusts.",0,18
+51,Whereof I take this that you call love to be a sect or scion.,1,15
+52,It is merely a lust of the blood and a permission of the will.,0,15
+53,"It was a violent commencement, and thou shalt see an answerable sequestration.",-1,14
+54,These Moors are changeable in their wills.,0,8
+55,The food that to him is now as luscious as locusts shall be to him shortly as bitter as colloquantita.,-1,21
+56,She must change for youth.,0,6
+57,"When she is sated with his body, she will find the error of her choice.",-1,17
+58,She must put money in thy purse.,0,8
+59,"if sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wit and all the tribe of hell, thou shalt enjoy her, the pox of drowning.",-4,38
+60,Seek thou rather to be hanged and compassing thy joy than to be drowned and go without her.,1,19
+61,"Well, thou be fast in my hopes if I depend on the issue.",1,15
+62,"I have told thee often, and I retell thee again and again.",0,14
+63,There are many events in the womb of time which will be delivered.,0,14
+64,"Traverse, go, provide thy money.",0,8
+65,We will have more of this tomorrow.,0,8
+66,Adieu.,0,2
+67,Where shall we meet in the morning?,0,8
+68,At my lodging.,0,4
+69,I'll be with you betimes.,0,7
+70,Go to.,0,3
+71,Farewell.,0,2
+72,"Do you hear, Rodrigo?",0,6
+73,What say you?,0,4
+74,No more of drowning.,-1,5
+75,Do you hear?,0,4
+76,I am changed.,0,4
+77,Thus do I ever make my fool my purse.,-1,10
+78,"In Venice, they do not let God see the pranks they dare not show their husbands.",0,18
+79,"When she is sated with his body, she will find the error of her choice.",-1,17
+80,"I was referencing line 360, thou shalt enjoy her.",1,11
+81,"Seek thou rather to be hanged, encompassing thy joy, than to be drowned and go without her.",1,20
+82,"Mary, I would not do such a thing for a joint ring, nor for measures of lawn, nor for gowns, petticoats, nor caps, nor any petty exhibition.",-1,34
+83,"He says, what in a town of war yet wild, the people's hearts brimful of fear.",-2,20
+84,What from the Cape can you discern and see?,0,10
+85,Nothing at all.,0,4
+86,It is a high-wrought flood.,0,6
+87,"I cannot, twixt the heaven and the main, descry a sail.",1,15
+88,It thinks the wind hath spoke aloud at land.,0,10
+89,A fuller blast ne'er shook our battlements.,0,8
+90,"If it hath ruffian so upon the sea, what ribs of oak, when mountains melt on them, can hold the mortise?",-1,25
+91,What shall we hear of this?,0,7
+92,A segregation of the Turkish fleet.,0,7
+93,"For do but stand upon the foaming shore, the chidden billow seems to pelt the clouds.",0,18
+94,"The wind-shaken surge, the high and monstrous main, seems to cast water on the burning bear and quench the guards of the ever-fired pole.",-2,27
+95,I never did like molestation view on the enchafed flood.,0,11
+96,"If that the Turkish fleet be not ensheltered and embayed, they are drowned.",0,15
+97,It is impossible to bear it out.,-1,8
+98,The desperate tempest hath so banged the Turks that their designment halts.,-2,13
+99,Is this true?,0,4
+100,The ship is here put in.,0,7
+101,"A Veronessa, Michael Cassio, lieutenant, lieutenant of the warlike Moor Othello, is come on shore, the Moor himself at sea, and is in full commission here for Cyprus.",-1,35
+102,It is a worthy governor.,1,6
+103,"But this same Cassio, though he speak of comfort...",1,11
+104,"Touching the Turkish loss, yet he looks sadly and prays the more be safe, for they were parted with foul and violent tempest.",-4,26
+105,"Come, let's do so, for every minute is expectancy of more arrivance.",0,16
+106,"Thanks, you, the valiant of this warlike isle, that so approve the moor.",1,17
+107,"Oh, let the heavens give him defense against the elements, for I have lost him on a dangerous sea.",-2,22
+108,Is he well shipped?,1,5
+109,"His bark is stoutly timbered, and his pilot a very expert in a proven allowance.",1,17
+110,"Therefore my hopes, not surfeited to death, stand in bold cure.",0,14
+111,A sail!,0,3
+112,A sail!,0,3
+113,A sail!,0,3
+114,What noise?,-1,3
+115,The town is empty on the brow of the sea.,0,11
+116,"Stand ranks of people, and they cry a sale.",-1,11
+117,My hopes do shape it for the governor.,0,9
+118,"They do discharge their shot of courtesy, our friends at least.",0,13
+119,"I pray you, sir, go forth and give us the truth who tis that has arrived.",0,19
+120,I shall.,0,3
+121,"But good lieutenant, is your general wide?",1,9
+122,"Most fortunately, he hath achieved a made that Paragon's description and wild fame.",1,16
+123,"one that excels the quirks of blazing pens, and in the essential vesture of creation does tire the engineer.",1,21
+124,How now?,0,3
+125,Who is put in?,0,5
+126,"Tis one Iago, ancient to the general.",0,9
+127,He's had most favorable and happy speed.,2,9
+128,What is she?,0,4
+129,"She that I spake of, our great captain's captains.",1,12
+130,"left in the contact of the bold Iago, whose footing here anticipates our thoughts as tonight's speed.",0,20
+131,"Oh, behold,",0,4
+132,the riches of the ship is come on shore.,0,10
+133,"You men of Cyprus, let her have your knees.",0,11
+134,"Hail to thee, lady, and the grace of heaven, before, behind thee, and on every hand, and wheel thee round.",3,27
+135,"I thank you, valiant Cassio.",2,7
+136,What tidings can you tell me of my lord?,0,10
+137,"He's not yet arrived, nor know I ought, but that he's well, and will be shortly here.",1,23
+138,How lost you company?,-1,5
+139,The great contention of the sea and skies parted our fellowship.,0,12
+140,Assail!,-1,2
+141,Assail!,-1,2
+142,Assail!,-1,2
+143,Assail!,-1,2
+144,Assail!,-1,2
+145,Assail!,-1,2
+146,They give their greeting to the citadel.,0,8
+147,This likewise is a friend.,0,6
+148,See for the news.,0,5
+149,"If that the Turkish fleet be not in shelter and in bay, they are drowned.",0,17
+150,The desperate tempest hath so banged the Turks that their designment halts.,-2,13
+151,A noble ship of Venice hath seen a grievous wreck and sufferance on most part of their fleet.,-1,19
+152,How is this true?,0,5
+153,This ship is here put in.,0,7
+154,"Michael Cassiola, Lieutenant of the Warlike Moor Othello, has come on shore the moor himself at sea and is in full commission here for Cyprus.",-1,28
+155,"But this same Castillo, though we speak of comfort, touching the Turkish loss, yet he looks sadly and prays, the more be safe, for they were parted with foul and violent tempest.",-3,38
+156,I'm sure I cut even till we make the main in the aerial blue in indistinct regard.,1,19
+157,"Come, let's do so for every minute is expectancy of more arrivants.",0,15
+158,Cassio enters.,0,3
+159,"Oh, that the heavens give him defense against the elements, for I have lost him on a dangerous sea.",-2,22
+160,Is he well shipped?,1,5
+161,More boat talk.,0,4
+162,My hope's not surfeited to death.,-1,8
+163,Stand in bold cure.,1,5
+164,What noise?,-1,3
+165,But good lieutenant is your general wived.,1,8
+166,But good lieutenant is our general wife.,1,8
+167,"Oh, behold, the riches of this ship have come on shore.",0,14
+168,"You men of Cyprus, let her have your knees.",0,11
+169,Did anybody ask him,0,4
+170,"And I think, Hail to thee, lady, and the grace of heaven before behind thee, and on every hand, and wield thee round.",3,29
+171,"Before behind thee, and on every hand.",0,9
+172,"Cassio, what Titus can you tell me of my lord?",0,12
+173,"He's not yet arrived, nor I know aught but that he is well, and will be shortly here.",1,22
+174,"Oh, but I fear I lost your company.",-2,10
+175,The great contingent of the sea and sky is part of their fellowship.,1,14
+176,And I'm with you.,0,6
+177,The moor himself at sea.,0,6
+178,And a full commission here for Cyprus.,0,8
+179,I am glad it is a word to go.,1,10
+180,"Yet he looks sadly, for they were parted, that judgment cannot cure.",0,16
+181,What from the cake can you discern at sea?,0,10
+182,Nothing at all.,0,4
+183,It is a high-wrought flood.,0,6
+184,I can't twixt the heaven in the main to scry sail.,1,13
+185,Methinks the wind hath spoke aloud at land.,0,9
+186,A fuller blast and air shook our battlements.,0,9
+187,"If it hath ruffian so upon the sea, what ribs of oak, when mountains melt on them, can hold the mortise?",-1,25
+188,What shall we hear of this?,0,7
+189,A segregation of the Turkish fleet.,0,7
+190,For do you stand upon the foaming shore?,0,9
+191,The chidden below seems to pelt the clouds.,0,9
+192,The wind shake and surge with high and monstrous mayhem.,-2,11
+193,seems to cast water on the burning bear and quench the guards of the ever-fired pole.,-1,17
+194,I never did the molestation view on the enchafed flood.,-1,11
+195,"If that the Turkish fleet be not unsheltered and embayed, they are drowned.",0,15
+196,It is impossible to bear it out.,-1,8
+197,"News, lads, our wars are done.",0,9
+198,The desperate tempest hath so banged the Turks that their designment halts.,-2,13
+199,A noble ship of Venice hath seen a grievous wrack and sufferance on most part of their fleet.,0,19
+200,How?,0,2
+201,Is this true?,0,4
+202,The ship is here put in.,0,7
+203,"Averonesa, Michael Cassio, lieutenant to the warlike moor Othello, is come on shore.",-1,17
+204,The moor himself at sea and is in full commission here for Cyprus.,0,14
+205,Tis a worthy governor.,1,5
+206,"But this same Cassio, though he speak of comfort, touching the Turkish loss, yet he looks sadly and prays the moor be safe, for they were parted with foul and violent tempest.",-3,37
+207,"is come on shore, the more himself, it is a worthy governor, is in full commission here for Cyprus.",1,23
+208,"From, how is this true?",0,7
+209,How?,0,2
+210,Is this true?,0,4
+211,The ship is here put in.,0,7
+212,"A Veronessa, Michael Cassio, lieutenant to the warlike Moor Othello, is come on shore.",-1,18
+213,It is a worthy governor.,1,6
+214,Is in full commission here for Cyprus.,0,8
+215,"Huh, is this true?",0,6
+216,The ship is here put in.,0,7
+217,"A Veronessa, Michael Cassio, lieutenant to the warlike Moor Othello, is come on shore.",-1,18
+218,The Moor himself...,0,4
+219,It is a worthy governor.,1,6
+220,...is in full commission here for Cyprus.,0,9
+221,Is this true?,0,4
+222,The ship is here put in.,0,7
+223,"A Veronessa, Michael Cassio, lieutenant to the warlike Moor Othello, is come on shore.",-1,18
+224,The Moor himself...,0,4
+225,Tis a worthy governor.,1,5
+226,...is in full commission here for Cyprus.,0,9
+227,"But this same Cassio, though he speak of comfort touching the Turkish loss, yet he looks sadly and prays the more be safe, for they were parted with foul and violent tempest.",-3,36
+228,So I think she wouldn't say it a third time.,0,12
+229,"Line 38, even till we make the main and the aerial blue and in distinct regard.",1,18

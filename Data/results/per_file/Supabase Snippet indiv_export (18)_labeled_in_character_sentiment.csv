@@ -1,0 +1,176 @@
+line_num,line,bing_liu_score,n_tokens
+1,She was too fond of her filthy bargain!,1,9
+2,Rub him about the temples.,0,6
+3,"The line is, I have no great devotion to the deed, and yet he hath given me satisfying reasons.",2,22
+4,"Tis but a man gone forth my sword, he dies.",-1,12
+5,"And then later, oh villain that I am.",0,10
+6,"It's, I know his gate, tis he, villain thou diest.",0,15
+7,"Oh, villain that I am.",0,7
+8,"I take it much unkindly that thou, Iago, who hast had my purse, as if the strings were thine should know of this.",-1,27
+9,"Splod, but you're not hear me.",0,9
+10,"If ever I did dream of such a matter, abhor me.",0,13
+11,"Thou told me, thou didst hold him in thy hate.",-1,12
+12,"Three great ones of this city, in personal suit to me, make me his lieutenant, oft capped to him, and by the faith of man I know my price, I am worth no worse a place.",2,42
+13,"But he, who is loving his own pride and purposes, evades them with a bombast circumstance, horribly stuffed with epithets of war, and in conclusion,",2,30
+14,And what was he?,0,5
+15,Hmm?,0,2
+16,Forsooth a great arithmetician.,1,5
+17,"This countercaster, he, in good time, must his lieutenant be, and I, God bless the mark, his moorship's ancient.",2,27
+18,"By heaven, I rather would have been his hangman.",1,11
+19,"Why, that's no remedy.",1,7
+20,It is the curse of service.,-1,7
+21,Preferment goes by letter and affection and not by old gradation where each second stood heir to the first.,1,20
+22,I would not follow him then.,0,7
+23,"Oh, sir, content you.",0,7
+24,I follow him to serve my turn upon him.,0,10
+25,"We cannot all be masters, nor all masters cannot be truly followed.",2,16
+26,"You shall mark many a duteous and knee crooked knave that, doting on his own obsequious bondage, wears out his time much like his master's ass.",-1,30
+27,"Sir, it is as sure as you are, Rodrigo, were I the more, I would not be Iago.",0,23
+28,and following him I follow but myself.,0,8
+29,"Heaven is my judge, nor I for love and duty, but seeming so for my peculiar end,",1,20
+30,What a full fortune does the thick lips owe if he can carry thus.,1,15
+31,Call up her father.,0,5
+32,"For, sir, it is as sure as you are, Rodrigo, were I the more, I would not be Iago.",0,25
+33,"Iago, if I were the Moor, Iago would have been promoted.",0,14
+34,"For sir, it is as sure as you are Rodrigo.",0,12
+35,"Were I the Moor, I would not be Iago.",0,11
+36,"Do well thrive by them, and when they have lined their coats, do themselves homage.",3,18
+37,"Heaven is my judge, not love and duty.",2,10
+38,"For Sir, it is as sure as you or Rodrigo were I, the more I would not be.",0,21
+39,I follow him to serve my turn upon him.,0,10
+40,Makes perfect sense.,1,4
+41,"We cannot all be masters, nor all masters cannot be truly followed.",2,16
+42,That makes sense.,0,4
+43,"You shall mark many a duteous and knee-crooking knave that, doting on his own obsequious bondage,",-2,18
+44,keep yet their hearts attending on themselves.,0,8
+45,And such a one do I profess myself.,0,9
+46,"In following him, I follow but myself.",0,9
+47,"Okay, they're back to what makes sense.",0,10
+48,Heaven is my judge.,1,5
+49,"Not I for love and duty, but seeming so for my peculiar end.",0,15
+50,For when my outward action doth demonstrate the native act and figure of my heart in complement extern...,1,19
+51,"Were I the more, I would not be Iago.",0,11
+52,"Is the you shall mark many a duteus, a knee-crooking knave, that doting on is obsequious bondage.",-2,20
+53,"I think so, too.",0,6
+54,"In other places, you know, there's an adjective attached to the more, like a lascivious more.",0,21
+55,"In following him, I follow but myself.",0,9
+56,"Heaven is my judge, not I for love and duty, but seeming so for my peculiar end.",1,20
+57,For when my outward action doth demonstrate the native act and figure of my heart in completement extern...,0,19
+58,Compliment.,1,2
+59,Compliment?,1,2
+60,"Oh, goodness gracious.",2,5
+61,That makes so much more sense.,0,7
+62,Thank you.,1,3
+63,One more time.,0,4
+64,In following him I follow but myself.,0,8
+65,"Heaven is my judge, nor I, not I, for love and duty, but seeming so, for my peculiar end.",1,25
+66,What a full fortune does the thick lips owe if he can carry thus.,1,15
+67,Call up her father.,0,5
+68,Proclaim him in the streets.,0,6
+69,"Though that his joy be joy, yet throw such changes of vexation on't as it may lose some color.",0,22
+70,Here is her father's house.,0,7
+71,I'll call aloud.,0,5
+72,"Do, with like timorous accent and dire yell, as when by night and negligence the fire is spied in populous cities.",-1,24
+73,What ho?,0,3
+74,Brabantio.,0,2
+75,Signor Brabantio.,0,3
+76,"Hey, ho!",0,4
+77,Brabantio!,0,2
+78,Thieves!,0,2
+79,Thieves!,0,2
+80,Thieves!,0,2
+81,"Look to your house, your daughter, and your bags.",0,12
+82,Thieves!,0,2
+83,Thieves!,0,2
+84,What's the reason of this terrible summons?,-1,9
+85,What is the matter there?,0,6
+86,"Signor, is your family all within?",0,8
+87,Are your doors locked?,0,5
+88,"Why, wherefore ask you this?",0,7
+89,You have lost half your soul.,-1,7
+90,"For even now, now, very now, an old black ram is tupping your white ewe.",0,19
+91,"Arise, arise!",0,4
+92,"Awake, the snorting citizens with the bell, or else the devil will make a grandsire of you.",-1,20
+93,"Arise, I say!",0,5
+94,"What, have you lost your wits?",-1,8
+95,Most reverend senor.,0,4
+96,Do you know my voice?,0,6
+97,Not I.,0,3
+98,What are you?,0,4
+99,My name is Rodrigo.,0,5
+100,The worse are welcome.,0,5
+101,I have charged thee not to haunt about my doors.,-1,11
+102,"In honest plainness thou hast heard me say, my daughter is not for thee.",1,16
+103,"And now in madness, being full of supper and distempering draughts, upon malicious bravery, dost thou come to start my quiet?",0,25
+104,"Sir, sir, sir.",0,6
+105,"But thou must needs be sure, my spirit and my place have in them power to make this bitter to thee.",-1,23
+106,"Patience, good sir.",2,5
+107,What tellst thou me of robbing?,0,7
+108,This is Venice.,0,4
+109,My house is not a grange.,0,7
+110,"Most grave, Barbancio.",0,5
+111,In simple and pure soul I come to know you.,1,11
+112,"Zoon, sir, you are one of these that will not serve God if the devil bid you because we come to do you service and you think we're ruffians.",-1,33
+113,You'll have your daughter covered with a barbary horse.,0,11
+114,You'll have your nephews neighed to you and you'll have cousins and coursers for cousins and jennets for Germans.,0,22
+115,What?,0,2
+116,Profane wretch art thou.,-2,5
+117,"I am one, sir, that comes to tell you your daughter and the moor are now making the beast with two backs.",0,25
+118,Thou was a villain.,0,5
+119,You are a senator.,0,5
+120,This thou shalt answer.,0,5
+121,"I know thee, Rodrigo.",0,6
+122,"lascivious more, if this be known to you and your allowance, we then have done you bold and saucy wrongs.",-1,23
+123,"But if you know not this, my manners tell me we have your wrong rebuke.",-2,17
+124,Do not believe that from the sense of all civility I thus would pay and trifle with your reverence.,2,20
+125,"If she be in your chamber or your house, let loose on me the justice of the state, for thus deluding you.",-1,25
+126,Strike on the tinder.,-1,5
+127,Ho!,0,2
+128,Give me a taper.,0,5
+129,Call up all my people.,0,6
+130,This accident is not unlike my dream.,0,8
+131,Belief of it oppresses me already.,0,7
+132,This may call him with some check.,0,8
+133,"Cannot with safety cast him, for he's embarked with such low reason to the Cyprus Wars, which even now stands in act, that for their souls, another of his fathom, they have none.",0,41
+134,For I do know the state,0,6
+135,"However, this may gall him with some check.",-1,10
+136,"Lead to the Sagittary, the raised search, and there will I be with him.",1,17
+137,"I think so, too.",0,6
+138,But a flow of fortune does the thick lips owe if he can't carry thus.,1,17
+139,Call up her father.,0,5
+140,If he can carry it thus.,0,7
+141,"If you can, carry this.",0,7
+142,Call up her father.,0,5
+143,"Though that his joy be joy, yet throw such changes of vexation on it as it may lose some color.",0,22
+144,"By heaven, I rather would have been his hangman.",1,11
+145,Why there's no remedy to the curse of service.,0,11
+146,Here's her father's house.,0,7
+147,"Do the like timorous accent and dire yell, as when by night a negligence the fire is spied in populous cities.",-1,23
+148,Here's her father's house I'll call aloud.,0,11
+149,"Talking about fire in populous cities, which, again, is going to fall on audience ears.",-1,19
+150,"Like, timorous accent and dire yell.",0,8
+151,"""'Tis a shrewd doubt, though it be but a dream.""",-1,15
+152,"Look to your house, your daughter, and your bags, thieves, thieves.",0,16
+153,What is the reason of this terrible summons?,-1,9
+154,What is the matter there?,0,6
+155,What is the reason of this terrible summons?,-1,9
+156,What is the matter there?,0,6
+157,Is all you're feeling within?,0,7
+158,Are your doors locked?,0,5
+159,Your heart is burst and you have lost your soul.,-1,11
+160,"Even now, now, very now, an old black ram is tupping your white hue.",0,18
+161,Arise!,0,2
+162,Arise!,0,2
+163,"Awake the snorting citizens with the bell, or else the devil will make a grandsire of you.",-1,19
+164,"Arise, I say!",0,5
+165,Have you lost your wits?,-1,6
+166,"Even now, now, very now, an old black ram is tupping your white U.",0,18
+167,"Even now, now, very now, an old black ram is tupping your white you.",0,18
+168,And on we go.,0,5
+169,And it's not that.,0,6
+170,"Arise, arise.",0,4
+171,"Awake the snorting citizens, right?",1,7
+172,That's snoring.,0,4
+173,Or else the devil will make a grandsire of you.,-1,11
+174,Or else the devil will make a grandsire of you.,-1,11
+175,"Arise, arise.",0,4
