@@ -3,3 +3,7 @@
 
 /venv
 .venv
+
+*.png
+lda_vis.html
+topics_by_file.csv
