@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 import re 
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 folder = r"C:\Users\liamb\Source\Othello_01\Data\cleaned"
 

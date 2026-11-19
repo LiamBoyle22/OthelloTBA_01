@@ -32,7 +32,7 @@ for filename in sorted(os.listdir(folder)):
     if not filename.endswith(".txt"):
         continue
     with open(os.path.join(folder, filename), "r", encoding = "utf-8") as f:
-        lines = f.readline()
+        lines = f.readlines()
 
     sentences = []
     original = []
