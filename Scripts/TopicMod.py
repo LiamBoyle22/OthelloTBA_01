@@ -26,7 +26,7 @@ STOP_WORDS = list(ENGLISH_STOP_WORDS | extras_stops)
 
 folder = r"C:/Users/liamb/Source/Othello_01/Data/cleaned"
 rows = []
-for path in glob.glob(os.path.join(folder, "*in_character.txt")):
+for path in glob.glob(os.path.join(folder, "*out_of_character.txt")):
     with open(path, encoding="utf-8", errors="replace") as f:
         rows.append({"file": os.path.basename(path), "text": f.read()})
 df = pd.DataFrame(rows)

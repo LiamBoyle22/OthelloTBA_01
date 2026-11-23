@@ -1,0 +1,728 @@
+line_num,line,bing_liu_score,n_tokens
+1,"So, yeah, let's bring it home.",0,10
+2,"Act 4, scene 2.",0,6
+3,"If you think other, remove your thought, it doth abuse your bosom.",-1,15
+4,The purest of their wives is foul as slander.,-2,10
+5,"Bid her come hither, go.",0,7
+6,She says enough.,1,4
+7,Yet she's a simple bawd that cannot say as much.,0,13
+8,"This is a subtle whore, a closet lock and key of villainous secrets.",-2,15
+9,And yet she'll kneel and pray.,0,8
+10,I've seen her doot.,0,6
+11,"Therefore be double damned, swear thou art honest.",0,10
+12,"To whom, my lord?",0,6
+13,With whom?,0,3
+14,How am I false?,-1,5
+15,"If you have lost him, why, I have lost him too.",-2,14
+16,"Had it pleased heaven to try me with affliction, had they rained all kinds of sores and shames on my bare head, steeped me in poverty to the lips, given to captivity me and my utmost hopes, I should have found in some place of my soul a drop of patience.",1,56
+17,but alas to make me the fixed figure for the time of scorn to point his slow and moving finger at yet could i bear that too well very well but then where i have garnered up my heart,0,39
+18,"where either I must live or bear no life, the fountain from the which my current runs or else dries up to be discarded, thence or keep it as a cistern for foul toads to knot and gender in.",-1,42
+19,"O, I, as summer flies are in the shambles that quicken even with blowing, O thou weed, who art so lovely, fair, and smells so sweet that the sense aches at thee, would thou hadst ne'er been borne.",-1,46
+20,Peter and keep the gates of hell.,-1,8
+21,"You, you, I, you.",0,8
+22,We have done our course.,0,6
+23,There's money for your pains.,-1,7
+24,I have none.,0,4
+25,"Do not talk to me, Amelia, I cannot weep, nor answers have I none but which should go by water.",-1,25
+26,I'll be hanged else.,0,6
+27,It is impossible.,-1,4
+28,Who keeps her company?,0,5
+29,Here I kneel.,0,4
+30,"If e'er my will did trespass against his love, either in discourse of thought or actual deed, or that mine eyes, mine ears, or any sense delighted them in any other form, or that I do not yet, and ever did, and ever will, though he do shake me off to beggarly divorcement, love him dearly, comfort, forswear me.",1,71
+31,"Unkindness may do much, and his unkindness may defeat my life, but never tamed my love.",2,19
+32,I cannot say or,0,5
+33,Go in and weep not.,-1,6
+34,"Every day thou do'st me with some device, Iago, and rather, as it seems to me now, keep'st from me all conveniency, and supplies'st me with the least advantage of religion.",1,37
+35,With naught but truth.,0,5
+36,I have wasted myself out of my means.,-1,9
+37,The jewels you have had for me to deliver to Desdemona would have corrupted a votarist.,-1,17
+38,Would have corrupted a votarist.,-1,6
+39,Go to.,0,3
+40,"I cannot go to, man.",0,8
+41,"By this hand, I think it is scurvy and begin to find myself fucked in it.",0,18
+42,Very well.,1,3
+43,"I tell you, tis not very well.",1,9
+44,I will make myself known to Desdemona.,0,8
+45,"If she will return my jewels, I will give over my suit and repent my unlawful solicitation.",-1,19
+46,"If not assure yourself, I will seek satisfaction of you.",1,12
+47,and even from this instant to build on thee a better opinion than before.,1,15
+48,But yet I protest.,-1,5
+49,"Well, what is it?",1,6
+50,Is it within reason and compass?,0,7
+51,"If you will watch his going then, which I will fashion to fall out between 12 and 1, you may take him at your pleasure.",0,28
+52,"I will be near to second your attempt, and he shall fall between us.",-1,16
+53,Odezdemona?,0,2
+54,My lord.,0,3
+55,Get you to bed on the instant.,0,8
+56,It was his bidding.,0,5
+57,"Therefore, good Amelia, give me my nightly wearing and adieu.",1,13
+58,"She was in love, and he she loved proved mad and did forsake her.",0,16
+59,She had a song of Willow.,0,7
+60,That song tonight will not go from my mind.,0,10
+61,I have much to do but to go hang my head all at one side and sing it like poor Barbary.,-1,22
+62,Good night.,1,3
+63,Mine eyes do itch.,-1,5
+64,But I do think it is their husbands' fault if wives do fall.,-2,15
+65,"Say that they slap their duties and pour our treasures into foreign laps, or else break out in peevish jealousies, throwing restraint upon us.",-3,27
+66,"Or say they strike us, or scant our former, having a despite why we have galls, and that we have some grace, yet have we some revenge.",-3,32
+67,Let husbands know their wives have scents like them.,1,10
+68,They see and smell and have their palates both for sweet and sour as husbands have.,-1,17
+69,What is it that they do when they change us for others?,0,13
+70,Is it sport?,0,4
+71,I think it is.,0,5
+72,And doth affection breed it?,1,6
+73,I think it doth.,0,5
+74,Is it frailty that thus errs?,0,7
+75,It is so too.,0,5
+76,"And have not we affections, desires for support, and frailty as men have, then let them use us well.",2,23
+77,"Else let them know the ills we do, their ills instruct us so.",0,15
+78,Good night.,1,3
+79,Good night.,1,3
+80,"God may such usage send, not to pick bad from bad.",-2,13
+81,Mend.,0,2
+82,"Quick, quick, fear nothing.",-1,7
+83,"Here, at thy hand.",0,6
+84,"Forth my sword, he does.",0,7
+85,"I have rubbed this young quad almost to the sense, and he rose angry.",-1,16
+86,"Now, whether he kill Cassio, or Cassio him, or each to kill the other, every way makes my gain.",-1,24
+87,It must not be.,0,5
+88,"If Cassio do remain, he hath a daily beauty in his life that makes me ugly.",0,18
+89,"And besides, the more a man fold me to him, there stand I in much peril.",-1,19
+90,"No, he must die.",-1,6
+91,I know his game.,0,5
+92,Is he?,0,3
+93,"Oh, help!",0,4
+94,"Yeah, yeah, yeah.",0,6
+95,Hark!,0,2
+96,Two or three grown.,0,5
+97,It is a heavy night.,0,6
+98,These may be counter-faced.,0,5
+99,Let's think done safe to come into the cry without more help.,0,14
+100,Nobody come.,0,3
+101,Hark!,0,2
+102,But my sweet Cassio!,1,5
+103,Cassio!,0,2
+104,Cassio!,0,2
+105,Cassio!,0,2
+106,"Oh, noble Strumpet!",1,5
+107,"Cassio, may you suspect who, uh, Cassio, may you suspect who they should, may you suspect who they should be that have thus mangled you?",-4,31
+108,"No, I am sorry to find you thus.",-1,10
+109,I have been to seek you.,0,7
+110,"Oh, Cassio, Cassio, Cassio.",0,8
+111,"Do you see, gentlemen?",0,6
+112,"Nay, guiltiness will speak, though tongues were out of use.",0,13
+113,"What's the matter, husband?",0,7
+114,Will you go on a,0,5
+115,It is the cause.,0,5
+116,"But once put out thy light, thou cunningest pattern of excelling nature, I know not where is that Promethean heat that can thy light relume.",0,28
+117,when i've plucked the rose i cannot give it vital growth again it must needs wither i'll smell it on the tree balmy breath that does almost persuade justice to break her sword one more one more be thus when thou art dead and i will kill thee and love thee after,-3,55
+118,"One more, and that's the last.",0,9
+119,"I must weep, but they are cruel tears.",-2,10
+120,She wakes.,0,3
+121,"I, Desdemona.",0,4
+122,"Alack, my lord, what do you mean by that?",0,12
+123,"Well, do it, and be brief.",1,9
+124,I will walk by.,0,5
+125,"And yet I fear you, for you are fatal then when your eyes roll so.",-2,17
+126,"Why I should fear I know not, since guiltiness I know not, but yet I feel I fear.",-2,21
+127,"Yes, it is Amelia.",0,6
+128,"Bye, bye.",0,4
+129,She's dead.,-1,4
+130,"The noise was high, no more moving, still as the grave.",-1,14
+131,Shall she come in?,0,5
+132,"Lord, good, I think she spills again.",1,10
+133,No.,0,2
+134,What's best to do?,1,6
+135,"O come in, Amelia, soft by and by.",1,11
+136,"Help, help, oh, help, oh, lady, speak again, sweet Thessalon.",1,18
+137,"Oh, sweet mistress, speak.",0,7
+138,Thou art a rash as fire to say that she was false.,-2,13
+139,"Oh, she was heavenly true.",1,7
+140,Cassio did top her.,1,5
+141,Help!,0,2
+142,"Help, O wer, help!",0,7
+143,The moor hath killed my mistress.,-2,7
+144,"Murder, murder!",-2,4
+145,"I'm not, General.",0,6
+146,"Oh, are you come, Iago?",0,8
+147,You have done well that men may lay their murders on your neck.,1,14
+148,I will not charm my tongue.,1,7
+149,I am bound to speak.,0,6
+150,Villainy.,0,2
+151,Villainy.,0,2
+152,Villainy.,0,2
+153,I think upon it.,0,5
+154,I think I've smelt.,-1,6
+155,"Oh, villainy.",0,4
+156,I thought so then.,0,5
+157,"I'll kill myself, agreed.",-1,7
+158,"Oh, villainy.",0,4
+159,Villainy.,0,2
+160,Recharge you.,0,3
+161,Get you home.,0,4
+162,"I scarce did know you, uncle.",-1,8
+163,"Here lies your niece, whose breath indeed these hands have newly stopped.",-1,14
+164,Did he live now?,0,5
+165,But yet Iago knows that she with Cassio hath the act of shame a thousand times committed.,-1,18
+166,"Cassio confessed it, and she did gratify his amorous works with that reconnaissance and pledge of love which I first gave her.",3,24
+167,I saw it in his hand.,0,7
+168,"That handkerchief thou speak'st of I found by fortune, and did give my husband, for often with a solemn earnestness, more than indeed belonged to such a trifle,",1,32
+169,"No, no, alas, I found it, and I did gift my husband.",0,17
+170,Are there no stones in heaven but what serves for thunder?,1,12
+171,"Prices, fill it!",0,5
+172,Take you this weapon which I have here recovered.,0,10
+173,"Let him not pass, but kill him rather.",-1,10
+174,I'll offer that same villain for Tis a damned slave.,-2,12
+175,A better never did itself sustain upon a soldier's thigh.,1,12
+176,"Here is my butt, and there is sea mark of my utmost sail.",0,15
+177,Do you go back to spade?,-1,7
+178,Tis a lost fear.,-2,5
+179,"Man but a rush against a fellow's breast, and he retires.",0,14
+180,Where should a fellow go?,0,6
+181,"Now, how does thou look now?",0,8
+182,"Oh, ill-starred wretch, as pale as thy smock.",-2,11
+183,"When we shall meet that comes, this look of thy will hurl my soul from heaven, and friends will snatch at it cold.",0,26
+184,"Cold, my girl.",-1,5
+185,even like their chastity.,1,5
+186,"O cursed, cursed, slay with me, ye devils from the possession of this heavenly sight.",-1,19
+187,"I am not sorry, neither.",-1,7
+188,"I'd have thee live, for in my sense tis happiness to die.",0,15
+189,"Here is a letter found in the pocket of slain Rodrigo, and here another.",0,16
+190,"And even now, even but now he spake, after long seeming dead, Iago heard him, Iago set him on.",-1,24
+191,"For this slave, if there be any cunning cruelty that can torment him,",-3,15
+192,"much, and hold him long, it shall be his.",0,12
+193,You shall close prisoner rest till that the very nature of your fault be known to the Venetian state.,-2,20
+194,"Come, bring him away.",0,6
+195,"I have done the state some service, and they know it, and no more of that.",0,19
+196,"I pray you, in your letters, when you shall these unlucky deeds relate, speak of me as I am.",-1,23
+197,"Nothing extenuate, nor set down aught in malice.",-1,10
+198,"of one whose hand, like the base Indian, threw a pearl away richer than all his tribe, of one whose subdued eyes, albeit unused to the melting mood, drops tears as fast as the Arabian trees their medicinal gum.",2,45
+199,"Set you down this, and say besides that in Aleppo once,",0,13
+200,"No way but this, killing myself to die upon a kiss.",-2,13
+201,Let it be hid.,0,5
+202,"Gratiano, keep the house that sees upon the fortunes of the moor, for they succeed to you.",1,20
+203,"To you, Lord Governor, remains the censure of this hellish villain, the time, the place, the torture.",-2,23
+204,I'll enforce it.,0,5
+205,I'm pretending to read supernumeraries while I was transported.,0,11
+206,I appreciate that.,1,4
+207,"It's funny, I think I said something like this last week, but I experienced it again, and that is that I'm trying to come up with an adaptation of this play.",0,37
+208,dealing with all my relationship with Othello and all the baggage and shit I'm going through.,-1,18
+209,"I'm thinking, this is bullshit, this is cut.",-1,12
+210,"This is bullshit, this is cut.",-1,8
+211,"This is bullshit, this is cut.",-1,8
+212,Then we get this and put it in front of an actor.,0,13
+213,Motherfucker jumps in with both feet.,0,7
+214,He's just going to say all this shit and make it work.,0,14
+215,for the easy way.,1,5
+216,Maybe there's a medium.,0,6
+217,I don't know.,0,5
+218,"But it's an experience to watch various actors actually just man up and go, OK, I'm just going to make this shit work.",0,28
+219,She does a whole speech about ready to cuckold her husband for stuff.,1,14
+220,And then she goes outside and calls this poor girl a whore and says she's better than me.,-1,20
+221,You're not better than me.,1,7
+222,And there's real humanity in that and the complexity of that character.,0,14
+223,"That arc, I'm thinking, I'm trying to picture how many times, how much do we see her almost say a testimony.",0,27
+224,"Well, there's this thing about the handkerchief I want to talk to you about.",1,17
+225,She never does.,0,4
+226,But do we see her try?,0,7
+227,"Do we see her fighting whatever demon it is that makes her do this to begin with, to save this story?",-1,23
+228,It creates that powerful moment when she realizes the handkerchief is the culprit in all of this.,0,18
+229,"For anybody who wasn't here last week, although you might have heard some of this in our various one-to-one conversations, this, hopefully, this process is about getting academic and even some institutions.",0,38
+230,an ensemble and giving us space and housing and salaries to just do nothing but this for two weeks at a time.,0,23
+231,And it's getting some interesting traction.,2,8
+232,"It all remains to be seen, but it's the right time.",1,14
+233,"It's the time when people feel compelled to, at least in theory, lend their resources to work like this.",2,23
+234,Work that is intent on making more just theater.,1,10
+235,"When I say more just, I mean",0,8
+236,bringing a greater diversity of people and methods to the work.,1,12
+237,So we'll see.,0,5
+238,I have to be careful not to get ahead of myself because every time we do one of these I hear things and I see things and I just want to be in rehearsal.,0,35
+239,I have to remember that this is sort of a part of rehearsal.,0,14
+240,And just be present for each one of these things.,0,11
+241,"And as I said earlier, I hope there's several more.",0,13
+242,"Because I can see, you know, I bind on new things in each one.",0,17
+243,And I think that a cast will ultimately completely gel and be the group.,0,15
+244,It doesn't include you all.,0,7
+245,Please know that this is all extremely valuable.,1,9
+246,"So I value each of you very much in this process, truly.",0,14
+247,"That's my off the top, but in the wake of this thoughts, I mean, please speak about your experience with this, any aspects of anything that you have on your minds.",1,37
+248,I'd love to hear.,1,6
+249,"Oh, I can see.",0,6
+250,"Oh, go.",0,4
+251,Go ahead.,0,3
+252,"Well, you started talking.",1,6
+253,"No, no, no, I saw a big breath.",0,12
+254,"As you were talking, did you see my mouth open?",0,12
+255,"Yeah, I saw a big breath to say something.",0,11
+256,"Go ahead, please.",0,5
+257,"No, no, just as a watcher and watching this, I feel the same way, very inspired at the possibilities.",0,24
+258,this can take.,0,4
+259,And all of the copious notes.,0,7
+260,It's like a book in here.,1,8
+261,It's just like a wall of text.,1,9
+262,But they weren't about performances.,0,7
+263,"They were about what you said in the beginning, that you wanted something that didn't point at humanity, but created it, revealed it.",0,28
+264,"And I was like, OK, well, what does that look like for now?",3,17
+265,And so my notes were about hearing that.,0,9
+266,in the now and something that really felt clear to me was that you know when we talk about the canon,1,21
+267,"Those of us who have studied Shakespeare, there's a sense of deification that comes with him, that there's an idea that this text is universal.",0,30
+268,"But when you sit in a room with people, you realize the only universal thing about the text is the people speaking them.",0,25
+269,"And it's like, when you put the text in front of people, they offer their humanity that's the now to it.",1,26
+270,And it's so admirable and beautiful.,2,8
+271,And yet there are problems with this text.,-1,9
+272,"This text is not a perfect piece of writing, even relative to when it was written and relative to this author's other work.",2,26
+273,But it's definitely not perfect relative to now.,1,10
+274,"But hearing all of you say these words, I was like,",1,13
+275,beautiful but the core of it is humanity for me and I think a lot of us men of color have sat with Othello,1,24
+276,that I think can be beautiful and can be inspiring and relevant and interesting and new and there's so much in it that feels so disappointing and base in terms of its observation of,2,35
+277,out of all those things.,0,6
+278,"And relative to something like Macbeth or Hamlet, I'm thinking, wow, this observation is coming from the outside, not the inside.",2,27
+279,And you can really see it.,0,7
+280,You can see that Shakespeare is talking about an experience that is not their own.,0,16
+281,"And to someone whose experience it is, it gets clearer and clearer with every reading.",2,17
+282,And it also gets clear to things that are beautiful.,2,11
+283,"I was going to say, when you brought up Amelia, that's probably the most human character in the play.",0,23
+284,And she represents the audience in such a beautiful way to me.,1,13
+285,There's something about the audience knowing what's going on.,0,12
+286,"And Amelia, not having had the context, always one second behind.",0,14
+287,one second behind the rest of them and it's like when you read it you think oh it's the handkerchief then she knew but she knows the second he says my husband or your husband your husband and she says my husband like four or five times like incredible like unbelievable that you would believe my husband of course he's lying are you insane a second it's it's such a it's such,2,78
+288,"It's so interesting to see certain characters take on the breadth of humanity and the risk, and then other characters dramaturgically slide beneath that.",0,27
+289,"But anyway, I have a lot of thoughts I can send to you if you want.",0,18
+290,I don't want to take all this time just me talking.,0,13
+291,"In terms of, if you want to structure an adaptation dramaturgically, based on what I just heard, there are places that we can start, that you can really attack, that I think will uphold",0,39
+292,we have the opportunity to discuss them.,0,8
+293,"Once I read them, we can begin an ongoing dialogue as we continue to evolve.",0,17
+294,That'd be great.,1,5
+295,Ron Canada was the actor who played Yago opposite Patrick Stewart in the photo negative.,-1,16
+296,version that they did at the Shakespeare Theater.,0,9
+297,And I met Ron in LA at a party just after he had done it.,0,16
+298,And he hadn't gotten good reviews.,1,8
+299,And he felt that he hadn't gotten them because it was hard for the DC press to say Patrick Stewart was not good.,0,25
+300,So they said it must be his .,0,8
+301,"for a while, and I always remember the funniest thing he told me was that this British guy was on this stage with all of these black bodies, and all of these men, since this had become the province of the black Shakespearean leading men, all of these guys had done with them all.",1,59
+302,"He said, the poor cat couldn't say two lines without two guys saying, he going to do it like that.",0,24
+303,So he had some slack because he just couldn't be helped.,0,13
+304,"There was a resonance in Act 1, Scene 3, when they're talking about all the ships, and they get all the ship numbers wrong.",-1,29
+305,This reminded me of in Richard III.,0,8
+306,There are two scenes where they're not the main players.,0,12
+307,"It's like the Scrivener is writing the note, and all the citizens are talking about what's going on.",1,22
+308,It's before the preface to the Lord Mayor scene.,0,11
+309,"It's in these scenes where I'm like, okay, what is...",1,15
+310,So there's something about moving it forward.,0,9
+311,"So there's table setting of we need to get Othello to Cyprus, but why don't they have good information?",1,23
+312,"And what is the resonance between not having good information or all the different people hearing different things, and we just can't get the intel correct for this very important thing, which is war and life.",3,40
+313,"Like, what is that resonance to, like, the...",2,12
+314,What will we believe?,0,5
+315,What is true?,0,4
+316,What is deceit?,-1,4
+317,Through the rest of...,0,5
+318,Because in the...,0,4
+319,"In Richard III, it's, like, how easily manipulated are we?",1,15
+320,"It's, like, what the citizens...",1,9
+321,What's happening to the citizens in that scene?,0,10
+322,"And the Scrivener is, like, sending a note that is a lie after the note he sent that...",0,21
+323,Or he's sending a note that's...,0,9
+324,"Ah, fuck, I don't remember.",-1,9
+325,Sending a note that's a truth after a note he sent that was a lie.,-1,17
+326,I don't remember exactly.,0,6
+327,"But it's, like, all of these...",1,10
+328,The scenes that feel like they don't...,1,9
+329,"Because to me, I'm like, this scene is 170, 130, 200.",1,17
+330,"Like, who cares?",1,5
+331,"But it's like, what's actually happening here is beyond the numbers.",1,15
+332,"It's like, why are the numbers different?",1,10
+333,"You know, there's a...",0,7
+334,It's like a constant theme in this play.,1,10
+335,"You know, like the father...",1,7
+336,you just can't accept that your daughter would do this.,0,12
+337,"You're like, no.",1,6
+338,It's like you don't know your daughter at all.,1,12
+339,"It's like the person that you see, and they're right there.",2,15
+340,And you brought them up.,0,6
+341,And it's like you don't know them at all.,1,12
+342,And then they go in front of the whole Duke.,0,11
+343,And he tells this story.,0,6
+344,"And the Duke's like, look, this kind of would have won my daughter too.",2,18
+345,"And you're like, I'm going to double down on this.",1,14
+346,"You bring her here, and if she says that this is all true, let it fall on my head.",-1,22
+347,"And it's like at a certain point, like, why doesn't it land with the dad?",2,20
+348,"Just maybe this is true, but they make it go on for so long, you know, to, I guess, let us know, you know, doubt people.",-1,34
+349,We're not who they seem.,0,7
+350,"And then, like you say,",1,7
+351,"It's like father of the year, you know?",1,11
+352,And I get it.,0,5
+353,"If I were playing your part, it's just like, I'm just angry, I'm confused, and I'm frustrated.",-2,26
+354,I don't know why my daughter isn't talking to me.,0,13
+355,Why would they keep this hidden from me?,0,9
+356,"Why would she think that I wouldn't approve, or maybe I wouldn't?",1,16
+357,But why wouldn't she come to me with something?,0,11
+358,"But yeah, it's a constant thing of we're not what we seem.",0,16
+359,We're not what we are.,0,7
+360,And even the closest people,0,5
+361,we know least.,0,4
+362,Right.,1,2
+363,The people we are closest to.,0,7
+364,And how human is that?,0,6
+365,"You know, like how real is that?",1,9
+366,"You know, that the people we've been with for 50 years, you know, whatever.",0,19
+367,"I mean, how disturbing is that?",-1,8
+368,"And yet how human, you know, that the people we're closest to.",0,16
+369,You've heard us the most.,0,7
+370,Yeah.,0,2
+371,That the people we're closest to,0,7
+372,We do not see.,0,5
+373,I do think it's true he hasn't seen his daughter.,0,13
+374,"He's built up an image of his daughter for himself, which includes his daughter's future.",0,19
+375,"And it's all about she's going to marry a Venetian senator and, you know, he's built up a whole future for her.",0,28
+376,"And I say this like full disclosure, I've got like, you know, a 19-year-old son and a 17-year-old daughter right now, you know, heading off to college.",3,34
+377,"And it's like in our culture, right?",2,10
+378,Like we were talking about Yale earlier.,1,8
+379,"It's like in our culture, oh my God, the pressure that these kids feel about the name brand of the place, which is gonna determine",1,30
+380,"the whole trajectory of my entire life, you know?",0,11
+381,"And I think he's a senator, he's a Venetian senator, and he thinks himself very close to the Duke, and he believes himself to be stable, you know?",1,35
+382,"I live in Greenwich, Connecticut, you know?",0,10
+383,"It's like I grew up in Greenwich, Connecticut, but I see these people who are like, hey,",2,22
+384,"I'm earning, you know, I earned 300, you know, I earned 80 million last year, and this year I'm gonna earn 120 million.",0,32
+385,"And these are my buddies, all of whom earn at least 50 million, you know?",0,18
+386,"The hedge fund, whatever, and it's like, and it's all built on this complete illusion of stability, right?",1,25
+387,"You know, getting back to like, he's got this illusion about,",0,15
+388,"who he is in Venice, and who his daughter will be in Venice, and the grandchildren and the great-grandchildren he's going to have from her, even before it gets to a place of race, that's what I want to say, I think.",0,50
+389,"Even before it gets to a place of race, it's the betrayal of, like, how did I not know?",0,24
+390,You know what I mean?,0,6
+391,"Not only all the courting, but she's married, and, you know?",0,16
+392,I've been left out.,0,6
+393,didn't he love the stories too?,1,8
+394,Absolutely.,0,2
+395,"And yet, but think about it.",0,8
+396,There's the other thing.,0,6
+397,We're all witness to the same events.,0,9
+398,And we go home at night thinking we know what happened.,0,12
+399,Isn't that real in today's world?,0,9
+400,Oh my God.,0,4
+401,"I mean, without even talking about the media in today's world, it completely distorts everything.",-1,19
+402,"But you know,",0,4
+403,"That's what's so interesting to me, is we go home, we all experience the same thing in the same room with the same people.",1,29
+404,"And yet, right, he had...",1,8
+405,"I've become ageist, I think, in my judgments of Brabantia of, like, if he hears the stories, like, how can he, like, he seems like he also would fall in love slightly with Athel, like, wouldn't anyone?",5,50
+406,"Well, I think he has great affection.",3,9
+407,"That's what's interesting, is that he doesn't despise Athel.",0,14
+408,"He's like, holy shit.",1,7
+409,"I like, you know, he has this great affection for Othello.",3,14
+410,Until he marries his daughter.,0,6
+411,"Well, yeah, no, of course.",1,9
+412,Of course.,0,3
+413,"I mean, of course.",0,6
+414,And that could totally be a senator in 2021.,0,10
+415,Of course it could.,0,5
+416,"It's so, of course it could.",0,9
+417,And it doesn't even have to be about race.,0,11
+418,"That's what I'm saying is even before the racial thing comes in,",0,15
+419,It could be about income.,0,6
+420,It could be about what school he went to.,0,10
+421,Education.,0,2
+422,All of it.,0,4
+423,All of the markers.,0,5
+424,Exactly.,0,2
+425,All of the markers that we have for status.,0,10
+426,All of the,0,3
+427,Which is horrible.,-1,4
+428,Because I feel like Othello did occupy a space among the Senate of like great reverence.,4,17
+429,He did have status.,0,5
+430,"So it was about status, he has it.",0,10
+431,So it's clearly like there is race much stronger than all of it.,3,15
+432,But there's status and then there's status.,0,10
+433,There's status and then there's status.,0,9
+434,I think Mase is probably right.,1,7
+435,"We talked about, I think it was who was proportionalist.",0,12
+436,Yeah.,0,2
+437,"Aaron Zuck was saying in the last session, there's this moment that had not occurred to me on Cyprus when the message comes.",0,26
+438,"They are actually there to say, oh, there's no more for you to win.",1,18
+439,"OK, you need to come home.",0,8
+440,We're going to put Cassio in charge.,0,9
+441,So they treat him differently.,0,6
+442,He thinks he has a status he doesn't really have.,0,12
+443,Absolutely.,0,2
+444,He's a tool.,0,5
+445,I believe that too.,0,5
+446,And I believe that all those senators and the Duke himself,0,11
+447,It's all about they're using him for their purposes.,0,12
+448,"It feels as if behind their, oh, my daughter would have fallen too.",-1,16
+449,Bullshit.,-1,2
+450,But isn't that about race?,0,7
+451,What's that?,0,4
+452,"But isn't that like status, that's not a status thing about race?",1,16
+453,Like isn't that everybody internalizing like a superiority?,3,10
+454,And culture.,0,3
+455,"But the cultural thing, I mean...",0,8
+456,And culture.,0,3
+457,"And the island, you know, Venice, which is Venice.",0,13
+458,You know what I mean?,0,6
+459,"Like, you know, he's a Venetian.",1,10
+460,He's a Florentine.,0,5
+461,"You know, I studied to live for six years in Italy as an actor.",0,16
+462,And every one of those towns has a different language and a different history and a different sense of who they are.,0,23
+463,And...,0,2
+464,"Yeah, I'm fascinated by the fact that Iago's all about, look, you don't know Venice.",0,22
+465,"I know Venetian women, and I know, I don't know.",0,14
+466,He's in a foreign culture.,0,7
+467,"Look, I'm playing the devil's advocate a little bit because of course it's all about race.",0,21
+468,"But at the same time, there's so many other layers too",0,13
+469,And that interests me also.,1,6
+470,Yeah.,0,2
+471,And we need the time to explore them all.,0,10
+472,But it does induce me to wonder what narratives I have grounded myself in that I don't know are narratives.,1,22
+473,"afford to give up, that I would act the same way, to say that is not, that cannot be the truth.",1,26
+474,Right.,1,2
+475,"Because my whole existence is founded on those narratives and has been founded on those narratives since I was a child, probably.",0,24
+476,"On my father's and my grandfather's and the family portraits and the whole, all of that.",0,20
+477,Yeah.,0,2
+478,That makes me think of the relationship between Othello and De Stavona.,0,13
+479,"I was thinking about that a lot, and the false, the illusion, or I forget which word you used, but...",-2,25
+480,"Oh, the false image that he's made for himself of her.",-1,14
+481,Yeah.,0,2
+482,"So for these two, like...",1,7
+483,"maybe this is not a popular opinion, but the love between Desdemona and Othello.",2,16
+484,"He says she loved me for the dangers, and she pitied me, and for that I loved her.",2,21
+485,And so this relationship that's built,0,7
+486,"Someone loving someone for their pity, for the pity they have of them, and a young woman in a very patriarchal world, et cetera, et cetera,",-1,31
+487,seeing this person who has all these stories and has gone out there and has had this other experience and falling in love with those stories and with the talent of the person telling the stories.,1,37
+488,But it's just interesting to me that then she goes to Cyprus,1,13
+489,And she's so sure of herself.,0,8
+490,But she is a senator's daughter.,0,8
+491,She's going to go to Yale.,0,8
+492,She goes to all the dinner parties.,0,8
+493,She lives in that world.,0,6
+494,And then she goes into the stories.,0,8
+495,"And sometimes I just think, you know, when she's asking him about Casio and helping and stuff like that, meanwhile, there's been a battle, people have been killed, but she's just kind of living in this world, and sometimes I wonder, is she just playing a child's game?",2,61
+496,she's so surprised at the end that this thing happened.,0,12
+497,"She's married this person who has been destabilized, arguably, by all of the violence in their world and everything.",0,23
+498,"And he says something about, like, when I love thee not, chaos come again.",1,18
+499,Chaos come again.,-1,4
+500,So...,0,2
+501,"It just makes me think, I forget that...",0,10
+502,who was reading Othello last week.,0,7
+503,Rob.,0,2
+504,Rob Manning.,0,3
+505,"Was talking about, similarly, how this could happen today.",0,12
+506,"And that was the thing for me that really seemed very in the now, is this idea of the world, of the senator who lives in this world and his daughter, and the senator who's like, I'm not racist.",0,46
+507,I'm not racist.,-1,5
+508,"But then is upset at this, you know unexpected this is what he wanted and he's like you know the internalized racism comes out and it comes out in all these ways in the play and i'm imagining like in this for the sake of this example that it's like in 2021 but that like this young woman is in this world and she meets this person that has been abroad and has been",1,78
+509,"overseas and has maybe like been part of whatever kind of military units and has seen action and is now back and just hears all about it and then goes off and leaves their world to be with them and then oh my god suddenly like these PTSD flashbacks are coming and it's like just completely unprepared for that for the realities of like it's not just a story like This isn't, the life of telling the stories in like D.C.",5,86
+510,and the fancy restaurants is not actually what the reality is.,1,12
+511,"And when we go back to our new house that we just bought and blah, blah, blah, blah, then you're gonna get like the other side of those stories.",-3,36
+512,"So that's kind of how I was looking at it too, like especially getting a chance to like be in scenes with Desimona",2,25
+513,"For me, it's interesting.",1,7
+514,"I think that Amelia really loves Desdemona, but I don't know how much Amelia loves or is inspired by their love, their romance.",3,27
+515,"Maybe that's just me, the actor, being like,",1,12
+516,Is this like a Romeo and Juliet kind of thing?,1,11
+517,"Well, that ends badly too.",0,7
+518,It does.,0,3
+519,"But the kind of, well, we can make another argument for that.",1,15
+520,Maybe I'm just anti-romantic or something like that.,1,10
+521,"But isn't it, aren't we lucky to have the actor that's going to interrogate that in that way?",1,23
+522,It's just a question.,0,6
+523,"I mean, it's not meant to have an answer, I guess, right now.",1,18
+524,But I hope it's a helpful question.,1,9
+525,"Probably every Desdemona that ever puts the words on her own instrument has a different experience of that, I would imagine.",0,23
+526,I loved somebody crazy.,0,5
+527,Like chemically crazy.,0,4
+528,Also ended badly.,-1,4
+529,But like my whole world and all my agency and all my what I want for my life and my career and my everything turned completely upside down.,1,29
+530,And so I don't know why and maybe I said this to keep,0,14
+531,"in our earlier meeting, but because I picked up this play for the first time when I was quite young, I sort of fell in love with their love.",1,32
+532,"And I, you know, I don't know, I just, I buy it.",0,18
+533,"Like that they just like,",2,6
+534,love each other.,1,4
+535,"Oh, I buy that they love each other.",1,10
+536,I totally buy it.,0,5
+537,Yeah.,0,2
+538,"Isn't that part of what the play is about, too, is these people who adore one another but don't really know one another?",1,28
+539,Yes.,0,2
+540,Right.,1,2
+541,"They love, and at the same time, they're incredibly blind, both of them.",1,18
+542,Yeah.,0,2
+543,Which is the thing one of you were saying earlier about not communicating as effectively or as deeply with the people we know most intimately because we take it for granted or whatever.,1,34
+544,Or we can't.,0,5
+545,I don't know.,0,5
+546,"But yeah, I feel I don't think Desdemona is so naive I mean, I think, again, I come to her with my body and my voice and my age and my experience of the world, and I just feel like there is a warrior in her.",0,53
+547,"Cyprus is certainly not, doesn't go the way she thought it was gonna go.",0,18
+548,"but I feel like they are well matched in some way, that it's less, I don't know, it's dramaturgical too, like the question, and then that's the whole, like we were saying earlier about those texts about how many ships or whatever and does it matter.",4,57
+549,"Well, dramaturgically, we're just doing something technically there, right, that has nothing to do with psychological realism because these plays predate psychological realism, but if we want to do them now,",2,38
+550,"We can do that, but that's on us.",0,11
+551,That's not in the play.,0,7
+552,"That, you know, humanity, voice, brain, intellect, contemporary sensibility, whatever it is, comes with our, as you said, with our humanity in this present moment.",0,36
+553,And then that is the two things together are what make the product interesting.,1,15
+554,There's something about that.,0,6
+555,"notes, too, because I also don't think, in all these iterances of Desdemona who described, of the Sanders daughter, of these, I've never met, I have met people like that who have a certain naivete about certain things, but almost everyone I've met who's been of that ilk is extremely clever, is very well prepared.",3,69
+556,"To me, Desdemona, I think there's a version of Desdemona where she's this",0,17
+557,but it also is it uplifts parts of the,0,9
+558,"but where she's this sort of naive, fatalistic virtue symbol.",-1,13
+559,"Yeah, right.",1,4
+560,Symbol of virtuousness.,0,4
+561,"And then there's the version where she, which I think is more, which is how she reads to me now, where she's Amy Dunn from Gone Girl.",0,33
+562,Yeah.,0,2
+563,Do you know what I mean?,0,7
+564,Yeah.,0,2
+565,I know.,0,3
+566,What does that mean?,0,5
+567,"If you've seen Gone Girl, it's this story written by, I cannot remember her name.",0,21
+568,"the writer, but it also became a movie with Rosamund Pike and Ben Affleck, which I don't know how to figure that out.",0,27
+569,"But the cool thing about that piece, actually two movies that come to mind, but the cool thing is that the whole premise of the piece is that whenever you first meet the person you're going to marry, whenever you first meet someone, you are performing this version of yourself.",2,56
+570,you're telling a story by yourself.,0,8
+571,"But then later, it turns out to be true or not.",0,13
+572,You're hoping this person will love this version of yourself that you're presenting this first meeting.,1,19
+573,And then you decide whether or not you're going to perceive that version.,0,15
+574,And Gone Girl takes it to this extreme where both of them are such a match.,0,17
+575,They both understand very clearly that they've signed into this performance of the other person's ideal.,2,19
+576,"And when one person checks out of it, the other person does some very insidious things to get them back into place.",-1,24
+577,"And the character, the protagonist, or antagonist, I guess, is Amy Dunn, and she is Clever.",0,22
+578,She's smart.,1,4
+579,She comes from wealth.,0,5
+580,"She's really, really seeing.",0,7
+581,She's like a sweet icicle.,2,7
+582,And I think I've seen a lot on this play like Honey.,1,14
+583,"And I'm actually like, I don't know if that's, there is something interesting.",2,19
+584,This is one of my notes.,0,7
+585,There's an interesting version of this play,1,8
+586,"in which every person is risking something, and every single person is going after something in a way that makes human sense.",0,24
+587,Yes.,0,2
+588,And including Desdemona.,0,4
+589,Desdemona's not aloof.,-1,5
+590,It must be that way.,0,6
+591,She's there.,0,4
+592,She's seeing these things that happen.,0,8
+593,She knows when they happen.,0,6
+594,"She understands the person in front of her to a great extent, although maybe she's also missing things, big things about that person, too.",1,29
+595,"But I feel that there's a way that this play has been twisted into this, like,",0,19
+596,Everyone's playing these caricatures of archetypes of these people versus a person.,0,14
+597,Three weeks makes that happen.,0,6
+598,"Well, sometimes it doesn't happen in three weeks either.",1,12
+599,"But just on the page, and I want to avoid because you brought up such a brilliant idea, and I feel like the idea was talked about in a way of trying to disprove.",1,37
+600,"And I guess what I'm trying to say now is,",0,12
+601,I don't want it to be disproved or unproved.,-1,11
+602,"And here I am, I talking about what you just said, and I'm trying to disprove or not prove.",-1,23
+603,I don't want to do any of that.,0,10
+604,"I just want to say that on the written page, a woman gets strangled for having done nothing.",0,20
+605,She wasn't complicit on the page.,-1,8
+606,I don't know what we add.,0,8
+607,Because you can add stuff.,0,6
+608,You can add her.,0,5
+609,"you know, or whatever, but on the page, she didn't, she didn't, she wasn't complicit in any way, and she's just like, here I am, here I am, here I am, here I am, and it's like, what went wrong, like at some point, you know, it's like, it is like a tragedy for Desdemona.",2,78
+610,Of course.,0,3
+611,"We don't like watch Desdemona, I'm like, think in my mind like, yes.",3,19
+612,"No, Desdemona is not Iago, but she's still equally",0,12
+613,"potentially flawed as Amelia, and if she makes the conscious decision and the performative effort of her brand new marriage to be the best wife who would certainly never, ever have an affair, then she can try really damn hard in earnest to play that role and be completely blindsided by the fact that it doesn't seem to be working.",-1,65
+614,That doesn't mean that she's necessarily orchestrated,0,9
+615,"her death or something crazy, like if you're, you don't know Gone Girl as a reference.",-1,21
+616,"That's a really, it's a different thing.",0,11
+617,"But I understand what you were saying and I actually feel really passionate about that because, well just about, not to disprove at all, I think what you said is completely valid and thought provoking, but about like defending her",2,44
+618,Complexity.,0,2
+619,I've seen her played so many times.,0,9
+620,It's like the young girl who can only move from her father's house to her husband's house and then she goes to Cyprus but she doesn't know what she's getting into and now she's dead.,0,42
+621,I think there's so much more there than that.,0,11
+622,She's like fucking trying.,0,6
+623,She loves this man.,1,5
+624,She wants the adventure.,0,5
+625,"You know, it's like all of that is possible.",1,12
+626,And her naivete can also show up.,0,8
+627,I think that living in a different world is not necessarily the same as naivete.,0,16
+628,And I think there are many women who are extremely intelligent and complex and bold and brave who end up being killed by their partners.,0,26
+629,Absolutely.,0,2
+630,That's real.,0,4
+631,And they will not report them.,0,7
+632,You're right.,1,4
+633,And they will not.,0,5
+634,You're right.,1,4
+635,"Even to their dying, you know.",-1,8
+636,Yes.,0,2
+637,"Well, no, he doesn't.",1,8
+638,You don't understand him.,0,6
+639,Yes.,0,2
+640,"No, you are so right.",1,7
+641,It's my fault.,-1,5
+642,Yes.,0,2
+643,So I do.,0,4
+644,It is.,0,3
+645,I high five you on the like.,1,8
+646,She's not just this innocent little child.,0,9
+647,I think when I use the term child's game.,0,11
+648,"I was thinking of a production I saw where before she comes to ask for Cassio help, they insert a scene where Othello is waterboarding the people that he just killed.",-1,33
+649,"Oh, wow.",1,4
+650,This is the Iqbal Khan.,0,6
+651,Yeah.,0,2
+652,And so they have the drill that they're torturing with.,-1,12
+653,"And so she's asking him, come on, come on.",0,13
+654,come on won't you and she picks up the drill and she sort of just like waves it around and puts it back down again you know so there's that world of like just being it's a different game and that game she's not part of that game it doesn't matter how smart she is or how complex she is yeah who is that what version this is the RSC with Hugh Quarshie okay wow,3,80
+655,"It's playing on, I think, marquee TV right now.",1,13
+656,"You can get a free trial membership for a few days, so if you want to see it, you can pull that up.",1,26
+657,"I don't want to stop the discussion, but it's about a quarter to six, so they're going to kick us out of here in a little bit.",0,33
+658,"I blew past what we were due for a break at 5.30, so I'm going to have you forgive me and just say I'm snatching that away from you.",-1,33
+659,Did you want to speak up about anything?,0,9
+660,"No, I mean, I have thoughts, but mostly I was just listening to our second round.",0,20
+661,So I don't know when the next one of these will be.,0,14
+662,I just want to sort of cumulatively touch base with everybody and see if everybody is just,0,17
+663,interested in continuing to be called.,0,7
+664,"I mean, I make this list so that we can continue, that Jess and I can continue to stick people in and see other actors and, you know.",0,32
+665,But I want to make sure everybody who's here would like to return to this if asked.,1,19
+666,Is that a sort of yes?,0,7
+667,Yes.,0,2
+668,Yes.,0,2
+669,Are you good?,1,4
+670,"I just thought it would be really funny if one person was like, huh?",0,16
+671,Help me out.,0,4
+672,Thank you.,1,3
+673,Thank you.,1,3
+674,Good to meet you guys.,1,6
+675,I haven't even walked past that yet.,0,9
+676,It is an unfair question.,0,6
+677,"It's beautiful to know that everybody's, I mean, it was very engaging.",2,17
+678,We are proceeding on very unorthodox grounds with this work.,0,11
+679,"So I just, you know, but part of the work that we're doing, especially with MOC, is about being transparent, is about being inclusive, about hearing, listening, compassion, uplift of everybody involved.",4,43
+680,"So I'm just trying to,",0,7
+681,do that.,0,3
+682,"It's new, right?",1,6
+683,"Because I'm pushing back on all these old forms that don't give a shit about that, right?",0,21
+684,"And, you know, so that's that.",0,10
+685,Let's pass money this way.,0,7
+686,Just lighting up.,0,4
+687,"The reactions, if you want to do this, it's like a spattering of God.",1,18
+688,This is a fun game!,1,6
+689,It's so dirty.,-1,5
+690,It's not even like in an envelope.,1,9
+691,It's just.,0,4
+692,You're supposed to cover it up.,0,8
+693,"No, thank you.",1,5
+694,Thank you all.,1,4
+695,This was a great meeting.,1,6
+696,And we're just going to keep going.,0,9
+697,But everything you've contributed is infinitely useful.,1,9
+698,It's amazing.,1,4
+699,Can I say thank you also for not taking anything for granted.,1,13
+700,"It's beautiful, you know, what you're saying about, I mean, we're all vulnerable here, including the producers.",0,26
+701,"And that's a new experience, you know, of course, everyone is always vulnerable on someone, but it's beautiful to feel that, you know, that we're,",0,35
+702,Yeah.,0,2
+703,We're all through.,0,5
+704,Yeah.,0,2
+705,I'd like to say just like thanks everyone for everything.,2,12
+706,I've been a bunch of people in a long time.,0,12
+707,So I came off with a little this or that.,0,11
+708,That's just how it is.,0,7
+709,I'll go back to normal.,0,7
+710,I just don't pay for granted.,0,8
+711,You came off as a little talented artistic.,1,9
+712,"Yeah, very.",0,4
+713,You made us all laugh.,0,6
+714,Shame on you.,-1,4
+715,It's weird to be in a room with a bunch of people.,-1,14
+716,And I think it does take some time.,0,9
+717,"Well, y'all are amazing actors.",2,7
+718,"I mean, you all fell back into that.",-1,10
+719,You all found the thing and also started the conversation in such an honest way.,1,16
+720,So thank you for that.,1,6
+721,Onward.,0,2
+722,Onward.,0,2
+723,Thank you for thinking about it very much.,1,9
+724,What's that?,0,4
+725,We're going to break it down.,-1,8
+726,Please remember to give me back your scripts.,0,9
+727,This is totally available if you want to buy one.,1,11

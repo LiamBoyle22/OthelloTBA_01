@@ -1,0 +1,952 @@
+line_num,line,bing_liu_score,n_tokens
+1,"If somebody trusts you, they'd be like, oh, this is an ideal conduit to this other world.",2,22
+2,I have this relationship.,0,5
+3,This is my Cyrano.,0,5
+4,You know what I mean?,0,6
+5,He's just going to bare my notes and say nice things or whatever else.,1,16
+6,And how much of that is associated with class?,0,10
+7,Because you can operate in that way.,0,8
+8,I think of English,0,4
+9,"servant class versus gentry class, and the way they can be free and act like they're friends with their servants, and be very whatever, but when it comes down to it, that person's a servant, because that servant can't, if that servant oversteps that bound going back the other way, they have broken something, right?",2,67
+10,It only goes one way.,0,6
+11,"And so, to that point, because I think, you know,",0,14
+12,"As Keith said, you know, it requires the whole cast to be sensitive to Othello's arc, right?",2,22
+13,"Like, so, and that's what I'm talking about, that thing that's underlying there, that, like, how much does Cassio see Othello as other, to what degree, and how much is he aware of?",2,45
+14,"Because that's the story we're trying to tell, right?",1,13
+15,"Well, it's one of them.",1,8
+16,"It's one of them, right, right.",2,10
+17,There is a...,0,4
+18,Do you want to talk?,0,6
+19,Go ahead.,0,3
+20,It's really quick.,0,5
+21,"No, it's not.",0,6
+22,"No, it is.",0,5
+23,"I just wanted to say that the notion that you guys were friends, long-term friends, is helpful for me in my journey.",1,25
+24,"Please, please keep peppering us with those, because that's so valuable.",1,15
+25,Of course it is.,0,5
+26,"I agree, I agree.",0,6
+27,As do I.,0,4
+28,I think this passage from Justin Shaw's,0,8
+29,peace might be relevant to the question I was just asked.,1,12
+30,Should I read it?,0,5
+31,Yes.,0,2
+32,Let me just quickly speak to two points that were brought up.,0,13
+33,"Going to Cyprus, there is a hint at white privilege, if we care to see it, in that here is the colonizer.",1,26
+34,"going to the island saying, you men of Cyprus, let her have your knees.",0,17
+35,"And I picture 20 or so Cypriots standing around saying, what did he just say?",0,17
+36,Right?,1,2
+37,Who the fuck are you?,-1,6
+38,Right?,1,2
+39,And nobody deals.,0,4
+40,Right?,1,2
+41,"But to you, there's not a second thought.",0,11
+42,"I tell everybody, kneel down.",0,7
+43,Here she comes.,0,4
+44,And just in terms of acting awareness and finding...,0,10
+45,"finding this other, this new Casio, what I think is fuel is that if in fact he is what Iago says about him, if he is just out of the military academy, right, and somehow got this job, and he is who he is, then there is that chip on his shoulder, right?",2,62
+46,that he has to prove himself.,0,7
+47,"He could be easily inflamed, easily insulted, as Iago knows, because he's this man of not great stature, who's been given this position of great responsibility, and beat out a bunch of people who are probably all saying, why him?",1,49
+48,"So there is this need to figure out a way to be, you know,",0,16
+49,I'm as badass as you are.,0,8
+50,Don't step to me.,0,6
+51,I'm not having it.,0,6
+52,How does that manifest?,0,5
+53,"Yes, please.",0,4
+54,"Okay, so this is from Dr.",0,8
+55,"Justin Shaw's article, Rub Him About the Temple's Othello Disability and the Failures of Care.",-1,19
+56,It was an early theater article.,0,7
+57,And I thought this paragraph might be useful.,1,9
+58,"So, like Iago, Cassio is Othello's professional subordinate and thus exercises domination through disciplining practices that employ not just a white gaze, but also an ableist one that requires and enforces the constructed otherness of the more.",0,42
+59,These terms shape every interaction between the two as the lieutenant observes Othello from a perceived state of social equation or subordination.,0,23
+60,"In his first appearance on stage, Cassio comes to interrupt Rabanchio's interrogation, having been sent by the Venetian duke as a sort of messenger to collect Othello.",-1,31
+61,"While the anti-black disciplining of Othello by Rodrigo, Iago, and Barbaccio is more personal in nature, Cassio's arrival is not benign.",0,26
+62,It introduces a different facet of social control over Othello's presence.,0,13
+63,"Because he is charged with locating and producing Othello's body for the Senate, and later in Act II with keeping watch over Othello's marriage bed in Cyprus, Cassio's role as quote-unquote friend a term that Othello invokes and potential caregiver is inherently compromised by his political obligations.",0,53
+64,He invests more in maintaining socio-cultural hierarchies and proximity to Venetian political power than in caring for Othello's well-being.,1,21
+65,And I'm just going to read the first sentence of the next paragraph.,0,15
+66,"By contributing the term friend to describe his relationship, Othello considers the Florentine",0,14
+67,who might too be deemed a stranger.,-1,8
+68,"As a part of the care web, that would also include Desdemona and Bravanchio.",0,16
+69,But the play stages the progressive denigration and fragility of this collective when the behaviors of the caregivers neglect an ethic of caring from and through disability and practice of the self-centeredness of caring for.,0,36
+70,"Oh, goodness gracious.",2,5
+71,That's dense.,-1,4
+72,They do that.,0,4
+73,That's dense.,-1,4
+74,But I get it.,0,5
+75,I get it.,0,4
+76,And I think he's saying all the things we're already saying.,0,14
+77,"I think the only thing I might push back on in the immediate moment is the idea that one is more than the other, right?",1,27
+78,That the desire for social climbing is more than the actual friendship of what's going on here.,0,19
+79,And maybe that's true.,0,6
+80,I don't know.,0,5
+81,"And maybe we get to a place and choose that to be true, and act that.",0,18
+82,"But again, we are complex people, and we can be both.",-1,14
+83,So yeah.,0,3
+84,He is a scholar positing that Cassio's,0,8
+85,political associations and opportunities that exist because of those associations.,0,11
+86,"Trump, his genuinely or authentically caring connections to the general.",1,12
+87,"And again, I always think in performative terms, if that's the case, I guess there are ways to show it.",0,25
+88,it doesn't seem particularly obvious to me.,0,9
+89,Do you have thoughts on that?,0,7
+90,"Me, exclusively.",0,4
+91,I'd have to think about it.,0,8
+92,I haven't come to this yet.,0,8
+93,I'm reading this as we go.,0,8
+94,"All right, well, let's leave it.",2,10
+95,"We'll come back to it, but please, if you have...",0,14
+96,"Because, you know, he's taken the time to make, you know...",0,16
+97,a fairly clear case.,2,5
+98,I just don't know if it's so.,0,10
+99,"I don't know, is it ultimately contrived?",-1,10
+100,I struggle with what you just read in that,-1,9
+101,"By taking that scholarly approach, he's taking a very macro point of view about the societal pressures, the racial issues, all the machinations and things that are happening in the system, and applying it to a micro-instance.",-1,43
+102,And I...,0,3
+103,"I think that that can be problematic in understanding the truth of that moment, of that instance, and understanding the truth of that, particularly as an actor.",-1,31
+104,"Because we can talk about the history of the state's, the thing that stuck out for me was when he arrives, he's representing the state's control over Othello's body.",-1,36
+105,"But if Othello were white, isn't the state controlling his body as well by calling him to their presence?",1,22
+106,And so is...,0,4
+107,"We can talk about all of those things, but ultimately, he's coming in with a message, and he's got to deliver it to someone he knows.",0,32
+108,"That's the micro, that's the personal thing that's happening, the moment that's happening.",0,20
+109,"All of these macro concerns are things that we should discuss, but ultimately, that's not what's happening.",-1,22
+110,This is what's happening.,0,6
+111,And so I'm confused as to...,-1,8
+112,It just confuses me.,-1,5
+113,I don't know that I can apply it deeper than that.,0,13
+114,"I understand it, and I don't disagree.",-1,10
+115,I think one of the pitfalls of scholarship is that it can do that.,0,15
+116,It can go way far afield in parsing out.,0,10
+117,"Theatrical scholarship, looking at these plays, way far afield in parsing out an issue and in the process finding all sorts of ancillary stuff that isn't really the issue.",-2,33
+118,"And the actor says, but yeah, but wait, wait, wait, wait, wait, wait.",0,21
+119,What about this?,0,4
+120,So please.,0,3
+121,"Oh, well, I wanted to, it's funny that you said you were talking about these micro and macro things.",0,24
+122,"And I think, too, for an actor, that's going to be problematic, right?",0,19
+123,I agree.,0,3
+124,And I wanted to read a couple of things.,0,10
+125,that I write down every now and then.,0,9
+126,"Because I think, at least in my limited experience, that's talking about society and not something that Casio is going to be aware of in the moment.",-1,31
+127,"And I just wanted to read some things that people aren't aware of, which I wrote down microaggressions, right?",1,23
+128,"There's this micro, and then I even have one that's called macro.",0,16
+129,that I write down every now and then when somebody white comes and talks to me.,0,17
+130,And so I was at my daughter's school.,0,10
+131,And this was a micro.,0,6
+132,So I was at my daughter's school recently.,0,10
+133,And this woman came up to me.,0,8
+134,She walked up to me.,0,6
+135,"She said, hi.",0,5
+136,"And I said, hi.",0,6
+137,"And she's like, oh, I thought you were the PE teacher.",1,15
+138,You guys look similar.,0,5
+139,"He's really tall, too.",0,7
+140,"And I said, OK, yeah, I'm not the PE teacher.",0,15
+141,"And then she was like, oh, and then she walked away.",1,14
+142,And so I wrote this down.,0,7
+143,And I wrote it down because my daughter's PE teacher.,0,12
+144,He's black and tall.,0,6
+145,How tall do you think the PE teacher is?,0,10
+146,Just throw out.,0,4
+147,"I'm 6'5"", so I'm tall.",0,10
+148,How tall do you think the PE teacher is?,0,10
+149,"I'm going to bet on like 5'11"".",1,10
+150,"7'2"".",0,3
+151,"So when I talk to the PE teacher, we are nowhere near in height at all.",0,18
+152,"Now, obviously, we don't look similar.",0,10
+153,She didn't look at me.,0,7
+154,She didn't bother to take the time to do so.,-1,12
+155,She saw a tall black man.,0,7
+156,That must be the PE teacher.,0,7
+157,"I mean, 6' 5 and 7' 2 was like five feet.",1,15
+158,And so I wrote that down.,0,7
+159,Here's another one.,0,5
+160,I was talking at my son's school.,0,9
+161,"And she was like, oh, you know what?",1,11
+162,"Your son, he's in kindergarten.",0,8
+163,"I'm like, yeah, blah, blah, blah.",-2,12
+164,What's his name?,0,5
+165,"I said, it's Langston.",0,7
+166,"And she's like, oh, Langston.",1,9
+167,"She's like, I went to high school with a Langston.",1,13
+168,He was very athletic.,0,5
+169,OK.,0,2
+170,"And she was like, yeah.",1,7
+171,"Now, neither of these people thought they were being discriminatory or racist.",-2,14
+172,They thought they were actually engaging and being nice.,2,10
+173,This other one was when I was in Antigua.,0,10
+174,This guy came up.,0,5
+175,"He said he came over, and there's a group of black folks sitting, having drinks.",0,19
+176,"And he said, oh, my son, his son was like four or five.",1,17
+177,"My son was sitting over here earlier, and he lost his toy car.",-1,15
+178,I told him that you don't look like the type of people who would steal his toy car.,0,20
+179,"And then he goes, Lightning McQueen, after all.",0,11
+180,Lightning McQueen is a cartoon character.,0,7
+181,And he starts laughing.,0,5
+182,His son then proceeds to walk over to another seating area where we were sitting.,0,16
+183,We had reserved a seating area hours earlier.,0,9
+184,"But we decided when we came back, we saw the little kid playing.",0,15
+185,We just decided to let him play.,0,8
+186,"And we're like, oh, we'll sit over here.",1,13
+187,"The boy pointed to his dad and said, over here, over here.",0,15
+188,"And dad said,",0,4
+189,"Oh, because the kid was saying, no, I lost my toy car over here.",-1,18
+190,"And the dad was like, oh.",1,8
+191,And he talks to his son.,0,7
+192,"He said, I'm sorry.",-1,7
+193,"And he says, oh, and I disturbed these lovely people.",0,13
+194,And then walked away.,0,5
+195,"Oh, here's another one.",0,7
+196,"Only black people in this area, right?",1,9
+197,"And then somebody white comes up, and they saw two black people earlier.",0,15
+198,"And they said, oh, your friends.",0,9
+199,Are you looking for your friends?,0,7
+200,No.,0,2
+201,"Because they had seen two black, and we must all be together.",0,14
+202,And so it's all these things.,0,8
+203,"These people, they don't think they're racist.",-1,11
+204,They don't think they're discriminatory.,-1,8
+205,"They don't think, you know.",0,8
+206,All these people that said these things,0,7
+207,have no idea that what they're saying is from that place.,0,13
+208,"So I don't think Casio, even if it's like we read this, I don't think Casio knows.",1,23
+209,She doesn't know.,0,5
+210,Right.,1,2
+211,"I'm going to, because I'm like, I'm thinking.",1,14
+212,I'm slightly offended that they do that.,0,9
+213,I'm talking about us scholars.,0,7
+214,So I'm going to synthesize.,0,7
+215,I'm going to synthesize.,0,6
+216,"Yeah, I have to sit here and like, hold me back.",1,14
+217,Somebody hold me back.,0,5
+218,I'm not going to fight Keith.,0,8
+219,Keith probably kicked my ass.,0,6
+220,But I want to synthesize this because there's other examples in this article that I think are useful for this conversation about care and all that.,1,28
+221,So I will synthesize this during our lunch break.,-1,10
+222,I think that's part of my role here because I do get what you're saying in the sense that sometimes we talk to each other.,0,28
+223,Is that what you mean?,0,6
+224,When you say they do that?,0,7
+225,Yeah.,0,2
+226,What do you mean by they?,0,7
+227,Scholarship seems to talk to itself about itself.,0,9
+228,So my job will be to synthesize this.,0,9
+229,I'd like to speak to the article and to exactly what Rob was saying.,1,16
+230,"And that, right, again, I pushed back that one is more than the other.",1,18
+231,"But they're happening at the same time, right?",1,11
+232,"But that idea is like, you know,",1,9
+233,"You mentioned if Othello was white, Cassio would go get him.",0,13
+234,He'd still have to go get him.,0,9
+235,But I am going to get a black man.,0,10
+236,That is happening.,0,4
+237,That's what's happening.,0,6
+238,"And I'm not saying there's anything I need to play, because it's already there.",0,19
+239,"Ideally, it's built in the world that we're created.",1,13
+240,"That is different than me going to get a white general, just in its inherent nature.",0,18
+241,"Well, I think it speaks to the point we were discussing earlier, right, about how much of Othello is actually seen, right?",3,27
+242,Yeah.,0,2
+243,And heard.,0,3
+244,Right.,1,2
+245,And awareness of all of us.,0,7
+246,How aware are we of all of that yet?,0,10
+247,Yeah.,0,2
+248,And I think that makes a difference.,0,8
+249,The actor's awareness,0,4
+250,of the text or awareness of the moment or aware of these things that we were talking about.,0,19
+251,"Even if the character isn't aware, the actor has a responsibility to be aware.",0,17
+252,"And I think that's something that we don't often see, or at least I haven't often seen that.",0,23
+253,I don't know that I've often seen that.,0,11
+254,Yeah.,0,2
+255,I think what is kind of exciting is the idea that,1,11
+256,"What's really important, and I could be 100% wrong, what feels like is really important to being able to see microaggressions is that we're taking something, we're taking white supremacy, which is transparent in our world, it doesn't exist in our world, because it is, and building it so it can be seen.",4,66
+257,So building a world where you can see white supremacy,1,10
+258,so that we can see the microaggressions.,0,8
+259,Does that make sense?,0,5
+260,"No, absolutely.",0,4
+261,I think that that would be awesome.,1,8
+262,"And could an audience say, yeah, that's what I saw?",0,14
+263,Maybe not.,0,3
+264,But this will see it.,0,6
+265,"This will take it in, I think, if it's done well.",1,15
+266,I think that's the point.,0,7
+267,"kicker, right, if it's done well.",2,10
+268,Because I don't know why everyone's talking.,0,10
+269,"I'm thinking about Titus in Act 2, Scene 4, and we don't witness Lavinia's rape and mutilation, right?",0,25
+270,"But the way that that gets staged sometimes can make some people literally have a very visceral response to what they're seeing that, you know, I saw it actually in 2017, Royal Shakespeare Company, and they had to stop the show because folks",0,48
+271,"Somebody needed medical attention, basically.",0,7
+272,They were that impacted by it.,0,7
+273,"I've seen that, too.",0,7
+274,"Yeah, but it can be done.",0,8
+275,"And I think that's the challenge, right?",1,10
+276,Isn't that the challenge that we have?,0,9
+277,"Because I've never seen one where, how do we get an audience, right?",1,17
+278,"an audience to feel that, that visceral, without it being too heavy-handed, without it being, you know?",-1,22
+279,"Without it being like, hey, microaggression over here.",1,11
+280,"Right, right, right.",3,6
+281,Everyone see that?,0,4
+282,"Because, you know, I hate seeing that too, right?",0,13
+283,"And, you know, we talked about that.",0,10
+284,And it doesn't get in.,0,7
+285,"Yeah, it doesn't get in.",0,8
+286,"But then, you know, then the other thing is that our responsibility Our responsibility is to tell the story and tell the story that we've decided to tell.",0,32
+287,And some people are going to get it and some people don't or not.,0,16
+288,And some people will never.,0,6
+289,And then that's always the challenge.,0,8
+290,"Like, even when I'm making something right, that's the challenge.",2,15
+291,"Like, I want to tell this story.",1,9
+292,How beholden am I?,0,5
+293,"You want the audience to understand the story, but how beholden am I to try to get everyone to understand the story?",0,24
+294,"Well, I think",1,4
+295,That audience word is super important.,2,7
+296,Who is the audience?,0,5
+297,"Yeah, who is the audience?",0,7
+298,"I don't want to be the audience, because I know this stuff.",0,15
+299,So don't pitch it at my level.,0,9
+300,"Pitch it at the level where somebody who we want to draw into this, they might be on the verge.",0,22
+301,"Depending on how deep you want to go with your educating, because I think that's one of the values of theater, is that it is an educational site.",0,32
+302,So who are you educating in your audience?,0,9
+303,"I think that's a dangerous, it's dangerous ground if you take on education.",-2,17
+304,Because I think it can make for really bad theater.,-1,11
+305,"And I don't mean to say that, like, I don't mean to say that you're, I think that you're wrong to say that.",0,31
+306,"I think it's important to discuss it in really specific terms, what that education means in the context.",1,21
+307,And I think that what we respond to,0,8
+308,"are human beings having real experiences, right?",1,9
+309,Our mirror neurons literally react as though we were having them as long as the actor is inside of the work and isn't pretending and isn't faking it.,1,31
+310,"If we can create space where actors can actually have dangerous experiences, right, a brave space, a safe space where these things can actually happen, then we learn because we learn it on a cellular and emotional level rather than an intellectual one.",2,48
+311,"And in that regard, I think that our audiences can be broader because it's not about learning about white supremacy or learning about racism.",1,27
+312,It's about,0,3
+313,learning how human beings interact with each other and what the fuck happens when this series of events takes place.,-1,21
+314,"Yeah, that's what I'm meaning when I think about what the theater does as far as education goes.",0,22
+315,"Like I think, because it's my favorite play, so I'll just go with that, like the fly scene in Titus, right?",4,28
+316,"And Titus is, you know, stabbing his knife at this dead fly.",-2,15
+317,"Depending on how that's played, you know, one, we can see how crazy he is in this moment.",-1,23
+318,"But we can also see how, because Aaron is a substitute at a particular point for that fly, right?",1,22
+319,"He's like, there's for thyself and there's for Tamara when he's stabbing this fly.",1,20
+320,"So we can also get an audience to think about, okay, the racial implications of what's going on here.",0,23
+321,So that's what I mean.,0,7
+322,So I think...,0,4
+323,"Yeah, that makes sense.",0,6
+324,That's clear.,1,4
+325,I just...,0,3
+326,"For me, that was a red flag.",0,9
+327,"Yeah, no, I don't mean...",0,9
+328,But it depends on what our goal...,0,8
+329,"What our process is, and are we going to educate them, or are we going to tell a story?",0,22
+330,Because theater is a space where education happens.,0,9
+331,"The question is, are we going to try to teach them something very specific?",0,16
+332,Because that's where I think the danger comes in.,-1,11
+333,"When we try to dictate the response we want from them, we lose, because we lose the truth of the story.",-2,24
+334,"We lose the truth of something else, and it becomes pedantic.",-2,13
+335,"But all of these conversations, I think, inform",0,10
+336,"every way we signify subtleties about the world, like every way that we flesh out the world.",1,19
+337,"Because when I watch a story or when I tell a story, there are so many little things to pick up on that go beyond",0,26
+338,"that are within the text in terms of the story that people tell, but are so far beyond the text, which I think is getting to, we need to read everything.",0,35
+339,We need to have these conversations.,0,7
+340,"We need to talk all about these things, because we need to decide what story we're telling, what happened the moment before.",0,26
+341,We need to figure out what is the world we're in?,0,13
+342,What is this relationship?,0,5
+343,And what is proximity to power?,0,7
+344,"But it's hard to play like,",0,8
+345,Or I would find it very difficult to play.,-1,10
+346,"I'm a white man who is comfortable being close to high power versus like,",2,16
+347,I find it useful to serve this person who I also greatly admire.,2,14
+348,"Or not, you get what I'm saying.",0,10
+349,"But so it's like, what is the useful information for us to have to inform the thing that is the useful thing to play?",3,27
+350,Because that's what we're capable of doing.,1,10
+351,And the costume designer does.,0,6
+352,"I mean, the future costume designer and whatever.",0,10
+353,Or not.,0,3
+354,Or not.,0,3
+355,The world is built out through things beyond the actors and the directors and the scholars and everybody else.,0,20
+356,"The world is built out through all the ways we're taking the story, which are visual, which are through the body, which are how the space is set up and the relationship, the power relationship of the audience to the piece that they're witnessing.",0,51
+357,Are they moving around?,0,5
+358,Everything about that.,0,4
+359,You're all saying the same thing.,0,8
+360,You're all saying the same thing.,0,8
+361,Who said it best?,1,5
+362,It never occurred to me that it would be a problem.,-1,12
+363,There's no story that we're going to tell that's going to look like trying to teach anybody anything.,1,22
+364,"I am so averse to indicating, you know,",-1,10
+365,"oh, look, Donald Trump looks like Julius Caesar in the bullshit theater.",1,15
+366,"You were never in danger of that, and all the work that you just described is what we're doing.",0,22
+367,"That's why there's going to be depth and breadth, and you're going to tell that story, and people are going to respond as they respond, and it's all about",0,36
+368,being as grotesquely truthful as human beings as we can be.,1,12
+369,"And I use that term intentionally, because real humanity is hard to watch.",-1,15
+370,It is hard to watch.,-1,6
+371,"One of the things Mike and I were talking about this, and I think it just, to continue this conversation a little bit more is,",0,28
+372,"Because again, I'm not interested in doing anything that's preachy or hitting people over the head.",0,20
+373,And then everybody's an individual.,0,7
+374,"I react to a story differently than you react to a story because of our personal, because of our histories, right?",1,24
+375,"We were talking about a movie when, we were talking about a movie, I think?",0,18
+376,"And we were talking about how, oh, we were talking about Blue Valentine.",0,16
+377,"And we were talking about how, one, they took the time.",0,14
+378,to do what we're doing right now.,1,9
+379,I think they took a month.,0,7
+380,"Yeah, they lived together in the apartment.",0,9
+381,They lived together in the same place.,0,8
+382,Given assignments.,0,3
+383,Was this Blue Valentine?,0,5
+384,No.,0,2
+385,"Yeah, Blue Valentine.",0,5
+386,Blue Valentine.,0,3
+387,"So the two actors lived in the same, they weren't in a relationship, they lived in the same place for a month.",0,26
+388,to figure out how each other worked.,1,8
+389,And then it showed in a way.,0,8
+390,"But the director gave them assignments in that, too.",0,11
+391,He said there's a bunch of home video things that happen in the movie.,0,16
+392,"He's like, I need a home video of birthdays.",1,12
+393,So show me all your birthdays.,0,7
+394,And they created that with each other during that month.,0,11
+395,"Each week, he gave them new assignments.",0,9
+396,And so they had time to create all of that back story.,0,13
+397,"that is just sort of shown in the movie, and then that appears in their performances of the stuff that's happening now.",0,25
+398,"Right, and we talked about how when they sat next to each other, you know how when you see two people sit next to each other and you know they're in a relationship?",1,37
+399,Those are the things that I think are missing so much in a lot of the theater or movies that we watch.,0,23
+400,Those things.,0,3
+401,And we were talking about that.,0,7
+402,"When you see that, you know that they have a closeness.",0,13
+403,"We were talking about how people, like when we sit with our wives and how there's a different way you just even sit next to someone or hug someone when you've been in a sexual relationship with them, the closeness that you feel, the intimacy.",3,51
+404,And you can see that.,0,6
+405,"And to see that in a production, it's like, how do you get to that?",1,19
+406,How do you get the time to do that?,0,10
+407,The time to establish that kind of relationship.,0,9
+408,And shaking a hand.,0,5
+409,"Have you ever shook somebody's hand, and then the way they shook your hand, you knew they weren't okay shaking your hand?",0,27
+410,We can do that.,0,5
+411,And so that's what's exciting to me that I hardly ever see.,1,15
+412,"Everybody acclaims that, I hate to say it, slave play.",-2,13
+413,"And I'm like, I didn't see that work.",2,12
+414,I didn't see it.,0,6
+415,And I want to see it.,0,7
+416,Maybe it would have had a different impact on me.,0,11
+417,"I think even just a little bit of improv,",0,10
+418,I keep thinking of the Russians.,0,7
+419,But you're working on a project for a year.,0,11
+420,You're working on a project for longer than a year.,0,12
+421,What happens if we improvise all of these relationships?,0,10
+422,Let's put Casio and Desdemona together and put Othello and Amelia together.,0,14
+423,What's our relationship outside of all of this?,0,10
+424,And how much discovery is there?,0,7
+425,"Because there's so many questions in the play about the relationships that are not defined except by the text, which is so, there's not enough there.",1,31
+426,So I'm excited.,1,5
+427,I hope that we will be able to explore,0,9
+428,more of those improvisations or whatever we do to find those things as we go along.,0,17
+429,Yeah.,0,2
+430,"Welcome, Terrell.",1,4
+431,Thank you.,1,3
+432,We've been missing you.,0,6
+433,Yes.,0,2
+434,So there's about 20 minutes until lunch.,0,9
+435,"Zach, you're the only one who really hasn't spoken to the earlier question of the three that I've done.",0,24
+436,I wrote some things down.,0,6
+437,You wrote some things down?,0,6
+438,"Yeah, yeah, yeah.",0,6
+439,"Yeah, well, don't regal us.",2,9
+440,"So we're talking about the provocation was Keith was asking, especially Bianca, Cassio, and Rodrigo about fear of the unknown with their characters.",-3,28
+441,It was our leaping off point.,0,7
+442,"And the thing I was thinking about is definitely influenced by something you were talking about, Michael, of people who act like they want something different, but kind of like a dog chasing a squirrel wouldn't know what to do maybe if they caught the squirrel.",2,51
+443,I had a dog like that.,1,7
+444,I had a dog just like that.,1,8
+445,"Yeah, so it's a pretty clear image.",2,10
+446,It's the one we see.,0,7
+447,It's the one I meet Rodrigo on.,0,9
+448,"He's been contentedly, melancholically chasing a squirrel, who he also equates to an object, totally an object.",-2,22
+449,"So I don't know what he would do if he caught it, her.",0,16
+450,"The other thing I think about, which is kind of the, it feels somewhat like the inverse of that, is the unknown is like, what would happen if I caught the squirrel?",1,37
+451,Rodrigo professes.,0,3
+452,to despise his present.,-1,5
+453,"He fears the known more than anything else in the way that he talks about, in the way that I attach meaning to what it would mean to have Desdemona, like what that would complete for his life.",0,41
+454,I think there's a lot of room of interpreting I'm doing within that.,0,16
+455,"But being unmarried and a gentleman in this world,",0,10
+456,is to live a life that has not had a significant piece complete.,1,14
+457,So he professes in that way to want this change so badly.,-1,13
+458,He is come back to the poem.,0,8
+459,"I mean, he is this advocate for this change while also not finding a way out of his situation to make change take hold.",1,26
+460,"by the end of the play, he is willing to lose everything, to give everything away, and to kill another man.",-1,25
+461,"Within the position in the society that he occupies, I can't think of a more extreme way than basically relinquishing his societal power by selling all his land, giving all his money away.",0,37
+462,and then being willing to kill someone to try to change your situation.,0,14
+463,"Or I don't think, maybe I can't think of a different way to express those things, but I certainly don't think he can think of a more extreme way to express his desire to have the thing that he seeks.",0,46
+464,That's kind of what I was doing on.,0,10
+465,So how was the journey?,0,6
+466,"When you put it that way, I have never thought of it that way.",0,16
+467,Yeah.,0,2
+468,There's something...,0,4
+469,Tis but a man gone...,0,6
+470,"Like, the rationalization is quick.",1,7
+471,"I mean, he's like, I'll hear more of this after coming into Iago saying...",1,19
+472,"Saying, tis not very well, no.",1,9
+473,"Iago, obviously...",0,4
+474,Tells him something.,0,4
+475,"That happens not for us to see, right?",1,10
+476,That happens offstage.,0,4
+477,Right.,1,2
+478,But he must tell him something.,0,7
+479,Because he seems sort of adamant and aware that everything has been a ruse up until this point.,-1,19
+480,"At this point, he's had alone time and said, I've got to give this up because clearly this is now, I can see it's bullshit.",0,32
+481,Definitely.,0,2
+482,So I don't know what Iago comes up with in that.,0,13
+483,"And to go from there to stay close by, because I haven't, I may miscarry it.",0,20
+484,I don't know what I'm doing.,0,9
+485,"And he's like, you'll be fine.",2,10
+486,"I'm like, OK.",1,6
+487,I'm going to do this.,0,7
+488,I'm going to do it.,0,7
+489,I'm going to do it.,0,7
+490,I wonder what that looks like to find oneself,2,9
+491,"in this situation where you are now in mortal combat with another human being, not really knowing quite how you got there.",0,24
+492,"Now you're in the middle of it, right?",1,11
+493,Now it's kill him or die.,-2,8
+494,"And how did the circumstances, whatever was in your head, plus this tempter and convincer, get you there?",0,22
+495,What's that look like?,1,6
+496,"As Shakespeare wrote it, it's very quick.",0,10
+497,"But I don't like the idea that either of these guys can't handle themselves and that there's time to watch this go on, you know, and what it looks like, the animal nature of it.",2,42
+498,"And in that protracted state, be able to see",-1,10
+499,"Rodrigo struggling with, how did I end up here?",-1,11
+500,"How did I manage, you know?",0,8
+501,"I like what you're saying about not wanting to see people who can't, or what I think you're saying about people not being able to handle themselves in terms of, but I think not on the other side of that, but kind of in addition to that, like,",2,56
+502,"getting the window into the rationalizations, the rationalizations specifically Rodrigo makes in that moment of going from the way it came in the previous scene to the rationalization he makes about why what he is doing is right or can be right or he can make it right.",3,50
+503,And there's a continuum within even that to figure out,0,11
+504,"Is that, you know, we've talked about, like, Cassio with his moment and where people lose, where people, I don't know what we're calling it, right, where they lose their shit and they go into chaos.",-2,48
+505,"Is that his moment, like, does Rodrigo have a moment and that's somehow it for him?",1,20
+506,In terms of the release of inhibition through?,-1,9
+507,"Or just that something, I mean, how you get there is like, wow, whoa.",3,19
+508,"But when you dive into that, like, what is it?",1,13
+509,What is that place for him to go that far?,0,11
+510,Mm-hmm.,0,2
+511,This is Rodrigo's journey.,0,6
+512,"Oh, I am slain, without the context of other people speaking.",0,14
+513,You see how the text gives almost nothing.,0,9
+514,"I mean, it's always this, you know, Rodrigo couldn't be more of a fop.",0,20
+515,"He can't even get a stroke, you know, thrust a sword home, you know, from behind.",0,22
+516,"You know, and Cassio turns around and kills him.",-1,11
+517,"He says, you know, the sentence later, I'm slain.",0,14
+518,"As opposed to there being something to give him dignity, right?",2,13
+519,Something to give him dignity of being a man.,1,10
+520,"You know, if he's just laughable, then there's nothing...",-1,14
+521,"to think about after he's a tool, he's another tool to advance.",0,16
+522,"But what you're talking about and what you're thinking about, even though he is ultimately wrong-minded or just, I wouldn't put that judgment on it, just confused and having a tough time navigating with the tools he has, he has dignity and he has agency, he has power.",1,57
+523,"And something I'm thinking about, which I don't even think is relevant, but when I think about somebody who's on the outside of the soldier's world, whatever his acuity is for, or his acumen are for fighting, it's like I see that moment before as this pumping up moment of this is what a person has to do before he enters the arena.",2,74
+524,And thinking about the great,1,5
+525,kind of models for that are like the berserkers.,1,10
+526,"Like, I bet Othello could be a berserker in his situation if he needed to be.",1,18
+527,"Or he's seen models of it, because he's been in battle so often.",0,17
+528,He's so well regarded.,1,6
+529,"I mean, like the kind of, and I bet Iago has seen models.",1,16
+530,"Like, I bet, what is a berserker?",1,10
+531,"A berserker is, OK.",0,6
+532,"The example, think about the culture signifier of it.",0,11
+533,There was a story about one of the Harlem Hellfighters who had his legs blown off by a shell and killed 25 men from the stumps where his legs were with his,-2,32
+534,with his bayonet.,0,4
+535,"I have to, I want to find that story, but it's kind of like working yourself into a frenzy during battle and becoming this kind of crazy, unconquerable thing.",-1,34
+536,"Yeah, I just, yes.",0,7
+537,"It's kind of, they talk about it in the back, too.",0,15
+538,The right thing with Scottish fighters who would work themselves into such a frenzy.,1,15
+539,"A trance, like, furious.",0,7
+540,"I wonder if there's, there's something to the, an analog I,",1,16
+541,I think of is the movie LA Confidential.,0,9
+542,Danny DeVito's character runs this hush-hush magazine where it's all this gossip stuff in Hollywood.,-1,18
+543,"And you find out later that they stage some of these things in order to get certain people in certain compromising situations, in order to have pictures of them that they go, hey, we could publish this, or you could do favors for us and do the things that we need you to do.",0,59
+544,"They end up getting a DA or something in bed with a young actor, a boy.",0,18
+545,And they use that in order to blackmail the DA into something.,-1,13
+546,"And Danny Vita's got this line where he's like, you should have seen the liquor.",1,19
+547,I had to get this kid just to get him to do it.,0,14
+548,I had to promise him a part and something.,1,10
+549,Because he's a young actor and he comes and he really wants this thing bad and he's willing to sell out something,0,24
+550,that in order to get this.,0,7
+551,"Like he's willing to, what to him is debasing himself in order to do to get this thing, right?",3,23
+552,"And then I find that, like you talk about dignity, there's so much dignity in realizing that.",3,21
+553,"And there's so much humanity in realizing what have I done when it finally, when the scales are finally pulled from your eyes.",0,26
+554,"There's so much, there's so much pathos in that.",0,13
+555,"Yeah, there is pathos in that, and I think he's a tragic figure, ultimately.",-1,19
+556,But I also think that,0,5
+557,"The whole, like, his whole raison d'etre is just to get this woman for whatever fucking purposes he needs her.",0,23
+558,And I think it's really status.,0,8
+559,And I think there are weird parallels between Rodrigo and Cassio with regard to Desdemona and their relationship with her and her value in this world.,0,27
+560,I also want to point out that you called him confused.,-1,12
+561,And I don't think he's confused.,-1,9
+562,"I just, I have to push against that.",0,10
+563,He's a sexist pig is what he is.,-1,10
+564,"And I think that if we're going to examine gaze, that male gaze is something that has to be brought into this just as much as white gaze, because it's so heavy handed.",0,38
+565,And I don't think there's any confusion.,-1,10
+566,"Well, I think that, I understand what you're saying, but sex is pig is just a term.",0,22
+567,What does that mean?,0,5
+568,"What causes his sex is piggery, you know?",0,10
+569,Woman as property.,0,4
+570,"But that comes from some, that's placed on a brain that is indoctrinated in a certain way, that is then navigating with whatever tools it has.",0,30
+571,I'm not saying that you don't examine it.,0,11
+572,That's not what I'm saying.,0,8
+573,Yeah.,0,2
+574,"I mean, I think we established the initial motivations, right?",1,13
+575,"And we can go back before there was any Desdemona and see his rise to privilege and his circumstances giving rise to his mindset and perspective, right?",2,29
+576,"It's all, you know, to label him anything, and maybe confused is not the term, but he has...",-1,24
+577,"He is reprehensible in particular ways, but no more or less so than anybody else, and we're examining the ways.",-1,24
+578,"Yeah, I don't mean to lay, that was a heavy judgment that I laid down, but it's, yeah.",0,25
+579,It's what you're sensitive to.,1,8
+580,It's like we don't know until we know.,1,11
+581,I didn't know,0,4
+582,I didn't know I was misogynist until I knew I was misogynist.,0,14
+583,"Well, you don't know, right?",2,9
+584,"I was like, I'm not misogynist.",1,9
+585,I march.,0,3
+586,I advocate.,1,3
+587,I'm an ally.,0,5
+588,"And then this girlfriend was like, and then you just said this.",1,14
+589,"And I'm like, well, yeah, but that's not.",2,14
+590,"Oh, shit.",-1,4
+591,OK.,0,2
+592,Right?,1,2
+593,But I didn't know.,0,6
+594,But I've been doing that behavior all my life.,0,11
+595,"And then someone pointed it out to me, and I'm like, Oh, yeah, got it.",1,21
+596,And now I need to change my behavior.,0,9
+597,But I didn't know until I knew.,0,9
+598,"That's what I was saying about the racism, right?",0,12
+599,"You don't know until you know, until it comes out.",0,13
+600,"And you're like, oh, shit.",0,9
+601,And there are people who are capable of hearing that from somebody.,1,13
+602,having that reaction.,0,4
+603,"And there are people who aren't, maybe aren't capable of, no matter what.",1,18
+604,"And I'm lying when I said, like, in the moment that she said that to me, that I didn't push back.",0,27
+605,"I'm like, no, I'm not, what are you talking about?",1,16
+606,"It took me some time to be like, oh, shit, okay.",0,15
+607,"And go back to her and like, you know that thing you said?",1,15
+608,I'm sorry.,-1,4
+609,You were right.,1,4
+610,"Yeah, and I think that it is that",0,9
+611,Women.,0,2
+612,"We have a responsibility to illuminate these things, these elements of patriarchy, just as much as the elements of racism.",0,23
+613,Absolutely.,0,2
+614,"And men have that responsibility, too.",0,8
+615,Except that men so often have no clue.,0,9
+616,"Well, and that doesn't get a man off the hook, though.",1,15
+617,"No, no, it doesn't.",0,8
+618,"It's like white people being like, huh?",2,10
+619,That wasn't racist.,-1,5
+620,Yeah.,0,2
+621,And I think it's so interesting.,1,8
+622,"You know, people can often say what they're not.",0,12
+623,"Like, I'm not racist.",0,7
+624,I'm not misogynist.,0,5
+625,"But they can articulate what they are, right?",2,10
+626,"So I had this situation with somebody months ago and, you know, got very defensive.",-1,18
+627,I'm not racist.,-1,5
+628,"And it's like, okay, fine.",2,9
+629,So what are you?,0,5
+630,And he didn't have an answer.,0,8
+631,"And the answer is very simple, right?",1,9
+632,"He could have just said, oh, I'm anti-racist and I do X, Y, and Z.",0,21
+633,But he didn't have the language for it because it's not part of who he is.,0,19
+634,"And same thing with men who operate a certain way and don't adhere to feminist ideals, right?",1,20
+635,And don't embrace feminism.,0,6
+636,Feminist.,0,2
+637,Very simple.,0,3
+638,"So often, yeah, they do embrace it.",0,10
+639,Or they think they do.,0,6
+640,They think they do.,0,5
+641,"Yeah, but then...",0,5
+642,we have to bend over backwards and constantly adjust and take care of them and make sure that their egos are not being damaged at any given moment.,-1,29
+643,"And that's just how it is, right?",1,10
+644,I would never do that.,0,6
+645,"I'm like, was that shade?",1,8
+646,No.,0,2
+647,You guys are really enlightened.,0,6
+648,We so appreciate that about you.,1,7
+649,"Like racist microaggression, there are so many wonderful tools that we can use to show that clearly, to show these elements of the patriarchy clearly.",3,28
+650,Gaze is one of our main tools.,0,8
+651,How do we,0,3
+652,"How do we, where do we keep our bodies in relation to your bodies?",0,16
+653,How do we look at you?,0,7
+654,How do we allow you to look at us?,0,10
+655,Eye contact.,0,3
+656,There are so many subtleties of behavior.,0,8
+657,"And I think there's a lot of wonderful, I'm sorry.",0,14
+658,"Yeah, you interrupted.",0,5
+659,I'm sorry.,-1,4
+660,That was the correct response.,1,6
+661,But I can use the interruption to tell you we're at 2 o'clock.,-1,15
+662,"And we should, we should, we'll be back.",0,12
+663,Are we clear?,1,4
+664,"You weren't ready for that trip, were you?",1,11
+665,Was that improv?,0,4
+666,I'm just getting started.,0,6
+667,"You're like, see?",1,6
+668,See?,0,2
+669,Okay.,0,2
+670,Are we still on?,0,5
+671,Okay.,0,2
+672,Welcome back.,1,3
+673,Thanks for coming.,0,4
+674,So I'd love to go back to text now.,1,11
+675,The morning discussion was great.,1,6
+676,"We'll be back there again, too, because it seems like the more you talk about it, the more there is to talk about.",1,28
+677,And that's fine.,1,5
+678,"in a process like this, which is kind of whatever we make it, right, ultimately.",2,19
+679,"The problem is we do not have, I'm just realizing, we do not have our Rodrigo.",-1,20
+680,What class are you all from?,0,7
+681,We're just theater students.,0,6
+682,Are you an actor?,0,5
+683,I don't know.,0,5
+684,What's your name?,0,5
+685,I'm Nick.,0,4
+686,"Nick, we've got a job for you.",0,10
+687,Why don't you take this seat right here?,1,10
+688,"Like, what?",1,4
+689,"No, Nick stays ready.",1,6
+690,"Have you read the play, Nick?",0,8
+691,I've not read Shaker.,0,6
+692,I just read about it.,0,6
+693,"Sorry, I fell out.",-2,6
+694,I read Shaker.,0,4
+695,"I was like, what?",1,6
+696,But you have not read this play.,0,8
+697,Yes.,0,2
+698,"I read up on it before, but I haven't fully read it.",0,15
+699,How do you feel about reading cold?,-1,8
+700,Do you think you're going to be able to?,0,11
+701,Just do what I do and just pretend like you know what you're saying.,0,16
+702,Conviction.,0,2
+703,There you go.,0,4
+704,"Wait a second, you're faking it?",0,9
+705,Fake it till you make it.,-1,7
+706,Oh my god!,0,4
+707,I had no idea.,0,5
+708,And still going.,0,4
+709,"And wait, I'm sorry, your name again is Nick?",-1,13
+710,Don't listen to little Nick.,0,7
+711,I'm here to help you.,0,7
+712,Don't listen to me.,0,6
+713,Y'all are so mean.,0,5
+714,"If I had thought ahead, it never even occurred to me, the fact that we were losing Zach after lunch and that we'd be going back to working on this, which is all the more reason for us to have a company stage-slash-stage manager that we don't have at this point.",-1,57
+715,Let's just do this bit again slow for Nick.,-1,11
+716,Go through once just to get the flavor and see what we do from there.,0,16
+717,Are we starting from the top again?,1,8
+718,"I would, just so he can get the sense of where this is going.",0,16
+719,The one that looks like a little person speaking.,1,10
+720,Gotcha.,0,2
+721,Yeah.,0,2
+722,So this is Nick.,0,5
+723,"All right, Nick, be good.",2,8
+724,Gotcha.,0,2
+725,Be great.,1,3
+726,Don't screw this up.,0,6
+727,"This is your big shot, kid.",0,8
+728,"Nick, do not.",0,5
+729,I'm here to help you.,0,7
+730,Do not listen to that.,0,6
+731,"Tosh, never tell me.",0,6
+732,Despise me if I do not.,-1,7
+733,Non suits my mediators.,0,5
+734,"For certes, says he, I have already chosen my officer.",0,13
+735,Hm?,0,2
+736,"forsooth a great arithmetician, one Michael Cassio, a Florentine, a fellow almost damned in a fair wife that never set a squadron in the field, nor the division of a battle knows more than a spinster, unless the bookish theoric, wherein the togic consuls can propose as masterly as he.",0,57
+737,"Mere prattle without practice is all his scholarship, but he, sir, had the election, and I, of...",-1,23
+738,Christian and heathen must be beleed and calmed by debiter and creditor.,-1,13
+739,"This countercaster, he in good time must his lieutenant be an eye.",1,14
+740,"Now, sir, be judge yourself, whether I am in any term an affine to love the more.",1,21
+741,You shall mark many a duteous and knee crooked knave that...,-2,12
+742,"For naught but provender, and when he's old cashier'd, whip me such knaves, honest knaves.",1,21
+743,"Others there are who, trimmed in forms and visages of duty, keep yet their hearts attending to themselves and throwing, but shows of service upon their lords do well thrive by them, and when they have lined their coats, do themselves homage.",3,48
+744,"These fellows have some soul, and such a one do I profess myself for.",0,16
+745,"For when my outward action doth demonstrate the native act and figure of my heart in completement extern, tis not long after, but I will wear my heart upon my sleeve for daws to peck at.",0,39
+746,I am not what I am.,0,7
+747,Rouse him.,0,3
+748,All right.,1,3
+749,All right.,1,3
+750,"Thank you, Nick.",1,5
+751,Thank you very much.,1,5
+752,"We did not get to talking about, well, several things.",1,13
+753,But I think we left off talking about lines that,0,10
+754,I thought might not need to be here.,0,9
+755,We're making cases to keep them.,0,8
+756,"And the last was the bookish theoric, which is fine.",1,12
+757,The next one is on line 54.,0,8
+758,And it's fascinating to me that the characters listening to,1,11
+759,"Iago speak, never say, wait, what did you say?",0,13
+760,"Say, no, but back up, what was that?",0,12
+761,"And this is one of those places, because I always say it.",0,14
+762,"I'm like, what is he talking about?",1,10
+763,And why doesn't anybody stop him?,0,8
+764,So thoughts on that?,0,5
+765,"I think the following line is, I interpret as a clarification of what he just said.",0,18
+766,I just picture,0,3
+767,Rod Briegel blinking at him just like I do whenever I read the line.,1,15
+768,"So the follow-up is, this is what I'm doing, right?",1,14
+769,"So you've, so, so, so...",0,10
+770,There's a fun moment there.,1,7
+771,"There's a moment of, there's a potential for a moment.",0,14
+772,"There's, I could say something and be done, and he's clearly not getting it, so I need to keep going.",1,26
+773,So you spell it out for him.,0,8
+774,Right.,1,2
+775,"But does what he says, what succeeds, mean that?",1,12
+776,What does that mean?,0,5
+777,"I clocked that line this time through because I still don't know what it means, or I didn't then.",0,23
+778,"And looking at it again now, I think, I mean, it's one of those fun, twisty turns for Shakespeare.",1,25
+779,"But it's, you're Rodrigo, just as sure as you're Rodrigo.",0,16
+780,We know that.,0,4
+781,"That's your name, just as sure as your Rodrigo.",0,12
+782,"If I were in his position, I, in my position, wouldn't still be in my position.",0,21
+783,I would have moved on.,0,6
+784,I would have been promoted.,0,6
+785,Ah.,0,2
+786,Right?,1,2
+787,Were I the Moor.,0,5
+788,Okay.,0,2
+789,"I never heard that, and I respect that.",1,10
+790,I think that is a worthy answer.,1,8
+791,"The question remains, as was yesterday, is that hanging audience up?",0,14
+792,Right?,1,2
+793,So they're spending time thinking about whatever the hell that was while they've gone on with the rest of the scene.,-1,24
+794,"Or is the opportunity for a moment allow them to, you know, allow Rodrigo to voice",0,18
+795,silently voice that miscomprehension for them.,0,7
+796,"Through something, through that moment, they get to share in that moment with Rodrigo.",0,17
+797,I'm not married to it.,0,7
+798,I don't care.,0,5
+799,Cut it if you want.,0,6
+800,But that was what just came to me just now.,0,11
+801,The editor of this edition is suggesting something else.,0,10
+802,"You know, we can look at that gloss.",0,10
+803,"And he's saying, depending on the punctuation, reversing the colon and stop, we make the line slightly less baffling.",-1,24
+804,"So right now, where's the colon?",1,9
+805,There's not even a colon.,0,7
+806,"There's a period after Iago, and then there's a colon, and following him, I follow by myself.",0,23
+807,In my book.,0,4
+808,It says something similar to what Michael just said.,0,10
+809,Two things.,0,3
+810,It does?,0,3
+811,What's your say?,0,5
+812,"So, if I were able to assume command, I certainly would not choose to remain a subordinate, or I would keep a suspicious eye on a flattering subordinate.",-2,32
+813,"Ooh, that's an interesting, yeah.",1,9
+814,I would keep a suspicious eye on a flattering subordinate.,-1,11
+815,"I mean, that's essentially on some level, Othello shouldn't trust me.",1,16
+816,"If I were in his position, I wouldn't trust me.",1,13
+817,Because I'm out here for myself.,0,8
+818,Which then easily follows into the...,0,7
+819,And that's why people flatter.,1,7
+820,Right.,1,2
+821,Because they want to get in and get close to that power and have access to it.,0,18
+822,Yeah.,0,2
+823,That's an interesting take as well.,2,8
+824,I still think it's just really difficult.,-1,9
+825,"I think you just have to be clear with what's happening before, with Whip Me Such Honest Knaves, that section, because it's like he's building upon one thought to make the next point, one point to make the next point.",3,48
+826,"So I agree with you that I think if that doesn't happen, if that clarity's not there, then that is going to be confusing.",0,29
+827,I would say put a pin in it.,0,9
+828,"Because I think it's such an interesting line, the construction of it.",1,15
+829,"Because I was even reading, were I the more, I would not be Yago.",0,17
+830,It depends on how.,0,5
+831,We don't know how that's going to play out.,0,12
+832,"But the definition of it, it's like I would rather us try to play it, see if it's playable, than get rid of it because it hasn't been playable to date.",1,38
+833,I dig that.,0,4
+834,I want to make a case also for just the idea of introducing identity in the individual because it's a relatively recent concept that was constructed by the church with regard to what's it called when you repent in the church when you confess and confession used to be a public thing because people were not considered by their,-1,61
+835,individual sins they were considered collectively and then it became private when the church started landing on culpability of the individual and then they could play into guilt which was a whole new thing individual guilt as opposed to let collectively the crops have died so sacrifice something to the gods it turned And I just think that the idea of the assertion of the fact of identity is really interesting.,-2,72
+836,"And again, maybe this isn't a playable thing, but it's an idea that runs through the whole show in so many different ways that I'm more inclined to keep it.",0,36
+837,"The way that the play relentlessly undermines the idea of a fixed identity, to me.",-2,17
+838,Yeah.,0,2
+839,Yeah.,0,2
+840,And how it's constantly called into question.,0,9
+841,Who am I?,0,4
+842,What am I?,0,4
+843,What am I now that this other thing has happened?,0,11
+844,Right.,1,2
+845,What am I if I don't have my reputation?,1,11
+846,Nothing without that.,0,4
+847,"And I'm with you where every time we get to it, I refocus in on it because as much as it may be hard to follow, it also seems extremely meaningful.",0,35
+848,"And I'm kind of a mix of all of those things because for me, I feel like this whole speech is kind of a",1,26
+849,"establishing of Iago's allegiances, and even if it were that we have a moment where Rodrigo has to say, what exactly are you saying?",0,28
+850,"It makes sense to me if these are new ideas, and he's shifting from the honest nave to the other, and in doing it, making promises of what, how else do you prove it?",2,40
+851,"And then there's a level on which, racially, it's also saying that, like, I'm not like him.",2,25
+852,"Like,",1,2
+853,"there is actually a separation, and I can use that to convince Rodrigo more easily.",0,17
+854,"In trying to stuff it with all those things, you run the risk of it being nothing.",-1,19
+855,"I hear that, and I think at the end of the day, you sit and you listen to the flow, and you see if it keeps stopping you, and you keep asking why, right?",1,40
+856,"If you can't sell it, if it doesn't make sense and just seems, as it has always thus far, to be this obscure thing that none of the editors can agree on what it means, I guess we go from there.",-1,48
+857,And I'll freely admit I'm not getting it yet.,0,12
+858,I'm not landing it.,0,6
+859,Or even close to landing it.,0,7
+860,I do feel like there's a level on which some of what we're doing in our conversation might introduce aspects of the conversation that are the reason why the editors haven't been able to make sense of it.,1,42
+861,And that's why I support putting a pin in it.,1,12
+862,Because it may actually be a,0,6
+863,harser or stronger statement than we're usually thinking is being made this early.,1,15
+864,And that's what I'm thinking about kind of the racial context or even like this idea of how new this experience of kind of a racialized life is to them.,1,33
+865,And if some of the harsh language that we're seeing is because it's the first time,-1,18
+866,they've ever been in a position to deal with someone kind of usurping the trajectory of their careers or their relationships and all of that.,0,27
+867,"And I know it just seems like there is a little bit of like something happening in Iago right now that is a little bit sense, but a lot of the ethos and like all of that and not knowing yet where that lands in this scene.",4,49
+868,"I think, too, in terms of some of the content and imagery of this section, that thing about the fools behaving like his master's ass is important to me because later on in the play, he puts Othello in the position of the ass being led around tenderly.",5,54
+869,And I think that that supports this idea of him doing a role reversal in his head with Othello.,1,20
+870,"It's like if he has been truly trustworthy in his relationship with Othello up until this moment, and he feels betrayed by Othello, then it becomes important to him to say, you've been a fool to trust me.",3,44
+871,That's how I kind of interpret it.,0,9
+872,Who's been a fool?,-1,6
+873,Othello has been a fool to trust.,0,8
+874,You should have never.,0,5
+875,I was a fool to trust you.,0,8
+876,"No, you were a fool to trust me.",0,10
+877,and reclaim power thereby?,1,5
+878,"I think it feels to me, not to put any pressure on you, but it feels like one of the most important things that we hear him say to Rodrigo in the beginning of this, of setting up.",2,42
+879,It definitely feels like it has a weight in the speech.,1,12
+880,It's got a weight to it.,0,8
+881,It lands somehow in the fact that,0,7
+882,"Because this first paragraph is like, you could be a house Negro.",1,14
+883,That's not what I am.,0,7
+884,"And then, you know, the next section, you know, keep their hearts attending on themselves and throwing but shows of service on their lords.",0,29
+885,"There's that section, right?",1,7
+886,"So I could be a house slave or I could be a good soldier and, you know, make some sort of",0,23
+887,"Not money, but make some sort of place in the world.",0,13
+888,"But no, that's not what, you know.",0,11
+889,"It's like he's setting up, like, no, this is, I am going to make him mine.",2,23
+890,"Even in the beginning, it's like we cannot all be masters, nor all masters cannot be truly followed.",3,24
+891,"But you're mapping out the rest of the speech, which is clear, right?",2,17
+892,You're saying that one line throws it.,0,9
+893,"It is, and I feel the power of the line.",0,12
+894,"I haven't seen anybody throw it away, nor have I ever understood it.",0,16
+895,"boom, deal with that.",1,6
+896,"And I'm like, oh, there it is again.",1,12
+897,What the fuck?,-1,4
+898,"In some ways, the most direct response to Rodrigo's goading him, the I would not follow him, which is really saying...",-1,26
+899,"But he says, when following him, I follow but myself.",0,13
+900,He answers that.,0,4
+901,Iago does not answer that question.,0,7
+902,It doesn't seem to me to answer it.,0,10
+903,But it's the...,0,5
+904,It's the...,0,4
+905,I don't know what the green light means.,0,10
+906,It's the evidence.,0,5
+907,It's him supporting and following him.,1,8
+908,Because I make these delineations.,0,6
+909,"When I say this, you can't believe me.",0,11
+910,Because I know the separation between him and me.,0,10
+911,Just because it seems like I'm supporting his purpose.,2,11
+912,It seems like I'm a part of it.,1,10
+913,"Like, no.",1,4
+914,"I'm not saying so much about how necessarily to play it, but the language of it, it's when we suddenly kind of shed some of that poetry.",0,32
+915,"And it's actually, it sounds like he said something real.",1,13
+916,I thought the rest was real.,0,7
+917,The rest I was following.,0,6
+918,Then it gets abstract.,0,5
+919,So we're hearing it differently.,0,7
+920,"Rodrigo says, I would not follow him then.",0,10
+921,"So like the ass, he works to be fed.",2,11
+922,And that's it.,0,5
+923,"And when he's old, cashiered.",0,8
+924,The master gets rid of him.,1,7
+925,Whip me such honest knaves.,1,6
+926,That's a sense of contempt.,-1,7
+927,I hate people like that.,0,6
+928,Others there are who trimmed in forms and visages of duty,0,11
+929,Makes sense.,0,3
+930,"And, throwing but shows of service on their lords, do well thrive by them, because they're trimmed in forms and businesses of duty, their lords see them as these loyal servants, and so their lords lavish them with gifts and money and praise and whatever.",5,52
+931,"And when they have lined their coats, do themselves homage.",1,12
+932,So they have gotten all this stuff from their lords and masters.,1,13
+933,Now they have the wherewithal to do what they want for themselves.,0,13
+934,And I agree.,0,4
+935,I think it makes sense before that line.,0,9
+936,"But I do think that after that first line, we start going in a lot of directions in the masters and masters.",2,24
+937,He's setting up the types,0,6
+938,"And I guess to me it feels like it's not, that's a personal understanding that he's established.",1,22
+939,Let me get there.,0,5
+940,These fellows have some soul.,0,6
+941,I admire them.,1,4
+942,I'm like those people.,1,6
+943,I'm like the latter.,1,6
+944,group that I described.,0,5
+945,I dress myself in visages of duty so that my master will like and praise me and give me advantage.,4,21
+946,And I will then take that advantage and use it.,1,11
+947,"These fellows have some soul, and such a one do I profess myself.",0,15
+948,"For, sir, it is as sure as you are, Rodrigo, were I the more",0,18
+949,I would not be Iago.,0,6
+950,"Not because I care about this guy, but to seem like I do serves my personal need.",1,19
+951,for when,0,2

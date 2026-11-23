@@ -1,0 +1,676 @@
+line_num,line,bing_liu_score,n_tokens
+1,Hello.,0,2
+2,Hello.,0,2
+3,Hello.,0,2
+4,Hello.,0,2
+5,Hello.,0,2
+6,Welcome.,1,2
+7,Sorry.,-1,2
+8,I don't care.,0,5
+9,that's not just a thing people say and instead my response is yeah that tracks yeah that class is such an interesting class I think you're kind of lucky in that class I know my Tuesdays and Thursdays are great I'm like yes and then I go to CIT and I'm like,5,56
+10,"Oh, no!",0,4
+11,Don't say that in front of us.,0,9
+12,"Hi, Joe.",0,4
+13,"No, I mean, I'd love to see you.",1,12
+14,Always speak true.,0,4
+15,Hi theater majors.,0,4
+16,"You've all signed up for advising, right?",1,10
+17,"Well, not you.",1,5
+18,We've already met.,0,5
+19,Thursday.,0,2
+20,"Three o'clock, my dear.",0,6
+21,Pulled up on the side.,0,6
+22,There's like a kid's,1,6
+23,The guy's mom is amazing.,1,7
+24,"The guy's like our age, baby.",1,9
+25,The guy's mom.,0,5
+26,I just lost it.,-1,5
+27,"He's like, while I'm going to ask him, I was like, open your mouth and you did what you did yesterday.",2,27
+28,"And I'm just like, I'm like, some things I just can't, I don't understand.",2,22
+29,Like if I had done something that's...,1,9
+30,"Yeah, did it just start framing this?",0,9
+31,"Oh, half and half, half and half.",0,10
+32,It's like kind of got you.,1,8
+33,Yeah.,0,2
+34,"Can we settle down in the room, please?",0,10
+35,"Thank you, Settle.",1,5
+36,"Thank you, Settle.",1,5
+37,"All right, everybody.",1,5
+38,Hello.,0,2
+39,Good morning.,1,3
+40,Happy Tuesday.,1,3
+41,How's everybody doing?,0,5
+42,Good?,1,2
+43,Good.,1,2
+44,How are you all in New York?,0,8
+45,You seem very subdued over there in Utah.,-1,9
+46,Very subdued this morning.,-1,5
+47,It is rather early over there.,0,7
+48,How's everybody on this end?,0,7
+49,All right.,1,3
+50,"Anybody have a spot where you'd like to pick up, or do we want to jump into some more discussion questions that you have, or where do you want to start, folks?",1,37
+51,"Come on, come on.",0,6
+52,That's a big question.,0,6
+53,We're good.,1,4
+54,That's a big question.,0,6
+55,All right.,1,3
+56,So why did we choose Ovelo?,0,7
+57,"Was it the challenge of it, or what was it?",0,12
+58,I'm going to give you the short answer because the long one gets extremely convoluted and complex.,-2,19
+59,But the short one is if you are a large and even sometimes small black male actor in America who went to conservatory or has,0,25
+60,It's considerable collegiate acting training.,0,7
+61,Nobody stops talking to you about Othello.,0,8
+62,And I call it Othello in the ether.,0,9
+63,"It is something that's always urged, talked about, suggested.",0,13
+64,"And so if you take my case, one starts to consider it.",0,14
+65,One starts to look at it all the time.,0,10
+66,"One might even start to believe that it is what he has been told, which is, it is the pinnacle of your acting career to do this role well, and it's a role that almost invariably cannot be done well, as far as I'm concerned.",2,53
+67,"I am the veteran of, I should say veteran, I've seen something like 19 productions of this play and never liked a single one of them.",2,30
+68,"That creates a life, an acting life, where you are doing all the other stuff, but a fellow continues to come up and come up and come up.",0,32
+69,"And you have your various experiences with this role, and those experiences cause harm, because very often there is a white male empowered to tell you how the role is done, trying to find their way through a...",-1,42
+70,"inherently flawed play, but doing it anyway because they have been told it's Shakespeare and therefore has value.",-1,21
+71,It is marketable as a thing.,0,7
+72,It is a thing that we can argue that large portions of a white American audience would like to see and believe about the danger and criminality of the black male.,0,32
+73,All of these things.,0,5
+74,And that's why I say it can be a very convoluted answer.,-1,14
+75,I could go on and on and on about this.,0,11
+76,"So I ultimately wrote a play about it in 2012 and produced that play and brought that play to whatever fruition it was going to have at the time and realized around COVID, while not being able to do that play, that the question I kept getting asked is, when are you going to do Othello?",0,60
+77,"And the answer was always never, you know, never, not with you, not in the system that exists.",0,23
+78,"because it doesn't give us time or consideration or compassion or love, all of which artists need to create good stuff.",3,24
+79,"And I sat down during the first lockdown and began to look at the text of Othello and try to edit it in such a way that I could believe, if I read it, the arc of the story, that I could walk away from the story believing that it was plausible.",0,56
+80,"that all of the jumps and holes in logic that Shakespeare left there because his audience wasn't questioning him about them, I could",0,25
+81,build bridges or go around them or excise them entirely.,0,11
+82,"And I got done with that and realized that it was something, but there was no way for me to go further on my own.",0,27
+83,And so we started to put together a group that could scrutinize the text with me and figure out,0,19
+84,"If there's a better play here, there's many scholars that say there's no reason to do this play, right?",2,25
+85,"We can teach it all we want, but there's no reason to do it.",0,17
+86,"And we don't know if that's true because at the root, we're actors and directors and dramaturgs.",0,22
+87,We want to make theater.,0,6
+88,"So saying we shouldn't do it is, you know, there's no gain in that.",1,19
+89,So we wanted to look for a way through and have been doing that with the help of our partners here at Sacred Heart University for coming on three years.,0,31
+90,And what you see is how far we've gotten.,0,11
+91,"And of course, you can see that it is not done.",0,13
+92,"We begin again with the close reading of the text that we've already created, and we take it as much further as we are able, as long as we have support.",1,35
+93,"And what happens is The project, in that process of looking at it, the project evolves to bring in people.",0,23
+94,This is a new piece.,0,6
+95,"Having you all there in Utah sounding off about the work we're doing, bringing you into the room as collaborators, is a brand new piece that helps us figure out",1,33
+96,"the essential question, which is, what do we see here?",0,13
+97,What do we as contemporary Americans see here?,0,9
+98,What do we want to see?,0,7
+99,"How can it be made to work so that we all appreciate this play as something other than, oh, Shakespeare, Othello, that's the thing that Shakespeare wrote.",2,33
+100,"Black guy kills the woman, big, jealous, yeah, dead, boom.",-2,16
+101,That's not enough to keep doing the play.,1,10
+102,"And so all of us, including y'all, are finding something else.",0,14
+103,You see how long that answer was?,0,8
+104,That was the nutshell.,0,5
+105,And that was the nutshell.,0,6
+106,What?,0,2
+107,Go ahead.,0,3
+108,"Sorry, I was just thinking about if there's a thing, like if any, that you have found in your research, or working on this, because I don't know if I've been able to find any.",0,44
+109,"theme necessarily, but it's like, or message or something to learn from it.",1,17
+110,"I don't know if you necessarily need one, but just like a why.",1,16
+111,I think that part of what we're doing is centering Othello in this play where he has not been previously the center.,0,24
+112,"It was really the Iago show, right?",1,9
+113,And we're changing the focus.,0,7
+114,It's like lighting design.,1,6
+115,"The light has always been on Iago, and we're not rewriting the play.",0,16
+116,We're taking the light and we're putting it over here so we can see this thing that we've been fed for 400 years differently.,0,28
+117,We can hear it as if for the first time and maybe gain some perspective.,1,16
+118,"I don't think our intention is to create a set experience for anyone, because we all process information differently.",0,22
+119,That has to be allowed.,0,6
+120,That's respecting one's audience.,0,7
+121,But we are changing the perspective at times.,0,9
+122,"And if, to just add to that, if there were novel new takeaways that the audiences were expressing, then we would be proving the concept that doing all this work with people like you made something, made something that we didn't have prior to now, something that wasn't considered.",3,57
+123,"So there is a theme, potentially, that the theme is you can do something better with theater.",1,20
+124,"Other members of the ensemble, I want to go back to Bridget's question for a second, sort of like the bigger picture of all of this.",1,30
+125,"I think anybody who spent time with this play and has a certain ethical approach to life, let alone to theater, to reading,",1,26
+126,is gonna struggle with this play.,-1,8
+127,"And then the more you study its performance history, the more you learn about the ways in which, just as you were just saying, Othello has been so decentered in the performance history of this play, especially in the 20th century, as theaters became integrated and Othello was no longer played by a white actor in blackface, suddenly all the reviewers were like, ooh, Eddie Iago, he's interesting.",3,79
+128,"who are wanting to see Shakespeare, who are wanting to see theater, who are wanting to see the world be a better place in so many ways.",1,30
+129,What are you all finding or what are the purposes that you all brought to the table of wanting to be involved in this project?,0,26
+130,And then what are some of the new ideas that you've been finding through the process?,0,18
+131,"I mean, I think we all have some",0,9
+132,"of Othello, right?",1,5
+133,What are some of the things that you all have found as you've gone through this process?,0,19
+134,Now we're the classroom.,0,6
+135,I think,0,2
+136,I've been in a production but I was really young and I was playing Casio so it was a very different kind of take.,0,26
+137,"And I remember at that time, and I was young, I was right",1,15
+138,paying attention.,0,3
+139,I don't think my awareness was where it is today.,0,12
+140,"I'll also say dealing in grad school with this piece at the Guthrie Theater, I remember very distinctly they were about to do Othello and I was there as a student and the artistic director at the time said, who was about to direct Othello, said that this play is problematic.",-1,56
+141,Everybody nods their head.,0,5
+142,"And he says, it's problematic because I don't know why Iago does what Iago does, and we have to figure that out.",-1,27
+143,"And he said, because it's not race.",0,10
+144,It doesn't have anything to do with race.,0,10
+145,And I just see Aaron's reaction here.,0,9
+146,"And I remember being there, and I was one of two of me in the room, and I said, why is it not about race?",0,29
+147,"And I remember the room looking at me like, how dare you question this...",1,16
+148,you know relatively famous white male artistic director and asking that question and I was genuinely asking the question and then he he tried and then I said well what about the text what about when in the text this character says this and this which is clearly racist and he's he disagreed and so that's what I knew that production was going to be what that,1,69
+149,And could be nothing more because he wasn't willing to at least investigate something contrary to his thought.,1,20
+150,"I've also been in discussions with doing the role of Othello at a regional theater, and I remember in the callback the director saying, well, a black person wouldn't do that in this instance.",1,40
+151,"And I remember thinking, this is not the right place for me.",1,14
+152,"So I think when, you know, Keith and I have known each other as peers for a while and had the same agent.",0,26
+153,I think that's how we first met.,0,9
+154,"And, you know, I was more than excited to get away from that.",1,16
+155,"So that was my first, and then I met Jess, and Jess had this insight of a different take.",0,22
+156,It was just coming from a different place.,0,9
+157,"So now I get to think about the love that Desdemona and Othello share, and what that is, and centering that.",1,24
+158,Centering the pursuit of being with this human being in a way that Othello has never been with anyone.,0,20
+159,And I'm excited for an audience to see that or at least read that or hear that.,1,19
+160,"And then finding out growing as a human being in this process with this ensemble in ways where I'm like, oh, I never thought about the misogyny in this play.",1,34
+161,And I never thought about it because of me being misogynist.,0,12
+162,You know what I mean?,0,6
+163,And then bringing light to that.,0,7
+164,So...,0,2
+165,"So that's why I'm excited about this, and I think, and why I'm interested, and why I keep pursuing in a way where I want this to be successful.",2,36
+166,"So, yeah, hopefully that answers your question, yeah.",0,12
+167,"I can offer up, I feel like I'm still looking for Amelia, in fact, between",1,19
+168,Tuesday's conversation I was thinking a lot about some thoughts that Tina was sharing about Amelia and questions that had come up from y'all throughout the day and and I have,0,32
+169,"you know, some new ideas about that character that I'm excited to continue to explore, and this is year three on this project.",1,27
+170,"So I think I also played Desdemona a million years ago right out of school, and I was not looking at the play through the lens that I am looking at the play now.",1,36
+171,"And that's interesting to me, too.",1,9
+172,"experience this play, looking at it with a lot of time passed, moving through 2020, through my lived experience as a white privileged woman.",1,28
+173,"I'm interested in learning about what is invisible to me in the play as a white woman, the racism, which is a lot of our process has been about",-2,32
+174,me learning and discovering that through our discussions and also by giving voice to through this character the misogyny in the play which is not invisible to me it is very visible and part of my lived experience and letting and actually talking about that in an open way which is something that I feel like,0,56
+175,I'm not really able to do in all spaces.,0,11
+176,"So, yeah, that's been my journey.",0,10
+177,"Just to add to that a little bit, because something that I found really interesting with exploring the misogyny in the play is that it's so often propagated by the women, which is another thing that we don't talk about and we're not supposed to talk about.",1,53
+178,"But this space, this space we can get into that, but most we can't.",0,18
+179,"Yeah, I've learned that",0,6
+180,"My understanding of the process from the early goings is one of the biggest things we're really trying to do is to create the actual world that is reflective of the world that we live in, in which all of these",0,43
+181,"Watchers of the Night is a big example that comes to my mind, where Robancio says, I have some Watchers of the Night, and we talked about that at length, like, where is that in our own society, be it the Charleston, Charlottesville, you know, Tiki torture carriers, or go to the full extreme of, like, Klansmen or something like that, and so, you know, you mentioned, like, creating a better world.",4,90
+182,I don't think we're trying to create a better world,1,12
+183,in so much as we're just trying to show the world accurately in which we live and the world accurately as it's reflected in this play so that all of these things are probable.,2,37
+184,And that's very ugly.,-1,6
+185,"I mean, the world is a very, very ugly place.",-1,13
+186,And so I think my own journey is learning the responsibility in creating that as ugly as it may be and not being ethical,0,24
+187,or only being ethical in the sense that we're trying to present the world as it actually is in all of its ugliness.,0,25
+188,Because it's in those circumstances that allow all of these things to happen.,0,15
+189,"I think Keith said at the beginning of the process that One of his issues with the original text is that the play is titled Othello, but I don't really feel like we're telling Othello's story, at least not from his perspective.",0,48
+190,I think the original text tells a story that's not really about Othello.,0,15
+191,"And in the process of untitling this play, I think I find places in the text to reflect who the person is, to tell his story from beginning to end, who he was before the text picks up, and how he will be remembered when we're done with this segment of his life as we're telling it.",0,64
+192,And it allows you to look at him through each character's eyes,0,13
+193,"through the actions as opposed through the context that's set for us in the original text, allowing him to die",-1,22
+194,a whole man as opposed to the piece of the man that we're given in the original text.,0,20
+195,He has an entire culture.,0,6
+196,He has an entire heritage.,0,6
+197,He's a soldier.,0,5
+198,There are things about him that I don't think we get to explore in the original version.,0,19
+199,"And the great part about that is as you explore those layers of his life, you understand better the other characters in the play in terms of how they relate to him or how they should when we're not telling it from a biased perspective.",1,48
+200,Who was he really to Desdemona?,0,7
+201,Who was he really to the soldiers in the play?,0,11
+202,He was a friend.,0,5
+203,He was a mentor to a lot of them.,0,10
+204,"I don't think the original text really leaves us room to explore those relationships in reality, whether it's the reality of that world or the reality of any world.",0,33
+205,These are actual relationships as opposed to us telling a story about a man who's not even really the central focus of the original text.,0,27
+206,And that's been the most fascinating thing to me as we learn about,1,14
+207,Othello's life in a more real way and telling that story.,0,13
+208,Maybe the story of him through his own eyes or telling the story of everybody else through Othello's eyes.,0,21
+209,How does he see the world that he's been handed?,0,12
+210,I think one of the things that I've taken from this whole project is that it's kind of refocused,0,21
+211,"my relationship with these plays, because I've been a Shakespeare nerd since I was a child.",0,19
+212,And,0,1
+213,"And I've come to realize through this work that the reason why I'm still engaged is because I see working deeply on Shakespeare, which you're seldom given the opportunity to do because of the limitations of time and money and lack of imagination of people involved at times.",-1,53
+214,that engaging deeply with Shakespeare is a way of training oneself to engage the world with more complexity and more awareness of ambiguity and of injustice.,-1,27
+215,"Yeah, I think that, from my perspective, a lot of damage has been done to engaging with these texts because of this sort of false pieties that have been piled on top of it.",0,38
+216,"And engaging with a text that is deeply problematic in which, I mean, I do see an author who is trying to be humane at points, but gets so much stuff wrong that you can't let it go, or you shouldn't let it go.",0,51
+217,"But furthermore, this wasn't somebody who was trying to uphold systems.",1,14
+218,He was a chaos goblin of a writer.,-1,9
+219,And part of me wants to honor that in the work as well and develop it further.,3,18
+220,"And doing that, I think, is a vehicle for showing us how wrong we are about things in our own world and our own lives.",-1,28
+221,Other thoughts?,0,3
+222,Questions?,0,2
+223,"Liz, go ahead.",0,5
+224,"So this might not be a super big question, but I noticed that throughout the play, one of the scenes start with specific times, and I know even like in more contemporary plays,",2,37
+225,has not realized something that happens is usually just like dawn or afternoon or something like that.,3,18
+226,"So what was the idea or discussion behind actually like specifying like, it's 12 p.m.",2,18
+227,"It's 11.45 p.m., stuff like that.",1,9
+228,What was the idea behind that?,0,7
+229,It was my attempt,0,4
+230,"to imagine a timeline wherein, again, all this could be plausible.",0,14
+231,"Shakespeare, as a writer, employs something that contemporaries, current scholars and studies of Shakespeare call short time, long time, short time.",0,27
+232,Is that it?,0,4
+233,"Yeah, long time.",0,5
+234,"which is to condense time so that things that would have otherwise happened over a course of several years, you see it in history plays a lot, because you're trying to tell a story about the rise and fall of a king that may have taken 10 years in five acts, right?",0,57
+235,So they condense things.,0,5
+236,"And Othello, he tries to do that too.",0,10
+237,The problem is what happens in the play,-1,8
+238,looks like it happens in the course of a couple of days.,1,13
+239,"And in order for, you know,",0,8
+240,I don't not believe that the seeds that Iago plants in Othello's brain would not work on him along with all the things he sees and experiences over a period of time.,1,35
+241,"But when it's condensed like that, it just feels like he's dumb.",1,16
+242,Like he hears this stuff and overnight he's going off the deep end.,1,15
+243,And so it was a way for me to look at...,0,12
+244,"you know, what the timeline might have been and then decide if it works, could throw it all out, right?",2,24
+245,"Again, nothing here is carved in stone, right?",1,11
+246,"But that was the conceit, to try and figure out when things actually might have happened and how.",-1,20
+247,"And if there's a space where something, a couple of days needed to transpire,",0,17
+248,"between one scene and the next, then we have to set up things in the subsequent scene that give the audience that sense that time has passed, because they're not reading the script, right?",1,39
+249,"So I have to then put things into these stage directions that say, you know, this has changed.",0,21
+250,"You know, this is where the sunlight is coming.",0,11
+251,This is the hour of the morning it is.,0,10
+252,"This is the things that are going on in that hour of the morning, you know, that would give everybody a sense that this is this day, you know.",0,33
+253,That's all.,0,4
+254,"Speaking of stage directions, I have a question, a very specific one.",0,15
+255,I'm looking at page 96 in the 30th of January draft.,0,13
+256,"This is after Othello's trance or seizure, or whatever you want to call it.",0,17
+257,"Your stage direction is, Othello begins to come to you, cries and begins to get scared.",-1,19
+258,Who wants to talk about it?,0,7
+259,I don't want to have the conversation.,0,9
+260,I don't want to answer all this for the ensemble.,0,12
+261,Let me say just briefly that tracking Othello through something that might have been a Moorish past via Iberia in whatever age into,0,23
+262,"into Europe suggested to me that there is some Arabic descent that he has, that Italian, or in this particular case, it would be Venetian.",0,29
+263,"There was a dialect called Venetian, which is not even standard Italian, would not have been his first language, probably wouldn't have been his fifth.",0,30
+264,And one that he might default to is Arabic.,0,10
+265,"But again, just an idea for me.",0,9
+266,"And when we get into the handkerchief, there is insight into Othello's parentage, and who that might have been, and spiritual beliefs.",1,27
+267,And the last thing I'll say is that I think the handkerchief,0,13
+268,"for it to do the things that it does in this play has to have genuine power, right?",2,20
+269,"It has to be something so striking that you're almost afraid to hold it in your hands, right?",1,21
+270,It really has to be that thing.,0,8
+271,"And the conceit was, you know, the writing on it, the standard",-1,15
+272,"take is that it's a white handkerchief with red strawberries to represent virginity and perhaps the loss of virginity, there's blood spots on it, whatever.",-1,30
+273,"There's lots of scholarship that says, no, it wouldn't have been any such thing.",0,19
+274,And we were trying to create something that has,0,9
+275,"if I just held it up here, you would be struck by how gorgeous it is.",0,18
+276,"What that Arabic or Egyptian writing says, we don't know yet.",0,14
+277,"So that's my take, but please.",0,9
+278,This is a perfect example of what I was saying.,1,11
+279,So we're handed a world where we see a fellow through the eyes of,0,15
+280,"this place in Europe that has nothing to do with his background and upbringing, as opposed to understanding who this man is and his impact on the world that he's in right now.",1,36
+281,But he was a whole human being with a whole life before the beginning of this play.,0,18
+282,"And to really, for this to be his story, there have to be elements in this part of his life that we're reading that give him that depth of character, that make him more than the more of Venice, that make him the central point, and that make his life and his life experience the central point of this drama.",0,67
+283,"Yes, and I would add to that too, that even the, like you also have the whole scholarly apparatus that is on top of that reading of the white handkerchief with the red.",2,37
+284,"It came about in the 1960s, 70s, feminist readings, right?",1,14
+285,"Ian Smith wrote Othello's Black Handkerchief very recently, 2000.",0,12
+286,So even mining back the centuries of white European analysis of the play would obscure some of the origins that are even there.,-1,24
+287,there's a long passage about where that handkerchief comes from.,0,12
+288,And it took kind of willful misreading for centuries to not pay attention to that.,-1,16
+289,"Please, Emily, explain to them who Ian Smith is, because you brought up his name.",0,19
+290,So a moment to talk about all that contemporary scholarship.,0,11
+291,Ian Smith is a scholar.,0,6
+292,I believe he's in California now.,0,8
+293,Lafayette.,0,2
+294,"No, he left Lafayette.",0,6
+295,I think he's in USC.,0,7
+296,"Oh, OK.",0,4
+297,He's the new president of the Shakespeare Association of America.,0,12
+298,"He has written, what is his book called?",0,10
+299,"Black Shakespeare, I think, right?",1,8
+300,And it wrote the introduction to Black Shakespeare as well.,1,11
+301,"And his piece on the handkerchief was really like one of those scholarly moments where you go, oh,",1,20
+302,Everybody's been reading this the wrong way for really no good reason.,0,14
+303,"Well, I mean, there was a reason to read it that way, but it really does show the collision of what scholarship puts on top of these plays and has put on forever and ever and ever, taking out stage directions, adding stage directions, changing lines,",2,53
+304,to make these things editable.,0,6
+305,Editable.,0,2
+306,Editable.,0,2
+307,"But yeah, so there's a lot of dust to be kind of blown off.",-1,17
+308,"Yeah, and I want people to",0,7
+309,"To understand, you know, as an actor, right?",1,12
+310,Say I'm doing Othello and they hand me.,0,10
+311,We have to think about this process as being so different from kind of the American theater process.,0,19
+312,"And, you know, if I'm playing this role of Othello, what happens is I might get some input on this handkerchief, right?",1,28
+313,"But more often than not, I get handed this thing.",0,12
+314,some flowers or fruit on it.,0,7
+315,"And then we talk about, I pulled it up, and, you know, Othello says that handkerchief did an Egyptian to my mother give.",0,28
+316,And then goes on and on to talk about this handkerchief and what a fault it is if you have lost it.,-2,23
+317,you know gift away it would be like no nothing no other thing and so to not have that handkerchief be something where you see it where an audience sees it and gasps would be a mistake and how do you overlook that but that's that's what's happened and and I think that's what we're trying to combat it's such a,-1,67
+318,"Yeah, I mean, if any of you have an item in your room that your parent or your brother or your best friend gave you, you know what weight that holds when you see it or when you pick it up.",1,45
+319,Or if you've lost a loved one and you have something that they've given to you.,0,19
+320,"You know, my father's no longer with me.",0,11
+321,"I have something, you know, and to lose that, the pain of that.",-2,17
+322,And so to overlook something that deep...,-1,8
+323,"It's unimaginable why that, well, we talk about why that's been done, but, you know, to overlook that dehumanizes, continues to dehumanize Othello and how deep a person that is, intellectually and emotionally.",-2,43
+324,"I mean, the first criticism of this play from the 18th century was the tragedy of a handkerchief.",-2,20
+325,That was a dismissive commentary.,-1,6
+326,It's just about the handkerchief that falls on the ground.,-1,12
+327,"Well, yeah, it is just about the handkerchief.",1,11
+328,But what does all that mean?,0,7
+329,There's a character in this play that is not named that has also been a part of our exploration.,0,21
+330,"And Hedy, who's a member of our",0,9
+331,"Ensemble isn't with us today to talk about it, but as we talk about the handkerchief, I did also just wanna share that the character that Desdemona refers to as Barbary, which is a place, not a name, for the black woman that raised her, is also another large problem.",-1,59
+332,"in this play, in something that we had been exploring in our process was to have an actor come in to embody the spirit of that character.",0,29
+333,And we did a lot of physical explorations with that.,0,11
+334,And that has been a very rich part of our process.,1,12
+335,"And I don't know where we ended up with this, but I know that there was a moment where we were talking about",0,25
+336,"having this character present, ever present maybe even, at one point I think we were talking about.",0,20
+337,"So that's another example of the invisibility in the play, that there's an entire character that is without the respect of a name.",1,27
+338,And then understanding the history of that.,0,8
+339,Right.,1,2
+340,"I think that's one thing we're remiss in, not understanding the history.",0,16
+341,"My grandmother told me that she would walk to school with her mom every day, and this woman from the neighborhood would walk by and call her a name that wasn't her name, and say hi, like, hi, Susie.",1,46
+342,"Hi, Susie.",0,4
+343,"And my mom finally asked, why does that person keep calling you Susie?",0,15
+344,And she said her mom answered her.,0,8
+345,She doesn't care.,0,5
+346,Sorry.,-1,2
+347,We lost sound on our ends.,-1,7
+348,"Z, are you...",0,5
+349,You might cut out right after you were saying that your mother might have another name.,1,17
+350,Can you hear us now?,0,6
+351,"I was saying that my mother told me a story about walking with her mom, my grandmother, to school every day, and a woman would, you know, every day say, hi, Susie, hi, Susie, hi, Susie.",0,48
+352,"Well, my grandmother's name is not Susie.",1,10
+353,"And my mother finally asked, why does this woman keep calling you that?",0,15
+354,"And my grandmother answered, it doesn't matter.",0,10
+355,She doesn't care what my name is.,0,9
+356,It doesn't matter what my name is.,0,9
+357,And I remember that striking me.,1,7
+358,"And then, you know, I'm always like, why didn't you...",1,16
+359,"I didn't know that, right?",1,8
+360,I didn't know that history.,0,7
+361,But that's what Barbary is.,0,7
+362,"You know, that's what Barbary...",0,8
+363,They don't...,0,4
+364,to the people that talk about her.,0,8
+365,"And so I think it's, you know, we should understand the history of these things so that it lands in a way, and I think that's what we're trying to highlight, highlight like the spirit, is this person's spirit always, always with us.",1,54
+366,"That it's not just, you know, this nameless entity that we never see and talk about without giving any humanity or history to who that person was.",0,31
+367,"And similarly, in terms of the dignity and humanity of a fellow's life before the action of this play starts, and the idea of possibly having a moment of Arabic coming out of another language, reminds us that he had this whole other life, and it's really only been given to us presentationally in the play, either secondhand through Iago talking about their war experiences, or when a fellow is in front of the Senate, and that is a, you know, any way you look at it, a performance.",1,102
+368,"He's talking, you know, about both his life experiences and the way that he presented that to somebody who thought of it as being this, you know, fun narrative romp he was going on, but, like, for me to have a moment unguarded where another language comes out of him reminds us of how actively he's been code switching this entire time with every person that he encounters.",2,78
+369,And also the religion.,0,5
+370,"So I know we talked a lot about the Christianity in the text, but where is Othello coming from and what are his beliefs and what is What are his actual beliefs?",0,34
+371,What was he raised believing?,0,6
+372,What is it for him to be stepping into this world where Christianity is present?,0,16
+373,I know that was...,0,5
+374,"Yeah, I mean in the text he professes Christian faith a great deal, almost to the point of protesting too much at times.",1,26
+375,"But in terms of, you know, he mentions having been taken into slavery at a certain point, but it's very ambiguous.",-1,26
+376,We don't know by whom or how He escaped.,0,11
+377,Was it the Ottomans?,0,5
+378,Because we knew the Ottomans took slaves.,-1,8
+379,Or was it some other party in Europe?,0,9
+380,"I mean, partly, I think one of the things that we've come up with in this process in terms of",0,23
+381,like our personal back histories and everything is trying to fill some of that in so that they're actually human for us when we're reading them.,1,29
+382,Because it's not provided definitively in the text.,0,10
+383,We have a question over.,0,6
+384,So you were just saying how in every conversation a fellow is code switching depending upon who he is.,0,20
+385,"So if that's the case, how has been the process of trying to come up with his backstory if depending upon who he is, he kind of...",0,31
+386,Does that make sense?,0,5
+387,"Yeah, yeah.",0,4
+388,I think we've all written backstories for our characters and...,0,12
+389,I think we all come from a historical perspective.,0,10
+390,"I don't speak for everyone, but I kind of looked at it from a historical perspective.",0,19
+391,I also looked at Dr.,0,6
+392,"Brown, who's not here with us today.",0,10
+393,He and I spoke at length about Titus Andronicus and how Titus Andronicus could relate somewhat to Othello's life.,0,21
+394,And so I used that.,0,6
+395,"But yeah, I think I focused on",0,8
+396,"Personally, I focused on when looking at the backstory on a fellow's childhood and relationship with his mother and what that looked like.",1,26
+397,Partly too because textually I wanted to connect something to the handkerchief and how that came about.,0,18
+398,"So a lot of it was based in history, a lot of it was based on text, a lot of it was based on being a child with their mother.",0,33
+399,"With his mother traveling through a land which was very dangerous for them both, I did look at the slavery, but more like a child abduction and being made to become a soldier, which we see today.",0,41
+400,"I don't know if you've ever seen Beasts of No Nation, if I'm saying correctly, which talks about that.",1,25
+401,So I think they do a good job of at least highlighting that.,1,14
+402,So that's what I looked at.,0,8
+403,"And a child going through that, growing up as a warrior, fighting for whatever they're told to fight for, and then maybe getting the opportunity to fight for something you believe in or not.",0,39
+404,I don't know.,0,5
+405,I think being a soldier is a very complicated,-1,9
+406,"But I think living that, when you talk to someone who served in a way where they've seen things that they can't erase, and what that does to you for a lifetime.",-1,37
+407,"So that's what I'm trying to bring into as far as backstory, that a fellow comes in holding something that will never be let go, and then meeting someone.",0,34
+408,is able to let all of that go where it's never been able to let go before so that's kind of weird and then start with that if you take everything that Rob has said about building a backstory and then you put yourself closer to the time where the play begins where he is dealing with,-1,59
+409,Christian Venetians who are hiring warriors to fight their wars.,0,11
+410,"Now, they called themselves a Christian state, but they were really money men.",0,16
+411,They were really an oligarchy that was all about their money.,0,12
+412,And Christianity was a way at the time to prosecute that.,-1,12
+413,We begin to talk about code switching.,0,8
+414,Might he have learned the language that would allow him to impress them?,1,14
+415,to desdemona it's something else when he's talking to iago or cassio he's talking like a soldier you know but he's talking like a soldier where he might not go too far away from the christian stuff because he knows that they speak that language with the you know so it's finding all that but it's based on what comes before it,2,68
+416,"I think that's true of everyone in the play, though, and part of what we're doing, part of this three-dimensionalizing, if that's a word, is knowing who each person is while they're with a different person, because it's just this dance that everyone is doing.",0,57
+417,"Amelia, when she speaks with...",0,7
+418,Iago is a completely different person than when she's with Desdemona talking about men.,0,16
+419,It's wild and we all do that and I think that's part of what we are finding illuminating in the room is seeing that in ourselves and then being able to sort of question that or make cognizant choices about that.,0,44
+420,I think another thing that we explored along the way and we've talked about a little bit here is that this is a military culture.,0,27
+421,And that's a very specific space.,0,8
+422,"I remember way back when, when we were reading Alpha, about, oh, what's his name?",0,21
+423,The name escapes me.,0,5
+424,What's his name?,0,5
+425,"Oh, yeah.",0,4
+426,That's horrible.,-1,4
+427,"I can't remember his name, but he was the soldier who, the Navy SEAL, who killed a fellow in Afghanistan and was on trial, and there was a...",-1,34
+428,And the wife really...,0,5
+429,supported him and fascinating read fascinating read but i remember reading that fairly early on in our process and i also have a long history not personally but in my family of military um and so that that particular culture of military in wartime um also with regards to you know i know that it has changed in recent years but you know the way that gender and spouses of military might function or what power or not power to speak or not speak in this particular military environment in wartime that's also been interesting in terms of all of the characters but,5,104
+430,"personally for Amelia, where can she go?",0,9
+431,What spaces can she be in?,0,7
+432,How much freedom does she have to speak in certain military circumstances or not?,1,15
+433,So that's been another interesting layer to the world of the play.,1,14
+434,"Well, I wonder if you could You all had some scenes you would like to see, or hear, read out here.",3,25
+435,"And one of them was, and I'm sorry, I can't remember who suggested this one, but act three, scene one, focusing on the interaction between Othello and Desdemona.",-1,36
+436,And I think that's interesting based on what you all were just saying.,1,15
+437,It's top of 59 for us.,1,8
+438,This seems interesting.,1,4
+439,Who recommended that one?,1,5
+440,Chelsea did.,0,3
+441,"Chelsea, I want to speak for you.",0,9
+442,Why did you think that this one was an interesting scene to be thinking about?,1,16
+443,I think partially because it was one of the first instances where I noticed that there were things like extra long speech.,1,23
+444,"about earlier, it's part of the refocusing of the story is showing that love between Athelo and Deskona.",1,21
+445,So that is why I mentioned that soon.,0,9
+446,"It's also interesting, though, in light of what you all were just talking about, because this is also a military moment, right?",2,28
+447,Othello is busy.,0,4
+448,Does anybody on that end want to read Desdemona?,0,10
+449,"You don't have to, I just wanted to put it out there.",0,15
+450,We got it.,0,4
+451,No takers?,0,3
+452,I see that person.,0,5
+453,Maybe we'll get somebody with some baldness in a few minutes here.,0,14
+454,"With the yellow cup, with the green top, I'm sensing some body language.",1,17
+455,I could be wrong.,-1,5
+456,"I mean, I can read Desdemona, I'm sure.",0,12
+457,"I'm not an actor, so there will be",0,10
+458,Let's try that.,0,5
+459,We can read it a couple of times.,0,9
+460,"Oh, am I sorry?",-1,6
+461,"Let's start at the top with Othello's line, was not that Cassio parted from my wife, and I'll throw in Iago's line.",1,29
+462,"If I have any grace or coward to move you, his present reconciliation take, for he be not one that truly loves you, that heirs in ignorance and not in cunning, I have no judgment in an honest faith, I pray thee to call him back.",3,52
+463,When he ends now?,0,5
+464,"I am soothed so humbled that he hath left part of his brief with me,",0,16
+465,with and good love off and back.,2,8
+466,"Not now, sweet Desdemona.",1,6
+467,Some other time.,0,4
+468,"three days, in faith he's penitent, and yet his trespass in our common reason is not almost a fault to incur a private check.",0,28
+469,"When shall he come, tell me, Mateo, I wonder in my soul, what would you ask me that I should deny, or stand so manly on, what, Lepocapio, that came a-looming with you, and so many a time, that I should have spoke of you disbelievingly, disbelievingly, have paid your part to have so much to do, to bring him in, trust me, I could do",1,81
+470,"BE AS YOUR FANS TEACH YOU, WHENEVER YOU BE, I AM OBEDIENT.",1,15
+471,"DESDEMONIC TURNS TO LEAVE, BUT OTHELLO CATCHES HER UP IN HIS ARMS AGAIN.",0,15
+472,"IT IS A DESPERATE SORT OF HUG, AS IF HE IS AFRAID TO LET HER GO.",-1,18
+473,"IAGO AND AMELIA AND OTHERS LOOK ON, EMBARRASSED OR PERHAPS JEALOUS, OF A SO PUBLIC AND YET SO UNABASHEDLY INTIMATE AND UNAPOLOGETIC MOMENT.",1,26
+474,Finally Othello releases her.,0,5
+475,She kisses him long.,0,5
+476,Yaga and Amelia stand.,0,5
+477,Amelia come.,0,3
+478,Desdemona and Amelia exit.,0,5
+479,What about that?,0,4
+480,"Good reading, thank you.",2,6
+481,"Chelsea, I mean, you brought this scene up.",0,11
+482,"Again, I think it's one that's so interesting because there is this wholeness to these characters now, especially with the stage directions being added there, whereas, again, that's one of the key components that you all have been talking about with us, that sometimes these characters come off as two-dimensional in the Shakespeare text.",1,64
+483,"They feel more real, more full there.",0,9
+484,"Is that so for you, Chelsea?",0,8
+485,"Yes, I'd say so.",0,7
+486,"I think in this from the excerpt that you just read, they do seem more complete and more complex.",-1,21
+487,"Like, ah, yes, they are real people who love each other and not just characters who are doomed to a certain end.",1,26
+488,I wonder if we can,1,5
+489,heighten that to the point where the audience forgets how the play ends.,0,14
+490,"This idea of, I've been using the analogy of telling a child, I had a relative who used to come to holiday dinners and say, I have something for you, I'm going to give it to you at the end of the night, but you cannot, all night long, you're not allowed to think of a purple hippopotamus.",0,70
+491,"And he'd look at me throughout the night and say, you're thinking of it, aren't you?",0,22
+492,You're thinking of it.,0,6
+493,"I said, no, no, I'm not, I'm not.",0,15
+494,"Othello is like that, right?",2,7
+495,We come knowing exactly what it is.,0,8
+496,We think of it.,0,5
+497,"We try to, and whatever we're handed, we try to stick it into that awareness.",0,19
+498,"You know, another director told me, don't let the audience get ahead of you.",0,18
+499,I was doing Romeo and Juliet.,0,7
+500,"He said, well, they were ahead of you in height.",1,13
+501,You're not going to beat them to the end of this play.,0,14
+502,"But if we do enough of this work, the audience is going to stop remembering what the end is and expect it to be something else.",2,28
+503,These guys can make it.,0,6
+504,They can make it.,0,5
+505,And it is that much more heart rending when they don't.,0,13
+506,You were going to jump in with another question.,0,10
+507,"I just think it's interesting that having the characters be for people, there's also that dramatic irony of knowing what they all know and what they don't know and Desdemona being really persistent about",0,38
+508,I also think one of the things that's been developed by exploring the intimacy and the warmth between these two characters is it stands in contrast from what we see in all of the Venetians.,2,37
+509,"Like, whose attitude toward romance and sex is rather snide and...",1,13
+510,you know it's wrapped up in power dynamics and you know men kind of being gross when they're alone with one another about you know and and in a way like when you see these two people together in that context it makes it even more precious,1,49
+511,"Not to get in the weeds of like dissecting words and stuff, but it is a window into what we do.",1,23
+512,I was looking at the art and just to kind of see how it's different.,0,17
+513,"And I'm sure we've had the conversation about it, but I noticed that Othello says, not now sweet Desdemona.",1,24
+514,And not Desdemona.,0,4
+515,And so I wonder...,1,5
+516,"if we had a conversation about that, but to me it seems like an opportunity to show that a fellow has a pet name for Desdemona that might give that relationship more detail and specificity into their love, that he has a pet name that he calls her at certain times.",2,54
+517,I don't think that's interesting.,1,8
+518,A pet name other than Chuck.,0,7
+519,"Right, yeah.",1,4
+520,"I think one of the things, and I think Jess you talked about this mostly, that's important not just to show the love but to show the gaze of the people outside of them and how they look, how Iago looks at them.",2,48
+521,two in this moment how Amelia looks at these two and whoever's there and telling that story right and that gives us an insight on those characters and how they feel and what they think about this love because it's happening in public yeah yeah and so I think that's really interesting because I know as an audience member I always check on how people are reacting and looking on what's going on it's also just so interesting that they,4,85
+522,"their love, what they're experiencing together is so big that they just don't care that if it's being seen or not, like their private, their private space is spilling over into the public space and their need for it is so great that it doesn't even matter.",2,55
+523,It's as if no one is there.,0,9
+524,"And that is so audacious when you see that, when you witness that.",-1,15
+525,And what is it to be a voyeur?,0,9
+526,Right?,1,2
+527,"Do you do, and this is just talking about the same thing you were talking about.",0,18
+528,Are other characters choosing to look or not choosing to look?,0,12
+529,Right?,1,2
+530,The choice of looking or not looking says a lot too.,0,12
+531,"Yeah, and it brings me back also.",0,9
+532,"Was it Lily, the comment about what we know they know and what they don't know?",0,19
+533,"And where does that place us as audience members, especially at the end of the play?",0,18
+534,Are we implicated?,0,4
+535,Are we witnesses?,0,4
+536,Are we partaking somehow in the action of the play with our inaction?,-1,14
+537,I think it's a scene that also gives us,0,10
+538,"an opportunity, however we write it, deliver it, play it, to decide whether or not this young Desdemona character is young and naive versus sticking to her convictions as a woman who truly, truly loves this man.",0,43
+539,"And as the play unravels, it can be, depending on which text you read and how you read it,",0,22
+540,"It can be hard to decide if she's just young and foolish, and I fell in love because I'm young and foolish, or if she truly fell in love with someone and has just decided to stick it out through the end.",-3,47
+541,"And I think even today, it's hard for us as women to know when a woman is committed to something because she doesn't know any better versus I'm doing the thing that you do when you're fully committed to a person.",0,47
+542,"And this is one of the first scenes between them where I got to see a different side of her as someone who often looked at the character as young and naive, as opposed to truly committed to the man that she has decided to marry.",-1,48
+543,And it gives you an opportunity to either grow her up or possibly leave her in that gray area of maybe just young and foolish.,-1,26
+544,But her handling of him in this scene the way that I think we've told it gives us an opportunity to see her as a little bit more.,0,30
+545,"In addition to, I suppose, There could also be another element to play with, and I'm thinking more about Amelia as she perceives it.",0,29
+546,I was doing a production of Importance of Being Earnest and something that occurred to me was this idea of the privilege of being able to be in love that is afforded to people with status.,3,37
+547,"And not that it's young and naive and foolish, but I was struck by this, status came up to me with the ability to show this affection and love so freely and stuff like that.",0,39
+548,That's another interesting way.,1,6
+549,"That's very fascinating, yeah.",1,7
+550,Do you want to read something else?,0,8
+551,Or stay on that?,0,5
+552,"We also had, excuse me, a couple of requests for the Emilia Dezimona scene, the Willow scene, which is Act 4 scene 5.",-1,28
+553,Thanks.,0,2
+554,That's R114.,0,4
+555,"What about it was, who requested that and what about it was attractive to, why did they want to hear this right?",2,25
+556,"For me, I think it's interesting having, I guess, seeing two women interact with each other",1,20
+557,else on stage is kind of an interesting thing that Shakespeare doesn't give a lot.,1,17
+558,"But it still, it doesn't, it's, I can't tell how I feel about the scene, like whether or not I agree with these women or if Shakespeare is writing them in a way that's positive.",2,44
+559,"And so just in your version of the text, seeing if I have a clear understanding of what's happening with them,",1,24
+560,Should we go ahead and read it?,0,8
+561,"Jess, do you want to try your hand, or what?",0,13
+562,"Sure, as long as I don't have to sing.",0,12
+563,"Lily, I'll put you on the spot to see if you would like to read it, because sometimes hearing the words in your own mouth will change you or give you a deeper understanding of it.",1,40
+564,"All right, which one?",1,6
+565,Desdemona.,0,2
+566,You're a rock star.,0,6
+567,How goes it now?,0,5
+568,It was his bidding.,0,5
+569,"Therefore, good Amelia, give me my knightly wearing and adieu.",1,13
+570,"Desdemona begins to hum a tune, perhaps absentmindedly at first.",-1,12
+571,"Perhaps we have heard it to accompany her in the play Friday now, so that it sounds to us somehow a little familiar.",0,25
+572,"She hones and vocalizes as if finding it again, not quite sure of it in its entirety.",0,19
+573,It sounds old and haunted.,0,6
+574,Slowly she begins to find the words that accompany the tune.,-1,12
+575,"I pray beside the willow tree, out by the willow, out under yond.",0,16
+576,"Under a willow tree I lay, she would listen, I would pray.",0,15
+577,"A one that I can nourish, a love will grow in me and flourish.",3,16
+578,"A warm, wet earth that I can be and nurture like a willow tree.",2,16
+579,All's one.,0,4
+580,"He came in all of summer things, springs, and then he come, like summer does, most glorious thing there ever was.",2,26
+581,"And once I walked a troubled spirit, I saw, but only he could hear it.",-1,18
+582,"Still he was wise and kind to me, abiding like a billow tree.",2,15
+583,"Hush, willow, let me give you love beneath you with the sky above, and I will ground your restless hurt.",-1,24
+584,You just hold tight with this fertile dirt.,0,9
+585,"She was in love, and he, she loved, proved mad, and did forsake her.",0,19
+586,"She had the song of willow, an old thing it was, but it stressed her fortune, and she died singing.",0,24
+587,"Sweet willow, let me give you love, shelter from what you frightened of, safe from your ghost that soft your sleep, and this rich soil let you That song tonight will not go from my mind.",5,41
+588,I have much to do but to go hang my head all at one side and sing it like four bars of Barbary.,0,24
+589,Could be this fact.,0,5
+590,"No, I'm finning your...",0,7
+591,"Amelia is unsettled by the song, either that or by the evolving passion with Desdemona, which Desdemona is transported by it.",0,24
+592,the haunting sound of her singing it.,-1,8
+593,He could never make me know that nothing I could do or say could make his troubled spirit stay.,-1,20
+594,"Please, Willow, let me give you rest while heaven hold us at her breast.",1,17
+595,"For thee, height, thee, hill coming off.",0,11
+596,"God say, There ain't no love for you, so what shall?",1,15
+597,What are souls supposed to do?,0,7
+598,"Paidless, that's not next.",0,7
+599,"Hark, who's it that knocks?",0,8
+600,It's the wind.,0,5
+601,"So get be gone, good night.",1,8
+602,"Amelia does not leave, as she was bid, but stands in tortured, helpless observance, attempting to make herself say something.",-2,25
+603,"So under yonder tree, I cried for him.",0,10
+604,She left for when I do itch.,-1,8
+605,Does that go to the king?,0,7
+606,"Oh, these men, these men, dost thou conscious think, tell me Amelia, that there be women who do abuse their husbands in such gross kind?",-2,31
+607,"There be some such, no question.",0,8
+608,The world's a huge thing.,0,7
+609,It is a great price for a small vice.,0,10
+610,But for all the world?,0,6
+611,"God's pity, who would not make her husband a cuckold to make him a monarch?",-1,18
+612,but I do think it is their husbands' faults if wives do fall.,-2,15
+613,"Say that they slack their duties and pour our treasures into foreign laps, or else break out into peevish jealousies, throwing restraint upon us.",-3,27
+614,"Or say they strike us, or scant our former having and despite.",-2,14
+615,Let husbands know their wives have scents like them.,1,10
+616,"They see and smell and have their palates both for sweet and sour, as husbands have.",-1,18
+617,What is it that they do when they change us for others?,0,13
+618,Is it sport?,0,4
+619,I think it is.,0,5
+620,And doth affection breed it?,1,6
+621,I think it doth.,0,5
+622,Good night.,1,3
+623,Good night.,1,3
+624,Desdemona ushers Amelia to the door.,0,7
+625,"Amelia, still hesitant, exits.",-1,7
+626,"God be such usage sent, not to pick bad from bad that by bad meant.",-3,17
+627,"You came, she say, a love to plead, but you ain't no love from me.",2,20
+628,"She stroked my face and said, you knew that day that he first came to come to you.",0,20
+629,"And like I lost him with no warning, they can find me.",-1,14
+630,Good job.,1,3
+631,"Now that you read it out, one of the things that you were grappling with only was this idea of, are you understanding the characters at this point?",0,31
+632,I think so.,0,4
+633,"I mean, I think I understand Ms.",0,9
+634,Ramona.,0,2
+635,"Amelia is just, the more we talk about further it is for me to understand all of her .",0,20
+636,So say we all.,0,5
+637,"That is a big question, yes.",0,8
+638,But it's not necessarily the job to understand the complexity so much as it is to reveal the complexities.,0,21
+639,Because we all have them.,0,6
+640,"And to find what they are fighting for, what they are searching for.",0,15
+641,"I will just share this little nugget that I've been thinking about with regards to Amelia, and that's",0,21
+642,"since Tuesday, because I think it does weigh in in the scene.",0,14
+643,"The big question is, why does she not speak about the handkerchief?",0,14
+644,Right?,1,2
+645,She knows she took it.,0,6
+646,She knows Iago has it.,0,6
+647,She says nothing.,0,4
+648,"And one of the things that I've been thinking a lot about recently about her is that she, I think, is very stuck between seeing something that",-1,30
+649,"that appears to be very pure and profound, a kind of love that she herself has never experienced.",3,20
+650,And she is a woman who has been in an abusive relationship for a very long time.,-1,18
+651,"And so her perspective has been, she's coming from a very critical place with regards to love.",0,20
+652,"So this handkerchief in the stage direction we talked about in the last, on Tuesday, that it has this power to work on her.",1,27
+653,"And I think the reason that she doesn't say, perhaps the reason that she doesn't say anything about it is because she's testing this love.",1,30
+654,"By not saying anything,",0,5
+655,She's trying to see if something as simple as a handkerchief could destroy this love.,0,17
+656,"So the question potentially for her is, is real love possible or not?",1,15
+657,"And she takes a gamble by saying nothing in this test, in this potential test, and she gets her answer.",0,23
+658,And she is also at fault for what goes down by saying nothing.,-1,14
+659,"Anyway, that's what I'm thinking today.",0,10
+660,I saw a lot of heads down there.,0,9
+661,"It seemed like insights were being drawn there, so that was great.",2,14
+662,We are unfortunately out of time.,-1,7
+663,Thank you all.,1,4
+664,Thank you all.,1,4
+665,This was wonderful.,1,4
+666,"Yes, thank you very much.",1,7
+667,It's been an amazing three days.,1,8
+668,Thank you.,1,3
+669,"Yes, it's been wonderful.",1,7
+670,"As you put your thesis together over the time that we just spent,",0,14
+671,Could you all think about that idea of insight?,0,10
+672,"What new discoveries, what new ideas have these discussions, this examination of this version of the play, what have they brought to light for you?",0,29
+673,"All right, think about that a little bit in those main pieces.",1,14
+674,And then we will see,0,5
+675,You're awesome.,1,4

@@ -1,0 +1,547 @@
+line_num,line,bing_liu_score,n_tokens
+1,"So, welcome to number four of these.",1,9
+2,"As always, I'm excited to be here.",1,10
+3,"And I want to do, we have three new voices in the room this afternoon.",0,17
+4,And I want to welcome them.,1,7
+5,And we can go around the room again and just do general introductions.,0,14
+6,And I'll start with me.,0,7
+7,I am Keith.,0,4
+8,And I am...,0,4
+9,"trying to orchestrate a production of a thing that is, the name as the working title has been Untitled Othello, and I'll talk a little bit about that today before we start to read.",0,38
+10,"working with other creative entities to try and find funding to interrogate the play for a long time, for several months.",1,23
+11,"But the most exciting part to me, that's just all the logistics, the exciting part is being in rooms with people like you.",3,27
+12,So I'm always just really happy.,1,8
+13,This is the part I understand.,0,7
+14,This is the part that makes my heart sing.,0,10
+15,So welcome.,1,3
+16,"Hi, I'm Jessica Byrne.",0,7
+17,I'm working with this guy to direct this thing.,0,11
+18,"Well, I'm a Virgo.",1,7
+19,"No, actually, yeah, well, all right, a couple things.",2,15
+20,"All right, I wore coils today.",1,8
+21,I wore my coils.,0,5
+22,"To remind me, because these were a gift from a friend of Randy Rodger, who's a homeless dude who lives in a box on a side highway, and he found some pearls, and he fucking gave them to me.",-1,45
+23,"Like, who does that?",1,6
+24,"You live in a box, don't give me pearls.",0,12
+25,And he did.,0,4
+26,"So that's just a reminder, more to myself than anyone, to work with generosity.",2,18
+27,But it's never about us.,0,7
+28,It's about the thing.,0,6
+29,And then I woke up this morning and I remember that I got up this morning.,0,17
+30,I didn't really see.,0,6
+31,And then I turned on NPR and the news was so horrifying.,-1,13
+32,And there are already reports of forced marriages that monitor them.,0,12
+33,"I'm Roger, and I'm in the box.",0,11
+34,My name is Elan.,1,5
+35,I'm reading for a yoga today.,0,8
+36,"I'm Alito, and I'm originally from Montreal, Canada.",0,13
+37,"I'm Stephanie, reading for Desimona.",0,8
+38,I'm Sagittarius.,0,4
+39,"every single time to come to this table, so daunted by the Tassican, which is thrilling.",1,19
+40,And I appreciate sharing this with you.,1,8
+41,I'm Sarah.,0,4
+42,I'm a Libra.,0,5
+43,I'm originally from a very small town in Missouri.,0,11
+44,I'm really excited to be here.,1,8
+45,And I'm ready to be on here.,1,9
+46,"Hey, I'm Rob.",0,6
+47,I'm Virgo.,0,4
+48,"I know, right.",1,5
+49,"I'm from Titusville, Florida.",0,7
+50,"And it's, you know, I'm excited to be here again and see everybody and hear these voices.",1,22
+51,Sitting next to you.,0,5
+52,"And am I, what am I, am I reading?",0,12
+53,"I'm reading Othello, yes.",0,7
+54,And yeah.,0,3
+55,It's daunting.,-1,4
+56,"Oh, oh, I plan on listening.",0,9
+57,and respond in kind.,0,5
+58,That's interesting.,1,4
+59,I've got something to say about that.,0,9
+60,There was something that occurred to me today about that very thing.,0,13
+61,So let me forget before we start to read it.,0,11
+62,"Hi, I'm Matt.",0,6
+63,I'm playing Cassio.,0,5
+64,"I'm from Long Island, New York.",0,9
+65,I am an Aquarius.,0,5
+66,And I'm very happy to join all of you today.,1,12
+67,"It's been a while since I've been in a room with other actors and working on something, anything.",0,22
+68,So this is a long time coming.,0,8
+69,"So I hope there's going to be a lot more of this and hopefully even bigger, grander things for the future.",0,24
+70,And I hope we keep getting back to it.,0,10
+71,So I'm very happy to be here.,1,9
+72,Thank you so much for having me.,1,8
+73,"Hi, everybody.",0,4
+74,I'm Thea.,0,4
+75,I'm reading Amelia today.,0,6
+76,I'm a Libra like Sarah.,1,7
+77,I'm a native Floridian like Rob.,1,8
+78,And I'm really thrilled to be here and be part of this process.,1,15
+79,Thanks.,0,2
+80,Hi.,0,2
+81,"I'm Daniel, reading Martano.",0,7
+82,I have a Libra.,0,5
+83,in a room with actors reading great stuff.,1,9
+84,I'm Mike Labadia.,0,5
+85,I'm reading Rodrigo.,0,5
+86,"I'm a Capricorn, which I'm not sure what that means.",0,14
+87,I just don't know what that means.,0,9
+88,"Yeah, good play, good people.",2,8
+89,What's that?,0,4
+90,"Waterbury, Connecticut?",0,4
+91,Rubber.,0,2
+92,Rubber was big there.,0,5
+93,Crass.,-1,2
+94,"Now it's just a dump, but that's what's up.",-1,14
+95,"So yeah, it's good to be back.",1,10
+96,Good to see everybody.,1,5
+97,"Yeah, thanks.",0,4
+98,"Hi, I'm Dylan.",0,6
+99,I'm acting as stage manager timekeeper for these readings.,0,11
+100,I'll also be reading the little parts here and there.,0,12
+101,"I'm a Scorpio, and I'm from California.",0,11
+102,"It seemed like that reading of other stuff worked out all right last time, right?",4,17
+103,So we could just sort of lay it right here and then.,1,13
+104,"Let them first, so I can keep track of you being good.",1,14
+105,Yeah?,0,2
+106,I think that's better.,1,6
+107,"Certainly, if nobody picks it up, if somebody's daydreaming, you know.",0,16
+108,It can happen.,0,4
+109,I'm not fault anybody.,-1,6
+110,I'm not fault anybody.,-1,6
+111,I'm all good.,1,5
+112,I'm looking forward to some accents.,0,8
+113,Just throwing that out there.,0,6
+114,Please don't encourage me.,1,6
+115,"You know, I do that.",0,7
+116,I do that for you.,0,6
+117,"No, that's for you.",0,7
+118,"That goes back to my buddy Rob, my fellow Virgo.",0,12
+119,I knew I recognized you.,0,6
+120,That's right.,1,4
+121,All right.,1,3
+122,Let's see what I can do.,0,8
+123,"All right, all right, great.",3,8
+124,Untitled fellow.,0,3
+125,It occurred to me as I thought about,0,8
+126,"the numerous times throughout my life that I've seen this play, I've been reading this play, I've been talking about this play, that the title, The Tragedy of Othello, The Moor of Venice, the title of the play, is interesting and odd because I wasn't sure what The Moor of Venice meant.",-1,64
+127,Was that a good thing or a bad thing?,0,10
+128,Was it an honorific or a pejorative?,0,8
+129,"Is his name, he's called, he's called, he's called General, he's called The Moor, he's called Othello.",0,28
+130,Is he Othello Smith?,0,5
+131,"You know, is it a surname?",0,8
+132,I don't know.,0,5
+133,"If it is, the",0,5
+134,Italians would pronounce it .,0,5
+135,I imagine that the Iberian route from which he probably came would have pronounced it .,0,16
+136,But I don't know.,0,6
+137,"I mean, we're making it up until we have that license.",0,14
+138,"In researching the name, there's not a lot about it.",0,13
+139,"Kierkevitz, which is the book that has all of Shakespeare's names in it, doesn't have a lot to say about it.",0,26
+140,"Somewhere I've found that there is a Hebraic origin, which might have, you know, there's a Hebraic presence on the peninsula.",0,27
+141,that perhaps meant he who sounds like thunder.,1,9
+142,"And I thought, well, that could be bullshit.",0,11
+143,"But irrespective, isn't it interesting if that were the name of this career warrior, this winning career warrior.",2,22
+144,"And if he knew that, how that would situate him in terms of his own sense of self.",0,20
+145,Names are important.,1,4
+146,I think my favorite play is The Crucible.,1,9
+147,"And towards the end, John Proctor is asked by the magistrates who have made him hammer out this document and made him sign it.",0,26
+148,"When he finds out, it's going to be posted on a wall.",0,15
+149,"He tears it up, and they say, why?",0,11
+150,"And he says, because it is my name.",0,10
+151,Because in my life I shall never have another.,0,10
+152,"Because if I sign it, I sign my name to lies.",-1,13
+153,"Because if I sign it, I am not worth the dust on the feet of those that hang.",-1,20
+154,And it always makes me weep.,-1,7
+155,"This idea of the depth of a man's integrity, of a woman's integrity, of a person's integrity.",0,23
+156,"And I think this play is nothing if these people don't have a sense of integrity for themselves, whatever it is, however it is construed.",0,29
+157,And it gets back to the question of titles.,0,10
+158,So that's a sort of brief involving thought about why Untitled Othello.,0,14
+159,I was talking with,0,4
+160,and he had asked about finding some grounding for the next reading.,0,13
+161,And we'd all be coming together and reading sort of,0,11
+162,for stuff that finding our way through on that particular day.,0,12
+163,And that's fine.,1,5
+164,I don't particularly mind that.,0,7
+165,"However, he wanted to ground in something.",0,9
+166,"And I don't want to get too much into the weeds with that, because it's the work we're going to be doing as an ensemble at some point later on, probably a lot of it, till we're sick of it.",0,48
+167,"But to honor that need for shits and giggles,",1,10
+168,"Can we say that, we're guessing this play starts at about 1 in the morning, 1, 2, something like that, that this notification that Cassio is to be the lieutenant and Iago is not happened at 9 o'clock the previous morning.",1,48
+169,"So there's been a day for him to stew on this, into the night, and that's where we find him.",-1,25
+170,"However, that informs how we find him with Rodrigo, how Othello is navigating the relationship.",0,18
+171,It seems like there was this pending elopement,1,8
+172,"There was business, and then there was this thing that was planned in and around the business that had to happen next.",0,24
+173,I think he takes care of business.,0,8
+174,"I have this sense of arriving on Cyprus, everybody waits for him to come in, and the first thing he says, oh, my fair warrior, sort of throwing off everything but Desdemona, and I don't buy it.",1,45
+175,I think there's a way to set that up so he takes care of whatever official business that is beholden to protocol and tradition before he says that line.,0,31
+176,That's a little later on in the play.,0,10
+177,"But the idea being that I think he's a man, part of what makes him a winning general is that he understands, let me do this first.",1,31
+178,So I think that was done at 9 a.m.,0,10
+179,"And perhaps he hasn't had to really deal with Iago's feelings or anything until this thing happens at the Senate when Iago shows up to say, OK, we have to go do this business.",0,39
+180,Let's play with that.,0,6
+181,One other thing.,0,4
+182,"We don't need, if you look at Commedia, if you look at restoration comedy, if you look at French farce,",-1,25
+183,"all sort of predicated on the sexual politics of the time, which really don't change.",0,18
+184,People's need and desire for sex and the uses they make of it are the same throughout history.,0,20
+185,And they can be very funny if we choose to do that.,-1,13
+186,I don't think it's necessary here.,0,9
+187,I don't think,0,4
+188,"I can watch any number of things, what Jessica just described about what's going on in the Middle East, what's going on in Florida and Texas with governors choosing to kowtow to their constituencies because of some idea rather than care about how many people are going to die in the wake of it.",-1,59
+189,We can send that up.,0,6
+190,"Saturday Night Live can do a skit that will make us laugh about that, but the fact of the matter is people are dying because of these choices.",-1,30
+191,Because the human animal is doing what it needs to do for itself.,0,14
+192,We see it all the time.,0,7
+193,"So, it can be funny, but it doesn't need our comedy.",-1,15
+194,"And in this particular case, I have too much respect for all these characters to",1,16
+195,to play for laughs.,0,5
+196,"I've been thinking about this a lot this week, so I'm sorry if this is going on a bit long, but I think this is all pertinent.",-1,32
+197,I saw for the first time,0,6
+198,"I was watching the news with my folks, and there's a commercial with Tom Selleck selling reverse mortgages.",0,21
+199,"Has anybody seen this, this ad?",0,8
+200,No.,0,2
+201,Yeah.,0,2
+202,So does everybody know what a reverse mortgage is?,0,10
+203,No.,0,2
+204,"A reverse mortgage is a bank You're a person, your biggest asset is your house.",0,18
+205,"So you go to the bank and you say,",0,10
+206,I will sign over the house to you.,0,9
+207,It will still be mine until I die.,-1,9
+208,But then it will be yours.,0,7
+209,"In the meantime, you pay me every month.",0,10
+210,Oh.,0,2
+211,You pay me an amount of money so that I can live.,0,13
+212,OK.,0,2
+213,Right?,1,2
+214,And it is a financial vehicle that can work for people who are in situations where that is their most pertinent asset.,1,23
+215,They have nothing else to really draw on.,0,9
+216,Older people.,0,3
+217,"But what it means is the chances that you are going to outlive, they're going to figure the mortgage based on how old you are and how much time you have to live.",0,36
+218,"And of course, it's always stacked in terms of what you leave them.",0,16
+219,So they'll pay out.,0,6
+220,"50, 60, 70, 80, 100 grand, 200 grand, if your house is worth a million, all the rest goes to them when you die.",2,32
+221,"So you cut out, if you have any heirs, that's done.",0,15
+222,"This is all just for the sake of you maintaining life, you know.",0,15
+223,And,0,1
+224,"It was a vehicle that, several years ago, my parents had gotten some financial advice and taken out a home equity line of credit.",0,27
+225,And then the housing market crashed and a lot of their assets were sort of eaten up.,-1,18
+226,And they found that they couldn't easily maintain the nut on this thing.,0,15
+227,And they were looking at this.,0,7
+228,And I was in LA.,0,6
+229,I was far away.,0,5
+230,"And I said, Dad, send me the paperwork and lift this thing.",0,15
+231,And I called them.,0,5
+232,"I said, no, no, no, no.",0,11
+233,This is a grift.,0,5
+234,This is always.,0,4
+235,a grift.,0,3
+236,We'll figure something else out.,0,7
+237,"And we did, ultimately.",0,6
+238,But it was an up close and personal look at,0,10
+239,Capitalism.,0,2
+240,"So I saw this commercial, and I thought of our conversation because here's Tom Selleck.",0,18
+241,"Since 1980-whatever, he was Magnum PI, right?",1,10
+242,He made a bunch of movies.,0,7
+243,"Then he had this hit cop show, Blue Bloods for a bunch of years.",0,16
+244,"And yet this man, and again, this is a judgment.",0,13
+245,I know.,0,3
+246,We don't know anybody else's circumstances.,0,9
+247,"But this man decided he could use that whatever million dollars they decided to pay, this bank decided to pay him, to stand there and act concerned about these people in a situation to actually consider",-1,38
+248,a reverse mortgage.,0,4
+249,"And he's very, I've read about them, and I trust them, and he's looking all very stately.",2,24
+250,"And an old retired man and woman looking at him, who were compelled anyway to do something because the situation was such that they needed to, would be inclined to maybe make that choice.",0,37
+251,"I, on the other hand, who have been around the block,",0,14
+252,Don't necessarily need to not compromise because I need to make that choice right now.,1,17
+253,I'm looking at him and listening.,0,8
+254,This is where.,0,4
+255,Hand me your bullshit.,-1,5
+256,"And were he in the room with me, as opposed to in front of a TV camera, it would be hard for him to keep my eye and hand me that shit, depending on the stakes.",-2,40
+257,He might.,0,3
+258,But he knows and I know that the stakes are you're a rich fuck who decided you wanted to be richer in this capitalist system.,1,27
+259,I know you're a bag of shit.,-1,9
+260,"So whatever you're making of yourself in this moment, you're making of yourself.",0,17
+261,But I see you.,0,5
+262,And that's for the money.,0,7
+263,Not because he's dedicated his life to something and has been deeply hurt by the person he trusted most.,1,21
+264,That's just for money.,0,6
+265,He doesn't have the driver or the yacht or anybody else in the supply.,0,16
+266,"Lastly, very, very lastly, one other thought is that had Robaccio honored Rodrigo's request to marry his daughter, and she had acquiesced because she felt bound by protocol and tradition to do so, but clearly did not want anything to do with him.",2,50
+267,"Somewhere shortly thereafter, he would have raped her under the protection of his conjugal rights.",0,17
+268,"So this idea that he loves her and is just torn up, we already know to be untrue.",0,20
+269,And he knows it to be untrue.,-1,8
+270,They know what that is.,0,6
+271,"And knowing that, there needs no pretense for...",-1,10
+272,They don't need to convince themselves of anything.,0,10
+273,Those are my thoughts.,0,5
+274,"Let's read the play, shall we?",0,9
+275,"Tosh, never tell me.",0,6
+276,Let me do not hear me.,0,7
+277,Despise me if I do not.,-1,7
+278,"a place that he, as loving his own pride and purposes, evades them with a bombast circumstance, horribly stuffed with epithets of lord in conclusion, non-suits my mediators.",2,33
+279,"For certain, he says he, I've already chose my officer.",0,14
+280,"of the battle knows more than a spinster, unless the bookish theory, wherein the togid consuls can propose as masterly as he, mere prattle without practice is all his soldiership, but he, sir, had the election, and I, of whom his eyes had seen the proofs of Rhodes, Cyprus, other grounds, christened and heathen, must be believed and calmed by debitor and creditor.",-3,76
+281,"This countercaster he in good time left his lieutenant be, and I, God bless the Marquis, more chips",2,21
+282,"We cannot all be masters, nor can all masters be truly followed.",2,15
+283,"You shall mark many a duty is, and ye crooking name, that doting on his own obsequious bondage, wears out his time much",-1,26
+284,"Others there are who, trimmed in forms and visages of duty, can get their hearts attending on themselves, and throwing but shows of service on their lords, do wealth right by them, and when they have lined their coats, do themselves on me.",1,50
+285,"though were I them were, I would not be Iago, follow him to serve my turn upon him.",0,21
+286,"Heavens, my judge, not I for love or duty, but seeming so for my peculiar end, for when my outward action doth demonstrate the native act and figure of my heart and compliment extern, tis no long after, I shall wear my heart upon my sleeve for gauze to peck at.",1,58
+287,I'm not what I am.,0,7
+288,Rouse him.,0,3
+289,Make after him.,0,4
+290,Poison his delight.,0,4
+291,"Incense her kinsmen, and though he in a fertile climate dwell, plague him with flies.",-1,18
+292,"Though that is joy be joy, ye throw some changes of vexation on it, as it may lose some color.",0,23
+293,And here is her father's house.,0,8
+294,I'll call aloud.,0,5
+295,Do it like a terrorist accent.,1,7
+296,And dire yell is when by night negligence the fire is fine in popular cities.,0,16
+297,Wake!,0,2
+298,"What ho, Barbantio?",0,5
+299,Thieves!,0,2
+300,Thieves!,0,2
+301,Thieves!,0,2
+302,"Oh, look to your house!",0,7
+303,Thieves!,0,2
+304,Thieves!,0,2
+305,"Zoom, sir, you're robbed!",0,8
+306,"Officier, put on your gown!",0,7
+307,"Now, very now, an old black rab is tupping your white yew.",0,15
+308,"Arise, arise, away the snorting systems from the bell, or else the devil will make a grandsire of you.",-1,23
+309,"Most weapons, senor.",0,5
+310,Do you know my voice?,0,6
+311,Not I.,0,3
+312,"Soon, sir, you're one of those that will not serve God if the devil bids you.",-1,20
+313,"Yeah, okay.",0,4
+314,"Sir, sir, sir, I will answer anything.",0,11
+315,"But I beseech you, if it be your pleasure, and most wise consent is partly, I find it is, that your fair daughter, at this odd even and dull watch of the night, transported with no worse nor better guard, but with the name of common hire, a gondolier, to the gross clasps of a lascivious morgue?",-2,67
+316,"Your daughter, if you have not given her leave, I say again, hath made a gross revolt, tying her duty, duty, wit, and fortunes, and an extravagant and willing stranger of here and everywhere.",-3,43
+317,"Straight, satisfy yourself.",1,5
+318,"For I do know this state, however, this will call him with some check.",0,17
+319,"Cannot with safety cast him, for he's embarked with such loud reason to the Cyprus wars, which even now stands in act, that for their souls, another of a spasm, they dare not leave their business.",-1,44
+320,"though I do hate him as I do help needs, yet for necessity of present life I must show out a flag and sign of love which is indeed but a sign, that you shall surely find him, lead to the Sagittary the raiders to search, and there will I be with them, so farewell.",1,61
+321,It is too true an evil.,-1,7
+322,Gone she is!,0,4
+323,What's to come of my despised time is not what business.,-1,13
+324,"Now, Rodrigo, where's thou see her?",0,10
+325,"With the more, says thou, you will be a father.",0,13
+326,Not just how long so was she.,0,8
+327,She deceives me past thought.,0,6
+328,What said she to you?,0,6
+329,Get more tapers.,0,4
+330,Raise all my kindred.,0,5
+331,Are they married?,0,4
+332,Think you?,0,3
+333,"Totally, I think they are.",0,7
+334,"Ouch, how got she out.",0,7
+335,"Oh, the treason of the blood.",-1,8
+336,"Fathers, from hence, trust not your daughter's mind by which you see them act.",1,18
+337,Is there not charms by which the property of youth and maidenhood may be abused?,-1,16
+338,You told my brother that you have had her.,0,10
+339,"Get weapons, ho, and raise some special officers of the night on, good Rodrigo.",1,18
+340,I'll deserve your pains.,-1,6
+341,"May, when he prayed, he spoke such scurvy and provoking terms against your honor that I give full heart for him, but I pray you so.",1,30
+342,Are you fast married?,1,5
+343,"Be assured of this, that the Magnifico is much beloved, and happiness affect the boy's potential with double exigits.",2,23
+344,He will divorce you,0,4
+345,put upon you what restraint or grievance the law with all his might to enforce it on will give him cable.,-1,22
+346,Let him do his spite.,-1,6
+347,"My services, which I have done, the seniority, shall all tell me his complaints.",-1,18
+348,"It is yet to know, which when I know they boasting is an honor, I shall promulgate.",1,20
+349,"I fetch my life, being for men of royal siege,",-1,12
+350,my demerits may speak unbonneted to what's proud of fortune is this that i have reached for no the other but that i that i love the gentle desdemon i would not my unhoused free condition put into circumscription and confined for the sea's worth,5,47
+351,"But look, the lights come yond.",0,8
+352,"What's the matter, thank you.",1,8
+353,It is for Banchio.,0,5
+354,"General, we advise he comes to bad intent.",-1,10
+355,"Oh, stand there!",0,5
+356,Senor!,0,2
+357,It is the morgue.,0,5
+358,Down with them!,0,4
+359,You and me go!,0,5
+360,"Come, sir!",0,4
+361,I am for you!,0,5
+362,"For I refer me to all things of sense, if she in chains of magic were not thou, whether a maid so tender, fair, and happy, so opposite to marriage, that she shun the wealthy, curly darlings of our nation, would ever have to incur a general mock, run from her garden to the sooty bosom of such a thing as thou.",3,72
+363,"To fear, not to delight,",0,7
+364,"Were it my cue to fight, I should have known it without a prompting.",0,16
+365,Where will you that I go to answer this your charge?,0,12
+366,To prison!,-1,3
+367,"The Turkish preparation makes for roads, so it has been put here to the state by seeing an under load.",0,22
+368,"This cannot be, by no say of reason, tis a pageant to keep us in false gaze, when we consider the importance of Cyprus to the Turk, and let ourselves again but understand that it more concerns the Turk than Rome's.",-2,48
+369,"If we make thought of this, we must not think the Turk is so unskillful to leave that latest which concerns him first, neglecting an attempt of ease and gain to wake and wage, to wake and wage of danger profitless.",0,45
+370,"Ay, so I fall.",-1,6
+371,How many as you guess?,0,6
+372,Of thirty sail.,0,4
+373,"And now they do re-stem their backwards course, bearing with frank appearance their purposes toward Cyprus.",0,18
+374,And so did I yours.,0,6
+375,"Neither my place nor whatever business hath raised me from my bed, nor doth the general care take hold on me, for my particular grief is of so floodgate and all-bearing nature that it engulfs and swallows other sorrows.",-1,42
+376,Why?,0,2
+377,My daughter.,0,3
+378,My daughter.,0,3
+379,"so preposterously to err, being not deficient, blind or lame of sense, and to which perhaps could not— Where he be that in this foul proceeding, he hath thus beguiled your daughter of herself, and you of her, the bloody book of law you shall herself read, in the bitter letter, after your own sense.",-8,65
+380,"Yea, though our prosperous son stood in your action.",1,11
+381,Humbly I thank the grace.,2,6
+382,"Here is the man, this",0,6
+383,I have married her.,0,5
+384,this very head in front of my fending hath this extent no more.,0,14
+385,"Rude am I in my speech, and little blessed with the soft phrase of peace, for since these arms of mine hath seven years pith, till now some nine moons wasted they have used their dearest action in the tinted field, and little of this great world can I speak more than pertains to feats of broil and battle, and therefore little grace",2,68
+386,"Yet, by your gracious patience, I will around unvarnished tale deliver.",2,14
+387,"Of my whole course of love, what drugs, what charms, what conjuration, and what mighty magic, for such proceeding I am charged with all.",3,30
+388,I mean never bold.,0,5
+389,spirit so still and quiet that her motion blushed at herself.,1,12
+390,"It is a judgment maimed and most imperfect that will confess perfection so could err against all rules of nature and must be driven to find out practices of cunning hell, why this should be.",-3,37
+391,I therefore vouch again.,1,5
+392,"being taken by the insolent foe and sold to slavery, of my redemption thence and portents and my travel's history, wherein of Amtras vast in deserts either, rough quarries, rocks, and hills whose heads touch heaven, it was my him to speak, such was the process.",-1,55
+393,"But still, the house of Ferris would draw her thence, whichever she could, with haste dispatch, she'd come again, and with a greedy ear, devour up my discourse, which I, observing, took once a pliant hour, and found good means to draw from her a prayer of earnest heart,",0,61
+394,She thanked me and bade me.,0,7
+395,"If I had a friend that loved her, I should but teach him how to tell my story, and that would woo her.",2,26
+396,Upon this end I speak.,0,6
+397,She loved me.,1,4
+398,"If she confessed that she was half the ruler, destruction on my head, my bad blame, light on the man.",-3,24
+399,"My noble father, I do perceive here a divided deacon.",1,12
+400,My life and education both do learn me how to respect you.,1,13
+401,"You are the more you do, I gather to your daughter.",0,13
+402,"For your sake, Jewel, I am glad at soul I have no other child, for thy escape would teach me tyranny to hang clogs on them.",-2,30
+403,"I am done, my lover.",1,7
+404,But words are words.,0,5
+405,I never yet did hear that the bruised heart was pierced through the ear.,-1,15
+406,I hope they beseech you.,-1,6
+407,Proceed to the affairs of state.,0,7
+408,"time accustomed to the most grave senators, hath made the plenty and steel couch of war my thrice driven venom now.",-1,23
+409,"I do agonize a natural and prompt alacrity I find in hardness and do undertake this present war against the Artemites, most humbly therefore bending to your state, I crave fit disposition for my wife.",0,38
+410,Nor I- Nor would I there reside to put my father in impatient thoughts by being in his eye.,-1,20
+411,"Most gracious duke, to my unfolding, lend your cross for his ear and let me find a charter in your voice to assist my siblings.",1,28
+412,To his authors and,0,4
+413,"his valiant parts, did I my soul and fortunes consecrate, so that, dear lords, may might be left behind me.",1,25
+414,"A moth of peace, and he go to the war, the rights for which I love him are wrecked me, and I, a heavy absence, heavy interim, shall support by his dear absence.",1,40
+415,Let me go with him.,0,6
+416,"Bouch with me, heaven, I therefore beg it not to please the palate of my appetite, nor to comply with heat the young of Beth's, in me defunct and proper satisfaction, but to be free and bounty is to her mind.",1,48
+417,No.,0,2
+418,"when light-winged toys of feather-cubits sealed with wanton dullness, my speculative and office instrument, that my disports corrupt and taint my business, let housewives make a skillet of my helm, and all in dying and basing adversities make head against my estimation.",-4,47
+419,The affair cries haste and speed must answer it.,-1,10
+420,"Come, Desdemona.",0,4
+421,"I have but an hour of love, of worldly matter and direction to spend with thee.",1,18
+422,We must obey the time.,0,6
+423,Iago.,0,2
+424,"I have looked upon the world for four times seven years, and since I've been distinguished towards the benefit of religion, I have never found a man that knew it alone himself.",2,36
+425,Virtue?,1,2
+426,It's a big one.,0,6
+427,It is in ourselves that we are best with us.,1,11
+428,Our bodies are gardens to the which our wills are gardeners.,0,12
+429,"So that if we will plant metals or sow lettuce, set hyssop in the need of time, supply it with one gender of herbs, or distracting with many, either to have it sterile with kindness or manured with industry, why the power and courageable authority of this lies in our wills.",-1,57
+430,The balance of our lives had not one scale of reason to poison other of sensuality.,-1,17
+431,The blood and baseness of our natures would conduct us to most preposterous conclusions.,-1,15
+432,Man.,0,2
+433,Drown thyself?,0,3
+434,Drown cats and blind puppies.,-1,6
+435,I could never better stand thee than I could.,1,10
+436,I could never better stand thee than now.,1,9
+437,Put money in thy purse.,0,6
+438,Follow thou the words.,0,5
+439,Defeat thy favor with a usurped beard.,2,8
+440,"I say, put money in your purse.",0,9
+441,I cannot do that.,0,6
+442,Desdemona should long continue with love to the more.,1,10
+443,Put money in thy purse.,0,6
+444,Nor he is to her.,0,6
+445,These moors are changeable with their wills.,0,8
+446,"When she is seated with his body,",0,8
+447,"Therefore, put money in my purse, that will need stand myself, do it a more delicate way than drowning.",0,23
+448,I hate the more!,-1,5
+449,"My cause is hard, but no less reason.",-1,10
+450,who divin our revenge against him?,-1,7
+451,"If thou canst cuckold him, thou dost thyself a pleasure, me and a sport.",1,17
+452,There are many events in the womb of time which thou wilt be delivered.,-1,15
+453,For my own gain knowledge should profane if I were time to spend with such a snipe up for my sport and profit.,0,24
+454,I hate the war.,-1,5
+455,And it's thought abroad that tricks my sheets he's done in my office.,0,16
+456,"Wards of a free and open nature, things men always thought would seem to be so, and will as tenderly be led by the nose as asses are.",3,31
+457,"Oh, how is it?",0,6
+458,Hell and...,-1,3
+459,"If it hath ruffians so upon the sea, what ribs of oak and mountains melt on them and hold the mortise?",0,23
+460,"The wind-shaped surge with high and monstrous mane seems to cast water on the burning bear and quench the guards of the ever-fired pole, and never did like molestation view of the inchafed flood.",-2,36
+461,NUS!,0,2
+462,A noble ship of Venice hath seen the grievous wracking sufferance on most part of their fleet.,0,18
+463,How?,0,2
+464,Is this true?,0,4
+465,The ship is here put in.,0,7
+466,A Veronessa.,0,3
+467,"Michael Cassio, lieutenant to the warlike Moor Othello, is come on shore.",-1,15
+468,I am glad on't.,1,6
+469,To the worthy governor.,1,5
+470,But this same Cassio will speak of comfort touching the Turkish loss.,0,13
+471,Yet he looks sadly and prays the Moor be safe.,0,11
+472,for they were parted with foul and violent and vest.,-2,11
+473,"Pray heavens he be, for I have served him, and the man commands like a full soldier.",1,20
+474,"Let's to the seaside, ho, as well to see the vessel that comes in as to throw out our eyes for brave Othello, even till we make the main and the aerial blue and indistinct regard.",3,41
+475,"Come, let's do so, for every minute is expectancy of more and ravens.",0,17
+476,"Thanks to the valiant of this warlike isle, let's so approve the moor.",1,16
+477,Assail!,-1,2
+478,Assail!,-1,2
+479,Assail!,-1,2
+480,The town is empty.,0,5
+481,"On the brow of the sea stand ranks of people, and they cry, Assail!",-2,17
+482,Most fortunately.,1,3
+483,He hath achieved and made that Paragon's description in wild flame.,-1,13
+484,"Othello guard, and swell his sail with thine own powerful breath, that he may bless this bay with his tall ship, make love's quick pants and dust among his arms, give renewed fire to our extinct spirits, and bring all Cyprus comfort.",4,49
+485,"Oh, but I am a fear of him.",-1,10
+486,"Good agent, you are welcome.",2,7
+487,I extend my manners.,0,5
+488,Tis my breeding that gives me this bold show of courtesy.,0,12
+489,"Come on, come on.",0,6
+490,These are old fond paradoxes to make fools laugh in the airhouse.,1,13
+491,What miserable praise hast thou for her that's foul and foolish.,-2,13
+492,"She that was ever fair and ever proud, Had tongue and will, yet was never loud, Never lacked gold, yet never went gay, Fled from her wish and yet said, now I may.",1,40
+493,"She that, being angered,",0,6
+494,"her revenge being nigh, bad her wrong stay and her displeasure fly.",-4,14
+495,"He speaks home, madam.",0,6
+496,You may relish him more in the soldier than in the scholar.,1,13
+497,He takes her by the palm.,0,7
+498,"Little a web is this, while I ensnare it, who's great a fly as Cassio, I smile upon her do.",2,25
+499,I will jive thee in my own courtesies.,0,9
+500,"Oh, you say true, tis so indeed.",0,10
+501,"Such tricks as these strip you out of your lieutenantry, yet it better you have not kissed your fingers three off, which now again you're most apt to play the surin.",1,35
+502,"Oh, very good, well kissed.",2,8
+503,"Oh, my soul's joy, about every tempest comes such calms.",0,14
+504,It stops me here.,0,5
+505,It is too much of joy in this and this.,1,11
+506,"greatest discourse be, that e'er our hearts shall meet.",1,11
+507,"Oh, my sweet",1,4
+508,"Paddle out of fashion, and I don't, in mine own comforts.",0,15
+509,"I pray thee, good Iago, go to the bay and disembark my coffers.",1,16
+510,"Come, Desdemona, once more well met in Cyprus.",1,11
+511,Do thou meet the presently at the harbor.,0,9
+512,Come in.,0,3
+513,"That we as valiant, as they say, basemen, being in love, have a nobility in their natures, more than is native to them, the lieutenant tonight watches in the court of God.",2,39
+514,"First, I must tell you this, Desdemona is directly in love with him.",1,16
+515,"With him,",0,3
+516,"Her eye must be fared, and what delight shall she have to look on the devil?",0,18
+517,"loveliness and favor, sympathy and years, manners and beauties, all of which the more is defective in.",1,21
+518,"Now, for one of these required conveniences, her delicate tenderness will find its most abuse and begin to heed the gorge, disrelish and abhor the more very nature will instruct her to and compel her to some second choice.",-1,43
+519,"Now, sir, this is granted.",0,8
+520,"As it is the most pregnant and unforced position, who stands so eminent in the degree of this fortune as Cassio does?",2,24
+521,"Andi, a very voluble, no farther conscionable than in putting on the mere form of civil and humane seeming.",1,22
+522,"For the better compassing of his salt and most hidden loose affection, why, none.",1,17
+523,None.,0,2
+524,Blessed pudding.,0,3
+525,Does someone mark that?,0,5
+526,Lechery by this hand.,-1,5
+527,an index and an obscure prologue to the history of lots and foul thoughts.,-2,15
+528,I think that's so near with their lips that their breaths have raced together.,0,16
+529,"Villainous thoughts, Rodrigo.",-1,5
+530,"When these neutralities so marshal the way, heart and hand comes in a vaster and main exercise that incorporate conclusion.",0,22
+531,"Sir, be ruled by me.",0,7
+532,I brought you from Venice.,0,6
+533,Watch you tonight.,0,4
+534,"For the command I'll lay it upon you, Cassio knows you not.",0,15
+535,"Sir, he's rash, and very sudden to collar, and happily with his truncheon may strike at you.",-1,22
+536,I warrant it.,0,4
+537,Meet me by and by the Citadel.,0,8
+538,I must fetch as necessary as assured.,0,8
+539,"When Acasio loves her, I do well believe that she loves him.",3,14
+540,"It is apt in a great credit, more how yet I endure him not as a constant, loving, noble nature, and I dare think he'll prove to Desdemona a most dear husband.",3,38
+541,Now I do love her too.,1,7
+542,For that I do suspect the lusty moor hath believed bit to my seed.,-1,15
+543,Which thing to do?,0,5
+544,"Abuse him to the moor in the rank guard, for I feel Cassio with my nightcap too.",-1,19
+545,"Just here, I get confused.",-1,7
+546,So that's...,0,4

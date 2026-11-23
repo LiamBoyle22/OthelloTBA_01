@@ -1,0 +1,1927 @@
+line_num,line,bing_liu_score,n_tokens
+1,And we're back.,0,5
+2,Welcome.,1,2
+3,Let's hear that last one again.,0,8
+4,Is that all right?,1,5
+5,"They give their greetings to the citadel, the slight wife of the friend.",0,15
+6,Tis my breeding that gives me this bold show of courtesy.,0,12
+7,"He speaks home, madam.",0,6
+8,You may relish him more in the soldier than in the scholar.,1,13
+9,Can we do it again and switch?,0,8
+10,"Answering her, I do begala thing, by seeming otherwise, Cassio's line.",0,16
+11,"Madam, you may relish him.",1,7
+12,"He speaks home, madam.",0,6
+13,You may relish him more in the soldier than the scholar.,1,12
+14,Then there's one gone to the harbor.,0,9
+15,Great.,1,2
+16,That works.,1,3
+17,That's what I was going to suggest.,0,9
+18,"And I also, and is there still a thought for don't learn from him, Amelia, anywhere in there, though he be thy husband?",0,29
+19,"Or is that none of her, is she feeling like that would not, not her business to make that, you know?",1,25
+20,"So is it all, I'm reading,",0,9
+21,I get to see this event unfold through Desdemona's perception.,0,12
+22,So she's feeling uncomfortable with this.,-1,8
+23,"And whatever her various feelings are, she's not really making them all that clear, except that she's not particularly happy with it.",2,27
+24,"And then she makes this statement about not being merry, which suggests I'm not happy with it.",2,20
+25,"to which Cassio responds, to which she gets back to the issue.",-1,14
+26,Anybody looking out for my husband's ship?,0,9
+27,Is there room for that in there?,0,8
+28,"Is there room for Don't Learn From Him, Amelia?",0,12
+29,I think there's room.,0,6
+30,"I don't know exactly where it goes, but I'd like to reinstall part of what was cut and hear it through You Rise to Play and Go to Bed to Work.",2,35
+31,Didn't he say that?,0,6
+32,Housewives in your beds.,0,5
+33,Fie upon me slanderer.,-1,5
+34,May it as true.,0,5
+35,"So then she has to say, Fie upon me slanderer?",-1,12
+36,Or is there a way to elide?,0,8
+37,"I mean, we can leave the feet and I can respond to the silence.",0,16
+38,Could do that.,0,4
+39,"I mean, if we're looking for moments where Iago's not entirely on top of it, then this is one.",1,24
+40,Say again?,0,3
+41,"We've been looking for moments where Iago is not all conniving and all powerful, so to speak, in",1,21
+42,"in doing just the right thing at just the right moment and having it all planned out and having it all together, this is a moment where he doesn't.",2,32
+43,That silence would be a moment where he doesn't have it together and kind of fucks it up.,0,20
+44,"Yeah, well, I get that, Michael.",1,10
+45,"He's doing almost the opposite as far as I'm concerned, which is putting all this stuff out in the world",-1,23
+46,in a place where it seems like it would behoove him more to have people think better of him than what this is.,2,24
+47,I don't disagree with you.,-1,7
+48,"But we can try, players and housewifery and housewives, in your beds, tis true, or else I am a Turk.",0,25
+49,"Oh, okay.",0,4
+50,"Housewife in your beds, tis true, or else, okay.",0,13
+51,Just make it one line?,0,6
+52,"Yeah, it's a new, tis true is a new sentence.",0,14
+53,"Yeah, yeah, but it's all one, it's all one piece.",0,16
+54,"Are we then going, cutting down to do not learn a limiteria, after bed to work, if that will work?",2,24
+55,"Actually, let's wait on that, because we were on our way to a reading, and then Jess said, and I'd like to add this.",1,31
+56,"So let's do it without it first, and then talk about adding the other thing.",0,18
+57,Let's keep it housewives in your beds for right now.,1,12
+58,Okay.,0,2
+59,"To which she's responding, I am not married?",0,11
+60,Is that how it goes right now?,1,8
+61,That's how it's been going now.,0,9
+62,"To Cassio, you speak home.",0,7
+63,Right.,1,2
+64,"And to her getting back to the main point, which is by there.",0,15
+65,Let's just hear that.,0,6
+66,Let's just hear that.,0,6
+67,Okay.,0,2
+68,That makes sense.,0,4
+69,You want to do all the way from top or just somewhere?,1,13
+70,Yep.,0,2
+71,I'm not.,0,4
+72,What are we doing?,0,5
+73,So we go to here.,0,6
+74,Thank you.,1,3
+75,"And then to your line, I'm not married.",0,11
+76,Great.,1,2
+77,And then Cassio.,0,4
+78,Thank you.,1,3
+79,And then to you.,0,5
+80,Thank you.,1,3
+81,I'm waiting.,0,4
+82,Yep.,0,2
+83,Tis my breeding that gives me this bold show of courtesy.,0,12
+84,I am not Mary.,0,5
+85,"He speaks home, madam.",0,6
+86,You may relish him more in the soldier than the scholar.,1,12
+87,There's one gone to the harbor?,0,8
+88,Ivan.,0,2
+89,"Keep her, keep her, keep her.",0,9
+90,"At the, please.",0,5
+91,"So let's put in, let's do what we were talking about, Michael.",0,17
+92,"Desimona says, I am not married.",0,8
+93,"Cassia says, ah, he speaks home.",0,9
+94,What line follows that?,0,5
+95,"Yeah, where is that?",0,6
+96,Page?,0,2
+97,"It's the Iago's line in the script, but you gave it to him.",0,17
+98,I did.,0,3
+99,I did give it to him.,0,7
+100,I think it would be interesting.,1,7
+101,I met him.,0,4
+102,"So, put, do not learn from Amelia, though he be thy husband, at the end.",0,20
+103,"After you get the response from Casio, and I'm assuming that you guys are walking off to discuss that.",0,22
+104,So it's almost over the shoulder.,0,8
+105,Tis my breeding that gives me this bold show of courtesy.,0,12
+106,Come on.,0,3
+107,Come on!,0,3
+108,You are pictures out of doors.,0,7
+109,Bells in your parlors.,0,5
+110,Wildcats in your kitchens.,0,5
+111,Saints in your injuries.,0,5
+112,Devils being offended.,0,4
+113,Players in your housewifery.,0,5
+114,And housewives in your beds.,0,6
+115,"He speaks home, madam.",0,6
+116,You may relish him more in the soldier than in the scholar.,1,13
+117,There's one drawn to the harbor?,0,8
+118,Takes her by the palm.,0,6
+119,That tells an interesting story.,1,6
+120,I'm still very uncomfortable about the two men at the top and what that's all about.,0,19
+121,"And I kind of know, I mean, we've discussed it and everybody has told me what that is.",0,22
+122,And it may just be my latent desire to not,0,10
+123,"own that narrative, but it's...",0,8
+124,I don't think this...,0,6
+125,This arc seems to work.,1,6
+126,"Is there something that moment could be that's still over the line, but less overtly offensive as this is to our modern sensibilities?",0,26
+127,I don't understand.,0,5
+128,Meaning not the kiss.,0,5
+129,"Yeah, I feel like something that can set off this event, but that's not so far gone that our modern sensibilities won't be so offended by it to make it be like, what the fuck, why is this happening?",2,46
+130,Because it's so outside of our experience.,0,9
+131,Yeah.,0,2
+132,"I mean, again, I hate to, it sounds like a cop-out when we say, well, that's how you play it.",1,27
+133,"But I do think there's a way to approach a woman and shake her hand in a way that crosses the line, you know, or kiss on the cheek as it may cross the line, you know.",-1,42
+134,"I thought Emily, Professor Emily, I mean, I'm grateful for the image of just like putting your hand on a woman's back.",2,28
+135,"That was a great image for me to understand kind of what this,",1,14
+136,"moment could be in his mind, you know what I mean?",0,13
+137,I don't know if that's the biggest concern you're having.,-1,14
+138,"I mean, you mentioned a narrative that you, whose narrative?",0,13
+139,"It's a concern, the size of this banter over this woman who has not given consent for any of it, you know, and is not reciprocated.",-1,31
+140,The banter specifically more than the...,0,7
+141,"Yeah, I'm going to kiss your wife.",0,10
+142,"You know, the affront to her, and also Cassio's choosing to be affront Iago, right?",-1,20
+143,"And say, hey, I'm going to kiss your wife, you know?",0,16
+144,"It's just, you know, that's what I'm going to do.",0,16
+145,"And him, like, saying, okay, whatever, you know, she ain't much to me, she's kind of a slut, whatever.",0,30
+146,"I don't, it's big, you know?",0,11
+147,"I like when you're throwing the lines away a little bit more, which is nice.",2,18
+148,Because it doesn't mean anything to that.,0,9
+149,Yeah.,0,2
+150,It's just a little joke.,-1,7
+151,"If that, I mean.",0,6
+152,"I think that the power play aspect of it, I mean, this happens again later on when he's drunk.",-1,23
+153,"He has this whole exchange with Iago about, oh, I hope we're all saved, but I'm going to be saved first.",0,27
+154,The ancient doesn't get saved first.,0,8
+155,The lieutenant gets saved first.,0,6
+156,So I think that that's there with these two.,0,11
+157,"Yeah, and we've laid it in an earlier scene as well.",1,14
+158,But this is big.,0,5
+159,It's a big one.,0,6
+160,"I mean, it's a power play.",0,9
+161,"It's a dick move, man.",-1,8
+162,It is.,0,3
+163,"And maybe, I'm not putting words in your mouth, but what I heard you say about speaking about Casio yesterday and",0,24
+164,the day before about maybe it is like you wanting to hold on to something that that he may not be you know or yeah yeah yeah because he does win he wins the play which is distressing and if it is a power play from his part like he's coming in to antagonize me with this and I'm bound by position to an extent,2,67
+165,That changes the way I feel about this and what I say about her and why I say about her.,0,21
+166,I understand that.,0,4
+167,That you're potentially taking out what he's doing to you on me in that moment.,0,18
+168,Is that what you're saying?,0,7
+169,"Or that I can't openly say, what the fuck are you doing to my wife?",0,18
+170,That's my wife.,0,5
+171,"Regardless of how I feel about you, you're my wife.",0,13
+172,Right.,1,2
+173,"You know, and...",0,5
+174,"Yeah, that it's about you, it's about this pissing contest over here.",0,17
+175,"Right, right, right.",3,6
+176,"You know, and that, that, yeah, and...",0,12
+177,He does say later that...,0,6
+178,"Maybe I'm trying to embarrass him with that, or just try, like, something.",0,18
+179,"Like, there's, there's something else here, rather than, and sort of disregard for, for you, which...",0,25
+180,"And when he says, I fear Cassio with my nightcap too, later on, then it's not random.",-1,22
+181,Uh-huh.,0,2
+182,"It's you've been stewing on this, that whole time.",0,13
+183,Mm-hmm.,0,2
+184,Mm-hmm.,0,2
+185,"You know, a lot of stuff about housewives in your beds is fed by, you know, this suspicion of Othello and of you and Othello and other situations.",-1,32
+186,So is there a bit of a sense that Iago is actually caught slightly off guard by this?,0,19
+187,Yeah.,0,2
+188,Just to see him off balance.,0,7
+189,Did that motherfucker just kiss my wife?,0,8
+190,And then having to sort of course correct.,1,9
+191,And then getting called out.,0,6
+192,"And stuck with, fuck, I've got to be careful.",-2,13
+193,"I mean, that's where I'm at the end of this.",0,14
+194,I've got to watch it.,0,7
+195,That could have blown everything up right there.,1,9
+196,"I've got to be careful, and he does it.",0,12
+197,Yes.,0,2
+198,Which feeds that.,0,4
+199,"Which feeds that, I'm going to take this fucker down.",0,13
+200,How do you explain...,0,5
+201,the scene before the drunken brawl where Iago's trying to get Cassio to sort of sign on to this lascivious talk about Desdemona and he never takes the bait.,-3,31
+202,You know what I'm talking about?,0,8
+203,He's trying to talk trash and...,-1,8
+204,Yeah.,0,2
+205,"She is indeed perfection, you know.",1,8
+206,"The most exquisite lady, yes, yes.",1,9
+207,How do I?,0,4
+208,"If these guys in their space have the capacity to do what this scene displays, what changes in that moment?",0,22
+209,"What's different at that point that Casio's not saying, yeah, I'd fuck her too?",-1,20
+210,Because his ability to compartmentalize and see different bodies differently.,0,11
+211,"I mean, Desdemona is not, sorry?",-1,9
+212,"I mean, you're talking to her, I thought it was best friend.",1,16
+213,That too.,0,3
+214,"Yeah, keep it out.",0,6
+215,And I'm talking about Desdemona.,0,7
+216,"This was about me on her, which is a different thing than talking about my boss's wife to someone who possibly knows him better.",1,27
+217,And not to mention my own relationship to Desdemona.,0,10
+218,Sure.,0,2
+219,Sure.,0,2
+220,first and foremost.,1,4
+221,"And Josh, the actor, can see the blind spot that Cassio cannot, how he can treat one but not the other, you know.",-1,29
+222,I see.,0,3
+223,What do you gain by those two lines?,1,9
+224,I am a Turk.,0,5
+225,"The Turk line, I'm not.",0,8
+226,You're a working girl.,0,6
+227,"What, just calling her a whore?",-1,8
+228,"Yeah, and it's just, it's another, it's another thing that I've heard many times, which is it's so easy for women.",1,31
+229,You have it easy.,1,5
+230,"You just, you know, fuck and marry well and eat bonbons all day.",0,16
+231,And whatever that is isn't expressed in the four lines prior?,0,13
+232,I think it's more specific.,0,7
+233,"Okay, last question.",0,5
+234,"Steph, how do you feel about all this?",0,10
+235,I think it's exciting.,1,6
+236,I think there's a lot to play in it.,0,11
+237,I like that there are two moments now between us that are very different.,1,15
+238,One is directed at him and one is directed at me.,0,12
+239,And that there's a lot of options in the playing of both of those moments and how they're received that I think can set things up in an interesting way potentially for us.,1,36
+240,"Does this, as it's played and written so far, blow up anything for us later as far as character interactions?",-1,24
+241,I think it actually provides an opportunity later.,0,9
+242,"If we've swapped the original intention, which I read in this scene of showing how witty Desdemona is and able to hold her own with Iago for her toughness in this, I flash forward to the scene in which she first starts making the argument in favor of Michael Cassio.",1,54
+243,"Othello resisting and like, not now, not now.",1,11
+244,"And by the end, he basically gives in.",0,10
+245,And I wonder what happens when Othello sees Iago seeing that happen.,1,13
+246,That it's dangerous to what he told the Senate about what he'd do here.,-1,17
+247,Already your wife is changing the way you're running your troops.,0,13
+248,"And if we've already seen her be able to come into a room and change the situation, I think that helps with that part of the story.",0,30
+249,Yeah.,0,2
+250,Does it mean you wouldn't trust me with other things in the future?,1,15
+251,"Not necessarily, no.",0,5
+252,I think...,0,3
+253,My concern there was in the playing out of this entire scene.,-1,13
+254,"No, I think that a person's ability to compartmentalize extends through this interaction.",0,16
+255,"I mean, I won't know until we stack the entire play on top of itself, but I feel, doesn't know what it feels, that this has been dealt with.",1,36
+256,"I think as soon as Othello lands,",0,8
+257,anything that came prior to that moment gets swept away in the relief of that.,1,16
+258,And I think that I'm desperate enough by the time that I come to you for help that whatever small hiccup this was is forgotten about.,0,28
+259,"Kind of what Burr was saying before lunch,",0,9
+260,"Trust doesn't necessarily have to be there, right?",2,11
+261,"Like, she has to operate what she's given in this society, right?",2,16
+262,"And so Iago, if she has to work with Iago, she will, whether she trusts him or not.",1,22
+263,That makes sense.,0,4
+264,"I mean, there's no one else left for her in that moment.",0,15
+265,Yeah.,0,2
+266,There is also the fact that Othello trusts him.,0,10
+267,And Iago seemed to be helping them in Venice.,1,10
+268,"They don't know that he gave away their location, but he's literally the reason why the mob found them.",0,23
+269,"Yeah, that's right.",1,6
+270,"And there's something about seeing the two of them in action and Othello putting trust in Iago over and over again, and Iago delivering.",1,27
+271,"Yeah, and this is also a public, it's a private moment shared publicly between two people in a relationship.",0,23
+272,"So however Iago might be in relationship with his wife, you can have a point of view on that.",0,21
+273,"But when you are in a moment of crisis, and you know that this is someone that Othello depends upon for those things,",-1,25
+274,"then I just think of in moments of crisis, there are people I would prefer to go to.",0,20
+275,"And there are people I would go to, even if there's something about them that I may not necessarily like, or I might, I would still go to them if I had to.",1,38
+276,Because I don't think that they're murderers.,0,10
+277,"Department allies, yeah.",0,5
+278,Okay.,0,2
+279,That's cool.,1,4
+280,I think we have something to work with.,1,9
+281,That's really exciting.,1,5
+282,Yeah.,0,2
+283,"Yeah, I dig it.",0,6
+284,I think it's great.,1,6
+285,That was the most collaborative.,0,6
+286,Right?,1,2
+287,I've never been a part of something like that in my life.,1,14
+288,I know.,0,3
+289,Amazing.,1,2
+290,Thank you for kicking that off.,1,7
+291,For giving us...,0,4
+292,"Michael, let's hear your speech as you're watching.",0,12
+293,"Um, yeah.",0,4
+294,He takes her by the palm.,0,7
+295,"I, well said, whisper.",1,7
+296,As little a web as this will I ensnare as great a fly as Cassio.,1,16
+297,I smile upon her dew.,1,6
+298,Jive thee.,0,3
+299,Give.,0,2
+300,I will give thee in thine own courtesies.,0,9
+301,You say true.,0,4
+302,Tis so indeed.,0,4
+303,"If such tricks as these strip you out of your lieutenancy, it had been better you had not kissed your three fingers so oft, which now again you are most apt to play the sir in.",1,39
+304,Very good.,1,3
+305,Well kissed.,1,3
+306,An excellent courtesy.,1,4
+307,Tis so indeed yet again.,0,6
+308,Your fingers to your lips.,0,6
+309,Hmm.,0,2
+310,Would they were cloister pipes for your sake?,0,9
+311,The moor!,0,3
+312,I know his trumpet!,1,5
+313,Okay.,0,2
+314,"It tracks, like...",1,5
+315,Sorry.,-1,2
+316,It tracks based on what I did.,0,8
+317,"Like, if that...",1,5
+318,What I did to his wife.,0,7
+319,"I mean, I even use the word courtesy.",0,10
+320,"It's like, it tracks.",1,7
+321,You know?,0,3
+322,"Yeah, except that...",0,5
+323,"I mean, kissing your three fingers is a, you know...",0,13
+324,"is a thing, you know.",0,7
+325,I'm sure this is period stuff.,0,8
+326,"No, I'm saying that he's talking, you know, it's...",0,16
+327,Overall.,0,2
+328,"Yeah, overall it's about that interaction with his wife and how it really did get under his skin.",0,21
+329,I would like to lose everything after...,0,8
+330,"If such tricks as these strip you out of your lieutenantry, it had better you had not baboom, the more I know his trumpet.",2,27
+331,Okay.,0,2
+332,"He cuts them off, and so we don't have to talk about stuff that Cassio may not be doing, like kissing his fingers, and nobody knows what kleister pipes are.",1,35
+333,Okay.,0,2
+334,That is the title of the brothel today.,0,9
+335,Kleister pipes.,0,3
+336,That's an extra charge.,0,6
+337,That's what we're saying.,0,7
+338,"Kleister pipes is on the menu, actually.",0,9
+339,But it is absolutely on the menu.,0,8
+340,It's sort of a dessert item.,0,8
+341,"Keith, I'd just like to correct your pronunciation of his strumpet.",2,14
+342,His strumpet.,0,3
+343,Could I advocate for...,1,5
+344,"Very good, well-kissed, and excellent courtesy, tis so indeed.",2,13
+345,"So we skip the fingers to lips, and then cut the fingers to lips in the Kleister pipes after that.",0,22
+346,"But again, that's a repetition of courtesy.",0,10
+347,And I like the idea of me doing a play-by-play of whatever's happening with them on the other side of stage.,1,23
+348,But is Cassio kissing her at this point?,0,9
+349,"I don't know, kissing her hand or something.",0,11
+350,There's something going on over there.,0,8
+351,There's something intriguing to me about this.,1,9
+352,Let's follow it.,0,5
+353,It's easy for me to imagine they take hands.,1,11
+354,"Oh, he speaks home, madam.",0,8
+355,Let's walk over here.,0,6
+356,He takes her by the palm.,0,7
+357,"I, well said, whisper.",1,7
+358,And they're talking because nobody else needs to hear.,0,11
+359,With as little web as this.,0,7
+360,Only this much.,0,4
+361,Just this taken by the hand and you're whispering to each other like you are.,1,17
+362,I could do it.,0,5
+363,I won't snare as great a fly as Cassio.,0,11
+364,I smile upon her.,1,5
+365,That's even more.,0,5
+366,That's better.,1,4
+367,I will guide thee in thy own courtesies.,0,9
+368,"which is trap you, catch you up, entangle you.",-2,12
+369,You say true to so indeed.,0,7
+370,You say true to so indeed.,0,7
+371,Referencing what they look like right in there.,2,9
+372,He's telling her something reassuring.,0,7
+373,"Oh, you said true.",0,6
+374,Or even she says something back.,0,7
+375,"Oh, you said true.",0,6
+376,Just mocking whatever encounter they're having.,-1,8
+377,"Like lip reading, the bad lip reading things on YouTube.",0,12
+378,That kind of making up a story about what's happening over there.,0,14
+379,Just for my own entertainment in contemplating.,0,8
+380,"Sticking the knife, turning the knife.",-2,8
+381,"If such a trick as these strip you out of your lieutenantry, dot, dot, dot.",-1,19
+382,"Very good, well kissed, and excellent courtesy.",3,10
+383,I would like whatever the noise is to sort of interrupt him somewhere.,-1,14
+384,"Very good, well kissed.",2,6
+385,Da-da-da!,0,2
+386,So move it up?,0,5
+387,Yeah.,0,2
+388,Okay.,0,2
+389,"I mean, that's my thought.",0,8
+390,"What if very well, uh, uh, uh,",1,11
+391,"well-kissed were like in reference to Amelia, that he's still stewing on what happened at the beginning.",1,20
+392,"Yeah, it definitely has that.",0,7
+393,Yeah.,0,2
+394,Yeah?,0,2
+395,"Yeah, so send it right at Amelia.",1,9
+396,Uh-huh.,0,2
+397,Uh-huh.,0,2
+398,So that goes up there.,0,6
+399,"I know you're going to do it again, so are you ready?",1,15
+400,Mm-hmm.,0,2
+401,Okay.,0,2
+402,Let me try that.,0,5
+403,Sure.,0,2
+404,How does this end?,0,5
+405,And then they walk off.,0,6
+406,"No, no, no.",0,6
+407,He takes her by the palm.,0,7
+408,"I, well said, whisper.",1,7
+409,"The little a web as this will I ensnare, as great a fly as Cassio.",1,17
+410,"I smile upon her dew, and I will give thee in my own courtesies.",1,16
+411,"You should say, ""'Tis so indeed.""",0,11
+412,Very good.,1,3
+413,Well kissed.,1,3
+414,An excellent courtesy.,1,4
+415,"""'Tis so indeed.""",0,7
+416,"If such tricks as these strip you out of, the more I know his strumpet.",0,17
+417,I have no use for I know his strumpet.,0,10
+418,Ultimately.,0,2
+419,We fight about this every day.,0,7
+420,Every day.,0,3
+421,"The thing is, I don't know if we're fighting or if we're being silly.",-1,19
+422,"It's kind of like, are you seriously advocating for him to say I know his strumpet?",1,19
+423,Are you?,0,3
+424,"I mean, I just, I wasn't sure because, you know.",0,15
+425,"I mean, I could be clear in saying his trumpet, you know, allowing for the space.",2,20
+426,"Yes, of course, you would.",0,8
+427,"Nobody would say his trumpet, you know, unless you're talking about his trumpet.",2,17
+428,But that's not what's written here.,0,9
+429,I think the double meaning is there without necessarily leaning into it.,0,13
+430,Nor do we know if it's going to be a trumpet.,1,13
+431,We might say something else.,0,6
+432,I don't know what that is.,0,8
+433,It could be a spicer-picer.,0,6
+434,It's an old Moorish tradition playing Kleister Pipes.,0,10
+435,Rather like Penn than Kleister Pipes.,1,7
+436,Also make sure that courtesies is a quote.,0,9
+437,You're quoting.,0,4
+438,"So she is thrilled, right?",2,7
+439,Tis truly so.,0,4
+440,"Oh, okay.",0,4
+441,And I imagine he comes in.,0,7
+442,I don't think we need a low where he comes.,0,12
+443,That's almost begging for him to miss an entrance.,-2,11
+444,"Yeah, right, exactly.",1,6
+445,"Have that in the back pocket, just a quick.",0,11
+446,So the trumpet is sounded once he's actually entering?,1,11
+447,I don't think so.,0,6
+448,"I think that's the sound of, like, these other shots of courtesy or whatever it was.",1,20
+449,It's something that's announcing that the boat has actually gotten there.,0,14
+450,"So every other time we knew, no matter who it was, it was not Othello because none of them had trumpet.",1,24
+451,Right.,1,2
+452,So it needs to be a thing.,0,8
+453,Or a trumpet.,1,4
+454,"Or they all had trumpets, and this one is slightly different, and I know the difference.",0,19
+455,Because he's got that shofar or whatever.,0,9
+456,See for the news.,0,5
+457,Who's giving the greeting that is likewise a friend?,0,11
+458,Isn't the only other ship really?,0,8
+459,There have been two ships that have fired a shot of friendship.,0,13
+460,"You fire a shot off the side to say, hey, this is us.",0,16
+461,"Cassio, Iago, there's one.",0,8
+462,"And there's one more, right?",1,8
+463,Which is Othello's.,0,5
+464,Right.,1,2
+465,"So they come and they fire the shot, but they don't sound the trumpet.",1,17
+466,"And then later on, they sound the trumpet.",1,10
+467,"You know what, man?",0,6
+468,I'm not sure.,0,5
+469,"A lot of it has to do with, and we haven't thought a whole lot about this, what this place is, what manner of conveyance.",0,30
+470,"These are boats, as we understand for now.",0,10
+471,But what takes the place of cannon shots is important.,1,11
+472,And,0,1
+473,I just left a trumpet right now to get through the scene.,2,13
+474,That could be...,0,4
+475,We could change it to something else.,0,8
+476,I know his recorder.,0,5
+477,"Yeah, I don't know.",0,7
+478,I feel like...,1,4
+479,I think the trumpet's with the retinue.,1,9
+480,That there's a shot from the boat as the boat is coming in.,0,15
+481,"The boat docks, and you get off the boat, and he's special, so he has a trumpet.",1,22
+482,He gets...,0,3
+483,"As he marches into town, the general gets a trumpet.",1,12
+484,So then it's the first thing I said where it's actually...,0,14
+485,Cypress that's announcing him technically.,0,7
+486,"Or, no, he's announcing himself.",0,9
+487,"His retinue, his entourage is coming on, and you've got the trumpet guy.",1,17
+488,"Fred, the trumpet guy.",1,6
+489,"Right, but if they can do that and announce themselves without any confirmation from the island, then I'm asking, so they started it once he was about to enter, since he does enter two lines later?",1,42
+490,"Or is this that, like, if we have the power to say it's I mean, if he has the power to say it's him, why'd he wait so long?",1,37
+491,I think it's not terribly important right now.,1,10
+492,That's the first thing.,0,6
+493,"I would like him to come in, you know, like them to almost run into each other.",2,20
+494,It's coming in.,0,5
+495,Or this idea that there is some sort of formal way that the general,0,14
+496,"enters, right?",1,4
+497,"Fife and drum, or whatever it is, you know.",0,12
+498,"I guess in naval parlance there'd be some whistling aboard and whistling, you know, deboarding or unboarding or whatever it was.",0,25
+499,There's that.,0,4
+500,But I think this is a little bit more ostentatious than that.,0,13
+501,"They may set up a guard of some sort, a color guard, to do this transfer.",0,19
+502,"And again, this is protocols that everybody has to to wait for, so Desdemona says, let's go greet him, and maybe she's stopped, you know, so that this thing can happen.",0,40
+503,"Yeah, as you said that, it made me think that actually may very well be a perfect space for the business that you said he has to do, that it's actually a, it starts even before he gets there and he has to go through it.",2,52
+504,And they do all that.,0,6
+505,And the greeting has to wait.,0,7
+506,I think there's something potentially really exciting about that.,1,11
+507,"If Othello comes in with this sense of ceremony and decorum,",0,12
+508,"and there's that separation because of his place on this island, and then to see that release into his greeting of Desdemona, so that we see those two totally distinct sides of him in that moment.",0,40
+509,I think that could be exciting to watch.,1,9
+510,"Yeah, and even if that's happening under Iago, talking shit.",-1,14
+511,"You have this, like, skeeviness going on downstage while this figure is coming with all of this bearing.",1,21
+512,"Well, wouldn't he have to sort of fall in line and do it?",0,16
+513,Wouldn't he have to be part of whatever the formation was that allows this to happen?,0,18
+514,"That could happen later, though.",0,7
+515,Depending on the size of the theater.,0,8
+516,I don't really know what you mean.,0,9
+517,"I'm just visualizing staging in a very large space, so Athala can come in early.",0,18
+518,"And we have this very small, private moment of Iago putting words to this other scene that's happening, and then the entrance.",0,26
+519,"If Iago did get in line,",0,7
+520,for the ceremony because this tool is now in our box pretty firmly.,1,14
+521,"If we take his later lines about, oh, you're well tuned now and have him say those over the ceremony rather than an interruption in between while Othello and Desimona are kissing, it seems to fit.",0,41
+522,If there's like some kind of color guard thing going on while the transfer of power is happening.,1,20
+523,So he sees Othello coming before he knows that he's there before anybody else?,0,16
+524,I don't get that.,0,6
+525,"No, I'm saying that whenever or however the transfer of power ceremony takes place, and you said it would be nice to have that happening in solemnity and Iago talking shit underneath it,",0,37
+526,His lines about Casio and Desmona don't really fit there.,0,12
+527,"But the ones later on, lines 197 or 8, on top of page 180, oh, you are well tuned now.",2,25
+528,would fit nicely as a nasty underscoring to this ceremonial transfer of power.,0,14
+529,However that winds up playing out.,0,7
+530,Where are those lines?,0,5
+531,Where?,0,2
+532,Top of 180.,1,4
+533,Uh-huh.,0,2
+534,I'm leery of muddying the entrance.,-1,8
+535,"You know, the way it's laid out, I have a moment about Casio and Desdemona, and then he enters.",0,24
+536,"And whatever that ceremony is, I'm leery of muddying that with anything.",-1,15
+537,"Well, we will see to it that it's not muddied.",1,13
+538,Don't worry.,-1,4
+539,I have a...,0,4
+540,I have been tickled with the idea of Desdemona and Montano,0,11
+541,pronouncing Otello's name as if it were a Spanish derivative and saying Otello.,0,15
+542,Montano because he's from the same place and that's how the fucking name is pronounced.,-1,18
+543,And Desdemona because he told her that that was his name and she uses it.,0,16
+544,I wonder if that would track or it would just confuse people.,0,13
+545,Can we try it?,0,5
+546,Any time either of you say his name?,0,9
+547,Oteio.,0,2
+548,"Keith, are you positing that the first time I would pronounce it correctly is here, outside of the Venetian court?",1,23
+549,"No, you could say it correctly there, too.",1,11
+550,Okay.,0,2
+551,"And that's in the prologue, right?",1,9
+552,So we get sort of back story.,0,8
+553,We do get back story.,0,6
+554,Um...,0,2
+555,"So they have some kind of an embrace, right?",1,11
+556,Some kind of a big thing.,0,7
+557,I'm super sorry.,0,5
+558,Was the prologue the thing you read yesterday with the Arabic?,0,12
+559,Is that what you're discussing?,0,7
+560,Like your Arabic?,1,4
+561,"Okay, great.",1,4
+562,"And that's not, I mean, I'm not, I have to say that was a thing that made sense then.",0,25
+563,"So much of what we've talked about since in the Sunday readings and throughout this process sort of changes what I think that conversation might be about, so it would be something else.",0,36
+564,"I'm just trying to make sure I'm following what that word represents, which I guess.",0,19
+565,"If it were now to die, it were now to be most happy, for I fear my soul hath her content so absolute that not another comfort like to this exceeds an unknown fate.",1,37
+566,That's a fucking mouthful.,-1,6
+567,And I'm not sure how much of it can...,0,11
+568,"can realistically be delivered publicly, like, you know, how quickly do they go off to talk where the audience can hear them, but they are ostensibly talking to each other about stuff, you know, this lover talk that is not.",2,47
+569,"There is also mileage in them, I mean, now that he's taking care of business,",0,19
+570,"giving himself a moment of indulgence where he does this with this love that is unlike any other love, so he's driven to a level of flowery language that he hasn't used before, and their attraction, the size of their sensuality, sexuality, sexual energy together makes others uncomfortable, makes other people don't really know what to do, because here's the general being.",3,74
+571,"this thing, he and Desdemona being this thing in a very public way.",0,15
+572,"I don't suggest that it's at all salacious, because I think the language suggests that he's just really thrilled, really happy, really happy to be with his love again, and she with him.",3,41
+573,"but it would either be private-ish, or it would cause that room to behave in various ways, landing on them.",0,23
+574,Is that an allusion to babies?,0,7
+575,"So everybody does kisses there, right?",1,8
+576,"This and this, and I guess that's what they are.",0,13
+577,I wonder what else we could explore that meaning.,1,10
+578,Maybe nothing.,0,3
+579,Maybe that's exactly what it's supposed to be.,0,11
+580,"A kiss on the cheek could counterpoint a slap on the cheek, right?",0,15
+581,And if he's kissing both cheeks.,0,8
+582,"Yeah, I don't know.",0,7
+583,And Diago's watching.,0,5
+584,"So, it seems like about 50% of the productions reference Montano in this.",1,16
+585,"I think that's the correct way to go, you know, for this.",1,16
+586,"And that gives them, I think, their second contact, right?",1,14
+587,"They have one when he is first off the boat, and then there is, you know, a more, a more, uh, less formal.",0,30
+588,I do an old buddy.,0,6
+589,Um...,0,2
+590,"Uh, which is kind of loaded, isn't it?",0,12
+591,Um...,0,2
+592,"And it's interesting, because I think outside of the garrison, or whatever this is, there's probably not great love.",3,25
+593,"The Cypriots are probably not particularly thrilled about this, or many of them.",1,15
+594,"Within this garrison facility, the citadel, as it were,",0,12
+595,"These are generally all friends, but as we can build that world, it would be interesting to see who is running around there and what their body language tells us about how they feel about being there.",1,40
+596,Even soldiers in service to Venice.,0,7
+597,"Oh my sweet, I prattle out of fashion.",0,10
+598,I dote in my own comforts.,1,7
+599,"Come, Desdemona, once more well met at Cyprus.""",1,12
+600,"So the only thing in there that I didn't really talk to is how he feels about the war being over, and if there's any foreshadowing of his awareness of",0,33
+601,That's probably not the greatest thing for me because I am not as necessary as I was five minutes ago.,1,22
+602,Thoughts about her responses?,0,5
+603,"I had not thought of loading 192, 1, 2, with...",0,14
+604,an intimation of making a family.,0,7
+605,I'm not opposed to it.,0,7
+606,I think that the discords that maybe sometimes reference the kisses or whatever they are could also be in reference to that line.,0,24
+607,He says essentially that,0,4
+608,he could believe that this is the happiest he will ever feel.,0,13
+609,"And I say, no, no, no, baby, we're just getting started.",0,18
+610,"Like, that's our discord.",0,7
+611,"So I also, I can read the line like that without it being like, we're growing a family.",2,22
+612,"I think it's more powerful, actually, if it's just about the two of them.",1,19
+613,Do you mean in reference to a private moment or just what those lines are referencing?,0,17
+614,"The lines that, yeah, I think if you start bringing babies into it, it's like, whoa, whoa, whoa, you got married yesterday.",4,31
+615,"Yeah, and we've got a nod to it later if we want to take that with that couplet that we're thinking of sharing.",0,27
+616,Back when we talked about that last week.,0,9
+617,Yeah.,0,2
+618,Yeah.,0,2
+619,If we want to go that route with it.,0,10
+620,Yuck.,0,2
+621,Anyway.,0,2
+622,"You ever have friends, loving couples who like honey bunch, sweet pie, sugar gums?",3,18
+623,"You know, and you want to throw up.",0,10
+624,You want them to just leave.,0,7
+625,Because it's just too cute.,1,7
+626,"I heard a thing on NPR yesterday that says couples who speak like that to each other are more, like, successful.",3,24
+627,Honey bunny.,0,3
+628,Honey bunny.,0,3
+629,"It's gross, right?",0,6
+630,"Well, in public or in private, like, those couples who have names, like, do that...",3,21
+631,I think it's gross either way.,-1,8
+632,"I respect more the exhibitionism of doing it in a different kind of way than the way that you're ignoring it or you're like, I like this.",3,31
+633,You know what I mean?,0,6
+634,I'm not suggesting that's what's happening here.,0,11
+635,I'm not talking to my dog that way.,0,10
+636,"Heather, we're not talking about you.",0,9
+637,"And maybe there is my way to it being intentional to a degree and like their way of kind of being playful with them and like, because I do have friends that like, they do it and they know that it gets up each other and that's partly why they do it.",4,56
+638,Injecting a sense of humor in their relationship is really important to me.,2,14
+639,I'm not opposed to playing it that way.,0,10
+640,I think we should put a pin in it.,0,10
+641,I think that some of this language that Othello is using is surprising even him.,0,16
+642,You know?,0,3
+643,Did I just say that?,0,6
+644,That's great.,1,4
+645,"Yeah, that's right.",1,6
+646,"So the work is done here, and they all exit leaving",1,12
+647,Iago and Rodrigo.,0,4
+648,And it would be great if we could actually do it at the seaside where the rain is.,1,19
+649,And then you have this image of these two drowned rats standing out there left to have this conversation.,0,20
+650,I just...,0,3
+651,"And things like that could be created, you know, if you had your wish list.",1,18
+652,But it sounds awfully messy and complicated to do.,-3,10
+653,"It raises the question at this point, how Rodrigo, you know, how has he come, right?",1,21
+654,"Iago said, you know, go get some money and follow the war.",0,15
+655,"They did something like that at the Globe, right?",2,11
+656,"He shows up, and they have this rolling thing, and he has suitcases.",0,16
+657,It was very strange.,-1,5
+658,"It comes down through the groundlings, right?",1,9
+659,"And they part, and this rolling thing comes down to the edge of the stage, and he steps off.",0,22
+660,It was very Elizabethan.,0,5
+661,It probably would have worked great for the early moderns.,2,11
+662,How does he show up?,0,6
+663,Which boat is he on?,0,6
+664,Did he come on the boat with Iago?,0,9
+665,"And if so, or is he just there?",0,10
+666,Is he coming in?,0,5
+667,Do thou meet me presently at the harbor?,0,9
+668,"So, do thou meet me presently at the harbor is to a soldier.",0,15
+669,That's to somebody else.,0,6
+670,"It could be that he's gotten there on his own, right?",1,14
+671,"And Iago's about to go do his thing, and in comes Rodrigo after everything.",0,17
+672,"Iago sees him, sends this soldier, and then they have this moment where they say, oh, well, you're here.",1,26
+673,"OK, well, here's how it is.",1,10
+674,"But I don't, I mean, it remains problematic.",-1,12
+675,I don't understand how he would come on a military transport.,0,13
+676,"My assumed knowledge, which is assumed, so deserves questioning and should be broken down, is that he stowed away somehow on one of the boats.",-1,29
+677,"If he were industrious, he could be in disguise.",1,11
+678,"If he were industrious, he could be impersonating someone.",1,11
+679,"If he were industrious, he could be bribing someone to be on a boat.",1,16
+680,I don't know that any soldier in this play would be above taking a bribe.,0,17
+681,I like that.,1,4
+682,I like that.,1,4
+683,I like that.,1,4
+684,But I don't think...,0,6
+685,I think Iago might have...,0,6
+686,"Iago told him to do it, which is to help.",0,12
+687,But I don't think Iago got him on the boat.,0,12
+688,No.,0,2
+689,"Because I would feel more indebted to you later, I think...",1,13
+690,based on if that were the relationship.,0,8
+691,Does that make sense to you?,0,7
+692,"Yeah, I'm going to make you work for it.",1,12
+693,You're just not going to help more.,0,9
+694,"You're like, get money, follow me.",1,10
+695,"And I'm not like, put me on a boat, please.",1,14
+696,Do you have a ticket for me?,0,8
+697,That doesn't seem like the relationship to me.,1,10
+698,"He says later, I have brought thee from Venice.",0,11
+699,I guess it doesn't need to be literal.,0,10
+700,"But that is a textual argument for it, for sure.",0,12
+701,You do meet at his lodging in the morning?,0,10
+702,So there is a part of this claim that we don't witness.,0,14
+703,"Just a whole component of like, pay this guy this thing or something.",1,15
+704,"I mean, not that that's going to be what somebody's getting from this.",0,17
+705,Or give me some money and I'll pay this guy for this.,0,14
+706,I'll pay this guy for this thing.,0,9
+707,This guy's mean?,0,5
+708,A soldier?,0,3
+709,"Yeah, like a legit soldier.",1,7
+710,"I mean, visually I see this him, you know, I've got to go do this thing, here's this guy, and he comes sneaking in the side somehow.",0,35
+711,"You know, that there's a sense of...",0,10
+712,That he was a stowaway?,0,6
+713,"Well, just that he's somewhere he's not supposed to be, and he's trying not to be seen.",1,23
+714,"that whether he was a stowaway or whether he'd gotten some passage, either disguised or whatever, if he was disguised as a soldier, he's not with the soldiers where he's supposed to be.",0,40
+715,"And he's trying to come get me, but doesn't want to be seen.",0,17
+716,"And so I get rid of this other guy, and then we can go have a conversation.",0,19
+717,"The idea in my head is much more tropey, so I don't think it's probably useful.",1,20
+718,"But I think if we disguise him as a soldier, I might get confused.",-1,16
+719,"just because what world he's in, I kind of imagine him disguised as a service person.",0,19
+720,"Like not a bellhop, but that kind of...",1,10
+721,Do you know what I mean in terms of tropey?,0,11
+722,It's like you see the marching band uniforms and you enter the arena that way.,1,17
+723,"It's like he's not disguised as a soldier, but he's disguised as somebody who could be on a soldier's ship as like a boat's person.",2,32
+724,You know what I mean?,0,6
+725,A boat's person.,0,5
+726,"I couldn't recall what production it was, but I believe I've seen production history of him portraying a soldier also being a war reporter, like fitting into the world in some fashion like that.",2,39
+727,I do like the idea that he's blending in in plain sight.,1,14
+728,He's the trumpeter.,0,5
+729,"Zach, this is only tangentially related, but after, was it Dr.",0,15
+730,"Galetto, Galethill?",0,4
+731,"No, the one before.",0,6
+732,Galethill.,0,2
+733,"Galethill, thank you.",1,5
+734,"what he was, I haven't done any research to follow up on what he was bringing to us, but the idea that you could be like, if the senators are comprised of, it seemed like the merchant class, the patriarchs of it, if you are like the son of somebody or somehow in training or like of the merchant class, like if there's an element of trade that is, we could somehow weave through the world that we're creating.",5,91
+735,Black pepper.,0,3
+736,You said black pepper.,0,5
+737,"Yeah, some justification.",0,5
+738,"Oh, you want to do comedic sneezing bits.",0,10
+739,"I like that, too, that there may be something that's transported on this ship that is not military in nature, a set of people, a cadre of people and stuff.",1,36
+740,That is for another purpose.,0,6
+741,And do we gain something from having that layer away from our rationality of how he doesn't have to be doing a lot of work yet in terms of hiding or what have you?,2,36
+742,"We can also see him handing people money, right?",1,11
+743,It's like he comes in and he's paying somebody just as he's coming in.,1,18
+744,"Like, thanks for that help.",1,7
+745,This is what I told you I'd give you.,0,11
+746,Here it is.,0,4
+747,Go away.,0,3
+748,And now he's here.,0,6
+749,So that's been executed.,0,6
+750,Yeah.,0,2
+751,You know?,0,3
+752,"Yeah, about all of that.",0,7
+753,"this might be entirely too specific for right now, but if there's cargo, there's stuff to, like he and someone else come carry this big thing on and they're putting it down on stage and the other guy leaves and he hangs around and so I get rid of the guy so that he's there, he's somehow hired on to do work or whatever and so he's blending in.",2,80
+754,"And then, you know, that we find a way to find a private moment.",0,17
+755,Stuff to play with.,0,5
+756,That master that Othello tells him to go get to.,1,11
+757,Say again?,0,3
+758,When Othello sends them to go get the master and bring him in.,1,14
+759,Is that the pilot?,0,5
+760,I thought that was a reference to the pilot.,0,10
+761,"Yeah, I think there was another set of merchants, too.",0,13
+762,"But I'm just thinking, even if it's actually referencing another part of the party that was on another ship or something, I mean, it requires more bodies.",0,33
+763,"But hey, maybe the Senate can be the purpose.",0,11
+764,Maybe the Senate didn't want to work.,1,9
+765,But if there is some other piece to this whole thing.,0,12
+766,It could be all the jobs in Bianca's Bravo.,1,11
+767,It's a real going concern on Cypher.,-1,9
+768,Three floors and Kleister pipes too.,0,7
+769,The wars.,0,3
+770,"If the brothel is by the sea, I think that Land Carrick could also be a fun title, just throwing it up.",1,25
+771,This is my favorite thing.,1,6
+772,There needs to be a sign for it on stage somewhere with lights around.,0,15
+773,I don't think I want to be a part of the production that doesn't do that.,0,19
+774,It's pretty important.,2,5
+775,"Fundamental, I would say.",0,6
+776,"So I'd have to ask you, because we've been going on about Bianca for two weeks, and I asked, I think at some point in passing, but we didn't really talk about it at any length, you're really buying into this sex worker vibe, right?",1,56
+777,That's kind of what you want to explore.,0,10
+778,"I think that I've been thinking around that, that you're like, oh, you're buying into it.",1,23
+779,"And for me, it's really explicit in the text.",0,12
+780,because of what other people say and because of what is in the character description as well.,1,18
+781,"So I didn't really, and to me it seems like a cleaning up of or something, maybe wanting to make her not a sex worker.",1,29
+782,"But also I've thought about, if she's not a sex worker and she's working with the army in some sort of way, that would be kind of, I mean, I think it'd be interesting",1,42
+783,"But it might just make the language with Cassio and the come to dinner, and is he married?",0,20
+784,"It just kind of gets into that, I suppose.",0,11
+785,"Like if she is a sex worker and he is married, then that could still absolutely happen.",1,19
+786,He could come to dinner.,0,6
+787,"He could be a lover or whatever, and that would be still a transaction.",1,16
+788,"But if he's married and he's seeing somebody on the side, then there's this whole other, I don't know.",0,26
+789,I think it would make other things.,0,8
+790,We just have to have a lot of conversations about those things as well.,1,15
+791,I think there's just a lot to have.,0,10
+792,I'm sort of watching the scaffolding being made and thinking about how it changes how she would move in the world as either.,0,25
+793,"And either way, she doesn't have any power.",0,11
+794,"If she's a woman working with the army, I think that she'd have",0,16
+795,"maybe a tiny bit higher status than a well-paid, um, exclusive client, uh, sex worker, you know, that, like, has just, like, one on, you know, isn't doing John work on the street, is, has clients that are, are people who are revisiting her.",3,61
+796,"So, yeah.",0,4
+797,"I have been thinking about it, but there's so much that's still up in the air that I'm still very open about all of it.",0,30
+798,Yeah.,0,2
+799,I was just thinking.,0,5
+800,Oh.,0,2
+801,"When you say she doesn't have any power, none at all?",0,14
+802,Especially if you're thinking about her as a sex worker.,0,12
+803,"Because there's different types of power, right?",1,10
+804,And you can use your sexuality as a form of power.,0,12
+805,"And so I was just wondering, are there other ways to locate where she might have power?",0,19
+806,"That's interesting, because she does go and, like, basically, like, claim someone in the street, and, like, no one really comes for her.",4,33
+807,"But then she's around any sort of violence, and it immediately gets thrown to her.",0,18
+808,"Like, it's very easy to blame her, or it's very easy to kind of wrap her in, like, oh, she did it, you know?",3,33
+809,So I think that I don't have anyone to defend me.,0,13
+810,or anyone to prevent something like that happening.,1,9
+811,So does that make sense?,0,6
+812,"Like, I don't have any power when it comes to somebody says I did something, that's it.",1,22
+813,"But then,",0,3
+814,do I have power with a dude like Cassio?,1,10
+815,"Probably, because I don't know if he's married.",0,12
+816,"I don't know if everybody else knows that he's with somebody in any way, if she's working for the war or she's a sex worker.",0,31
+817,"It sounds like he kind of wants to keep it on the DL and also talks about her in a very, oh, that rogue or that.",0,29
+818,There's a couple other words that he uses for her that are very cunning but...,0,17
+819,"Cunning, but silly, I think.",-1,8
+820,It's kind of the vibe I get from it.,0,11
+821,There's like three different words that he uses.,1,10
+822,"Oh, strumpet.",0,4
+823,"Well, strumpet.",1,4
+824,"Rogue, poor rogue, caitiff, wretch.",-4,9
+825,"A customer, unwholesome.",0,5
+826,Monkey's own giving out.,0,6
+827,"Uh, so there's, yeah, there's a lot of language that he uses with her that makes me think that, like, she doesn't have that much...",1,34
+828,"...sway, but, you know...",0,8
+829,"Also, then he comes for dinner, so I don't know, you know?",0,17
+830,"Like, then he shows up, so there's something there.",1,13
+831,"Is it, is it worth considering that, you know, whatever level of sex work she's involved in, she does other things as well?",3,29
+832,There are other ways that she creates income.,0,9
+833,Because of the handkerchief?,0,5
+834,"Well, he gives her this thing that is fairly intricate, right?",4,14
+835,"And says, copy this.",0,6
+836,I thought that was a statement about women's work.,1,11
+837,"Well, it certainly is, but she knows how to do it.",1,14
+838,Right?,1,2
+839,"I mean, you wouldn't ask her if she didn't know how to, is he asking not knowing whether or not she does it?",0,28
+840,"No, no, I think that she could do it, but I thought that that was, and please, I mean, I don't know, but I always assumed that was something that women did, and they didn't sell it, they did it because that's what women do.",0,58
+841,"They are doing embroidery,",0,5
+842,"They're doing food, that kind of thing.",0,10
+843,So that's how I interpreted it as.,0,9
+844,"It was like, oh, you're a woman, so you know how to do this.",1,19
+845,I didn't even think of it as being a seamstress or someone who's making clothes.,0,18
+846,"And marketing them, maybe.",0,6
+847,"And selling them someplace, yeah.",0,7
+848,Is there a tradition of seamstress?,0,7
+849,I have something in my head about seamstresses being kind of like a cloaked or a vet cloaked.,1,19
+850,veiled like um it was a euphemism yeah that is yeah it was so there's a is there like a knowledge base around that particular type of like woman's work that is a so i guess that's what my question is kind of is there an association with that and is that like a is that an association from shakespeare's day that like would be more pertinent to some other kind of work or is that an association we still make because i hold on some remnant of an air and you seem to be aware of it as well so,8,105
+851,"That's the question I have around that particular ask, but I don't know if.",0,18
+852,"I mean, again, it's the question of what relevance we can find now.",0,17
+853,"In the time, being a seamstress or in a seamstress's house was a euphemism for being",0,18
+854,"a prostitute, largely because the work was so poorly paid that they had to do something on the side in order to make a living.",0,27
+855,We can build some dimension of Bianca's presence at the festivities.,0,13
+856,Where is she within that?,0,6
+857,Who is she talking to?,0,6
+858,How is she spending her time there?,0,8
+859,"Again, it's kind of like, it's always silly if you don't have more women to people the world, you know.",0,27
+860,"If there are, you know, and so she can be a unique, you know, one of those.",0,22
+861,Is she Cypriot?,0,4
+862,"I was thinking about that, I think, because earlier I was thinking about her being sort of just around in Venice as well, and I was like, man, I just can't, because when we were talking about, just now, talking about Rodrigo trying to get from Venice to Cyprus, I was like, there's no way I'm making it.",3,72
+863,I don't know.,0,5
+864,"That doesn't seem to track for me, that she would have that sort of ability to travel like that.",1,22
+865,That seems like something beyond...,1,6
+866,her status.,0,3
+867,So I don't think that she would be at Venice.,0,12
+868,And you live here.,0,5
+869,"I mean, you've got a place.",0,9
+870,Yeah.,0,2
+871,"Yeah, I have a place to live.",0,9
+872,"Yeah, because I think we talked about her being a part of the military.",0,16
+873,"So I was like, oh, if they're on Venice, then maybe she's on Venice.",1,20
+874,That was my thinking before.,0,6
+875,"But yeah, she has a house here.",0,9
+876,"Yeah, and actually, I don't know how they talk about her house.",0,16
+877,Yeah.,0,2
+878,"I'm not, yeah.",0,6
+879,I don't remember specifically what they say about her house.,0,12
+880,I'm definitely still open.,0,6
+881,I feel like you're leaning towards not being a sex worker.,1,13
+882,I'm leaning towards her being more than a sex worker.,0,12
+883,I don't mind that element.,0,7
+884,I don't mind her figuring out,0,7
+885,I lean towards her being an independent woman.,1,9
+886,Whatever that requires on the island.,0,7
+887,"However she makes her money, it's not totally dependent on whether or not fellas show up to assist.",0,21
+888,"If she can host him for dinner, she has found the means to create a dinner, right?",1,20
+889,"Have a house and create a dinner and bring him, right?",1,13
+890,"My assumed knowledge is that she's a, like you're saying, an independent woman.",1,18
+891,"I was like a businesswoman, or like in charge of her own business.",2,15
+892,"And so then when you're talking about like people in the world in some way, I'm like, she runs the house, like she is also a sex worker, but like she runs the house of women.",4,43
+893,"But I also don't know why, I kind of don't know why I think that, like just because she seems like she's in charge of something.",2,32
+894,"But I don't like have evidence for, like you guys seem to have a similar thought, but I don't know.",2,25
+895,"For me, because to some degree, I...",0,10
+896,I feel like there's a level of hers and Cassio's relationship isn't just a joke.,0,19
+897,"Even with Cassio going to her to have her take the workout, she is serving as his wife in this space.",0,23
+898,"And I don't know if it's as sailors, they come to the same ports and they begin to develop those routines or those habits.",0,28
+899,"But she seems to actually, or they seem to actually have some connection.",0,15
+900,"And maybe it's one that because of how other people see it, it could never be legitimate enough.",1,21
+901,But at least that's for me where I get that.,0,12
+902,It seems like she's kind of grounded in who she is.,1,13
+903,"And there is something, clearly, that makes him cater to her demands to at least a certain degree.",1,21
+904,"I was just thinking, independent women in the world of this time, they existed.",0,17
+905,"Could be women who made their money through business, like legitimate business, or could be widows.",1,19
+906,So there's possibilities there to think about whatever her back story is.,0,14
+907,"Because I think it is interesting that she has a house, right?",2,14
+908,"And if she has a house, then When you were talking about that and that point was raised, I'm like, there's power in that.",1,30
+909,Particularly if she's an independent entity within that domestic space.,0,12
+910,Yeah.,0,2
+911,"I mean, I really like that sort of independence.",1,11
+912,"I think that I had automatically, when you come to supper, I think I had said, well, yeah, when they come by the brothel, we give them a meal or something.",1,38
+913,"I had kind of scooted it into being a part of a larger network of women who are all a part of this house, like a den would be, and that people come by, they get dinner, and they go upstairs or something.",1,48
+914,But I also really love this independence.,1,8
+915,"I think that that's really, and the fact, yeah, that a widow is really interesting.",1,20
+916,That the relationship is,0,4
+917,is really a negotiation that he seems to be on some level reneging on.,0,15
+918,"That they, something happened early, right?",1,9
+919,"He got there and decided, I need, you know, I need my Cyprus piece.",0,18
+920,"If I'm going to do this for a bit, I need, you know, and met you, and you guys came to whatever terms that was about, and you're still sort of figuring it out, but he's pretty cool, right?",3,50
+921,And it works.,1,4
+922,I can roll with this for a bit.,0,9
+923,And,0,1
+924,"And then there's the question of, but two days ago you said it was this, and now I'm like, you don't want to know me, and what's, you know.",1,39
+925,"This is his first time back since the promotion, too, right?",1,14
+926,Yep.,0,2
+927,"We've been here before, right?",1,8
+928,"Cyprus is not new to Othello, Iago, and Cassio, is it?",0,15
+929,"I suspect not, you know?",-1,7
+930,"I mean, I don't know.",0,8
+931,"We should establish how long the occupation has been, you know, and what that is.",0,18
+932,I don't know.,0,5
+933,What do you think?,0,5
+934,"Yeah, I mean, I'm still trying to figure out if I'm married or not.",0,19
+935,"I mean, that's how far I am.",0,10
+936,"I mean, literally, I get tripped up.",0,10
+937,"I mean, like, and, you know, we have yet to have a conversation because I feel like where we're at in the...",2,28
+938,"So it's like, I can't even...",1,10
+939,"As the actor, but the initial thoughts that run into my head when I think about this relationship is, and I can't remember who I was talking very briefly with in the hallway, but we know he tells two different versions, or we know he acts one way with her and one way with the boys, and I haven't even begun to unpack this, but I question, like, which one is the real one?",1,85
+940,Yeah.,0,2
+941,"And I think the go-to is that, oh, I should suggest a side piece.",0,17
+942,I don't give a fuck about her.,-1,9
+943,But maybe it's the opposite.,0,7
+944,Maybe it's a blending of the both.,0,9
+945,Maybe it's somewhere in the middle.,0,8
+946,What's the stronger choice?,1,6
+947,How does it aid the overall arc?,0,8
+948,All these kind of normal questions that I continue to ask with every choice.,0,15
+949,"What makes you, David, did you want to speak?",0,12
+950,"Yeah, there's also Iaco's language that maybe complicates this or clarifies, now will I question Cassio Bianca, a housewife, that by selling her desires buys herself bread and clothes?",0,36
+951,"It is a creature that dotes on Cassio, as tis this trumpet's plague, blah, blah, blah.",-3,22
+952,"So I mean, housewife doesn't necessarily mean she's married, but it does mean that she is in charge of a domestic space.",0,27
+953,"The lines we just cut, or no, I didn't cut.",0,14
+954,"The lines we didn't cut about housewives and stuff,",0,11
+955,is imply sex work.,1,5
+956,Does it imply?,0,4
+957,"Yeah, these scenes here, your players and your housewife or even housewives in your beds, you rise to play and go to bed to work.",1,29
+958,"Yeah, but that doesn't negate if I could fall in love with her.",-1,16
+959,"No, it doesn't.",0,6
+960,Or whatever.,0,3
+961,Maybe to Dr.,0,4
+962,"Brown's point, we have the option of taking that literally, so we should",0,16
+963,also look at that as evidence of what this could be.,0,12
+964,The girlfriend experience.,0,4
+965,"What is it that makes you, gives you the sense that Cassio might be married?",0,17
+966,He has a line.,0,5
+967,"What, almost down to the fifth?",0,8
+968,Fuck that line.,-1,4
+969,"Come on, stop it.",0,6
+970,Stop it.,0,3
+971,"Well, I mean, this is a conversation we were having in the car.",1,16
+972,But that's the decision that needs to be made.,0,11
+973,"And it needs to be made, for me, it needs to be made with the production as a whole.",0,22
+974,And I know you're glad Rob's not here because it's on me.,1,16
+975,"But for me, it is important that it's like, well, what helps that story?",3,19
+976,You know what I mean?,0,6
+977,Because it's all connected.,0,6
+978,"I think, and I'm not married to this idea, but as an example, it's like, for this relationship to be strong, is it important that Cassio is not married?",3,37
+979,And so it's important that this relationship is strong so that it feeds Othello a certain way.,2,19
+980,You know what I'm saying?,0,7
+981,It's all tangled up together.,-1,7
+982,Sorry.,-1,2
+983,I'm done.,0,4
+984,Is that reference in the first scene?,0,8
+985,Because could it be about Bianca?,0,7
+986,Bianca is the wife?,0,5
+987,"That it's like, no, he's the one that, like, he has a woman in Cyprus who's pretty much locked him down.",3,29
+988,I'd be interested to see you sell that.,0,10
+989,"No, I'm just talking about the logic of whether or not he's really married.",0,18
+990,"It's just like, because that is kind of what this whole thing with Bianca is, is that she's going to run around saying that he's promised to her.",2,34
+991,"And then I think, again, I haven't.",0,11
+992,We are at 4.30.,0,5
+993,"Let's take 10, back at 440.",0,9
+994,And we are back.,0,5
+995,A couple of questions.,0,5
+996,"Do you guys want to end a little early so that we can have odds and ends, stuff, anything that we need to do, plus a little closure stuff, or can we go to 6 and then have the time, all the time we want after that?",0,53
+997,"I don't know what people's schedules were, if they needed to jump in cars and go home or...",0,22
+998,"So we can work until 6 o'clock, and then there's still space.",1,15
+999,Nobody's going to kick us out of the building?,0,11
+1000,All right.,1,3
+1001,Second question.,0,3
+1002,We have this Iago-Rodrigo thing to get into.,0,9
+1003,We could launch ahead with that.,0,7
+1004,"We could spend some more time talking about Cassio and Bianca, who are",0,14
+1005,"You know, Sarah hasn't had a whole lot of voice, a whole lot of time spent on that, and there's still conversation to have if we want to.",0,34
+1006,"Cassio, too, basically.",0,6
+1007,"If I can't mandate that he doesn't have a wife, I guess we have to talk about it.",0,22
+1008,"Yeah, I am...",0,5
+1009,This is a weird...,-1,5
+1010,process what you know when we talk about creating a new process I mean this is part of it right it's like the uncomfortable I mean normally I would we'd go in we'd make a decision and we'd run with it you know and have our doubts that we made the right decision the whole way or something you know but right now I've shared this like sometimes I just feel I don't know I mean I'm happy to happy to sit in the,5,91
+1011,"ambiguity, you know, and just say what is, but it colors, you know, these choices, like when do we make these choices?",0,29
+1012,Do we make these choices for this read and not for another?,0,13
+1013,I don't know.,0,5
+1014,"Well, we can make some progress towards understanding.",2,10
+1015,"I mean, I'm still not sure why, except for that line, it matters.",0,18
+1016,Why it matters?,0,4
+1017,"You know, why he should have a wife.",0,10
+1018,"Oh,",0,2
+1019,That he is a bachelor just makes more sense to me.,0,12
+1020,It's easy sense.,1,5
+1021,"It's nothing that adding in a wife is going to do to the play to make it, you know.",0,22
+1022,Same.,0,2
+1023,Same.,0,2
+1024,So why don't we just decide?,0,8
+1025,Is the audience going to know the difference?,0,9
+1026,Ultimately not.,0,3
+1027,No.,0,2
+1028,"Yeah, I mean, I'm okay with that, he says, and then he's like, wait.",1,22
+1029,"Yeah, I'm okay with that.",0,8
+1030,"It's just, yeah, I mean, it all, but, okay, now, just to play the devil's advocate, no one ever plays the devil's advocate.",0,35
+1031,"They play their own advocate, and then they find that stupid idiot to take responsibility for it.",-1,19
+1032,That was a quote from a play I know.,0,10
+1033,"I mean, it does offer more, just even more complexity to this character if he is married, is all I'm saying, which is certainly...",0,30
+1034,What?,0,2
+1035,Playable complexity?,0,3
+1036,What's that?,0,4
+1037,Playable complexity?,0,3
+1038,"No, no.",0,4
+1039,It is all self-serving and for backstory and for myself and ultimately for those that are aware of it or not.,-1,22
+1040,I'd like to take a page out of Josh's book for a moment and direct us to page 120.,1,22
+1041,"And one scholar in their notes says, and I think this is what we're circling, right?",1,20
+1042,This is the thing we're circling.,0,8
+1043,"It's like, does complexity in some forms serve us, and does complexity in other forms not serve us?",1,22
+1044,And we're kind of making subjective judgments based on the story we collectively start deciding that we want to tell.,0,22
+1045,"And it says, Josh, would you like to read the note?",1,14
+1046,Sure.,0,2
+1047,"It says, unexplained, perhaps a line deleted by Shakespeare.",-1,12
+1048,An unmarried Cassio suits his plot better.,0,8
+1049,So he retconned it?,0,5
+1050,"And that's, I don't know.",0,9
+1051,The more important part of that line is perhaps a line deleted by Shakespeare.,1,15
+1052,"These things come down to us, you know, some copier listened to some actor's interjection and wrote, and now there's a word in the text that Shakespeare never wrote.",0,35
+1053,I don't need to give any time to almost them in a fair way.,1,16
+1054,"Same, but I get the only point I will bring up is...",0,14
+1055,"If Rob, as Othello, knows that Cassio is married and still plays the field, does that color his perception of me interacting with Desdemona?",0,28
+1056,"I mean, it certainly does.",0,7
+1057,"It would, but we wouldn't see it.",0,10
+1058,We wouldn't see what that color is.,0,9
+1059,I know this is all actor speak.,0,8
+1060,"I mean, this is all...",0,7
+1061,"It is, right.",1,5
+1062,Yeah.,0,2
+1063,I'm perfectly willing...,2,5
+1064,What's that?,0,4
+1065,"Irrespective of whether or not you're married, you're a player.",0,14
+1066,Yes.,0,2
+1067,Correct.,1,2
+1068,And you would know that.,0,6
+1069,"Well, and I don't want to make this a bigger deal than it is, because I wanted to say I'd rather him be a bachelor as well.",2,32
+1070,"But there are, in the spirit of this process, there are bachelors who are willing to step out on their marriage as a",1,25
+1071,"different beast altogether, I think.",0,7
+1072,Bachelors who are willing to step out on their wives and therefore maybe step into someone else's marriage is a different beast altogether.,1,25
+1073,That's all I'm saying.,0,7
+1074,"As opposed to, I just like the ladies, you know what I mean?",1,16
+1075,Isn't it more threatening for Othello,-1,7
+1076,if Casio is willing to cross this line.,1,9
+1077,Or is it less threatening because he trusts you that much?,-1,12
+1078,Yeah.,0,2
+1079,"You know, like, yeah, yeah.",1,9
+1080,"I think we could just get, I mean, we're talking about it.",0,16
+1081,"Yeah, let's say he's not married.",0,10
+1082,Or does he not care at all because what you do has no bearing on you as a soldier?,0,20
+1083,"Yeah, yeah, right.",1,6
+1084,"Sex life is, how important is that to him?",1,11
+1085,Let's say he's not married.,0,8
+1086,That's about me.,0,5
+1087,I know Aaron has it.,0,6
+1088,I apologize for putting that worm in your ear.,0,10
+1089,"Because, among other things, we haven't talked about it, but I have since completely ruled that out.",0,22
+1090,Because I didn't rhyme with you yesterday.,0,9
+1091,"No, I mean, I thought about that one line, and I don't want to get too hung up on it, but maybe because recently I did a reading of All's Well That Ends Well, and the way we've been working on",1,49
+1092,"this piece and Cassio, I couldn't help but find some semblance between Cassio and Bertram.",0,18
+1093,And this idea that somebody wanted to marry you off before you were ready and you hadn't done what you wanted in the wars.,1,26
+1094,"Like, we can cut that line or whatever, but it's like, if you, that tracks with this idea of an ambitious Cassio that we've been talking about, and I think is maybe more useful.",4,42
+1095,I put the focus where?,0,6
+1096,"I'm sorry, Josh.",-1,6
+1097,"I mean, so then what is this?",0,9
+1098,"I mean, you know, and I'm sorry, Sarah, that we haven't had the time to, or I didn't take the time to try to flesh some of this out.",-1,38
+1099,You had rhymes to write.,0,6
+1100,I did.,0,3
+1101,I had priorities.,0,4
+1102,It's hard to flesh something out when there's still so much in the air.,-1,17
+1103,I think I've come in every single day and had my mind changed about who my character was based off what happened that day.,0,26
+1104,"And I like keeping it open-ended and staying in a place of just like, oh, if that's that, then this is that.",2,27
+1105,Staying in a place of making connections.,0,8
+1106,And so this scene today was really interesting.,1,9
+1107,"I was waiting to see what we decided, or what we don't decide, or what we keep in, or what we don't keep in, because the more carefree the boys club soldier space is, that I'm guessing the more...",1,48
+1108,I'm trying not to make leaps in the...,0,10
+1109,"when there isn't any, but it makes me feel like the more violent the world would be.",0,20
+1110,"Like if they feel so, like there's no consequence to what they say, then there's also not gonna be consequence to what they do.",2,30
+1111,"Especially if it's like on an island, and they're all by themselves, and this is just, there's no one to tell them not to.",1,31
+1112,There's no consequence.,0,5
+1113,"And I keep thinking about, I just keep going back to like, the last thing that she says is like, I am noble.",3,27
+1114,And he's trying to get her taken down for Cassio's death.,-1,14
+1115,"And then we're just like, oops, good luck, Bianca.",3,14
+1116,That's sort of the end of it.,0,9
+1117,And that just seems very powerless.,-1,7
+1118,"So I come back to that, and I'm like, it has to be feasible that she could be in that position in some way.",2,28
+1119,trying to defend her honor and also her freedom at the same time.,2,14
+1120,"Yeah, and I think it changes all the time with what we're doing.",0,16
+1121,I wonder if there's room for Cassio to not be so incredibly maimed that he can't on some level intercede on her behalf in that last scene.,2,30
+1122,"you know, find a way to give that a little bit more closure, because you're right, it's always like, okay, we cart her off, you know, and anything could happen to her, you know, and Cassio's paying no attention.",2,52
+1123,"He's not, you know, I wonder if there's something to be done there.",1,18
+1124,"It certainly would add more complexity, I think, to this, more welcome complexity to this relationship, which, you know, I certainly believe there's more going on than just a side piece.",1,39
+1125,"I say that, and then I'm like, well, is that just Josh, or is that, you know what I mean?",2,27
+1126,I do that a lot.,0,6
+1127,"But I mean, if we're talking about the human as",0,12
+1128,"human's capacity to do everything, then it makes sense to me that, especially if these soldiers have spent time here, she is cooking him dinner.",0,30
+1129,It only stands to reason that there's more there.,0,11
+1130,"Given what we know about Cassio's capacity to care, even if it is different",0,16
+1131,based on who he's talking to.,0,8
+1132,He still has that capacity.,0,6
+1133,Right?,1,2
+1134,He's not a sociopath.,0,6
+1135,"See you, Rachel.",0,5
+1136,"Hi, everyone.",0,4
+1137,I'm so sorry.,-1,5
+1138,"No, it's okay.",0,6
+1139,Hi.,0,2
+1140,"Thank you, everyone.",1,5
+1141,"And which is more reprehensible, you know?",-1,9
+1142,Is it more reprehensible,-1,4
+1143,"Or it is both reprehensible to tell her one thing, but I really, she's just a side piece.",-1,22
+1144,"But it's also reprehensible to the inability or the choice not to stand up for or express how I really feel, like Othello and Desdemona can do when I'm around the boys.",-1,36
+1145,"In the scene with Iago where she's being discussed in these derogatory terms, it clearly looks like for whatever reason, whatever else is going on, he is not owning it in that moment, right?",2,40
+1146,Like she's just the thing.,1,7
+1147,"If he owns it a little bit at the end, enough to keep her out of trouble, we have an image of him trying to quote-unquote",0,28
+1148,"do the right thing, but again, are we getting into editorial about...",1,15
+1149,And is that okay?,0,5
+1150,"Is that okay to tell a story about Casio growing some balls, for lack of a better term, in that particular instance, and saying, you know, this ain't right, I can't...",1,40
+1151,"I mean, I really think that the...",0,9
+1152,what?,0,2
+1153,I was just silently answering your question and the answer was no.,0,13
+1154,No what?,0,3
+1155,"No, you can't grow balls.",0,8
+1156,You can't grow balls because that wouldn't be honest to what this is.,1,16
+1157,So what we're left with is Bianca being shoveled off to never be heard from again.,0,18
+1158,"That is actually probably closer to what would happen to a sex worker, especially on an island full of soldiers.",0,22
+1159,"I mean, it sucks.",-1,6
+1160,"But I'm not saying, I'm just saying it would define part of the world.",0,18
+1161,in that direction.,0,4
+1162,"I do feel like it would be meaningful for us to mark it in some way, though.",2,19
+1163,"I personally am always bothered by when those things happen, and they're non-events.",-1,16
+1164,"Even as much as we're saying it shows us about the massaging and all that stuff, if we don't note it, then it actually perpetuates it.",0,31
+1165,Absolutely.,0,2
+1166,Yeah.,0,2
+1167,What does that look like?,1,6
+1168,"Well, I'm just saying, if we're not going to let him have some agency, however impotent it may be, then finding in the building of this Cypress that we have, there'd be some infrastructure, some body, some gaze that also notes Bianca as a real person.",0,57
+1169,"So I guess I'm saying I don't know exactly how, but if we're saying that that's not a possibility, then I think that means the world somehow has to sustain it, so we still have the work in front of us regardless.",1,50
+1170,Yeah.,0,2
+1171,"I mean, the moment can exist of him, of it occurring to him to stop what's happening.",0,21
+1172,Mm-hmm.,0,2
+1173,And then he makes the choice not to.,0,9
+1174,"For me, that's more interesting, and it doesn't sanitize our darling Cassio.",2,17
+1175,I feel like we keep trying to make him a really good guy.,2,14
+1176,I don't think he is.,0,7
+1177,And I like the parallel with Bertram.,1,8
+1178,That's interesting.,1,4
+1179,"I'm always bothered by Cassio being the governor at the end of this, because he's done nothing to deserve that.",-1,24
+1180,He's just vaulted over everybody.,0,7
+1181,And I just feel like you see so much of that crap in the world that it always burns my butt.,-1,22
+1182,I think that it's interesting to...,1,8
+1183,"Oh, sorry.",-1,4
+1184,Were you going to...,0,5
+1185,Were you agreeing or did you say something?,0,9
+1186,I was agreeing.,0,4
+1187,Okay.,0,2
+1188,"Yeah, I think that it's...",0,8
+1189,To be able to show...,0,6
+1190,frame it in a way that we are able to see because I think so often what happens with the good guys who are not good guys who then get everything you know they are never seen as not good guys because of the structure that they're in and the people that they're around when they're when they're acting like the good guy when they're super funny and charming and it's only when,6,79
+1191,"you see them with people who don't have power or consequence or can't change anything for them, can't get them anything, that you really see who they actually are.",0,35
+1192,"And I think that that is what would be really exciting about Bianca, is because that would be really like an in to, wait a second, wait, is Cassio not?",2,35
+1193,"Because all throughout this, you've kind of been in front of the right people and doing things that get you things, you know, chumming with people, oh, that's the wife of so-and-so, or that's,",1,44
+1194,This person has money.,0,5
+1195,That person has money.,0,5
+1196,And then there's this one person that you're around who doesn't have any consequence.,0,18
+1197,And that would be when you would see it.,0,10
+1198,"I absolutely agree, especially about not wanting to sanitize Casio and all of that.",0,16
+1199,"For me, what it complicates is what it then says about Othello and his judgment and sense of people.",0,21
+1200,"And I honestly, I think that is the problem.",-1,11
+1201,"That's the problem, because",-1,6
+1202,"it kind of is couched in this assumption that at the end of the day, really, it was always Othello's inability to discern if he's truly not in some capacity a good person.",0,38
+1203,"Like, even if it's, I mean, we are discovering it even with Desdemona that you can be a good person, but there are limits to how far you've come in that journey.",1,39
+1204,Yeah.,0,2
+1205,And so I guess that's why I find it complicated to just say we can't make him have any of that good to him because it's connected to so many things.,0,35
+1206,Totally.,0,2
+1207,I guess I think there's a difference between being good at your job and being an asshole to women.,1,21
+1208,"And that happens all the time, and I don't think it would be of any concern unless you were really, really terrible and abusive.",-3,28
+1209,I don't know why Othello would be concerned with.,-1,11
+1210,Because we don't see him be good at his job either.,1,13
+1211,The only thing he really does is engage with women.,0,11
+1212,"The one task we really see him given, he botches.",0,12
+1213,"Like, we don't see him be good at anything other than having private conversations with the women in the play.",2,23
+1214,We don't see many people do their jobs in this play.,0,13
+1215,"Right, but that's part of the issue, is that we skate or skirt over that by sacrificing Othello's integrity.",0,24
+1216,"I wonder about, I keep harping back on the reputation, reputation, because it just seems to be so central potentially to him, if the issue isn't, the issue is reputation.",2,37
+1217,"that Cassio may, in fact, love Bianca, but he's not willing to rip, potentially, again, just throwing this out there, he may not be willing to risk his reputation in order to own that publicly.",2,44
+1218,Right.,1,2
+1219,And so does that make him a douche?,0,9
+1220,Yeah.,0,2
+1221,"Yes, it does.",0,5
+1222,"But I think a more human and complex, there's a complexity to that.",-1,16
+1223,I think he's not just like a bad guy.,0,11
+1224,But he is conflicted in this white patriarchy.,-1,9
+1225,He isn't given permission.,0,6
+1226,I'm not making excuses for him.,-1,8
+1227,"But potentially, he isn't given permission to follow his heart because reputation is so important.",2,18
+1228,"And so he can't find the bravery within himself to own his heart, potentially.",1,17
+1229,"And he may even try, have a moment where he tries to save her, but it's too little too late.",0,24
+1230,"I mean, there's a lot of too little too late in this play.",0,16
+1231,"I mean, for me, I mean, that option certainly has the ability to tie in his desire to make this work for them, Desdemona and Othello.",1,31
+1232,"that if he's not willing to put himself out there, then he'll do it for his boss, because it's also advantageous to his career.",2,30
+1233,"And I hear you, Burr, about",0,8
+1234,pushing back.,0,3
+1235,"Again, it's about finding the finesse and the nuances of the complexities of the human being so that we're not completely sanitizing him, but we're not vilifying him either.",0,35
+1236,Because I go back to what you said.,0,9
+1237,For me...,0,3
+1238,You said it requires the whole cast to be sensitive to Othello's arc.,1,15
+1239,And that's just kind of where I keep falling.,-1,11
+1240,And you're right.,1,5
+1241,"Ultimately, it just highlights one of the many problems of this play.",-1,14
+1242,"If Cassio is just as despicable, it does call into question Othello's ability to read people.",-1,19
+1243,I'm not sure.,0,5
+1244,"Because when Cassio really and truly publicly fucks up, Othello puts him in his place.",0,17
+1245,And that doesn't demonstrate blindness to me.,0,9
+1246,I think that that shows him actually.,0,8
+1247,"And there's even at the beginning of that scene, before the brawl, he takes Cassio aside and says, look, I know everybody else is going to be partying, but I want you to keep it under control a little bit.",0,47
+1248,And it feels almost like a bit of a test to me.,1,13
+1249,"Um, you know, Cassio is not a super-tested warrior or soldier or whatever.",0,16
+1250,He's been put in this position.,0,8
+1251,We don't have all of the reasons why explicitly in the text.,0,14
+1252,"Um, but I don't see in that relationship that Othello is blindly trusting him, actually.",1,19
+1253,But wouldn't you put someone in that test before you promoted them?,0,14
+1254,"Well,",1,2
+1255,We're talking about jobs and evidence of people being good at their jobs.,1,15
+1256,And the only evidence I see for Casio being good at his job is when Othello talks about he has gone between us very oft.,1,26
+1257,That's the test of trust.,1,7
+1258,"And for me, the way I read that is about Casio's usefulness.",0,15
+1259,He's useful because maybe he's a climber.,1,10
+1260,He wants this proximity to power spot that we recognize being...,0,12
+1261,"We recognize it in a modern view, but I think people have recognized this forever.",1,17
+1262,"That proximity to the authority power spot is a good place to be, because if that person's gone, then you're the, if you want to be, the power person, right?",2,38
+1263,"But I don't know that there's, to your point about like, or somebody talking about good, who's good in the play?",3,28
+1264,"I mean, the people it seems like we've imprinted on being good or upsetting the structures that are damaging are Othello and Desdemona, and they come together like a magnet.",1,34
+1265,Other than the...,0,4
+1266,"I mean, I think we can make an argument for different parts of Amelia's ideology being, like, railing against the structure as well in different ways.",2,31
+1267,"Yeah, yeah.",0,4
+1268,"But again, she's inside of it for a lot of it.",0,14
+1269,"I don't know what, like, the morality version, especially with, you know, the different scholars we've heard talk about kind of the religious themes of the play.",2,35
+1270,"I don't know what the morality version, like the subjective version of good is.",3,17
+1271,"I also don't know, like...",1,8
+1272,"how that serves us in thinking about relationships, I guess.",0,12
+1273,"Because I'm like, utility is something I can measure.",1,12
+1274,"So that's kind of the lens I'm looking through when we're talking about goodness versus good at, or goodness versus usefulness.",3,26
+1275,"Who's the moral person for Othello to trust in the play, to help him with anything, aside from Desdemona?",1,23
+1276,Is there one?,0,4
+1277,"Montano, maybe?",0,4
+1278,Not enough.,1,3
+1279,"I imagine there's less, less, quote-unquote, moral people than others, right?",1,17
+1280,Relative goodness.,1,3
+1281,"Yeah, you can discern somebody who you really don't want in the job, Iago.",0,18
+1282,"You know, he's a good guy, but I'm seeing qualities in him I don't really want.",1,22
+1283,"And then there's this guy out of the academy,",0,11
+1284,"And he's been around, and he has been recommended to me, so I'll look at him.",1,21
+1285,"He's an interesting cat, so he's going to be my aide-de-camp for a while.",1,18
+1286,"And then we have this evolving relationship because he comes and does this courting thing with me, wherein he serves a purpose, you know, as not only the liaison, but somebody who allows, because he's there, I can have more semi-private time.",0,50
+1287,"with Desdemona, and there's a relationship around that.",0,11
+1288,Cassio may be playing the whole thing just for points.,0,11
+1289,There is a trust there that is broken.,0,9
+1290,Like he trusts him from the experiences they have together.,1,11
+1291,I'm on that train as well.,1,8
+1292,"And that trust gets broken, but like",1,8
+1293,I guess assigning a value judgment to a character is tough when there's not evidence of what I would call moral goodness.,2,24
+1294,I kind of interrupted your thought.,0,7
+1295,I'm sorry.,-1,4
+1296,It's all right.,1,5
+1297,It's all right.,1,5
+1298,I still wonder about daily beauty that makes me ugly.,1,11
+1299,I wonder about,1,3
+1300,I wonder about how Othello handles Cassio's cashiering.,1,10
+1301,"It's always this very stern sort of thing as it's played, but does Othello see this as a thing that might happen with an officer as young and experienced?",-1,33
+1302,Is he kind of like not surprised?,1,8
+1303,You know?,0,3
+1304,This is part of the growth.,0,7
+1305,"you know, and does, in fact, think that, you know, down the line, this guy will be back.",0,25
+1306,"It's not a big deal, which is what she reports, what Amelia reports.",0,17
+1307,Right?,1,2
+1308,I don't know.,0,5
+1309,I don't know.,0,5
+1310,"To kind of take it back to that question of, like, the misogynistic relationship or aspects of the relationship in the patriarch, I think a little bit of what",1,32
+1311,"I'm finding may be important is not making it like a binary reality, because I think there's a spectrum.",2,23
+1312,"In the same way that with Brabantio and Rodrigo and Iago, a lot of that harm comes from fear, from confusion, from that inner struggle.",-4,29
+1313,"I think there is room for that, and I think there are many ways that",0,16
+1314,those things manifest.,0,4
+1315,And it's not simply because that's what it is or that's the societal reality.,0,18
+1316,It's actually because am I capable of resisting the momentum of that?,1,14
+1317,"And I think that just by the fact that Bianca pursues him, like legitimately, which we don't really see anywhere else, which I just can't believe that there's not something in him that is different for her to pursue like that.",2,48
+1318,I think there's a letting down,0,7
+1319,"Because he plays both sides so much that he's muddy, and he doesn't actually have a backbone, really, to be there.",0,27
+1320,"Which is why he can't commit, theoretically, or why he's afraid of being married or hesitates, because you have to choose a side.",-1,29
+1321,And I think that's where a lot of that perpetuation of misogynistic interactions comes from.,0,17
+1322,To choose a side means then you've got to deal with the ridicule.,-1,15
+1323,You have to deal with whatever it may be.,0,10
+1324,"And not everybody's actually centered enough in themselves to say, yeah, right, but what you do, I don't want to do, regardless of what you say about me, which is what we see in Othello.",2,44
+1325,I keep referencing to wherever I was.,0,8
+1326,He's still here in spirit.,0,7
+1327,But it is what we see in him that also shows a different kind of integrity.,0,17
+1328,"It's to be able to say, this is who I am and how I am about mine.",0,20
+1329,"in my relationship, in my business, and deal with it.",0,13
+1330,And I think that's what Cassio hasn't gone to until we talk about can he grow balls.,0,20
+1331,It's does he know how to use them?,0,10
+1332,But does he have an inclination?,0,7
+1333,"If he's been watching, he has some sense of it, the same way that we're saying that Iago's getting a sense of it and having his struggle with what that means and making him go deeper into the mistreatment.",-1,45
+1334,But I think showing that spectrum allows us to not just be,0,12
+1335,"saying something about the system or about the participants within that system, but actually saying, examine your hurt.",-1,21
+1336,Examine your fear.,-1,4
+1337,"Examine your priorities, because that's where this is coming from.",0,13
+1338,And so I just find a lot of value in that.,0,12
+1339,"And I think it also allows us to see that daily beauty, because it's on a spectrum.",1,20
+1340,Yeah.,0,2
+1341,I'll crystallize what he said for you guys.,0,10
+1342,"No, I agree.",0,5
+1343,"And that's why I think it's a more interesting choice, and as it pertains to Othello.",1,20
+1344,"Because we have this first scene that we've been seaside by the sea side or whatnot, which establishes that we've colonized this island with the patriarchy and the racism and all.",-1,35
+1345,We brought that with us.,0,6
+1346,"And so I think to have a scene where Cassio treats her like that, it only just does that again.",1,22
+1347,It doesn't offer us another color at all.,0,10
+1348,But what it has the opportunity to do is to offer in contrast to what Othello is able to do.,0,21
+1349,"Like you said, pick a side, roll some balls, make a stand.",1,16
+1350,"regardless of who sees, someone who fails at that or struggles with that, and that's why that's exceptional.",-1,23
+1351,"And what I think is interesting in that context is that what it's demonstrating primarily in this interaction isn't, oh, Cassio is a shithead for the way he treats her.",1,35
+1352,"It's the doubleness of him, depending on who his audience is.",0,14
+1353,Exactly.,0,2
+1354,To put another...,0,4
+1355,piece of vocabulary on the table.,0,7
+1356,"I'm looking specifically at 4.1, which the interactions between Cassio and Iago, while Othello is ostensibly listening in to parts of this conversation, feels like it lives in conversation with 2.1 that we were looking at today.",1,42
+1357,But now there's been a reversal of the power dynamic with your demotion.,1,15
+1358,"But vocabulary-wise, if this is an opportunity to, in that subtlety and resisting the binary, explore toxic masculinity and the ways that Cassio is not able to be vulnerable about potentially his true feelings about Bianca, and that's really played to by Iago.",-2,49
+1359,"That's another interesting, not like, and now we must stage toxic masculinity, but you know.",1,20
+1360,I feel like it's written in.,1,8
+1361,Absolutely.,0,2
+1362,"Pretty simply, yeah.",1,5
+1363,Just teeny tiny little thing.,0,6
+1364,We started this day talking about the dignity of being in process.,1,13
+1365,us as actors with this work and this play and I think it's interesting as we look at the characters like which characters are trapped in the system and are unaware which characters are trapped in the system and becoming aware like what which characters are in process with the awareness of their misogyny or the awareness of their racism and are there arcs there,1,66
+1366,And how can we explore what being in process means for characters who might be in discovering and learning and processing mode?,0,23
+1367,"Is it plausible, and then we can really truly move on, that she would overhear",0,17
+1368,the Iago-Cascio conversation?,0,4
+1369,Because she comes right back with that handkerchief and is really upset.,0,13
+1370,"And I think that that's always been interesting, that I'm like, either did I find out that it was Othello's handkerchief and I'm going to get in some fucking shit and get hurt somehow with this handkerchief, and I'm mad that I get hurt and put in harm's way, or do I overhear it?",-4,65
+1371,Because then she comes right back in and is so upset.,0,12
+1372,"And that's always seemed like, yeah, like very...",2,12
+1373,"Just a quick change, really fast.",1,8
+1374,"So I was just thinking maybe if she overhears it and there is some sort of a relationship, then that would be, yeah, that would be really hurtful.",-1,32
+1375,It would be sad.,-1,5
+1376,I wondered about that too.,0,6
+1377,Could we read it?,0,5
+1378,That you have to follow her?,0,7
+1379,Yeah.,0,2
+1380,Would you want to understand?,0,6
+1381,Where?,0,2
+1382,"I appreciate getting to talk through that relationship, because that's something that I really was feeling kind of untethered about.",1,23
+1383,"I was going to say on board, but it just felt.",0,13
+1384,"And so I was like,",1,6
+1385,Where do I go from where we all are here right now together?,1,14
+1386,But I think that this sort of helps.,0,9
+1387,Just even deciding that you're not married.,0,9
+1388,For now.,0,3
+1389,"I mean, I don't know.",0,8
+1390,You know?,0,3
+1391,All right.,1,3
+1392,Why do we do that?,0,6
+1393,Why don't we give...,0,6
+1394,give this Yago-Rodrigo stuff a...,0,6
+1395,"You know, how far do we...",0,8
+1396,"Yeah, spin away.",0,5
+1397,"I mean, it goes on for a bit, right?",1,12
+1398,"I mean, it's a lot.",0,8
+1399,"Starting with, do thou meet me?",0,8
+1400,"Do thou meet me, uh...",0,7
+1401,Do thou meet me presently at the harbor?,0,9
+1402,"Come hither, if thou beest valiant.",1,8
+1403,"As they say, base men, being in love, have then a nobility in their natures more than is native to them.",1,25
+1404,"List me, the lieutenant.",0,6
+1405,"Can you, can I, can I, who, who, really?",0,15
+1406,What?,0,2
+1407,Really?,0,2
+1408,"If thou beest valiant, list me.",1,8
+1409,Sure.,0,2
+1410,Sure?,0,2
+1411,I'm not going to put up a big fight.,0,11
+1412,"Okay, go on.",0,5
+1413,"If thou beast valiant, list me.",1,8
+1414,The lieutenant tonight watches on the court of guard.,0,10
+1415,"First, I must tell thee this.",0,8
+1416,Let not thy discreet heart think it.,0,8
+1417,"Her eye must be fed, and what delight shall she have to look on the devil?",0,18
+1418,"When the blood is made dull with the act of sport, there should be, again, to inflame it and to give saiety a fresh appetite, loveliness in favor, sympathy in years, manners and beauties, all which the moor is defective in.",0,49
+1419,Why none?,0,3
+1420,Why none?,0,3
+1421,A slipper and subtle knave!,-1,6
+1422,A devilish knave besides.,-2,5
+1423,Pish!,0,2
+1424,"But sir, be you ruled by me.",0,9
+1425,Watch you tonight.,0,4
+1426,"Sir, he's rash and very sudden in color, and happily with his truncheon may strike...",-1,19
+1427,No truncheons.,0,3
+1428,His sword.,0,3
+1429,His fist.,-1,3
+1430,Happily may strike at you.,0,6
+1431,Where's the gondolier?,0,5
+1432,Then the strumpet.,0,4
+1433,"You know, that's the way it happens.",0,10
+1434,"They just go, and then it's like dominoes.",1,11
+1435,And then the clanging pipes.,0,6
+1436,What's the...,0,4
+1437,"I'm sorry, what world are we in?",-1,10
+1438,"What's left, really?",0,6
+1439,The clister pipes.,0,4
+1440,"You know, the clister pipes, now the truncheon.",0,11
+1441,Take it all away.,0,5
+1442,"You give him an inch, and it's...",0,10
+1443,"Sir, he's rash and very sudden, Collar, and haply may strike at you.",-2,18
+1444,"So, shall you have a shorter journey to your desires by the means I shall then have to prefer them, and the impediment most profitable removed, without the which there were no expectation of our prosperity?",1,40
+1445,Farewell.,0,2
+1446,Adieu.,0,2
+1447,Let's stop.,0,4
+1448,Let's work on that.,1,6
+1449,Goodness gracious.,2,3
+1450,"Yeah, for sure.",0,5
+1451,"Also, it seems like the only evidence, like the evidence that sways Rodrigo is, if we displace Casio, I'll be closer to Othello, so I have more power.",1,35
+1452,"And then Rodrigo says, okay, let's do it.",0,12
+1453,"Up until then, he's like, what are you talking about with Desdemona?",1,16
+1454,What are you talking about with that?,0,8
+1455,"Like, I have no idea what you're talking about.",1,12
+1456,"And he's like, that was my reading of what just happened based on my responses.",1,18
+1457,They're like...,1,4
+1458,I'm listening.,0,4
+1459,"I mean, like, I don't agree.",1,10
+1460,I don't agree.,0,5
+1461,"And I like your responses to I don't agree are like, if she's so blessed, why is she married to him?",2,26
+1462,"I'm like, good point.",2,7
+1463,But I don't say that.,0,7
+1464,"I'm just like, OK.",1,7
+1465,I'm still here in the scene.,0,8
+1466,I haven't left.,0,5
+1467,I'm in Cyprus.,0,5
+1468,"I'm like, what am I going to do?",1,11
+1469,"Like, go to the bar?",1,7
+1470,"Like, what am I going to do?",1,9
+1471,"That's where I'm at in terms of, like, the journey of that argument is, like, it's amazing, but it's also, like, is it, I don't know, does anybody else have that feeling, like, is it that important?",6,54
+1472,"Like, all the pegs of the argument?",1,9
+1473,"Is it that important to you, like, in terms of logicking out what you're doing?",2,19
+1474,Are you suggesting that we can take out,0,8
+1475,Chunks in it.,0,4
+1476,Part of the point of this scene to me is that Iago's really verbose.,0,16
+1477,"Like, why say one sentence when you could say 47 sentences?",1,13
+1478,"It's not like he's up against a witty, like...",3,13
+1479,Well.,1,2
+1480,It's like that.,1,5
+1481,"I think if anything, Iago might not know when to be verbose.",0,14
+1482,I think you got it.,0,6
+1483,He's not going to challenge anyone.,0,8
+1484,"Well, I do think there's something in building up this new idea of Casio as somebody to resent.",0,21
+1485,Yes.,0,2
+1486,"For these two individuals, this guy who has an easy time through life and with women would just be somebody that you'd want to",1,26
+1487,fuck up somehow.,-1,4
+1488,"And she's going, she's already switched to him.",0,12
+1489,"She's like, you know, that's the argument, is that she's gonna switch, because she's already done with the more.",1,29
+1490,"And so, it's not gonna be you, it's gonna be Cassio.",0,18
+1491,"So, we gotta get on this, because we want it to be you.",0,17
+1492,That's the implication.,-1,5
+1493,It's...,0,3
+1494,"At first, it's kind of the same argument that",0,11
+1495,"that Rodrigo receives in Venice, right?",1,8
+1496,"She's going to get bored with him, you know, she's going to want to throw up, and she's going to want somebody else.",-1,30
+1497,"It's getting more graphic, but it's the same argument.",0,13
+1498,Can we lose let not thy discreet heart think it?,-1,11
+1499,"So it's like the first, let thy finger thus.",1,12
+1500,Her eyes must be fed.,0,6
+1501,Sure.,0,2
+1502,"And what delight shall she have to look on the devil when the blood is made dull with the act of sport that should be again to inflame it and to give satiety a fresh appetite, loveliness and favor.",1,41
+1503,Satiety?,0,2
+1504,Satiety?,0,2
+1505,Satiety.,0,2
+1506,Who's on the OED?,0,6
+1507,Satiety.,0,2
+1508,Give satiety a fresh appetite.,1,6
+1509,Satiety?,0,2
+1510,Satiety.,0,2
+1511,The note down below is satiation.,0,7
+1512,Satiety.,0,2
+1513,Satiety.,0,2
+1514,And to give satiety a fresh appetite.,1,8
+1515,Satiety.,0,2
+1516,Satiety.,0,2
+1517,"So as to be not satiated anymore, you have a, or sated.",0,15
+1518,"Yeah, yeah.",0,4
+1519,Anymore.,0,2
+1520,Satiety.,0,2
+1521,British and the U.S.,0,5
+1522,"Loveliness and favor, sympathy in years, manners, beauties, all which the more is defective in.",1,20
+1523,"Well, he's really only defective in years, isn't he?",0,14
+1524,"I mean, the rest is sort of...",0,9
+1525,Just laying it on.,0,5
+1526,"Is all stuff that Yago's coming up with, right?",1,12
+1527,"Not for one of these required conveniences, her delicate tenderness will find herself abused, begin to heave the gores this relish, and abhor the more.",0,29
+1528,That's really graphic.,0,5
+1529,"Very nature will instruct her in it, which is what he was saying before, and appell her to some second choice.",0,24
+1530,"Now, sir, this granted, as it is a most pregnant and enforced position.",0,17
+1531,"It's so obvious, right?",1,7
+1532,Yeah.,0,2
+1533,Voluble.,0,2
+1534,Voluble.,0,2
+1535,Can we look up voluble?,0,6
+1536,Voluble.,0,2
+1537,"Well, it means variable.",1,6
+1538,"Well, a definition.",1,5
+1539,"I mean, there's one here in the glosses, but I'm interested in.",0,17
+1540,"Quicker-ready movement, immutable, liable to change, and constant.",-1,12
+1541,capable uh yeah very very very valuable and easily yeah and further con-conscionable,2,13
+1542,"So characterized by fluency or goodness of utterance, and the OED actually uses the Othello example there, so that's the one.",1,25
+1543,Rapid and ready of speech.,2,6
+1544,Fluent.,1,2
+1545,For the better compassing of his salt and most hidden lucifection.,1,12
+1546,So he's...,0,4
+1547,"He puts things on in order to get the job, in order to get his way.",0,18
+1548,No further conscionable?,0,4
+1549,Governed by conscience.,0,4
+1550,Who's affectionate?,1,4
+1551,Why none?,0,3
+1552,Why none?,0,3
+1553,I'm practically describing myself.,0,6
+1554,What's if you're describing somebody who's more successful at it than yourself?,1,16
+1555,Is he?,0,3
+1556,"Yeah, yeah.",0,4
+1557,"Well, he's, yes.",1,7
+1558,And therein lies the resentment.,-2,6
+1559,The knave is handsome.,0,5
+1560,"Stamping counterfeit advances is create his own opportunities, yeah?",0,11
+1561,No.,0,2
+1562,Though true advantages never present itself.,1,7
+1563,A devilish knave.,-2,4
+1564,What have I got here?,0,6
+1565,But then I'll try to...,0,7
+1566,"Okay, which makes no sense to me.",0,9
+1567,I'm not sure.,0,5
+1568,Which part are you stuck on?,-1,7
+1569,I'm looking at old notes.,0,7
+1570,"Besides, the knave is handsome.",0,7
+1571,Young.,0,2
+1572,Gotta hate that.,-1,5
+1573,And hath all those requisites in him that folly and green minds look after.,0,15
+1574,"A pestilent, complete name.",-1,6
+1575,I think we could lose some of that.,-1,9
+1576,I don't know.,0,5
+1577,It's all pretty essential to me.,1,8
+1578,Oy.,0,2
+1579,It does go on rather.,0,6
+1580,Um...,0,2
+1581,Yeah.,0,2
+1582,"And I think what I hear Zach saying is right, that it's almost too much of an argument.",1,21
+1583,"He didn't ask for all that, right?",1,10
+1584,He didn't ask for it.,0,7
+1585,"And to me, well, I guess I'm curious whether you think there's a part of the argument that is swaying Rodrigo that's not when I have more power, I will be better able to serve you.",2,43
+1586,That's the logical part of the argument where I see Rodrigo respond.,1,14
+1587,The other parts of the argument seem like,1,8
+1588,backstory buildup for the audiences.,0,6
+1589,They definitely help us in explaining different parts of the world and relationship.,0,14
+1590,I'm not arguing about releasing a lot of that.,0,11
+1591,"I'm just saying in terms of what Rodrigo needs to hear to go keep doing what he's doing, he is extremely available to end argument.",1,29
+1592,But that's the one that makes sense to him.,0,11
+1593,But I've got to get you.,0,8
+1594,"Right now, you hate Othello.",0,7
+1595,"like I do, because you want Desdemona.",1,9
+1596,"Othello's in your way to Desdemona, and I need to turn that into Cassio's in your way to Desdemona.",0,23
+1597,"All right, so that's not the argument I'm actually hearing you say.",1,16
+1598,"Like, I understand that's part of it, but the part that it seems like Rodrigo's resonating with is when I get Cassio out of the way, who also is with Desdemona, then I'll have more power to get you to Desdemona.",2,49
+1599,"Like, you're saying, like, two birds, one stone?",2,14
+1600,Do you not think that's what's happening?,0,10
+1601,Can I take it back to the beginning?,0,9
+1602,Everybody goes away.,0,4
+1603,Iago and Rodrigo are there.,0,6
+1604,"It appears that Iago already has some semblance of what this plan is going to be, right?",1,19
+1605,"And he needs, you know, because Cassio is going to be...",0,14
+1606,"At the watch tonight, and he wants to get Rodrigo involved in this thing.",0,16
+1607,"So he says, watch tonight.",0,7
+1608,"And then the next thought is, I better tell him Desdemona's in love with Cassio because it will influence his plan, right?",3,26
+1609,Right.,1,2
+1610,It'll make him want to attack him.,-1,9
+1611,"So next thought, you know, I got to tell you, you know,",0,16
+1612,Rodrigo responds in a negative.,-1,6
+1613,That's not possible.,0,5
+1614,"I don't know why he thinks it's not possible, except that he, you know, he's...",0,22
+1615,Idolatry.,0,2
+1616,"Yeah, he's in love with her himself and doesn't...",1,13
+1617,And Iago launches into 20 minutes of reasons why it's possible.,0,13
+1618,Yeah.,0,2
+1619,Right?,1,2
+1620,Yeah.,0,2
+1621,And at the end of that...,0,7
+1622,"I mean, I think its purpose is some comedy.",0,11
+1623,"The question is, do we want that?",0,9
+1624,I think the reason it's this long is because it's supposed to be fast and supposed to confuse this foolish guy and stir him up into a thing.,-1,31
+1625,I think that's what it's designed to do.,0,11
+1626,"If that's not the story we're telling, then no, we definitely don't need all this language.",0,22
+1627,"But I think if we're looking at an Iago who's not this perfect schemer, which I just kind of long for with my whole being.",1,29
+1628,"that we've already seen a couple of times before this, he'll start off in a conversation, and he's trying to persuade somebody, and then gets so wrapped up in his own shit that he loses his way.",-2,44
+1629,That too.,0,3
+1630,"I think that we could trim this speech, but still hold on to some idea of him going off the rails.",0,23
+1631,"And Rodrigo actually pulls him back with, yeah, but what about Desdemona?",0,15
+1632,"Yeah, no, the whole thing is logical.",1,10
+1633,Yeah.,0,2
+1634,"Yeah, the whole thing is logic.",0,8
+1635,"Like, I followed the logic of the whole thing.",1,11
+1636,"I'm not advocating for, like, cutting large swaths of it.",1,14
+1637,"What I'm saying is, like, oh, like, all Rodrigo needs to hear is the ending.",2,21
+1638,"Like, the ending is, like, that's the first time I've ever read that scene where I'm like, oh, the thing that he responds to is, when I have a little, you know, when I have the vote that breaks the tie in the Senate, I can pass that bill for you.",2,64
+1639,"And I was like, oh, that makes more sense.",1,12
+1640,"There's also something in the way, I mean, we didn't settle on how Rodrigo gets here.",0,21
+1641,But there's something about the fact that Rodrigo has not said a word.,0,15
+1642,"And Iago is launching into this, let me convince you and all this stuff.",0,16
+1643,"And especially if it took some doing to get here and there's any weariness to it, it's like, what?",0,24
+1644,"It's almost like this is not, what?",1,10
+1645,I'm dealing with other things.,0,7
+1646,I'm clearly committed.,1,5
+1647,Because I sold all my land.,0,7
+1648,"Dude, just give me Desdemona.",0,7
+1649,"I don't give a fuck about how we do it, really.",-1,14
+1650,Why are we talking about him?,0,7
+1651,"OK, sure.",0,4
+1652,"If you can do it, I'm with you.",0,11
+1653,"If not, what?",0,5
+1654,Especially if we're going with a Rodrigo that doesn't need to be built up for violence.,0,19
+1655,Because he's often played as the dupe.,-1,9
+1656,You've got to get the dupe rolling before he's going to go do some violence.,-1,18
+1657,I don't know that we have to do that with this Rodrigo.,0,14
+1658,So I buy that.,0,5
+1659,So we have the opportunity to do a couple of things.,0,12
+1660,We can keep all the language delivered in a way that creates intensity.,0,14
+1661,The intensity of Iago to get caught up in,0,9
+1662,"his plan and caught up and, you know, it's initiated by seeing you, saying, oh, I'm going to get on with this part.",0,31
+1663,"And you respond, the first thing you respond, he has to address, and addresses at length because it's like he's on meth, you know?",1,31
+1664,And it just keeps coming out.,0,7
+1665,We can cut it.,0,5
+1666,That's true.,0,4
+1667,That's true.,0,4
+1668,Yeah.,0,2
+1669,"So, or we can cut it down, right, and I don't think it necessarily loses the intensity of trying to maintain, no, look at me, look at me, look at me, this is what we're going to do, right, this is how it's going to, no, no, no, look at me, this is what we're going to do, and we're going to do this and this, right, am I right?",3,94
+1670,"I'm right, aren't I right?",2,9
+1671,"Okay, this is what we're going to do, you know?",0,14
+1672,I think we can do both.,0,7
+1673,I think we can keep that wandering intensity and the dangerous tangential nature of it and cut it down and make it shorter.,-1,24
+1674,"So why does Rodrigo say, after he has been told in Venice, she's nothing but a filthy whore and you can have her if you want her, he's that guy, I cannot believe that in her, she's full of most blessed conditions.",-2,52
+1675,But he never says...,0,5
+1676,He never says...,0,4
+1677,He says she's not going to be faithful to their partner.,1,13
+1678,"He says that she's going to, you know...",0,11
+1679,Rodrigo says she can't...,0,6
+1680,"Iago says to Rodrigo outside the Senate, don't worry about this.",-1,14
+1681,This is some jungle fever shit.,-2,7
+1682,"This is nonsense, right?",0,6
+1683,"She's not, you know, she's not special.",0,12
+1684,She's not...,0,4
+1685,She's going to be looking to get laid somewhere else.,0,12
+1686,"And he buys that, basically.",0,7
+1687,"He buys that, and off they go.",0,9
+1688,"And now he's like, well, she's full of blessed condition.",2,15
+1689,"I keep wondering, it has to be purely to sate his ego, I guess, on some level, that he continues to...",0,26
+1690,"Why does he want her, right?",1,8
+1691,Other than...,0,3
+1692,"I have to come back to your first point first, which is I don't know that him thinking, that Rodrigo thinking that Desdemona, like, the possibility that he could have Desdemona after she's been with Othello, like, makes her less holy to him.",3,52
+1693,I don't think those things have to be in conflict.,-1,12
+1694,OK.,0,2
+1695,"Because of the, I keep saying idolatry, and I keep going pedestal, and I keep doing this thing with my hand.",0,25
+1696,And all of that is to raise somebody above mortal stature.,0,12
+1697,"So when Rodrigo gets to possess Desdemona, the woman he's pinned all of this other stuff to, maybe that's still a holiness to him in his philosophy.",0,32
+1698,I think also part of the problem...,-1,8
+1699,"Sorry, I didn't hear that at all.",-1,10
+1700,Can you say that?,0,5
+1701,"No, I'm just saying it's a whole other level of God beyond God that now if I put her there and then I claim her...",0,29
+1702,Idol's idol.,2,4
+1703,"Yeah, and isn't part of the problem that she married...",-1,13
+1704,"a black man, and that's unnatural, and so she fucked up, and as soon as she realizes it, and that's also very condescending.",-2,30
+1705,"It's like, oh, poor little lady, she had no idea what she was doing.",0,19
+1706,"But when she realizes, I'll be here for her, to rescue her.",0,16
+1707,"Keith, what was your second, I lost your second point.",-1,13
+1708,"I don't know, I'm exhausted.",-1,9
+1709,"Keith, what was your eighth point two hours ago?",0,11
+1710,Tuesday.,0,2
+1711,I don't know what I'm saying anymore.,0,10
+1712,I really don't.,0,5
+1713,I started strong.,1,4
+1714,Are we asking too much of you?,0,8
+1715,I have a friend who has this saying she got from a...,0,13
+1716,"like a restaurant situation where somehow something got bastardized where it's like two things can be spicy or just like two things that seem like they're in contradiction can be true at the same time, which is like what I'm really, which is like, we're talking about what does that read or not?",5,61
+1717,"Like, I don't think it's that complex for somebody who's been holding onto an ideology around somebody to like get new information and still hold onto that ideology, even if parts of it should be kind of filtered.",1,44
+1718,"Like, I hold onto ideas I shouldn't because I like remember that I had the idea.",2,19
+1719,"Rather than like, I remember the evidence that disproves the idea.",1,13
+1720,There's a whole psychology around that.,0,8
+1721,"There's a weird thing for people, too.",-1,10
+1722,Whatever state he's in.,0,6
+1723,"Yeah, sure.",0,4
+1724,Sure.,0,2
+1725,He's crumbling.,-1,4
+1726,"He's crumbling, yeah.",-1,6
+1727,"And if he's looking exhausted and bedraggled,",-1,9
+1728,"There's a little bit of, OK, let's get the ball rolling here from this end.",0,20
+1729,"That's not, I've got to convince the dupe to do violence.",-1,15
+1730,"It's, I've got to get the guy who's exhausted ready to fight.",0,17
+1731,So,0,1
+1732,Rodrigo says she's full of blessed condition to which Iago reacts with blessed figs and the wine she drinks is made of grapes.,0,25
+1733,I love that line.,1,5
+1734,Just like yours.,1,4
+1735,"If she had been blessed, she never would have loved that best.",2,14
+1736,Heather has a joke edition.,-1,6
+1737,I just wanted to add to Bianca's list of establishments.,0,12
+1738,Please add figs and.,0,5
+1739,It's actually already on there.,0,7
+1740,It's blessed figs and.,0,6
+1741,"Oh, even better.",1,5
+1742,"Sorry, I just didn't want to miss that opportunity.",-2,12
+1743,What about blessed pudding?,0,5
+1744,That's the dessert.,0,5
+1745,"Blessed pudding, does thou not see a paddle with the palm of his hand, does not mark that.",0,21
+1746,And you had said that is...,0,7
+1747,that is proof that he was there to see all that exchange.,0,13
+1748,"Well, and more so, Rodrigo guessed that I did.",1,12
+1749,"Yeah, his response.",0,5
+1750,"Right, right, right, exactly.",3,8
+1751,I'm talking about that.,0,6
+1752,Rodrigo could just shake his head.,-1,7
+1753,"No, he missed it altogether, and Iago could drive through.",-1,13
+1754,"Well, it was lechery.",0,6
+1755,"But I do think Rodrigo's response, if it serves us, plays into what Casio is doing is acceptable to the men.",0,25
+1756,"whether it's unacceptable to the women or not, he said that was but courtesy, what he's doing with Desdemona.",-1,24
+1757,"Whatever Iago's talking about in that moment, that kind of goes against that version of the story's events.",0,22
+1758,Say that again?,0,4
+1759,"Iago talks about, like, the, I know we cut some of this, of, like, the kissing of his feet, like, the interaction between Cassio and Desdemona as being something kind of scandalous.",2,41
+1760,"And Rodrigo's saying, like, That was just like a guy saying hi to a woman off a boat.",2,22
+1761,"You know, it's like, it isn't direct opposition to your experience.",0,16
+1762,It does seem like my experience with that isn't direct opposition.,0,13
+1763,"Like, you're like, I'm going to get them with this thing.",2,16
+1764,"And I'm like, what thing?",1,8
+1765,"Like, I don't know what you're talking about.",1,12
+1766,Let's read by this hand.,0,7
+1767,It indexed an obscure prologue to the history of lust and foul thoughts.,-2,14
+1768,That's what it was.,0,6
+1769,"It does end up being quite funny, right, if you play it straight, if you really go for it.",0,23
+1770,Yeah.,0,2
+1771,Yeah.,0,2
+1772,"Well, it could have been.",1,7
+1773,"No, it was villainous thoughts.",-1,7
+1774,Hard at hand comes the master.,0,7
+1775,The main exercise.,0,4
+1776,"But, sir, be ruled by me.",0,9
+1777,I brought you from Venice.,0,6
+1778,I brought you from Venice.,0,6
+1779,Watch today.,0,3
+1780,I'll tell you what to do.,0,8
+1781,"The note I have here is for that line, for the command, I'll lay it upon you.",0,21
+1782,"He's speaking of setting up a situation for Rodrigo, who is not a soldier, to be at guard with the others, but there is not enough there to explain the thing.",1,36
+1783,It makes no more sense with it than without it.,0,11
+1784,Right?,1,2
+1785,"He's talking to, you know, he's standing the guard, and Rodrigo would be like, guard what?",1,23
+1786,What are we guarding?,0,5
+1787,Where?,0,2
+1788,Why?,0,2
+1789,I have brought you from Venice.,0,7
+1790,Watch you tonight.,0,4
+1791,Cassio knows you not.,0,5
+1792,"For the command, I'm seeing what you're saying.",0,12
+1793,What command?,0,3
+1794,What are we doing?,0,5
+1795,I took that as I'll give you a signal.,0,11
+1796,"Oh, yeah.",0,4
+1797,"I'm about to tell you what to do, but I see what you're saying.",0,18
+1798,"Either way, it's a little obscure to a guy who's not a soldier.",-1,17
+1799,We all have a different definition.,0,7
+1800,It's ambiguous.,-1,4
+1801,And we don't lose anything by cutting it.,-1,10
+1802,"No, we don't.",0,6
+1803,"No, we don't.",0,6
+1804,We need to.,0,4
+1805,Watch you tonight could just be stay awake with us.,0,11
+1806,"Yeah, just be in the courtyard.",0,8
+1807,Whatever you think of.,0,5
+1808,"And Rodrigo is like, well...",2,7
+1809,"It's like, you stopped speaking?",1,8
+1810,"No, no I didn't.",0,7
+1811,"Sir, he's rash and very sudden in color, and happily may strike at you, provoke him that he may, for even out of that will I cause these of Cyprus to mutiny, whose qualification shall come into no true trust again.",-1,48
+1812,"But by the displanting of Cassio, whose qualifications?",0,10
+1813,His.,0,2
+1814,Cassio's.,0,3
+1815,Wait.,0,2
+1816,"Oh, I thought it was the people of Cyprus.",0,11
+1817,"Like, I won't trust the fellow unless he deals with Cassio, which he doesn't.",2,19
+1818,"The Cypriots will not be trustworthy, again, except by the cashiering of Cassio.",1,16
+1819,"Yeah, that's tough.",1,6
+1820,That's a little tough.,1,6
+1821,"The Cypriots will mutiny because Cassio is bad and they don't want him in charge, and so the only thing to quell the mutiny is to get rid of Cassio?",-1,33
+1822,Is that what the argument is?,0,7
+1823,"Yeah, and performatively, staging-wise, you would have to see that.",0,14
+1824,You would have to see...,0,6
+1825,"Othello also, in the aftermath of the fight, there would have to be a situation of guys standing around in varying forms of energy that allowed us to look around and say, hmm, this is something I have to do.",0,45
+1826,This is something that has to happen in order to put this back in perspective.,0,16
+1827,"Maybe you have some MPs there, maybe a couple guys are arrested, maybe, but they're only going to be",0,23
+1828,"If he started the fight, which Othello ascertained, supposedly, they're only going to be back in order by watching me publicly get rid of this guy.",0,31
+1829,"It's a stretch, and this is an obscure way of saying it, that I don't know if I can make clear to an audience.",0,29
+1830,"I wonder if we can just simplify it by saying,",2,11
+1831,"provoke him that he may, for even out of that will I cause the displanting of Cassio.",-1,19
+1832,"That's almost too little, it seems to me.",0,11
+1833,"He speaks, I'm sorry.",-1,7
+1834,"No, no, it is useful, I think, that the people of Cyprus will mutiny against Cassio getting violent in a situation, like, that seems like the story that's trying to get conveyed, so we want the reaction to his",2,47
+1835,"to his action, his theoretical action.",0,8
+1836,"And that is the reason Othello gives primarily for firing Cassio too, because it caused unrest.",-1,18
+1837,I'll look at that.,0,6
+1838,I'll offer you some things the next time we.,0,11
+1839,I think what actually happens in that moment and the way Othello goes about it is equally muddy.,-1,19
+1840,"Because he does remove Cassio, but the way he engages with the conflict doesn't honor.",0,18
+1841,"That's why he's doing it, at least not too much.",0,14
+1842,It's not clear.,1,5
+1843,"Yeah, I agree.",0,5
+1844,I agree.,0,3
+1845,"I was going to say about the watch tonight, regardless of how we change it, it did make me realize that if it was already known that Cassio was going to stand watch tonight, when Othello tells him in that whole exchange about why not Iago,",0,50
+1846,It gives it a different context depending on if it was already known that was Cassio's job and if Cassio didn't know.,0,25
+1847,"Because at first, if he found out right then, it seemed to be a comment on Iago's ability when he says, why not Iago?",1,29
+1848,"And it's like, no, I'll do it.",1,12
+1849,Versus if it was already the plan and it seems like Cassio asking that question suggests that maybe he didn't realize it was going to be his job.,1,30
+1850,"And I'm just saying, If we take it out, just I wanted to clock it so that we can make sense of that later on.",0,29
+1851,I know it's a lot.,0,7
+1852,"Yeah, the first, it's actually, except for here, it's obscurely mentioned, right?",1,20
+1853,"It's like, Cassio's going to be there.",1,11
+1854,"But it doesn't say Cassio's got a job to do, it just says Cassio's going to be there.",0,23
+1855,Right.,1,2
+1856,Right?,1,2
+1857,On line 265.,0,4
+1858,That's right.,1,4
+1859,Right?,1,2
+1860,And then...,0,3
+1861,"After the gathering, Othello says, look you to the watch.",0,13
+1862,"Cassio says, Iago hath taken order for it, but I'll see to it myself.",0,18
+1863,And now what's your comment on that?,0,9
+1864,"No, because at one point we said that maybe during the watch, Cassio would be there.",0,19
+1865,"And it just seemed like that wasn't quite what that later moment is, that one of them is going to be there and whoever Othello assigned.",1,29
+1866,"And I know in one of our readings, we got to that and talked about whether or not that was a hint of some doubt of Iago's capacity.",-1,31
+1867,"And so I just wanted to clock it because I think that's still a little bit confusing to me about what that quick exchange is about Iago has taken order and Cassio almost correcting himself and saying, but I'll do it.",-1,45
+1868,"And if we're still trying to find the line of trust and confidence in Casio versus Iago, I just wanted to clock it because this is the first time I actually saw that there was mention of any watch before it.",2,44
+1869,"So if we happen to cut it, I didn't want to lose that through line.",-1,18
+1870,I see.,0,3
+1871,What if this mutiny line were provoke him that he may for even out of that,-1,16
+1872,Provoke him that he may.,-1,6
+1873,Just get rid of who's communication.,0,8
+1874,Who?,0,2
+1875,Okay.,0,2
+1876,"That's, yeah.",0,5
+1877,That's simpler.,1,4
+1878,"Yeah, Professor.",0,4
+1879,Who shall come in and know to trust again?,1,10
+1880,By the disappointing of Cassia.,-1,6
+1881,"And I think that can communicate that we're going to make a big kerfuffle and that it's not going to, the end of that kerfuffle is Casio getting the boot.",0,34
+1882,We're going to make some noise.,-1,8
+1883,Unless we get rid of him.,0,7
+1884,Yeah.,0,2
+1885,"How about if you just say, so shall you, would have a shorter journey to your desires?",0,20
+1886,Because what is happening is the rest of that matter.,0,11
+1887,"With Cassio out of the way, I will have better means to prefer your desires.",2,17
+1888,"And if we don't do this, we can't expect to succeed.",1,15
+1889,"I'll look at it all, and we'll come back to it and figure it out.",0,19
+1890,"Rodrigo responds, I will do this if you can bring it to any opportunity.",0,16
+1891,So he's all on board.,0,7
+1892,I'm in Cyprus.,0,5
+1893,I was on a boat.,0,6
+1894,It was rocking back and forth.,0,7
+1895,"I do think, seriously, the well is like, to that point, the plan is like, make Cassio angry.",2,24
+1896,"And I'm like, why?",1,7
+1897,"And then he says, because when we displace him, then he's like, oh, the reason behind it.",0,23
+1898,"Of course, you're not inside my head.",0,10
+1899,I forgot.,0,3
+1900,Yeah.,0,2
+1901,OK.,0,2
+1902,I gotta stop.,0,5
+1903,I'm drooling on myself here.,0,7
+1904,It's 5.57.,0,4
+1905,We have come to the end of our engagement.,0,10
+1906,"This piece of the journey, this really exciting piece of the journey.",1,14
+1907,"Really, really",0,3
+1908,Rich piece.,1,3
+1909,I've got nothing pithy to say.,0,8
+1910,We can be off the air.,0,7
+1911,Thank you for watching.,1,5
+1912,"Yeah, thank you.",1,5
+1913,Yeah.,0,2
+1914,Thank you for watching out there.,1,7
+1915,Thank you all.,1,4
+1916,"Yeah, that.",0,4
+1917,Smash that like button.,0,5
+1918,And please check Josh Tyson's band camp.,0,9
+1919,And donate.,0,3
+1920,Do donate.,0,3
+1921,Do actually donate.,0,4
+1922,What's that website?,0,5
+1923,"It is, thank you for asking, Dr.",1,10
+1924,Brown.,0,2
+1925,www.blessetonrest.org And I want to thank everybody for bringing your...,1,11
+1926,courage and brilliance and vulnerability to this process.,2,9

@@ -14,7 +14,7 @@ per_file_dir = os.path.join(results_dir, "per_file")
 
 rows = []
 for filename in sorted(os.listdir(folder)):
-    if not filename.endswith("in_character.txt"):
+    if not filename.endswith("out_of_character.txt"):
         continue
     with open(os.path.join(folder, filename), encoding = "utf-8") as f:
         rows.append({

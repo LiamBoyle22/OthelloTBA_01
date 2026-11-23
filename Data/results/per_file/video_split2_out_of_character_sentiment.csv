@@ -1,0 +1,351 @@
+line_num,line,bing_liu_score,n_tokens
+1,"If you eat it, you know.",0,8
+2,You don't need to get it.,0,8
+3,You know.,0,3
+4,You feel when it lands.,0,6
+5,You feel when it laughs.,0,6
+6,"All right, guys, we're back.",1,9
+7,"Take your seats, please, and commence the read.",0,11
+8,"Act two, scene three.",0,6
+9,"Michael, good night.",1,5
+10,"Tomorrow with your earliest, let me have speech with you.",0,12
+11,"Not this hour, lieutenant.",0,6
+12,It's not yet ten o'clock.,0,7
+13,"Our general cast is thus early,",0,7
+14,"not therefore lame, he hath not yet made want in the night with her.",-1,16
+15,What an eye she has.,0,6
+16,"Come, Lieutenant, I have a stoop of wine.",0,11
+17,"Not tonight, Gutiago.",0,5
+18,I have very poor and unhappy brains for drinking.,-2,10
+19,I could well wish courtesy would invent some other custom of entertainment.,1,13
+20,"Oh, they are our friends.",0,7
+21,Go one cup.,0,4
+22,I'll drink for you.,0,6
+23,"No, I have drunk.",-1,6
+24,"but one cup tonight, and that was craftily qualified, too.",0,13
+25,"And behold, what innovation it masks here.",1,9
+26,"What, Matt?",0,4
+27,Tis a night of rebels.,0,6
+28,The gallants desire it.,0,5
+29,"Well, where are they?",1,6
+30,"Here, at the door.",0,6
+31,I pray you call them in.,0,7
+32,"Ah, I'll do it.",0,7
+33,It dislikes me.,-1,4
+34,"Now, my sick fool Rodrigo, whom love hath turned almost the wrong side out to Desdemona, tonight caroused, ah, I'm gonna go back, I'm gonna go back.",-2,38
+35,"Now, my sick fool, Rodrigo, whom love hath turned almost the wrong side out, to Desdemona hath tonight caroused potations pottled deep.",-2,27
+36,"And he's to watch there, and he's to, right, right, I see what's happening.",2,22
+37,"Three elves of Cyprus, noble swelling spirits that hold their honors in a wary distance, the very elements of this warlike isle, have I tonight flustered with flowing cups, and the watch too.",-2,38
+38,Now amongst this flock of drunkards am I to put our Cassio in some action that may offend the isle.,-1,21
+39,But here they come.,0,5
+40,You've given me a round already.,0,8
+41,Good thing.,1,3
+42,"Little one, not a pastor scientist.",0,8
+43,"Your Dane, the German, and your swag-valleyed Hollander.",0,11
+44,"Drink, oh!",0,4
+45,I don't know nothing to your English.,0,9
+46,"Well, God's above us all, and there must be souls must be saved, and there must be souls must not be saved.",1,27
+47,And so do I.,0,5
+48,me.,0,2
+49,Let's have no more of this.,0,8
+50,Let's to our affairs.,0,6
+51,God forgive us our sins.,0,6
+52,Gentlemen.,0,2
+53,Let's look to our business.,0,7
+54,"Oh, do not think that I am drunk.",-1,10
+55,This is my agent.,0,5
+56,This is my right hand.,1,6
+57,And this is my left.,0,6
+58,I'm not drunk now.,-1,6
+59,"Yeah, well, then I'm not drunk, then, you know, let's not think I'm drunk.",-1,23
+60,"You see this fellow that has gone before him, he is a soldier fit to stand by Caesar and give direction, and do but see his vice, tis to his virtue just an equinox, the one as long as the other.",0,46
+61,Tis pity of him.,-1,5
+62,"Tis great pity that the noble Moor should has it such a place as his own second, with one of such an ingraft infirmity, if were an honest action to say so to the Moor.",2,38
+63,Beat me?,0,3
+64,"Yes, now pray, rogue.",-1,7
+65,Who began this?,0,4
+66,"I do not know, friends all, but now, even now, in quarter, in terms like bride and groom, divesting them for bed, and then, but now, as if some planet had unwitted men, swords out and tilting at one another's breasts, in opposition bloody.",-1,57
+67,I cannot speak any beginning to this,0,8
+68,peevish odds.,-1,3
+69,What's the matter that you unlace your reputation thus and spend your rich opinion for the name of a night brawler?,2,23
+70,Give me answer to it.,0,6
+71,"Zunes, if I once stir or do but lift this arm, the best of you shall sink in my rebuke.",-1,23
+72,Give me to know how this foul rout began.,-1,10
+73,Who said it on?,0,5
+74,So this gentleman steps into Cassio and entreats his paws.,0,11
+75,"Cassio, I love thee, but nevermore be officer of mine.",1,13
+76,Reputation.,1,2
+77,Reputation.,1,2
+78,Reputation.,1,2
+79,"Oh, my reputation, Iago, my reputation.",2,10
+80,"As I am an honest man, I thought you had received some bodily wound.",0,16
+81,There is more of sense in that than in reputation.,1,11
+82,Reputation is an idol and most false imposition of God without merit and lost without merit.,1,17
+83,"and be drunk, and speak parrot, and squabbled, swagger, swear, discourse fustion with one's own shadow.",-2,23
+84,"O God, thou invisible spirit of wine!",-1,9
+85,"Thou hast no name to be known by, let us call thee Devil!",-1,15
+86,"There's a quarrel, but nothing.",-1,8
+87,"Wherefore, oh my god, that men should put an enemy into their mouths to steal away their brains.",-2,21
+88,"That we should, with joy, pleasure, revel in applause, transform ourselves into beasts.",3,18
+89,"Why, it hath pleased the devil drunkenness to give place to the devil wrath.",-2,16
+90,One unperfectness shows me another to make me frankly despise myself.,-1,12
+91,"But since it is as it is,",0,8
+92,Mend it for your own good.,1,7
+93,"Had I as many mouths as Hydra, such an answer would stop them all.",0,16
+94,"To be now just a sensible man, and by and by a fool, and presently a beast.",0,20
+95,"Oh, strange.",-1,4
+96,"Confess yourself freely to her, import you to her, held to put you in your place again.",-1,20
+97,This broken joint between you and her husband entreat her to splinter.,-1,13
+98,I think it freely.,0,5
+99,"In the times in the morning, I will beseech the virtuous Desdemona, a time to take for me.",0,21
+100,are in the right.,1,5
+101,"Good night, lieutenant.",1,5
+102,Good night.,1,3
+103,"Which is most easy, the inclined",1,7
+104,framed as fruitful as the free elements.,2,8
+105,"And then for her, she's framed as fruitful as the free elements.",2,15
+106,"And then for her to win the war or to renounce his baptism, all seals and symbols of redeeming sin, his soul is so unfettered to her love that she may make, unmake, do what she lives, even as her appetite shall play the God with his weak function.",1,55
+107,How am I then a villain to counsel Cassio to this parallel course directly to his good?,1,18
+108,Divinity of hell.,-1,4
+109,"For whilst this honest fool plies Desdemona to repair his fortune, as she for him pleads strongly to the moor, I'll pour this pestilence into his ear, that she repeals him for her body's lust.",1,41
+110,Content thyself for a while.,0,6
+111,By the mast is morning.,0,6
+112,"Aye, that's the word.",0,7
+113,I will contend your pains.,-2,6
+114,"I said, maybe.",0,5
+115,"I can't distinguish one from the other, obviously.",0,11
+116,"Oh, yeah, yeah, sometimes.",0,8
+117,Wine masters.,1,3
+118,Have young instruments been enabled?,0,6
+119,"She is stirring, sir.",0,6
+120,"If she will stir hither, I shall seem to notify unto her.",0,14
+121,"Happy time, young man.",1,6
+122,"The moor replies that he who heard is of great fame in Cyprus and great affinity, and that in wholesome wisdom he might not but confuse you.",5,29
+123,"But he protests, he loves you, and needs no other suitor than his likings to take the safest occasion by conferencing to bring him in.",0,28
+124,"Yet I beseech you, if you think it fit, or that it may be done, give me advantage of some reese discourse with less than one alone.",0,31
+125,"Aye, but lady, that policy might either last so long, or feed upon such nice and waterish diet, or breed itself so out of circumstance that I, being absent and my place supplied, my general will forget my loving service.",2,47
+126,Do not doubt that.,-1,5
+127,"Before I kneel you here, I give thee warrant of thy place.",0,14
+128,"Assure thee, if I do thou a friendship, I'll perform it to the last article.",1,19
+129,My lord shall never rest.,0,6
+130,I'll intermingle everything he does with Cassio's suit.,0,11
+131,"Madam, not now.",0,5
+132,"I am very ill at ease, unfit for my own purposes.",0,13
+133,"Yes, Faith, so humble that he hath left part of his grief with me to suffer with him.",0,21
+134,Good love!,2,3
+135,Call him back.,0,4
+136,"Not now, sweet Desdemona.",1,6
+137,Some other time.,0,4
+138,Or Tuesday morn?,0,4
+139,Or Tuesday noon?,0,4
+140,Or night?,0,3
+141,Or Wednesday morn?,0,4
+142,"I for thee name the time, but let it not exceed three days.",1,15
+143,"If he is penitent, and yet his trespasses are a common reason, save that they say that wars must make examples out of their best, is not almost a fault to incur a private check.",0,39
+144,When shall he come?,0,5
+145,"And so many a time when I have spoke of you, Disappraisingly hath paid your part To have so much to do to bring him in?",0,28
+146,"Pye your lady, I could do much.",0,9
+147,"Excellent rat's perdition catch my soul, but I do love thee.",2,14
+148,"And when I love thee not, chaos is come again.",0,12
+149,"And when I told thee he was of my counsel, in my whole course of wooing, thou cried'st indeed, and didst contract and purse thy brow together, as if thou then hadst shut up in thy brain some horrible conceit.",-2,45
+150,"If thou dost love me, show me thy thought.",1,11
+151,What are my thoughts?,0,5
+152,"Why, say they are vile and false?",-2,9
+153,And where's that palace whereunto foul things sometimes intrude not?,-2,12
+154,"I do beseech you, though I perchance am vicious in my guess, as I confess it is my nature's plague to spy into abuses and oft my jealousy shapes faults that are not.",-7,37
+155,"Tis something, nothing, tis mine, tis his, as has been slave to thousands.",-1,18
+156,It is the green-eyed monster which doth mock the meat it feeds on.,-2,14
+157,To follow still the changes of the moon with fresh suspicions?,0,12
+158,No.,0,2
+159,Be once in doubt is once to be resolved.,-1,10
+160,Exchange me for a goat when I shall turn the business of my soul to such supplicate and lonesome eyes as matching thy inference.,-1,25
+161,I am glad of this.,1,6
+162,"For now, I shall have reason to show you the love and duty that I bear you with, frank or spirit.",1,24
+163,"Therefore, as I am bound, Receive it from me.",0,12
+164,I speak not yet of proof.,0,7
+165,Look to your wife.,0,5
+166,"Their best conscience is to leave undone, but keep unknown.",-1,12
+167,I hope you will consider what is spoke comes from my love.,1,13
+168,But I do see you removed.,0,7
+169,Why did I marry?,0,5
+170,"My lord, I would I might intrigue your honor to scan this thing no further.",2,17
+171,"Leave it to time, although it is fit that Cassio has his place.",0,15
+172,"Yet if you please to hold him off a while, you may, yet if you please to hold him off a while, you shall by then perceive him and his means.",0,35
+173,"Happily, for I am black and have not those soft parts of conversation that chamberers have, or for I am declined into the veil of years.",2,29
+174,Yet that's not much.,0,6
+175,She's gone.,0,4
+176,"I am abused, and my relief must be to loathe her.",-1,13
+177,"Oh, curse of marriage, that we can call these delicate creatures ours and not their appetites.",0,19
+178,I'd rather be a toad and live upon the vapor of a dungeon than keep a corner in the thing I love for others' uses.,0,28
+179,E'en then this forked plague Is fated to us when we do quicken.,-1,14
+180,Are you not well?,1,5
+181,Twill away again.,0,4
+182,Within this hour it will be well.,1,8
+183,"My wayward husband has a hundred times freed me to steal it, but she so loves the token, or he conjured her if she should ever keep it, that she reserves it ever more about her to kiss and talk to.",0,45
+184,"I'll have the word taken on and get to now, though.",0,14
+185,"What he will do with it, heaven knows, not I, how I nothing but to lose his tendency.",0,22
+186,How now?,0,3
+187,What do you do here alone?,0,7
+188,Do what you chide.,-1,5
+189,I have a thing for you.,0,7
+190,You have a thing for me?,0,7
+191,It was a common thing.,0,6
+192,"Oh, is that all?",0,6
+193,I stole an infant murder.,-2,6
+194,"If it be not for some purpose of import, give it me again.",0,15
+195,Poor lady shall run mad when she shall lack it.,-3,11
+196,Be not ignorant on it.,-1,6
+197,I have use for it.,0,6
+198,"Go, lead me.",1,5
+199,"I will, in Cassian's lodging, loose this napkin and let him find it.",-1,17
+200,Trifles light as air are to the jealous confirmation strong as proofs of holy writ.,1,16
+201,This may do something.,0,5
+202,"Oh, farewell.",0,4
+203,"Farewell the neighing steed and the shrill trump, the spirit-stirring drum, the ear-piercing fife of the royal banner, and all quality pride, pomp, and circumstance of glorious war.",2,34
+204,"If thou dost slander her and torture me, never pray more.",-2,13
+205,I'll have you some proof.,0,7
+206,Her name that was as fresh as Diane's visage is now begrimed and black as mine own face.,1,20
+207,Would?,0,2
+208,"And may, but how?",0,6
+209,"How satisfied, my lord, would you, the supervisor, grossly gain all?",1,16
+210,"Damn them, then, if ever mortal eyes do see them bolster more than their own.",0,18
+211,What then?,0,3
+212,How then?,0,3
+213,What shall I say?,0,5
+214,Where's satisfaction?,0,4
+215,I could not sleep.,0,5
+216,There are a kind of men so loose a soul that in their sleeps will mutter their affairs.,-1,19
+217,One of this kind is Cassio.,0,7
+218,"In sleep I heard him say, sweet Desdemona, let us be wary.",0,15
+219,"plucked up kisses by the roots that grew upon my lips, lay his leg o'er my thigh, and sigh, and kiss, and then cry, cursed fate that gave me to the moor.",-2,38
+220,"Oh, monstrous, monstrous.",-2,6
+221,"If then, nay, nay, this was but his dream.",0,13
+222,Yet be seen nothing done.,0,6
+223,Tell me about this.,0,5
+224,"Yield up, O love, thy crown and hearted throne to tyrannous hate.",0,15
+225,"Swell bosom with thy fraud, for tis of aspic's tongue.",-1,13
+226,"Like to the pontic sea, whose icy current and compulsive course ne'er keeps retiring ebb, but keeps due on to the propentic and to the hellspot, e'en so my bloody thoughts, with violent pace, ne'er should look back ne'er ebb, to humble love, till that a capable and wide revenge swallow them up now, my young marvel, heaven in the due reverence of a sacred mouth, I here engage my words,",3,82
+227,"Let him command, and to obey shall be in me remorse.",-1,13
+228,Go with me apart.,0,5
+229,I will withdraw to furnish me with some swift means of death for the fair devil.,0,17
+230,"I know that, madam.",0,6
+231,"Believe me, I had rather have lost my purse full of crusaders.",-1,14
+232,I will not leave him now till Cassio be called to him.,0,13
+233,"How is't with you, my lord?",0,8
+234,"Well, my good lady, oh, hardness to dissemble.",1,12
+235,"This hand is moist, my lady.",0,8
+236,"This argues fruitfulness and liberal heart, hot, hot and moist.",2,13
+237,"This hand of yours requires a sequester from liberty, fasting and prayer, much castigation, exercise, devout, for here's a young and sweating devil here that commonly rebels.",1,34
+238,It is a good hand.,1,6
+239,I have a salt end.,0,6
+240,A sullen room offends me.,-1,6
+241,Not?,0,2
+242,That's the fault.,-1,5
+243,That handkerchief did an Egyptian to my mother give.,0,10
+244,She was a charmer and could almost read the thoughts of people.,0,13
+245,She told her while she kept it to make her amiable and subdue my father entirely to her love.,2,20
+246,"But if she lost it or made a gift of it, my father's eye should hold her loathed and his spirits should hunt after new fancies.",-1,29
+247,She dying gave it me and bid me when my fate would have me wive to give it her.,-1,20
+248,Most veritable.,1,3
+249,"It's lost, it's gone.",-1,8
+250,"Speak, it's out of the way.",0,9
+251,Save you.,0,3
+252,It is not lost.,-1,5
+253,How?,0,2
+254,What in it it were?,0,6
+255,How?,0,2
+256,Fetch!,0,2
+257,Let me see.,0,4
+258,"Hold up, Cassio.",0,5
+259,What's the news with you?,0,7
+260,"Oh, madam, my former suit, I do beseech you that by a virtuous means I may again exist and be a member of his love, whom I, with all the office of my heart, entirely honor.",2,43
+261,"I would not be delayed if my offense be of such mortal kind that nor my service past nor present sorrows nor proposed merit in futurity can ransom me into his love again, but to know so must be my benefit.",2,43
+262,You must a while be patient.,1,7
+263,"What I can do I will, and more I will than for myself I dare.",0,17
+264,Let that suffice you.,1,5
+265,"He went hast, but now uncertainly and strange under the light of this.",-1,15
+266,Can he be angry?,-1,5
+267,"I have seen the cannon when it hath blown his ranks into the air, and like the devil from his very arm puffed his own brother.",0,28
+268,And can he be angry?,-1,6
+269,"Something a moment, then.",0,6
+270,I will go meet him.,0,6
+271,"either from Venice, or some unhatched practice made demonstrable here in Cyprus, and have puddled his clear spirit, and in such cases men's nature wrangle with inferior things, though great ones are their object, tis even so.",-1,44
+272,nor out then look for such observancy as fits the bridal.,0,12
+273,"Beshrew me much, Emilia.",0,6
+274,"It is a monster begot upon itself, born on itself.",-1,12
+275,"Pardon me, Bianca, I have this while with leaden thoughts been pressed, but I shall in more of a continuum of time strike off this score of absence.",-1,32
+276,This is...,0,3
+277,"You're jealous now that this is from some mistress, some remembrance.",-2,14
+278,"No, by my faith, Peter.",1,8
+279,Why whose is it?,0,5
+280,"Well, I know not neither.",1,7
+281,"I found it in my chamber, and I like the work.",2,13
+282,"Tis but a little way I can bring you, for I attend here.",0,15
+283,I'll see you soon.,0,6
+284,"Thou saidst, oh, it comes o'er my memory as doth the raven or the infected house, infectious house, boating to all.",-1,26
+285,I would have done.,0,5
+286,"Or heard him say, as names be such abroad, who, having by their own unfortunate suit for voluntary dotage of some mistress convinced or supplied them, cannot choose, but they must blab.",-3,39
+287,Faith that he did?,1,5
+288,I know not what.,0,5
+289,Lie with her.,-1,4
+290,Lie on her.,-1,4
+291,We say lie on her when they belie her.,-2,10
+292,"Lie with her, zooms.",-1,6
+293,That's fulsome.,0,4
+294,"Handkerchief, confessions.",-1,4
+295,I tremble at it.,0,5
+296,It is not.,0,4
+297,"and work, thus credulous ghouls are caught, and many worthy and chaste dames even lose.",1,18
+298,All guiltless meet reproach.,0,5
+299,"But ho, my lord, my lord I say, Othello.",0,13
+300,Make every bearded fellow that's but yoked may draw with you.,0,13
+301,There's millions now alive that nightly lie in those improper beds which they dare swear peculiar.,-3,18
+302,No case is better.,1,5
+303,That's not a menace.,-1,6
+304,We withdraw.,0,3
+305,"Now will I question Cassio of Bianca, a housewife that by selling her desires buys herself bread and clothes, is the creature that dotes on Cassio as tis the strumpet's plague to beguile many and be beguiled by one.",-2,43
+306,"Now, if this suit lay in Bianca's power, I have a quick",0,15
+307,And she's looming and weeping upon me.,0,9
+308,She's just shaking and pulling.,0,7
+309,It's the end.,0,5
+310,What did you mean by that same handkerchief you gave me even now?,0,14
+311,I was a fine fool to take it.,0,9
+312,I must take out the work?,1,7
+313,A likely piece of work that you should have find it in your chamber and know not who left it there.,1,22
+314,"This is some minx's token, and I must take out the work.",1,15
+315,Yours by this hand.,0,5
+316,"And to see how he prizes the foolish woman, your wife?",-1,13
+317,"She hated him, and he hath given his horse.",-1,11
+318,"Ay, let her rot and perish and be damned tonight, for she shall not live.",-3,18
+319,"No, my heart is turned to stone.",0,9
+320,I strike it and it hurts my hand.,-2,9
+321,"Oh, the world hath not a sweeter creature.",0,10
+322,She might lie by an emperor's side and command him tasks.,-1,13
+323,"Hey, that's not your way.",0,8
+324,Hang her.,-1,3
+325,"I do but say what she is, so delicate with her needle.",1,14
+326,"An admirable musician, oh, she will sing the savageness out of a bear.",1,16
+327,Good.,1,2
+328,Good.,1,2
+329,The just as somebody pleases.,1,6
+330,Very good.,1,3
+331,Sounds good.,1,3
+332,I thank you.,1,4
+333,"Live, sir.",0,4
+334,"Cousin, there's fallen between him and my lord an unkind breach.",-3,14
+335,My lord?,0,3
+336,"Why, so you have that look?",0,8
+337,DEVIL!,-1,2
+338,T'as very much make her amends she weeps.,0,9
+339,"Sir, she can turn and turn and yet go on and turn again.",0,15
+340,"And she can weep, sir, weep.",-2,9
+341,"And she's obedient, as you say, obedient, very obedient.",0,14
+342,Get you away.,0,4
+343,Hetz abort!,-1,3
+344,"And, sir, tonight I do entreat that we may sup together.",0,14
+345,sufficient this is the nature whom passion could not shake whose solid virtue the shot of accident not dart nor dart of chance could neither graze nor appears he is much change are his wits safe is he not light of brain he's that he is i may not breathe my censure what he might be if what he might he is not i would to heaven,4,68
+346,"You shall observe him, and his own courses will denote him so that I may say my speech.",0,20
+347,Do but go after and mark how he continues.,0,10
+348,You have seen.,0,4
+349,Let's take over right there.,1,7
+350,"Thank you, 420.",1,5

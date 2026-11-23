@@ -1,0 +1,1263 @@
+line_num,line,bing_liu_score,n_tokens
+1,"Well, now that we've taken all this trouble, let's set up chairs and hi.",0,19
+2,Yay.,1,2
+3,What are you reading?,0,5
+4,What is it?,0,4
+5,How many?,0,3
+6,How is it?,0,4
+7,Long.,0,2
+8,You're learning useful skills.,1,6
+9,Hi.,0,2
+10,Hi.,0,2
+11,Hi.,0,2
+12,"You, too, can have a place here.",0,10
+13,Thank you.,1,3
+14,"There's a chair here, actually, though, which you can occupy.",0,15
+15,That's a good idea.,1,6
+16,Hi.,0,2
+17,Welcome.,1,2
+18,"Thank you, everybody, for being here really, really very, very much.",1,16
+19,It's exciting.,1,4
+20,"Let's take a little bit of a step out so that we can speak together, if you can.",0,21
+21,Hi.,0,2
+22,"Yeah, all right.",1,5
+23,So let's say who we are.,0,8
+24,Let's start with that.,0,6
+25,"And our purposes, or our porpoises, if you prefer.",1,12
+26,"So, yeah, who we are, what we are doing.",0,13
+27,"If you want pronouns, you can have them.",0,10
+28,Up to you.,0,4
+29,"And your role, you know, in this space right now.",1,13
+30,What we're up to.,0,6
+31,"Gosh, everyone is very polite today.",1,8
+32,All right.,1,3
+33,Fine.,1,2
+34,I'll start us off.,0,6
+35,I'm Jessica Burr.,0,5
+36,You can call me Burr or you can call me Jessica.,0,12
+37,I get both.,0,4
+38,I get a lot of things.,0,7
+39,Those are your options.,0,5
+40,Stick with those.,0,4
+41,"I'm directing, but really just I'm collaborating, actually.",0,13
+42,I'm Keith.,0,4
+43,That's what I'm doing too.,0,8
+44,Collaborating.,0,2
+45,I think I'm going to do some writing.,0,10
+46,But my purpose remains to be seen.,0,8
+47,Listening.,0,2
+48,Figuring it out with you all.,0,7
+49,Michael.,0,2
+50,I'm an observer.,0,5
+51,For the administration I just want to make sure that everything is clean.,1,14
+52,So we're here.,0,5
+53,"I mean, the criminal records are, right?",0,10
+54,Those are done.,0,4
+55,"Just having a brief look around, but feel free to be yourselves.",1,14
+56,I think I know you.,0,6
+57,I think you were a fetus once.,0,8
+58,"Once upon a time, yes.",0,7
+59,"And you've grown since then, so quickly.",0,10
+60,Since there was.,0,4
+61,What's your name?,0,5
+62,Perry.,0,2
+63,Perry?,0,2
+64,We'll get to him.,0,6
+65,Okay.,0,2
+66,That's it.,0,4
+67,"I'm Michael, and I am a Iago.",0,10
+68,"I'm Rob Manning, Jr.",0,7
+69,Call me Rob.,0,4
+70,"Pronouns, call me Rob.",0,6
+71,And I'm exploring a fellow with all of you.,0,11
+72,My name is Perry.,0,5
+73,"I am being introduced to Michael Cassio, and I'm here to play.",0,15
+74,I'm Aaron.,0,4
+75,"I've been horrifically channeling Brabantio, and some love me go to.",1,14
+76,"I'm Emily, and I'm here to listen and collaborator from Sacred Heart University.",0,17
+77,"Hi, I'm Charlie.",0,6
+78,"I'm here to listen, but I'm going to wind up talking.",0,15
+79,"I'm a collaborator from Sacred Heart University, madly in love with this work, and I got an invitation to do something on a night where I could be there.",1,33
+80,And I don't say no if Keith and Jessica Buraks would do something.,0,15
+81,It just takes time before the yes manifests.,0,9
+82,"Hi, I'm Rebecca, and I'll be stage manager.",0,13
+83,"I'm Sophia, trying to look closely at Desdemona, playing around with all you guys.",0,18
+84,"Cool, cool.",2,4
+85,"Great, what a beautiful group.",2,7
+86,"I want to mention also, Evelyn is here.",0,10
+87,She's behind the piano.,0,6
+88,"Yeah, for security.",0,5
+89,"Hi, Evelyn.",0,4
+90,How are you?,0,4
+91,"I have a daughter, too.",0,7
+92,"There are people who couldn't be here tonight, but I want to bring them into the room because they helped to run the company.",1,27
+93,And there are people who you can always rely on and go to should you need assistance that I cannot offer or Rebecca or Keith.,0,27
+94,"It's Jen Allen, and she's our business manager, and she'll be paying you as long as you don't, you know.",0,28
+95,You've got to do as you're told.,0,10
+96,"There's Danica Jensen, and she's our producing director.",0,12
+97,"And also, Taylor Valentine.",0,6
+98,And he's our training person.,0,7
+99,But the four of us have been sort of taking care of the running of things.,0,17
+100,So just to let you know.,0,7
+101,Yeah.,0,2
+102,"And OK, so we're going to begin with practicalities, which are terribly dull.",-2,17
+103,Mm-hmm.,0,2
+104,"Oh, the first thing is photos.",0,8
+105,"Can I hand that to you, actually, to take some photos during this thing?",0,17
+106,Sure.,0,2
+107,So that we can remember that we have done it.,0,11
+108,Cool.,1,2
+109,Do you want to borrow my lipstick?,0,8
+110,Cosmetics?,0,2
+111,Groovy.,0,2
+112,"The other thing is to talk about briefly the idea of open rehearsal, because this is something, a practice that we've begun doing.",0,27
+113,"We started with our last show, La Musica Deuxième, and it was terrifying and wonderful.",1,18
+114,"And that would be opening up not only to the larger Untitled Othello Ensemble, who's not necessarily in the show, but to the Ensemble of Blessed Unwraith, so our training ensemble.",0,36
+115,And we don't have to do it right away.,1,11
+116,It tends to be really fun and interesting.,2,9
+117,"ring a lot, but are very respectful about it.",1,11
+118,That's what we've seen so far.,0,9
+119,And it really enriched the process.,0,7
+120,Other ways that we'll be opening rehearsals is via Sacred Heart University.,0,14
+121,"So these guys have been hugely supportive of the project since the beginning, which was years ago, like four.",2,22
+122,So it's hugely significant that they're still supporting the project and that they're in this room right now.,3,22
+123,It's wonderful.,1,4
+124,"And we have been offered a week of work at Sacred Heart, which would be rehearsal and some other stuff.",1,22
+125,And I'm going to say these dates now so you can't say that I didn't.,0,19
+126,We're looking at January March.,0,7
+127,We can also send them out later.,0,8
+128,March 31st through April 4th.,0,6
+129,Yeah.,0,2
+130,Okay.,0,2
+131,So put those in your pipes.,0,7
+132,"And we will discuss in more detail, but we can also talk about that today if you want to.",0,21
+133,Yeah.,0,2
+134,Awesome.,1,2
+135,All right.,1,3
+136,Okay.,0,2
+137,"Anything that you would like to say, my love, about practical things?",2,15
+138,I don't think so other than feel free to always text or email or get my attention if you have any questions in the room.,1,27
+139,"I have highlighters, pencils, cough drops, hair elastics, and if you need something like that or just something else, you can always use me as that person to reach out to.",1,37
+140,"Hello, you're just in time for your entrance.",0,11
+141,Can you introduce yourself?,0,5
+142,Not to put you on the spot or anything.,0,10
+143,Do you need more than that?,0,7
+144,"Yeah, what do you do, Jay?",0,9
+145,"Let's see, I hike in the mountains, make snow angels.",0,14
+146,Did you see my snow angel?,1,7
+147,Really?,0,2
+148,I've not seen the snow angels.,0,8
+149,"Oh, I'm sure there's no snow angel.",1,11
+150,"I do lighting, scenic, whatever.",1,8
+151,More?,0,2
+152,You want more than that?,0,6
+153,"Hey, hey, hey, he does it, he does it.",0,14
+154,That's what I thought.,0,6
+155,"Yeah, very glad you can be here.",1,9
+156,Thank you.,1,3
+157,"And the other person who wishes you could be here is Sarah, our costume designer, but she's not feeling well.",1,24
+158,"So, all right.",1,5
+159,"Okay, so years ago, Dr.",0,8
+160,"Gillespie, you suggested a thing",0,6
+161,"for us, and I had been pondering this for a long time.",0,14
+162,"And the thing was, yeah, yep, I know.",0,12
+163,The corner's right behind you if you need it.,1,11
+164,"The thing was to have a ritual, blessed our rest thing that we do at the top of everything.",1,21
+165,And I've been racking my bloody brains to figure out what this is.,-1,15
+166,"Because everything can be anything from rehearsal to training to a board meeting on Zoom, right?",1,18
+167,"So the other day, one of our very new ensemble members, Chow Chow,",0,16
+168,found these gestures.,0,4
+169,It was in our emergency training.,-1,7
+170,"Yeah, remember?",0,4
+171,Yeah.,0,2
+172,"So he found these series of gestures, and they just struck me.",-1,14
+173,So I like to try them to see if this is a thing.,1,14
+174,You were there too bad.,-1,6
+175,"OK, so forgive me if I'm fucking this up.",-1,12
+176,"The first one was here, right?",1,8
+177,"The first one was here, and it was submission.",0,11
+178,"And then he turned it into here, which is offering.",0,12
+179,And then we expanded it into here.,0,8
+180,We opened it up.,0,5
+181,"And that came from my friend who just died, who was extremely open.",-1,15
+182,And I wanted to bring her into the room.,0,10
+183,She has this incredible openness.,2,6
+184,"Yeah, so it was that.",0,7
+185,It was three gestures and then arms down.,0,9
+186,"It's ironic, I know, that it's arms, because I detest arms.",-2,17
+187,"I know, I'm well aware of this, okay?",1,12
+188,I'm just trying to not be ossified and be open to arms.,0,14
+189,So can we try these three gestures three times with breath?,0,12
+190,"So it would be inhaling on, no, sorry.",-1,11
+191,"Inhaling on the first one, and then ha, ha, ha, ha, ha.",0,18
+192,"And then beginning to exhale, exhale, exhale, exhale, exhale.",0,14
+193,"Yeah, so let's say inhale, hold for a bit, hold your breath for a second, just pause, and then begin exhale here.",0,29
+194,"Okay, and then open, and then down.",0,10
+195,"Okay, that was just rehearsal, though.",0,9
+196,Now is the show of actually doing it.,0,9
+197,Yes.,0,2
+198,What is it called?,0,5
+199,"A salutation, maybe?",0,5
+200,Some salutation.,0,3
+201,Salutation.,0,2
+202,Maybe.,0,2
+203,Some salutation.,0,3
+204,It's a type of salutation.,0,7
+205,Groovy.,0,2
+206,OK.,0,2
+207,Salutation.,0,2
+208,Thanks.,0,2
+209,It's important to name things or I just forget them completely.,1,13
+210,Great.,1,2
+211,Thank you all.,1,4
+212,All right.,1,3
+213,"And now, let us sit.",0,7
+214,"Jay, I think there's a chair here.",0,10
+215,So I'm curious about closing the gap between the actor and the character.,0,15
+216,So I wonder what that means and how you all have responded to the material,1,15
+217,And it's interesting because we have a nice combination of folks who have been working on this for a super long time and folks who are newer to the table.,3,32
+218,And I love that.,1,5
+219,I love that we have both perspectives.,1,8
+220,But I'm wondering what are or what have been your gut hits?,0,14
+221,"And you don't have to say why, but you can if you want to.",0,17
+222,"Because I think it's also important that we bring story into this process so that if something sparks a story in you, even if it's someone else's quote unquote character, a word that I banned from Blessed Unrest for about seven years,",0,48
+223,"It can be anything, it can be a situation, it can be sensible, something smells like something that you recognize or make sense in a way.",1,30
+224,"Think about where this takes place, smells are very strong in my mind.",0,15
+225,"So just wondering, those really personal, personal hits.",0,11
+226,"Because we're not doing the play of Pa Fellow, we're not.",0,15
+227,We're not using those words necessarily unless we change our minds and want to use some.,0,18
+228,So what are we making?,0,6
+229,Who are these people?,0,5
+230,I don't go first.,0,6
+231,I heard it.,0,4
+232,I heard the inhale.,0,5
+233,So this is a two-part answer.,0,7
+234,One of the things from the process of Untitled Othello that I'm bringing into the room that was for me a powerful revelation was struggling to,1,27
+235,"find a way to encounter Brabantio without a sense of self-harm was to allow, in reading Brabantio, to allow myself to hate myself for saying the things that I was saying while I was saying them.",-1,39
+236,To discover a sense of,0,5
+237,discussed and yet say the thing anyway.,0,8
+238,And that was a bit of a revelation because it was real.,1,13
+239,And I've been reflecting on that lately and on things happening in the world and thinking about how there is a despair in this play,-1,26
+240,um that is immediate and real and uh and i think needs to be grappled with and and what i've been thinking about are the many many ways in which despair can be manifested and one of them is in,-1,41
+241,retrogression in backward-looking.,0,4
+242,The white figures in power in this play are atop a world that is slowly crumbling and they can't stop it.,-2,23
+243,The heyday of Venice has already passed.,0,8
+244,It's in decline.,-1,5
+245,It's in steep decline.,-2,6
+246,It's losing everything.,-1,5
+247,And,0,1
+248,"And when I look at characters like Rabanchio or Rodrigo or Lodvigo, I see people who are trying to cling to something that is already lost.",0,28
+249,And I'm aware of the kind of ugliness and brutality and violence that can emerge from that kind of despair that lacks self-knowledge.,-4,25
+250,Following up on that.,0,5
+251,"I don't know, I can't say that I actually agree.",0,14
+252,"You know, I find myself, you know, speaking for Rob, navigating this world the same way a fellow has to navigate his.",0,27
+253,And to continually have to think on my feet,0,9
+254,I don't think I'm much different from this person in the way that I'm,0,17
+255,immediately willing to fight and then think afterward and then sometimes I think before and I'm still willing to fight and then finding that it's always better to think first before fighting than fighting and then thinking afterwards so I've been navigating a lot of that recently and then I think you know to to what you said to speak to what you said specifically I don't think Brabantio and Rodrigo and Iago are grasping a hold of something that no longer exists or that has passed.,3,92
+256,"And, you know, I think relating to everything that's happening today in the immediate present,",0,19
+257,"I think the world, I see why they're trying to grasp a hold of this power, and I see that they feel that it's slipping away.",0,31
+258,"And it's interesting having to navigate, I don't know, you know, I always never assume people's political leanings or ideology, but...",1,29
+259,"You know, I'm consistently talking about it now.",1,11
+260,"I just told Jess that where I teach the college, just a week after the election, the Office of Equity, Diversity, and Inclusion was laid off and eradicated.",0,33
+261,"And I remember being in a meeting recently, and I kind of felt like a fellow in the meeting.",1,21
+262,"The provost was saying, I was saying, it's not a good, the optics aren't good when you",2,22
+263,"You talk about budgetary constraints, but you get rid of the OEDI office a week after the election.",0,20
+264,"And he's like, well, I know how that looks.",2,13
+265,"And I'm like, no, you don't, because you did it.",1,16
+266,And it was purposeful.,1,5
+267,"Because if you thought about it before you did it, you would have waited a little bit.",0,19
+268,You would have had sense enough to give it a couple of months.,1,14
+269,So I don't know.,0,6
+270,I think I find it's very interesting navigating this world today.,1,13
+271,and and feeling the danger that's around me i'm much more cute i mean i mean i'm i don't know about how you feel you know walking but even when i'm on the train home i'm very aware um like when i see a maga hat on the train i'm very aware that it's not just,1,64
+272,"you know, a Republican thing.",0,7
+273,"I think it's a, at least I feel, right?",1,13
+274,"I can't make assumptions about people, but I feel it's a supremacy.",1,16
+275,"You might as well, for me, you may as well be wearing a hood.",2,17
+276,And so I wonder what it is for Othello to,1,10
+277,navigate that because he's got to be aware you know he's not stupid and then you know and then and then to to and we've talked about this too the conversations,-1,34
+278,"Someone asked me what I was going to do today, and I was like, he and I talked about it, and I was like, what were the conversations that Othello and Desdemona had before making this decision, given the environment that they're in?",2,50
+279,"So I don't know, that's how it personally touches me in this moment.",0,17
+280,"Right now, since this is all a little fresh for me, I'm interested in what I'm immediately going towards and find myself drawn to in Desdemona and how I feel similarly to her and how I am gripping towards the things that I find positive and that I like about myself.",4,56
+281,and also seeing her.,0,5
+282,And I think the one thing that stands out to me is the knowledge of her body and the knowingness of her body and her observational qualities I have been gripping onto.,0,33
+283,And then I question myself of the more ugly and messy parts of her,-2,14
+284,"And how I have this tendency to be like, oh, but those parts are not me.",1,19
+285,"But if I'm being honest with myself, they are.",1,12
+286,And how I also knowingly dip into ignorance and I'm not telling the truth to myself in many ways.,-1,21
+287,"Since it's all fresh, what I am really globbing onto and what I'm not is an interesting line to walk right now that I want to keep my tabs on.",3,34
+288,I'll just say some words that come to my mind when I think about...,0,16
+289,Trauma.,-1,2
+290,What trauma could befall on this person to make him take the actions that he does so intentionally?,-1,19
+291,"And so, you know, the other word is id, this something so desperate.",-1,17
+292,I almost see it as some kind of insect.,0,10
+293,desperate to cling to something.,-1,6
+294,"As we put in this context, you know, definitely this, you know, those people that marched with the, you know,",0,26
+295,"in collective in Clarksburg or whatever, covering their faces because they didn't have the balls to be so straightforward with their hate.",0,25
+296,"And that connects with that for some reason, using his own personal hatred.",-1,15
+297,And powerlessness.,0,3
+298,"A powerlessness of station, a powerlessness of...",0,9
+299,"what I've created upbringing, a powerlessness in the situation that he's in because though he might be able to hide in plain sight like some people, it's just, it feels like there was never any rest, always hyper-vigilant, always, you know, struggle, fight, steal, survive.",0,59
+300,some of the stuff that sits inside of me when I feel this person.,0,15
+301,But I'm still exploring that.,0,7
+302,So this is going to sound really weird.,-1,9
+303,I've always connected...,0,5
+304,this play with being very specific about the location of the sun at any given moment in the story.,0,20
+305,"So the moments that occur at night versus morning versus dusk versus dawn versus midday, and this sort of shifting notion of identity, this shifting",1,27
+306,are from Delo's perspective and the fact that that isn't constant enough to aid him in figuring out,1,20
+307,the solution to this problem or to this issue that feels like it just keeps permeating everyone in this world to the point where even those he trusts the most could be conspiring against him.,-1,36
+308,And so,0,2
+309,"When I put Casio in that sort of context, I feel...",0,13
+310,like maybe he's not such a good boy.,2,10
+311,I feel like you're always portraying him as this good guy.,2,13
+312,And I just don't know if that...,0,9
+313,is going to fly with me.,0,7
+314,And so I have to really sort of sit with what other dimensions could be there that maybe he's hiding or maybe he's trained out of himself.,0,30
+315,But the concept that you could train whatever is untrustable or duplicitous out of yourself is...,0,17
+316,curious to me.,0,4
+317,And so I kind of want to examine that.,0,10
+318,"I kept wondering, maybe he's more like a fellow in demeanor or in decision in the way he's executive, that could be why he got the promotion, could be why it's more plausible that Desdemona might be into him in that way.",1,49
+319,"Because I always feel like whenever I see Casio on stage,",1,12
+320,I'm seeing like a cookie cutter person.,1,9
+321,I'm not seeing conflict.,-1,6
+322,I'm not seeing death.,-1,6
+323,I'm not seeing the rest of him.,0,9
+324,I feel like I'm seeing what we're being told about him.,1,14
+325,"And so I'm curious about how to kind of fill that out in a way that supports the vision of it's possible that whatever is being thrown on him can stick, but that there's other stuff there that...",1,43
+326,is not being accounted for.,0,6
+327,So I think that's what I'm curious about.,0,11
+328,"I think that's really important because it speaks to finding the three-dimensionality and the depth of all of these people, right?",2,24
+329,And that their identities are never just one thing.,0,10
+330,And that those identities keep shifting throughout the play to the point that it almost feels like a mirage.,0,20
+331,"And so this whole thing with the sun, I don't know, probably link back to when this notion started, but that there's something about our relationship with that heat that leads to exhaustion, leads to something unstable, or the concept of madness, being heat stroke, or being dehydration, fainting,",-1,60
+332,I don't know.,0,5
+333,I just feel like it's something that I always feel more keen to in this play than other Shakespeare plays.,2,22
+334,"Luckily for us, Jay can make the sonnet.",0,10
+335,Start with some hydrogen.,0,5
+336,"Okay, if you start now, I think we'll be ready.",1,14
+337,"And I think that's also why I'm asking you, what are the things that your bodies are responding to in this work?",1,26
+338,"And it's because we have to, hmm.",0,10
+339,I don't think we have any time to not do the fucking work full tilt boogie like a thousand percent.,1,22
+340,And that's in terms of and I don't mean in any way to rush process.,0,18
+341,That's not what I mean.,0,7
+342,It's just the world doesn't have time for us to not do our work as thoroughly as humanly possible.,1,22
+343,And that also makes me think about the moon.,0,10
+344,"Jay, can you do moons too?",0,8
+345,It's a day and night.,0,7
+346,"Well, because the time period that we're dealing with frame us a little bit is the nine",1,19
+347,"the nine moons, the nine moons wasted, that he talks about before the play begins.",-1,18
+348,"So we end, I don't know exactly where we end.",0,13
+349,"Maybe we end with the elopement, I don't know.",0,12
+350,"Or the, I don't know, who am I to speculate?",0,14
+351,We can end where we want.,0,7
+352,But we have this sort of beautifully laid out time of nine months.,1,14
+353,nine months before all of the action that we know about.,0,12
+354,And what does that look like?,1,7
+355,How does that change?,0,5
+356,"And how do we want to deal with that in terms of process, right, in terms of structure?",1,21
+357,"And what you said, Perry, about constantly shifting, I think, you know, when I just sort of think about the,",0,26
+358,think about the structure of the process in broad strokes in my brain.,0,14
+359,"We have this time, right?",1,7
+360,We have like four months.,1,6
+361,to make a thing about nine months time.,0,9
+362,"And for a lot of this, we can be constantly shifting.",0,13
+363,We can be trying things on.,0,7
+364,We can be taking the spaghetti and throwing it at the wall and seeing what happens.,0,17
+365,We can be doing things that we would not do.,0,11
+366,And I think that's really important.,1,8
+367,We can do that for about two months.,0,9
+368,"And then around the end of February, we're going to say, okay, learn your bloody lines from upstage, say them louder.",-2,27
+369,Louder faster.,0,3
+370,"But until then, until then, I think it's important that we play very hard.",0,18
+371,And I wonder what our tools are.,1,8
+372,Are you telling secrets again?,0,6
+373,Robert.,0,2
+374,Do I have to separate you?,0,7
+375,"No, no.",0,4
+376,Do you want to talk about time?,0,8
+377,"Time, specifically?",0,4
+378,"As in period, or time as in a measure of things changing?",0,14
+379,As in a measure of things changing.,0,8
+380,"A lot of my time working up until this time when we can finally get together has been spent reading, contemplating, scribbling.",0,25
+381,"you don't know, the Battle of Lepanto is perhaps what Shakespeare was looking at in framing this Cyprus situation that happens in Othello.",0,26
+382,And I felt that because I,0,6
+383,"read all sorts of stuff about treating on Othello and the things that happened in Othello, but as well about war and about human beings and just what they do and why they do what they do.",1,39
+384,So that's how I've been spending my time.,0,11
+385,"Period is as problematic, I think, here as it is in the Untitled Othello script.",-1,18
+386,I'm definitely afraid of it.,-1,7
+387,"I'm afraid of the need to put a thing somewhere specifically that an audience member can say, well, that uniform means, or they didn't, or that wasn't, that's an anachronism.",0,40
+388,"Because I've always believed that if you're doing your Shakespeare well, you are portraying human beings that the audience will see if they're on a bare stage in t-shirts.",1,34
+389,"And there are any number of anachronisms that sort of work in my mind that may not work and, you know, people trying too hard to make everything make perfect sense.",2,34
+390,But I'm mostly interested in the people.,0,9
+391,Nine months is,0,3
+392,"a long time, it is long enough to gestate and birth a baby, which is significant to me, that this is nine months, or to gestate and birth a relationship, a couple of relationships in this particular case.",2,44
+393,It is probably a longer time,0,6
+394,for somebody who has been doing the thing he does for years on end and then has to stop and is trying to figure out what to do with that time until he can start to do that thing again.,0,41
+395,"It's probably a longer time or a different kind of time or is measured in a different way than for someone who, it's another day in Venice, except that this person has shown up.",0,39
+396,"For that person, it might move faster.",1,9
+397,I don't know.,0,5
+398,"And it's a question as to how, when we were looking at the initial prologue, we had this one meeting and it was for putting at the front of Othello and using that to suggest",0,38
+399,depth of love or something like that.,2,8
+400,"And looking at that now, not only with all that we've learned in Untitled and Untitled work, but also as it applies to this new project,",1,30
+401,"First of all, a lot of things that they say to each other probably, based on what I know now, they wouldn't say.",0,28
+402,They wouldn't be saying in quite that way.,0,10
+403,Nor would that be at the beginning or the end of that nine month window.,0,16
+404,It might be something like that would be somewhere in there.,1,12
+405,And we'll probably stumble upon it.,-1,8
+406,But that time,0,3
+407,"But what Robert was saying about walking through the world right now, I've been reading about war in myriad environments and basically the fact is that there is no era",1,32
+408,"where men somewhere, and women, mankind, somewhere on the planet has not been beating the shit out of other men and women.",-1,26
+409,"And largely, they justify it for territory with the cover of ethics or religion",0,15
+410,This is the right system of government.,1,8
+411,"And career warriors, I wonder, not being one, I can only speculate, but I wonder how much they see that after 30 years of war, 35, 40 years of war.",2,37
+412,What do you perceive about the world that you couldn't explain to anyone?,0,15
+413,"And so you have this person who is feeling and seeing a number of things in this nine months, in this environment that he's not used to, that is, well, one very difficult to navigate.",0,41
+414,"And two, I don't know, but perhaps from his perspective, part of what makes this relationship happen is another grasp at dealing with that, another thing that might alleviate the circumstance.",0,37
+415,It seems unnatural to sit in it.,-1,8
+416,It seems unnatural to just be.,-1,7
+417,"plagued by it, if indeed he is.",0,9
+418,"One is always doing things to rectify, to level set.",1,12
+419,And having a relationship that is not like any other relationship might be a way to do that.,1,19
+420,"So I'm interested in that time and how that evolves, what that looks like in the beginning and what it looks like at the end.",2,28
+421,"And it seems to me that if it's like any other relationship, most relationships that I'm aware of, most relationships that I've had, it starts with something that is largely chemical over here, where nobody knows a whole lot about one another.",1,50
+422,"And they learn, and on the other end, they know a lot and they're making choices on stuff that they know",0,24
+423,"very often knowing better, right?",2,7
+424,"I know all this about her now, but I'm going to go this way anyway.",0,18
+425,"I know all this about him now, but I'm going to go this way.",0,17
+426,"Anyway, what does that look like?",1,8
+427,"If I'm talking only about time, that's enough, right?",2,14
+428,"I've got other things, but I can leave off, because that's really what...",0,18
+429,"That nine months of these two people finding the space to engage, and really three people, because Desdemona says of Cassio, you have known him long.",0,30
+430,You do love my Lord.,1,6
+431,"And I don't know how much that jives with the backstory that Josh wrote, how long that relationship has been going on.",0,25
+432,"Josh wrote a very interesting backstory that I like, and we didn't have time to deepen any of them.",2,22
+433,We can deepen some of these and evolve them as our needs arise.,0,14
+434,But,0,1
+435,"for a minute, that they have an understanding and knowledge of each other through whatever channels, but that in the beginning, this is not a job that you have yet, right?",1,36
+436,"You've been put on staff, sorta.",0,9
+437,"It's like, well, here we are, well, give me him.",3,16
+438,And making that official might happen in the seventh month or the eighth month or the ninth month.,0,19
+439,And what does that change?,0,6
+440,"And what does that,",0,5
+441,relationship i mean we explore it in untitled fellow a little bit right there is a uh a level of indulgence that cassio gets that goes a certain way and then it stops um,2,34
+442,What does that spring from?,0,6
+443,What does that relationship spring from?,0,7
+444,"Is this a father-son relationship, at least from the perspective of Othello, is it not?",0,18
+445,Is Arcasio just an opportunist and sees an opportunity?,0,10
+446,Are there things we see him learn in this nine months about being a soldier that he wouldn't know?,0,21
+447,"What does the man who's been on a battlefield for the larger portion of his life say to the person who's just come out of military school and has never seen, who has lost relatives?",-1,39
+448,His brother was blown up.,0,6
+449,"His brother's a very interesting thing to me, by the way.",1,14
+450,"Let me get to that, I think, later in the evening.",0,14
+451,What does that man see in this man?,0,9
+452,"And what can this man, if he's aware, take and learn and grow, irrespective of whether or not he's just being an opportunist?",0,29
+453,"This reminds me of a question that I had bringing in, which is, since we have the opportunity to explore these, you know, if we so choose nine months before,",0,35
+454,"I think there's an opportunity to interrogate the relationships in a way that maybe we can't, strictly by adhering to the text of the play Othello, including who knows what and when.",-1,37
+455,"A question that I had recently about Cassio is, does he know that the governorship is in the offing for him?",0,23
+456,when he goes into this situation?,0,7
+457,Or is it as much a surprise to him as it is to us when it happens?,0,18
+458,"Because if he does know it's a possibility, I think that changes the whole relationship.",0,18
+459,That's just one example of what ifs that I'm thinking of.,0,14
+460,"Makes me wonder about Desdemona too, if she knows that, if she's involved in things like this, does she have a vested interest in getting her buddy?",2,32
+461,Right.,1,2
+462,"If they are indeed friends, this gig.",0,9
+463,Yeah.,0,2
+464,"And another question that I had because I was up to the gills in Lepanto today was,",0,18
+465,"Does the Duke and the Senate, do they think that this expedition is going to succeed?",1,18
+466,Or do they know that it's basically a doomed expedition and are trying to just make things as costly for the Turks as possible so that they can cut a better deal in gaining a peace?,1,38
+467,"Which gives me a very, very icky feeling about them like, oh, well, then let's send Othello to do that.",2,26
+468,It makes me think of the Duke in Measure for Measure.,0,12
+469,It was there but not there all the time.,0,10
+470,Yeah.,0,2
+471,This sort of omniscient presence.,0,6
+472,"And I wonder, because it was suggested, this was a long time ago, when we were planning a somewhat different show by Charlie that maybe Aaron is playing.",1,32
+473,"Oh, yeah, the GWD, the generic white dude.",0,12
+474,And I sort of love the idea of that.,1,10
+475,"And I was talking about this with TV a while ago, too, and he was saying, well, Aaron's the only white guy in the room.",1,31
+476,"And I said, no, Perry's there.",0,10
+477,"And he said, well, Perry's not white.",1,11
+478,"I said, yes, he is.",0,8
+479,So there's an argument going on about you.,0,10
+480,"One of several, actually.",0,6
+481,Yeah.,0,2
+482,"of like ambiguity, the concept of how we define ourselves versus how we are defined by the others or other.",0,22
+483,I think there's always room for that conversation.,0,10
+484,But I think about your point.,0,7
+485,good theater is transaction in action.,1,7
+486,"So, of course, there are policy pieces flying around and decisions being made that are setting people up to fail.",-1,23
+487,"I mean, that's the entire purpose of Iago, is let's set these people up to fail.",-1,21
+488,"Like, how do we set up the situation to create as much disaster as possible so that",0,18
+489,"I still might not get my way, but I'll prevent them from getting theirs.",0,17
+490,And that's not an unrealistic world.,-1,8
+491,I think that that is the world we live in.,0,11
+492,"I think, yeah, the question is who knows what is always going to be interesting.",1,18
+493,But how savvy are we to that version of the world?,1,12
+494,Are there idealists here?,0,5
+495,I don't know if there are.,0,8
+496,I think people have their vision of what they want the world to be.,0,15
+497,But I don't think...,0,6
+498,I don't know if characters in this world are hopeful that people aren't really fucked up.,1,19
+499,"There's the notion of honor, which I think is the only currency you have at any time before, like, what, the 1920s?",2,28
+500,"But like, it's, you know, that you have no other way to prove your worth other than your word and the words of others about you.",2,31
+501,And this play sort of is about how manipulated that can get and what the outcome of that is.,0,20
+502,"So yeah, I think there's a lot of value in exploring what people know or might know but aren't saying.",0,24
+503,"And also, in terms of time period and setting and all of that, when I find myself doing that sort of historiography work,",1,26
+504,I'm mainly interested in seeing how that applies to the drama of the thing.,0,16
+505,"A war that you're losing is inherently more dramatic than one in which you're assured victory, right?",1,21
+506,"And I kind of, in my head canon at least, that's how our guy Shakespeare works.",1,20
+507,"Really indifferent to time and space and historical accuracy, except in so far as it serves the drama.",-1,20
+508,"But for a purpose, because it's not just drama for its own sake, it's drama because of what it reveals about character.",0,27
+509,Desperation reveals something about character more than homeostasis.,-1,9
+510,"And also, in terms of desperation creates opportunities for expressions of...",-1,13
+511,viciousness that we might not otherwise think available to us.,0,11
+512,And that's in this play.,0,7
+513,It's to such an overwhelming degree at times that I think it helps us earn it.,-1,18
+514,"That just makes me wonder about the context, much like the Duke, how much politics is happening in the surrounding world that is affecting or is affected by whatever stories we're choosing to tell.",2,38
+515,And how do we portray that?,0,7
+516,How do we contextualize them?,0,6
+517,consciously and attentively.,0,4
+518,I think that's very important.,1,7
+519,"Thinking about, I know I wasn't going to say.",0,12
+520,Please do.,0,3
+521,The purpose of this room is for everyone to see.,0,11
+522,"Thinking about that nine months of fellows where he's kind of like,",1,14
+523,not doing the thing he's been doing for the seven years prior.,0,14
+524,"And what kind of transition that would be putting a military person in, right?",1,16
+525,"Is it like, is he potentially pivoting in career?",1,11
+526,Or does he see that possibility?,0,7
+527,Does that shape,0,3
+528,"a turn to Cassio, who's like the arithmetician kind of?",1,13
+529,Does it influence his hanging out with Brabantio more?,0,10
+530,"In other words, sometimes military people can be careerist, right?",1,13
+531,"Like, what's the next thing if he's sitting there long enough?",2,15
+532,"clearly like the relationship comes in, but is there also an ambition that maybe has to get redirected or, I don't know, this is where all the politics, you know, who knows.",2,39
+533,"again, and this may be because I'm reading too much, but I keep going back to it.",0,21
+534,"It's been more than seven years, right?",1,10
+535,"He says, I've been fighting all my life.",0,11
+536,I was seven years old when I started and haven't stopped till now.,0,15
+537,And,0,1
+538,"Then you read about conflicts at various periods at various places in the world, and they're all the same.",-1,22
+539,There are men doing the same thing for the same reasons everywhere.,0,13
+540,We can't get away from it.,0,8
+541,And then you have this soldier who has found a way to make a living doing this.,0,18
+542,And now he's in this space where,0,8
+543,"if he's anything like me, is realizing he's not going to be able to do it the same way much longer because he just doesn't have the physical tools.",1,34
+544,"So ambition would have something to do, I think, with how can I continue to be this thing while having some of the things that I haven't",0,30
+545,"been able to enjoy, but I don't even know if he thinks in terms of what he enjoys.",2,21
+546,"I'm taken with the idea of, if not the warrior scholar, then the warrior sage, somebody who's been doing this long enough but has the wherewithal to step back and look at it through a lens of this is what I",1,46
+547,who's just waiting for the next fight.,0,9
+548,Because there's that too.,0,6
+549,There's that kind of career soldier as well.,1,10
+550,"If somebody gave a fellow the way with all to sit down and write a book, would he sit down and write it?",0,25
+551,And what would he write?,0,6
+552,And he hasn't had the time.,0,8
+553,"And right now, the safest place",1,7
+554,right the Zephyr's place like this is not a safe space this is not family here family is in that barracks down the street you know I don't know I like what you said the kind of despair that lacks self-knowledge because I think I think,2,48
+555,"that if we're looking at the current moment, contextually,",0,12
+556,The nation has been sort of despairing in one way or another for a long time and not able to say that or speak it communally or understand it.,-1,30
+557,"And individuals, they are feeling it but not able to say it.",0,14
+558,And we don't have health care.,0,8
+559,We don't have shamans and people to talk to.,0,11
+560,"We don't have therapists, you know, for all of them.",0,14
+561,"Because what they've been taught is that's not what you do, right?",1,16
+562,"So we're a nation of people walking around with all this shit that comes out somewhere, right?",0,20
+563,And then it collides in places.,0,7
+564,And I think all the people in the room must have a certain lack of self-knowledge as well.,0,19
+565,All the people coming together in that nine months must lack a degree of self-knowledge.,-1,16
+566,All desperate for something.,-1,5
+567,"You asked me a question in the highlights of my brabantio about, well, what is the family business?",1,21
+568,"And I was like, I don't know, because economics boring.",0,14
+569,"But then when I dug in, I'm like, oh, well, yeah.",2,17
+570,"So right around this time, every single thing that has made Venice rich is fading fast.",3,18
+571,"salt, trade with the Levant, shipping, all of it.",0,13
+572,"Like, the Great Battle of Lopanto is the last battle that was fought with ord ships because the rest of the world has already moved on.",2,28
+573,"And so I'm like, okay, so Brabantio is like these...",2,14
+574,people in the United States now who want to stay invested in fossil fuels.,0,15
+575,Even though we technologically move beyond.,0,7
+576,We're ready.,1,4
+577,And the world is going to leap past us.,0,10
+578,Sorry.,-1,2
+579,And so I just see how that kind of consideration can get turned back onto character.,0,17
+580,Sorry.,-1,2
+581,And what if you have this guy who's invested in all these industries that are already dying and unwilling to let go of them?,-2,26
+582,"You know, sugar from Cyprus, you know, when it's already moved west over to the, first to the Madeira and then to the West Indies.",0,31
+583,"You know, Venice had a salt monopoly that they tried to enforce.",0,14
+584,"Meanwhile, salt is already being manufactured more cheaply elsewhere, that kind of thing.",-1,16
+585,And...,0,2
+586,"And it occurred to me that that kind of behavior, I'm kind of obsessed with organizing ideas around the big D despair, and it's a bigger basket than I think that I've ever considered it to be.",-1,43
+587,"That's a kind of despairing behavior when you can't escape from the past, even when all indications are it's time to move on.",-1,28
+588,He's going to lose everything.,-1,7
+589,I don't know.,0,5
+590,I feel that just in my living there.,0,9
+591,I was trained as an actor at a certain time.,0,11
+592,I did certain things.,0,5
+593,And it seemed like I woke up one morning and all of the revenue streams had changed.,1,18
+594,"All of the ways that people do it, all of the digital.",0,14
+595,could come out of school and catch on.,0,9
+596,"And I was like, I ain't doing that.",1,11
+597,I ain't doing it.,0,6
+598,These are the tools I have.,0,7
+599,I don't know how to...,0,7
+600,"If somebody would do it for me, I'd follow along, but I can't...",0,18
+601,"What, at this stage, we're going to become content creators?",0,14
+602,Yeah.,0,2
+603,What do I do?,0,5
+604,"So I feel that, and I feel that very strongly.",0,12
+605,What are the hashtags?,0,5
+606,It was the use of the definite article that got me.,0,12
+607,"To the sort of this knowledge itself that I always think is a really important conversation to have in any room, that there are characters in this play who are afraid to know themselves.",0,36
+608,And I'm always curious about...,0,7
+609,"identifying who those characters might be versus the ones who just are trusting that they are who they feel like they are, or how they have presented themselves has served them in a way that the world sees them for how they want to be seen.",2,48
+610,"because I feel like the angle we're taking is very much about when you are perceived a certain way, regardless of what you've done, how you've conducted, how you've influenced, what your sort of reputation is, and having that just not be enough, or not be part of the sort of",3,61
+611,way in which people receive you.,0,7
+612,So you're talking about Othello specifically?,0,8
+613,"Because they all get perceived, right?",1,8
+614,"They all get perceived in various ways based on stuff, right?",1,13
+615,Right.,1,2
+616,"And so when I think of knowledge of self or self-knowledge, that makes me think of reflective sort of an awareness that might be deeper than...",0,28
+617,"quote-unquote, like, identifiers, like how we identify.",2,11
+618,It makes me think of soul-searching.,0,7
+619,"It makes me think of, you know, when we think of despair, it's because there's something we feel we're lacking or we want.",-2,30
+620,"But if we're in a position where, let's say, our dreams came true and life is good, or you met someone that you really like and they're completing this experience for you of being alive,",2,42
+621,does that lead to a deeper sense of self-knowledge or does that create blind spots that you all of a sudden let go of certain parts of yourself in order to be in contentment with a person?,1,38
+622,"Like when you're in love, that kind of fuzziness that happens,",2,14
+623,"I think in this world, in this play, how dangerous is that?",-1,15
+624,"It makes me think of Sophia's line, dipping into ignorance, which I love.",0,17
+625,How far do we lean into the joy that smothers out everything else?,2,14
+626,"And as actors, I'm so interested in",0,9
+627,Understanding how you create people who do not have your worldviews or have different blind spots than you have or ignorances at certain times and how that transforms.,-1,29
+628,"And how that sort of spell that we cast on ourselves and the condition you were describing, Perry, can then lead to that feeling of betrayal when someone isn't what you thought or what you'd constructed in your head?",0,44
+629,Yep.,0,2
+630,The reconstructing of other people.,0,6
+631,Yeah.,0,2
+632,And status.,0,3
+633,"Charlie, you keep pontificating real loud over there.",-1,10
+634,"You said to be the actor in a body, so I was doing it without words.",0,18
+635,I'm in love with this conversation.,1,8
+636,The question that's bubbling to the surface for me is what is a prelude?,0,16
+637,Because it's got to do with time.,0,9
+638,It is the playing before playing.,0,7
+639,So I'm interested in what this work is connecting,1,10
+640,year project in untitling.,0,5
+641,"If it has nine moons to play with, what is some of the world that would prompt humans to live this tragedy rather than just titles to live this tragedy?",-1,32
+642,That's an interesting question for me.,1,8
+643,"If it's contained to nine moons, it's kind of fun.",1,14
+644,So I'm wondering what's a prelude because Aaron's account of Brabantio has opened up for me the first chance I have to think about the person who is so attached,0,33
+645,to a world that is ending.,0,7
+646,"Given that I am that person and that I'm relatively young for the professorate, but this thing called artificial intelligence has been invented.",1,26
+647,So my vision for what it means to achieve my life is over.,0,14
+648,"So it is interesting for me to sit with that preventio because I'm like, oh, I want to see this play because yeah, no, it's not going to affect this guy.",2,38
+649,He's going to be dead before the end of the industry affects him.,-1,15
+650,"It's actually about Desdemona in a certain way, which is interesting to me.",1,16
+651,"So yeah, so I'm curious then with Rob's beautiful account of the MAGA hat in the back of my mind.",1,24
+652,Is prelude always nostalgic?,0,5
+653,Is it longing for something that wasn't?,-1,9
+654,Or is it imagining a different way to do something?,0,11
+655,"All of that's the wind-up to ask, how much are you expecting an audience to know of Othello before they see this prelude?",0,26
+656,"In all the stories that have been told, it presumes a deep awareness of this Shakespeare text.",0,19
+657,Those are some of my pontifications.,0,7
+658,"I don't see looking at these four people in a space over the course of the nine moons, however we frame that.",0,25
+659,as necessitating anybody knowing a damn thing about Othello.,-1,10
+660,These are human beings doing what we will know.,0,10
+661,Much of the back story that we write and that we explore is for us so that we can put it on that stage.,0,25
+662,What the audience sees is four human beings navigating stuff that they take from,0,14
+663,"the mise-en-scene, as it were.",0,7
+664,"And if they connect it to a fellow, that's sort of a bonus.",1,16
+665,But these are human beings.,0,6
+666,"I mean, all of our work is getting back to, I just, and it's certainly all the work that we do in creating these human beings in these nine moons, in this nine-month moment.",2,40
+667,feeds anything we make of that play.,0,8
+668,"You're supercharged going into that, right?",1,9
+669,Yeah.,0,2
+670,I wonder if I could just speak a moment about,1,10
+671,abject blackness or black abjection which in afro-pessimistic terms I guess you would say the idea that for as long as we can remember the idea of black humanity is not the thing anybody if you had a choice don't be that,0,43
+672,right?,1,2
+673,"And we see this in the Iberian Peninsula as the quote-unquote Moors who came from North Africa, who were light-skinned, were always trying to marry lighter, turning themselves into blondes, right?",2,36
+674,"So the Moors, before the smear campaign of Ferdinand and Isabella, and then",-1,15
+675,"most of Europe, where by the time Othello might have been wandering around there, any number of people could have been called Amor.",0,26
+676,And he just happens to be one of them.,0,10
+677,"His ancestry, if the play is happening anywhere near Shakespeare's era,",0,14
+678,He has a thousand years between him and where in Africa his people came.,0,15
+679,And they would have come from sub-Saharan Africa.,0,9
+680,And those people were imported as slaves.,-1,8
+681,They were there for labor every once in a while to be soldiers.,0,14
+682,That sense of the black abject in the Arab world was as strong as anywhere else.,1,17
+683,This is what these people are good for.,1,9
+684,I don't really want to use them.,0,9
+685,I don't trust them to be anything else.,1,10
+686,So what that lineage was that,0,6
+687,"did all that living and intermarrying and whatever it was through the 700 years on the peninsula, the diaspora being expelled into Europe, and then Othello becoming a person somewhere there,",0,34
+688,"When you ask him, he makes this statement in Othello, I fetch my life in being from men of royal siege.",-1,24
+689,"And it makes me think about identity because I'm wondering what royal siege, what royalty could he have known other than the royalty that he makes of his immediate family.",-1,33
+690,"As far as I'm concerned, these people were royalty.",-1,12
+691,"An idea about self-worth irrespective of, in the face of, all kinds of other shit.",-1,18
+692,"Who is that indomitable spirit, as wounded and broken as it is, that we encounter?",-1,18
+693,And what does he have to say about it?,0,10
+694,What does he have to say about it when questioned about,0,11
+695,"Well, where do people come from, you know?",1,11
+696,How honest is he about it?,1,7
+697,What does he know?,0,5
+698,Does he know that slaves were imported from Europe as well?,0,12
+699,"Because the Arabs were looking for white people, right?",1,11
+700,"So all of Christian Europe, they were importing slaves as well.",0,13
+701,"So whatever Romancho says about his family, it could be full of shit.",-1,15
+702,"You really don't know, right?",1,8
+703,"And is this warrior, does he have the presence of mind to, in quiet moments, know these things, right?",2,24
+704,Does he know sort of what else is going on?,0,11
+705,"How these moments that we are living, we all can sit in these moments that are upon us right now, and we have",1,25
+706,a strong sense that is never far from the truth about what has happened to bring this.,1,18
+707,We kind of know.,0,5
+708,"When we make choices about whether or not we're going to talk about it, whether or not we're going to engage, whether or not we're going to get up in our skin about it, whether we're going to be apathetic about it, complacent, those are all human things that we're all navigating right now.",-1,65
+709,"shaded by the opportunities we've given, the privilege we've been given, so everybody a little bit differently.",1,22
+710,I think that when we,0,5
+711,"I'm always grappling with, and I know you are too, the previous iterations of Othello.",0,19
+712,I talk about the upcoming Othello.,0,7
+713,"And I'm like, is this just going to happen?",1,12
+714,long lists of mediocrity.,-1,5
+715,I'd lay money right now.,1,7
+716,We don't know.,0,5
+717,I feel like you do.,1,6
+718,My glass is half full right now.,1,8
+719,I'll just say that.,0,6
+720,"We know that Othello is well-traveled, if only because of the work that he has to do.",1,19
+721,"And I think about people that are well-traveled, even whatever industry they're in or whatever work they're doing, even if it's being a soldier, experiencing these people and these lands and whatever way you experience them, you have to learn from that.",1,50
+722,"to fight against these old notions of Othello in the productions that I've seen, where he's just this dumb soldier that doesn't really know what's going on around him.",-1,35
+723,"And I want to, in this project that we're doing right now, I want to push against that, because I think also the text supports it.",2,31
+724,But this man has been through it and that he knows.,0,12
+725,"I always, you know, I related to sports a lot because I don't know what it is to be.",0,23
+726,"I've never been a soldier, right?",1,9
+727,"Played a lot of sports, a lot of sports.",0,11
+728,"And then remembering how a team gets together and how when you're on that field, whatever sport it is, you're not thinking about anything other than getting that job done.",0,35
+729,"scoring these points, making this gold.",1,8
+730,"You're not thinking, I'm not thinking that you're white.",0,14
+731,I'm not thinking that you're ambiguous.,-1,9
+732,"I'm not thinking, you know what I mean?",0,11
+733,"I'm thinking, how can you help me win this?",1,12
+734,How can we win this?,1,6
+735,And I think that's very interesting for me to think of Othello in that way.,1,17
+736,"And then wanting to always be around that, because once you're outside of that, then you gotta deal with the bullshit, right?",0,28
+737,When you step off that field.,0,7
+738,and to be off that field for as long as Othello's been off.,0,15
+739,"I don't know, I always think that Desdemona provides something that, and obviously provides something that he's never experienced before, but maybe she was the only one that ever asked him, how are you?",0,41
+740,"You know, and...",0,5
+741,"You know, when you really ask somebody how they are, you're like, oh, I'm fine.",2,22
+742,"I'm like, no, no, no.",1,10
+743,"Like, how are you?",1,6
+744,"I mean, I have a friend going through a separation divorce right now.",1,15
+745,"I'm like, how you doing?",1,8
+746,"He's like, I'm good, I'm good.",3,12
+747,"I'm like, no, no, man.",1,10
+748,You know.,0,3
+749,"And then he's got to take it in, right?",1,12
+750,He's got to take it in.,0,8
+751,"So, yeah, I think, what if she's the first person that's really asked?",0,19
+752,And not reveled in this soldier that's in front of him.,0,13
+753,"these accolades that he's received, but how are you doing as a human being?",1,17
+754,I don't know.,0,5
+755,"Again, I just think he's deeply intelligent and, if anything, well-traveled and being well-traveled, all of the things that you experience.",1,27
+756,I always want to take my kids to places.,0,10
+757,"And it's one of my, you know, I'm always kicking myself that I'm not in a financial place to be like,",1,27
+758,Let's just go here.,0,6
+759,But he had a job where he goes.,0,9
+760,And is respected.,0,4
+761,That's got to feel good when we're respected.,1,11
+762,I was also talking to my students this morning.,0,10
+763,"I don't know if Halstead even brought it up, but she was saying she was dating this Russian guy.",0,22
+764,And she's African-American.,0,5
+765,"And this other African-American woman in the class, her parents were Nigerian.",0,14
+766,"And she's like, oh, I'm only dating Nigerian men.",1,14
+767,I want a Nigerian wedding.,0,6
+768,I'm only dating Nigerian men.,0,7
+769,And I was talking about when I visited Ghana.,0,10
+770,"And she's like, oh, no, no, no.",1,13
+771,"She was like, that would be like, you know,",2,12
+772,"the New England Patriots and, you know what I mean?",0,12
+773,"And the New York, you know, like a rivalry or something.",0,14
+774,"It's like, there's this big rivalry.",0,10
+775,"I'm like, why?",1,6
+776,"And she's like, you don't understand the tribes there.",1,13
+777,"And I'm like, you're right, I don't understand the tribes there.",2,17
+778,"So, you know, just that.",0,8
+779,"It's like, you know, talking to them and wondering.",1,13
+780,"But they were talking about, I also think about how this woman can really,",0,16
+781,"I don't know, she's got to get in there, right, in a way, because how the hell's, I don't know, who the hell would even be interested in a guy like that if it wasn't something deeper?",0,49
+782,or if they hadn't had conversations and gotten to a deeper place.,0,14
+783,"Because it doesn't seem like Desdemona is enthralled with this soldier, but enthralled with this human being.",3,20
+784,And so I'm interested in exploring how that happened here.,0,12
+785,We are at time for a 10.,0,8
+786,Do you want to take that?,0,7
+787,Thank you.,1,3
+788,Yeah.,0,2
+789,"Thank you, too.",1,5
+790,Yeah.,0,2
+791,And are we good to break and maybe move a little bit when,0,13
+792,"Yeah, move.",0,4
+793,"I planned that just for you, actually.",0,9
+794,"Yeah, we've just been in Washington State working with students, and we've learned a lot about how setting up rooms in different ways affects the work and how being able to sort of move fluidly between sitting around and talking about stuff",1,46
+795,"or working on text and moving is very, very vitally important.",1,13
+796,"So, yes.",0,4
+797,"So, yes, 7 and 2 will be back at 7 and 12.",0,15
+798,"Thank you, 7 and 12.",1,7
+799,"Thank you, 7 and 12.",1,7
+800,"Prologue, Venice, a sitting room in Rubanchio's house.",0,12
+801,Desdemona and Othello sit on opposite sides of a small round-topped table upon which a tea service is set.,0,20
+802,Michael Cassio sits apart from them to the left.,0,10
+803,"Desdemona is in a simple, modest dress that, were she standing, would reach below the knees.",1,20
+804,You would call her demure if she didn't have one bare foot tucked up under her thigh and her dress hiked above her knee in order to do it.,0,31
+805,"Still, she radiates poise and intellect.",1,8
+806,There is weight and conviction in her voice.,0,9
+807,She is a striking woman of about 25.,1,9
+808,She has a sort of focus from her eyes that gives the impression that she listens when others speak and thinks about what they say.,0,26
+809,She weighs her words before she gives them breath.,0,10
+810,Then sometimes she doesn't.,0,6
+811,She looks at everyone with the same positive regard.,2,10
+812,Othello and Cassio are impressed with casual military dress.,1,10
+813,Othello is a powerfully built and painfully handsome man of 50 or more.,1,14
+814,"painfully because his beauty, like hard, precious stones, or the cliff face of a seaside, seems wrought from ages of pressure and abuse.",-1,28
+815,"He is too big for the delicate drawing room chair, and his hands too big for the teacup as well, but in this particular space and circumstance he appears happy, if not relaxed, nonetheless.",4,39
+816,He sits with the dignified and confident mien of one who has achieved his purpose in life and lives it.,2,21
+817,Cassio fits the chair better.,1,6
+818,"He is about 30, and he too cuts quite the figure.",0,13
+819,"He is well-built and very handsome, though it is obvious that what Othello simply is, Cassio does in order to be.",1,24
+820,He holds his teacup in a saucer in his lap.,0,11
+821,"Othello crosses his legs at the knee, right over left.",1,12
+822,Cassio does the scene.,0,5
+823,"The scene is conducted in Italian, and it's in Spanish, in French.",0,16
+824,"I drink the tea, you drink the tea.",0,10
+825,"He drinks the tea, we drink the tea.",0,10
+826,"You drink the tea, they drink the tea.",0,10
+827,It's enough like Italian that I can remember it.,2,11
+828,"Oh yes, but never mind.",0,7
+829,"Moors, mostly.",0,4
+830,Spanish is like Arabic because of the Moors.,1,9
+831,"But sir, you say that about everything.",0,9
+832,Is everything because of the Moors?,0,7
+833,"Yes, mostly everything.",0,5
+834,"They were, how do you say in Italian?",0,10
+835,In everybody's business.,0,5
+836,I was going to say enterprise.,0,7
+837,I see.,0,3
+838,"It must be why everyone calls you the Moor, and not the General.",0,15
+839,"Or by your name, Moteo.",0,7
+840,"Somehow, Moorishness precedes you.",0,6
+841,"Perhaps, Desdemona.",0,4
+842,"Anyway, now can you do it in Arabic, as I taught you?",0,15
+843,"And even when they address you by your name, they say, Othello, not Othello, which is your name.",0,23
+844,May I say?,0,4
+845,"Yes, but never mind.",0,6
+846,It's important.,1,4
+847,"It's your name, sir.",0,7
+848,And a beautiful name.,1,5
+849,"Come, Arabic.",0,4
+850,What does it mean?,0,5
+851,Come.,0,2
+852,"Come, Arabic.",0,4
+853,"No, Arabic is too difficult to all embarrass myself.",-2,11
+854,Nonsense.,-1,2
+855,"Oh, I haven't practiced.",0,7
+856,"Yes, all right.",1,5
+857,Tell me the meaning of your name and I will recite my Arabic.,0,14
+858,You are in court.,0,5
+859,"Let's go back and tell me the meaning of, could you both whisper it or just very self-avocity speak?",0,22
+860,"Very, very, very self-avocity.",0,7
+861,Tell me the meaning of your...,0,7
+862,"Oh, yeah, yeah.",0,6
+863,"No, I haven't practiced.",0,7
+864,Quieter than that.,1,4
+865,That's too loud.,-1,5
+866,"Oh, fine.",1,4
+867,Yes.,0,2
+868,All right.,1,3
+869,Tell me from the interview.,0,6
+870,"And all of a sudden, I hear you.",0,10
+871,You are a coach.,0,5
+872,"It means, um, is you Spanish?",0,9
+873,He has the sound of God.,0,7
+874,He has the sound of God.,0,7
+875,In Arabic?,0,3
+876,"Yes, of course.",0,5
+877,All right.,1,3
+878,Can you conjugate in Arabic?,0,6
+879,"No, it changes.",0,5
+880,What?,0,2
+881,I haven't.,0,4
+882,"Ladies and gentlemen, I drink tea.",0,8
+883,You drink the tea.,0,5
+884,He drinks the tea.,0,5
+885,We drink the tea.,0,5
+886,We drink the tea.,0,5
+887,Bravo.,1,2
+888,Mr.,0,2
+889,Cassio.,0,2
+890,Bravo.,1,2
+891,"So, I'm tired of drinking tea.",-1,9
+892,"Give me another word, Signora Cassio.",0,8
+893,How do you say love or anything?,1,8
+894,I love you.,1,4
+895,Love you.,1,3
+896,He loves you.,1,4
+897,We love you.,1,4
+898,We love you.,1,4
+899,Marvelous.,1,2
+900,You know...,0,3
+901,"Of course, Maggie.",0,5
+902,I love you.,1,4
+903,No.,0,2
+904,Forgive me.,0,3
+905,I'm certainly Italian.,0,5
+906,That's what I mean for the most part.,0,10
+907,but it's not so easy to do so.,1,10
+908,Let's see you try.,0,6
+909,Go ahead.,0,3
+910,in general,0,2
+911,What strikes us about the obsolete scene?,-1,8
+912,"Oh, the elision of I love you love was just gone.",2,13
+913,Toe-curling.,0,2
+914,So good.,1,3
+915,It's not Amano.,0,5
+916,Yeah?,0,2
+917,Not Amano.,0,3
+918,It's Amano.,0,4
+919,Amono?,0,2
+920,With an O?,0,4
+921,Yeah.,0,2
+922,Following the...,0,3
+923,Amo.,0,2
+924,Amo.,0,2
+925,Amo.,0,2
+926,Amo.,0,2
+927,Amo.,0,2
+928,Amo.,0,2
+929,Amo.,0,2
+930,Amo.,0,2
+931,Amo.,0,2
+932,Amo.,0,2
+933,Amo.,0,2
+934,Amo.,0,2
+935,Amo.,0,2
+936,Amo.,0,2
+937,Amo.,0,2
+938,Amo.,0,2
+939,Amo.,0,2
+940,Amo.,0,2
+941,Amo.,0,2
+942,Amo.,0,2
+943,Amo.,0,2
+944,Amo.,0,2
+945,Amo.,0,2
+946,Amo.,0,2
+947,Amo.,0,2
+948,Amo.,0,2
+949,Amo.,0,2
+950,Amo.,0,2
+951,Amo.,0,2
+952,Amo.,0,2
+953,Amo.,0,2
+954,Amo.,0,2
+955,Amo.,0,2
+956,Amo.,0,2
+957,Amo.,0,2
+958,Amo.,0,2
+959,Amo.,0,2
+960,Amo.,0,2
+961,Amo.,0,2
+962,Amo.,0,2
+963,Amo.,0,2
+964,Amo.,0,2
+965,Amo.,0,2
+966,Amo.,0,2
+967,Amo.,0,2
+968,Amo.,0,2
+969,Amo.,0,2
+970,Amo.,0,2
+971,Amo.,0,2
+972,Amo.,0,2
+973,Amo.,0,2
+974,Amo.,0,2
+975,Amo.,0,2
+976,Amo.,0,2
+977,Amo.,0,2
+978,Amo.,0,2
+979,Amo.,0,2
+980,Amo.,0,2
+981,Amo.,0,2
+982,Amo.,0,2
+983,Amo.,0,2
+984,Amo.,0,2
+985,Amo.,0,2
+986,Amo.,0,2
+987,Amo.,0,2
+988,Amo.,0,2
+989,Amo.,0,2
+990,Amo.,0,2
+991,Amo.,0,2
+992,Amo.,0,2
+993,Amo,0,1
+994,Lei ama.,0,3
+995,Noi amiamo.,0,3
+996,Loro amate.,0,3
+997,Voi amate.,0,3
+998,Loro amano.,0,3
+999,"You might get it wrong and get corrected, right?",0,11
+1000,You missed one.,-1,4
+1001,Okay.,0,2
+1002,"So whatever it is, we can have them say it wrong, is what I'm saying.",-1,19
+1003,Okay.,0,2
+1004,All right.,1,3
+1005,I get it now.,0,5
+1006,"I think it's correct, but yes.",1,9
+1007,So then how does she respond?,0,7
+1008,"also connected, I love the fact that there was this sense of sort of like, oh, when Othello didn't align the I love you.",3,29
+1009,"Another place I noticed was connected to the power of witnessing, or Cassio.",0,15
+1010,Yes.,0,2
+1011,And I felt this moment for Casio at the end of the conjugation when you said they drink the tea.,0,21
+1012,"I'm like, oh, he's on the outside.",1,12
+1013,Yeah?,0,2
+1014,But I don't know if there's too much to zoom in.,0,14
+1015,"Well, I mean, if you put this in the middle, it ain't too zoomed.",1,19
+1016,Right?,1,2
+1017,Right.,1,2
+1018,"I almost wonder if you could transpose the wonderful, like I love that",4,14
+1019,Where's that?,0,4
+1020,So it's middle of page five.,0,8
+1021,"So she says that they love and you knew all along, of course.",1,15
+1022,Wonderful.,1,2
+1023,"And she says, now you.",0,7
+1024,"Ah, I see.",0,5
+1025,"Is there something, I agree, like something could still be",1,12
+1026,"else like the wonderful, that it's an unguarded expression which we don't get a lot from him in this scene.",2,24
+1027,Yeah.,0,2
+1028,Yeah.,0,2
+1029,I wonder if we get a lot from him of unguarded expressions anywhere.,1,14
+1030,"And what level of stress has to, he",-1,9
+1031,"There are diplomatic ways to talk about societal affairs, which sort of lead into state affairs, right?",3,20
+1032,Where does the diplomacy start to slip?,0,8
+1033,"It's like the character in American War, right?",2,11
+1034,"He's always on the verge of saying something that he's not supposed to, and does, and then he wants to almost put it back in his mouth, right?",1,34
+1035,Where is that for him?,0,6
+1036,Does everybody need to hear what Shurby said?,0,9
+1037,"Is this something we brought up in the audition day, or is this a note of mine?",0,19
+1038,"I wrote, have arrangements been made for language lessons?",0,11
+1039,Who initiated a discussion of language lessons?,0,8
+1040,Is this a ruse?,0,5
+1041,We're going to sit here and study languages?,0,10
+1042,No.,0,2
+1043,Didn't we talk about that?,0,7
+1044,Yeah.,0,2
+1045,"Yeah, yeah, yeah.",0,6
+1046,Maybe just Devona asked her dad for a language lesson.,0,11
+1047,It feels that way.,0,5
+1048,Yeah.,0,2
+1049,Yeah.,0,2
+1050,Yeah.,0,2
+1051,What other things did they get up to?,0,9
+1052,"So I wonder in our tool belts, what are all the things that we have?",1,17
+1053,Because I love how palpable everything is that is not said.,1,12
+1054,And I think it has immense value to not say a lot.,1,13
+1055,"But then I wonder if there are times in this universe that we are constructing where we get explosions of other things, maybe even dreams, things that people can't help their brains manifesting.",1,37
+1056,"Well, I mean, how closely do we have to adhere to reality?",1,15
+1057,"And I think we talk a lot about realism versus naturalism, and I sort of love the idea of having a very contained structure, at least at first, where we know the rules, we get it, and it's tea.",1,46
+1058,"I mean, tea alone is...",0,7
+1059,It makes me schvitz.,0,5
+1060,"I mean, because there's so much you can do with tea, and saucers, and little spoons, and sugar, and cream, and whoops.",0,30
+1061,I just poured it all over the table.,0,9
+1062,These are the images.,0,5
+1063,"There's a famous scene in Tom Jones where they're just drinking tea, and it's a sex scene.",1,22
+1064,"Oh, I don't know this scene.",0,9
+1065,"Shocking, I'm sure.",-1,6
+1066,Tom Jones?,0,3
+1067,"Yeah, Howard Finney.",0,5
+1068,Oh.,0,2
+1069,"Yeah, yeah.",0,4
+1070,"Is it worth exploring trying to, at times, preserve the narrative voice that we have in the stage directions?",1,22
+1071,Because some of them are quite beautiful.,1,8
+1072,And in terms of creating shadings in scenes in which people are not saying the thing.,0,17
+1073,Yeah.,0,2
+1074,Or even not doing the thing.,0,7
+1075,Right.,1,2
+1076,How interesting would that be?,1,6
+1077,Yeah.,0,2
+1078,Whose voice do you think that's?,0,8
+1079,"Or that it's, we're narrating each other's moments almost.",0,14
+1080,"Right, right.",2,4
+1081,"As a form of capture, as a form of",0,10
+1082,This is what I see this person doing.,0,9
+1083,This is what I'm reading and this person is doing.,0,12
+1084,And there's so much of that in the Shakespeare text that I feel like it's part of what helps me with the world.,1,26
+1085,So would it necessarily be from the perspective of the person speaking?,0,13
+1086,I thought you were saying of the perspective of the observer.,0,12
+1087,Yeah.,0,2
+1088,OK.,0,2
+1089,"So it would be, OK.",0,7
+1090,Something that's interesting.,1,5
+1091,There's so much information.,0,6
+1092,It's delicious.,1,4
+1093,It's so overrated.,-1,5
+1094,It's so tactile.,0,5
+1095,"And it sort of really gives, I mean, what I'm saying, it gives the performers just all the foundation they need.",0,26
+1096,"But I think it's also worth trying to validate, sort of seeing what's there.",1,18
+1097,"But I just, I love, I usually hate stage directions.",0,13
+1098,I hate them.,-1,4
+1099,But these are so nice and so informative.,1,9
+1100,that I feel like I like the idea of them being spoken.,2,13
+1101,Yeah.,0,2
+1102,You hear that?,0,4
+1103,You wrote a nice stage to write.,1,8
+1104,It's really nice.,1,5
+1105,I'll read it in O'Neill.,0,7
+1106,I'll tear out the first three pages of the play.,0,12
+1107,"It kind of carries over into the O'P script, right?",1,12
+1108,Because so much of that now is the way we describe.,0,12
+1109,"The idea of each of these characters speaking in this room about what they see, perhaps not to the audience, but almost as if they've each been keeping a journal.",0,34
+1110,"On themselves, you know?",0,6
+1111,Yeah.,0,2
+1112,"Oh, great, great, great.",3,8
+1113,"Because then the moment they start speaking to each other, the reference that sticks in my head right now is that I like not that.",2,27
+1114,You saw what I saw?,0,6
+1115,What were you talking about?,0,6
+1116,You saw what he did?,0,6
+1117,What do you mean?,0,5
+1118,He pulled this handkerchief.,0,5
+1119,Isn't that the planting of one perspective over another?,0,11
+1120,Did she catch me?,0,5
+1121,Yeah.,0,2
+1122,Does she know that I saw what she thinks that I saw?,0,13
+1123,Yeah.,0,2
+1124,And what if we do break it at some point?,-1,11
+1125,What if someone hears something they were not supposed to have heard and just breaks?,-1,16
+1126,"I absolutely love the discussion that's currently happening, but I wasn't fully formulated because I don't want to center Iago.",1,25
+1127,But is it giving the stage directions for what he wants to happen a misapprehension of love that he then turns into a way of manipulating people?,1,28
+1128,There's something very interesting in a prelude where it's Iago training himself that there's a way to break the world.,0,24
+1129,Because I didn't imagine it being the characters talking.,0,11
+1130,"I heard the stage directions, and we're not sure knowing exactly what's happening, and not being sure how to say it.",0,26
+1131,"So there's also a way to play it where it might not be one of the characters that's on stage, and there might be a sense of what is being seen from the outside.",0,38
+1132,"There's a quote that I wrote down from the Incomplete Dramaturges, which I really love that article, and thank you so much.",1,26
+1133,"Every time I read it again, I'm mind blown.",0,12
+1134,"So if I can read my own handwriting, I'll read it to you.",0,16
+1135,"And it wasn't, this isn't Nora.",0,10
+1136,This is a quote that she wrote and I didn't write down.,0,14
+1137,Spatial structures become more virtual and layered.,0,8
+1138,with multiple contradictory spaces existing simultaneously and folded into each other.,-1,12
+1139,"Causation becomes less mechanical and increasingly indeterminate, offering a network of possible and equally valid causal connections that produce multiple shifting interpretations of events.",-1,26
+1140,So that's a fancy way of saying kind of what we're talking about.,1,16
+1141,"What are they referring, what is that person referring to?",0,12
+1142,"It's out of context, what was the context of that?",0,13
+1143,"Yeah, it is out of context.",0,8
+1144,I think she's referring to the times when you layer on an idea to the Shakespeare text that it's like some kind of new adaptation or something.,1,30
+1145,And then it kind of stultifies it.,0,8
+1146,"in the end, and this is offering other possibilities, right?",1,13
+1147,Yeah.,0,2
+1148,If you were thinking about layers.,0,7
+1149,"Yeah, it was, it was, this was, this was like a way to, a way that it can work as opposed to like the Gunmar warehouse debacle.",2,33
+1150,There's a highlighted section right before it.,1,9
+1151,"She says in regard to liquid dramaturgies to produce dramatic structures which attempt to capture more effectively the increasingly liquid nature of lived experience under the pressure of, in this particular instance, global financial capitalism.",2,38
+1152,"Yeah, but it's that idea of liquid dramaturgies feels like something that we're touching on right now.",2,21
+1153,The possibility of,0,3
+1154,"creating the structure, right, which is the show, whatever that is, and then, I mean, that's all the things, it's all the tools, right?",2,35
+1155,"It's text, it's choreo, it's gaze.",0,12
+1156,"As we construct that, what does it mean to simultaneously subvert it and eventually burn it down, maybe?",-2,21
+1157,"I had a question about the scene along those lines, which is,",0,14
+1158,"which, you know, I keep coming back to, like, the Taming of the Shrew language lessons, the Tom Jung language lessons.",0,27
+1159,"There's a way in which does it, what, how you play that, I guess, is, like, what you're saying.",1,28
+1160,"Because there's sort of this, like, almost baked-in misogynist structure of the language lesson.",1,18
+1161,Mm-hmm.,0,2
+1162,"I don't want to, I'm, I'm,",0,12
+1163,"want to tread lightly on that, because I think you flip it around.",0,15
+1164,But that's a tradition that is in here.,0,10
+1165,"So when he says, now you say the word I taught you, or you say it as I taught you,",0,23
+1166,And then she did turn it around.,0,8
+1167,"But I think you're in kind of exactly what Nora's talking about, territory.",0,17
+1168,Like the Henry Tribe language lesson that is all that.,1,11
+1169,They're all over me.,0,6
+1170,"Yeah, that's so funny.",-1,7
+1171,"Yeah, that structurally it's inherently misogynistic, the idea of language lesson.",0,15
+1172,"Well, it's not until she takes it and runs with it.",1,14
+1173,"Well, it's the point at which he says you knew all along or something like that that feels like you have a turn.",3,26
+1174,I completely agree with you.,0,6
+1175,So this is in the mode of yes and.,0,10
+1176,I'm adopting the patriarchal.,0,6
+1177,I liked it.,1,4
+1178,"Well, of course you did.",1,7
+1179,Of course I did.,0,5
+1180,Because I'm adopting the patriarchal.,0,7
+1181,I liked it.,1,4
+1182,"Well, for other reasons.",1,6
+1183,"It's a language lesson that's only conjugation, and it's a conjugal language lesson.",0,18
+1184,"Yeah, yeah.",0,4
+1185,"This is also, yeah.",0,6
+1186,Do you want to keep going?,0,7
+1187,"It always is such, and you add the T layer, so now we're in the lasagna, right?",1,22
+1188,"But the flip is that Ateo asks something more complicated, and the teacher says, no, you're still doing basic.",-1,24
+1189,Okay.,0,2
+1190,The actual authority of language teacher is held by Desdemona in the whole scene and that's not until the end.,0,22
+1191,"All the other things are playing with the misogynist trope, but actually the structure of power, the dramaturgy in the sense of this is held by Desdemona.",0,30
+1192,And it was interesting the way it was played.,1,10
+1193,"Everyone went sotto voce following Desdemona's lead, Eden Kassia.",1,12
+1194,That was really cool.,1,5
+1195,I'm sorry.,-1,4
+1196,"But I think the thing about language lessons is that it's sexy, is that it's intimate and vulnerable.",1,22
+1197,"And it puts the masculine in a position of, well, when we see it in Shakespeare, usually, besides taming in this room, it makes them gentle.",2,32
+1198,"There's a sense of, well, what I see is usually that there's a sense of guidance.",2,21
+1199,And it's not a punitive authority.,-1,8
+1200,It's not a demeaning authority.,-1,7
+1201,"Like in the language lesson scenes in 95,",1,9
+1202,What we're seeing here.,0,6
+1203,But there's a scene later where they're speaking in French and she's working with him that I think takes this sort of masculine authority figure from the war horse and puts them in the chamber of a lady and it automatically,0,44
+1204,"I mean, I don't want to get too into the brushes here, but even in Richard III,",0,21
+1205,"convince her, even when he doesn't, that he is capable of love.",2,16
+1206,"And I feel like so much of when we speak to each other in other languages, we are learning to speak.",1,23
+1207,"It's very nascent, it's very childlike, it's very innocent.",0,15
+1208,And I think that that's part of the rule.,0,11
+1209,"We get to see someone in an innocent light, even if they're a warrior.",0,17
+1210,"Any time we engage in language, we are participating in this heroic, impossible effort to share our inner world with another person.",0,25
+1211,"And when you're trying to do so in a language that the other person doesn't fully speak, there's an element of I'm sharing a secret with you of a part of my inner world that you don't yet have the sort of decoder ring for.",0,52
+1212,You're also in a position of asking for help.,0,11
+1213,Yes.,0,2
+1214,How do I say this?,0,6
+1215,The way you played it sounded to me for the first time like an oasis.,2,16
+1216,a space devoid of some part of it.,-1,9
+1217,"I mean, they were talking about Moores, and that's going to be, as we begin to figure out what his Moorish heritage and sense of self is that changes.",0,34
+1218,"But to play with her, to play, to do nothing but to enjoy the presence of this person who means you absolutely no harm.",0,27
+1219,Yes.,0,2
+1220,Safe spaces.,1,3
+1221,"Rebecca, how much time do we have before our next break, please?",-1,15
+1222,We actually have seven minutes.,0,6
+1223,Seven.,0,2
+1224,"No, I'm sorry.",-1,6
+1225,"Sorry, I didn't mean to sound.",-1,9
+1226,Seven.,0,2
+1227,How dare you.,0,4
+1228,"Yeah, no, it's seven minutes.",0,9
+1229,We could build a silver corpse in seven minutes.,0,10
+1230,What?,0,2
+1231,Solo compositions.,0,3
+1232,Solo compositions?,0,3
+1233,Yeah.,0,2
+1234,"Just a little, maybe we could push the break by a few minutes or two.",-1,17
+1235,Let's play.,0,4
+1236,Let's play.,0,4
+1237,I'm curious to hear what happens coming out of this information.,0,13
+1238,I want to see what happens.,0,7
+1239,So I'm going to give you some elements.,0,10
+1240,They will be...,0,4
+1241,"Okay, so you're going to build a brilliant but very short piece of theater.",1,17
+1242,"These will be in the order that I give you, which is not usual.",0,16
+1243,"will not be narrative, but it will have a beginning, a middle, and an end.",0,19
+1244,"Do pay attention, this is a very general note, to negative space and the energy of movement.",-1,20
+1245,And here are your elements.,0,6
+1246,"The first one is a silent, violent moment.",0,10
+1247,Second is five seconds of stillness.,0,7
+1248,Third is a moment of uplift.,1,7
+1249,A collapse.,-1,3
+1250,"No, no, no, I've got it out of order.",0,14
+1251,Shit.,-1,2
+1252,A moment of uplift.,1,5
+1253,After that is repetition of gesture.,0,7
+1254,How many times?,0,4
+1255,Cinque.,0,2
+1256,Cinque times.,0,3
+1257,Then it's a collapse.,-1,6
+1258,Then it's an almost touch.,0,7
+1259,But these are solo.,0,5
+1260,These are solo.,0,4
+1261,"A silent, violent moment, five seconds of stillness, a moment of uplift, repetition of gesture times five, a collapse, and almost touch.",0,29
+1262,"Okay, you have five minutes.",0,7

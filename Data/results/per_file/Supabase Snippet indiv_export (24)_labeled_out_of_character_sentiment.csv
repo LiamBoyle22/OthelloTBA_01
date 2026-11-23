@@ -1,0 +1,61 @@
+line_num,line,bing_liu_score,n_tokens
+1,Good morning.,1,3
+2,"Day, what is this?",0,6
+3,"Five, six, seven, eight.",0,8
+4,Day three of week two of the Untitled Othello Project at Sacred Heart.,0,14
+5,Happy to see you all again.,1,7
+6,It's going to be an interesting day because we do not have our Iago or our Othello.,1,19
+7,"This is a UMD Zoom day, so we'll go to 11.50, take 10, come back, Zoom around some of the stuff we ended with yesterday towards the end of Act I.",0,37
+8,"12.50, we'll break again, come back, and then go and drive through to lunch.",-1,19
+9,"In the seat, of Othello this morning.",0,9
+10,We have a guest who I'm sort of excited about.,1,12
+11,"This is Professor Doctor Kevin Gledhill, and he is a historian of early modern and modern Middle East and Eastern Europe, focusing on Iranian and Ottoman trade and encounters with the Russian and Spanish empires.",2,38
+12,His previous work has examined the Caspian Sea region in the 18th century.,1,14
+13,"He is an instructor in the Department of History at Sacred Heart University in Fairfield, Connecticut.",0,18
+14,I knew there was a reason why we came here.,0,11
+15,He received his PhD from the Department of History at Yale in 2020.,0,14
+16,"And so he's new to this, right?",1,10
+17,"It's all brand new, a whole new world.",0,11
+18,"Also holds an MA from the Center for Middle Eastern Studies at the University of Chicago, and a BA in History and Spanish Language and Literature from LaSalle University in Philadelphia.",0,33
+19,"He has previously taught at Yale, Clark, and Quinnipiac universities.",0,13
+20,So welcome.,1,3
+21,"Welcome, sir.",1,4
+22,Thank you for taking time out of your morning to come and hang out with us.,0,17
+23,What made me initially interested in having you present,0,9
+24,Professor Brian was talking about you in conversations we were having about how do I say understand that we have this problem here where we have a 15th century play and a 21st century,-1,34
+25,potential production or at least the exploration of what that production might be.,0,14
+26,Big space in between.,0,5
+27,We know we're not going to do the museum piece.,0,12
+28,We know that we are not interested in trying to reproduce what Shakespeare wrote in any way because it's really impossible.,-1,23
+29,To try is just folly.,0,6
+30,"But personally, in figuring out who Othello is for me and the characters",0,14
+31,"that support him in the arc of his story, I need to understand as best I can what the political situations were, what the situation on the ground was at the time being written about as much as, you know, more about the time being written about than about the time that Shakespeare was writing, you follow what I'm saying?",2,67
+32,"More interested, because he was making mistakes too.",-1,10
+33,He was creating,0,3
+34,adding whatever whimsy he wanted to to the story.,0,10
+35,So the opportunity to hear a little bit about the relationships in that period of European history felt important to me.,1,22
+36,And I'm sure it would spark many questions once you sort of put some stuff out on the floor.,0,21
+37,Thank you for inviting me and for giving me an opportunity to be part of this in some small way.,1,21
+38,So I guess what I prepared was to talk a little bit about Venice and the Ottoman Empire.,0,19
+39,"And then depending on where the questions go, I have some material on.",0,15
+40,"the idea of the Turk and the Moor as characters in early modern Europe as well, and a lot of the anxieties that go with that in an age of empires claiming some universal sovereignty, clearly defined confessional religious identities.",2,43
+41,"But I'll start with Venice and the Ottomans, and we can move out from there.",0,18
+42,"You know, the Republic of Venice, this kind of merchant oligarchic republic, is,",0,17
+43,"One of the sort of largest, most prominent cities of the Latin West, Western Europe, of the Middle Ages, in a time where cities had sort of post-Roman collapse, Venice by the high Middle Ages really emerges as one of the main cities of the West.",0,52
+44,"In the Middle East and the Byzantine Empire, there's a lot of big urban centers still in West Africa as well.",0,24
+45,"But that wasn't the case everywhere in Europe, certainly in Western Europe.",0,15
+46,"But Venice was one, and it was one with a really close relationship with the sea.",0,18
+47,It doesn't have a large hinterland.,0,8
+48,It lives by trade and colonization.,0,7
+49,"And so for this reason, Venice plays a huge role in the crusading era, right?",1,18
+50,Republic essentially makes a huge amount of money ferrying crusaders and pilgrims to Jerusalem.,0,15
+51,Sometimes diverts them for its own purposes.,0,8
+52,The Fourth Crusade famously attacks Venice's rivals in Jerusalem.,0,11
+53,"what's now Croatia, and ultimately sacks Constantinople instead of ever going to Jerusalem.",0,16
+54,"So, you know, Venice is very much part of this commercial world and this crusading project.",0,19
+55,"And even after the crusader states disappear, Venice and its rivals like Genoa are still in this region.",1,20
+56,They're building a network of colonies.,0,8
+57,And they're trading as the sort of second intermediaries of a lot of products that are coming to Europe from elsewhere.,0,23
+58,"So from the Indian Ocean world, you're getting perfumes and gold and ivory products from East Africa, these great city-states of the Swahili coast, spices from South Asia.",2,33
+59,The biggest thing they're buying is black pepper.,0,10
+60,"And Arab merchants buying this up in the Indian Ocean, bringing it to Syria, bringing it to Egypt, selling these things to the Venetians, the Genoese who carry it back to Italy.",0,37

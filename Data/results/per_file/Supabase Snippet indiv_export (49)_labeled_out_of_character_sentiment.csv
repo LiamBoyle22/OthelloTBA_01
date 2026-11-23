@@ -1,0 +1,2476 @@
+line_num,line,bing_liu_score,n_tokens
+1,I just played this with engineering first year students.,0,10
+2,Don't let them win me.,1,7
+3,It's all about who passes at first.,0,9
+4,"Alright, let's have one more round, and this time we're going for...",0,17
+5,"Alright, that's more like it.",1,8
+6,"And now if you want to send it back, so if I get an oi from Kevin and I want to send it back, it's a toike it.",0,32
+7,Right?,1,2
+8,Which is take it with a thick New Zealand accent.,0,11
+9,Toike it.,0,3
+10,Toike it.,0,3
+11,Right.,1,2
+12,Toike it.,0,3
+13,Good.,1,2
+14,"And the other tool at our disposal, if you want to pass the impulse to someone who is not directly on either side of you, it's steady.",1,31
+15,Steady.,1,2
+16,Steady.,1,2
+17,"So we've got oi, toike it, steady.",1,11
+18,Right?,1,2
+19,Steady.,1,2
+20,OK.,0,2
+21,OK.,0,2
+22,"Well, we start with a chant.",1,8
+23,"The chant goes, call and respond.",0,8
+24,"Ziggy, ziggy, ziggy.",0,6
+25,"Ziggy, ziggy, ziggy.",0,6
+26,"Oy, oy, oy.",0,6
+27,"Oy, oy, oy.",0,6
+28,"Ziggy, ziggy, ziggy.",0,6
+29,"Ziggy, ziggy, ziggy, ziggy.",0,8
+30,"Oy, oy, oy.",0,6
+31,"Yeah, all right, all right.",2,8
+32,You got it.,0,4
+33,You know this game.,0,5
+34,Okay.,0,2
+35,"Ziggy, ziggy, ziggy.",0,6
+36,"Ziggy, ziggy, ziggy.",0,6
+37,"Oy, oy, oy.",0,6
+38,"Oy, oy.",0,4
+39,Steady!,1,2
+40,Steady!,1,2
+41,Steady!,1,2
+42,Steady!,1,2
+43,Steady!,1,2
+44,Take it!,0,3
+45,Take it!,0,3
+46,Oi!,0,2
+47,Oi!,0,2
+48,Oi!,0,2
+49,Take it!,0,3
+50,Oi!,0,2
+51,Oi!,0,2
+52,Oi!,0,2
+53,Oi!,0,2
+54,Oi!,0,2
+55,Oi!,0,2
+56,Oi!,0,2
+57,Oi!,0,2
+58,Oi!,0,2
+59,Oi!,0,2
+60,Oi!,0,2
+61,Oi!,0,2
+62,Oi!,0,2
+63,Oi!,0,2
+64,Oi!,0,2
+65,Oi!,0,2
+66,Oi!,0,2
+67,Oi!,0,2
+68,Oi!,0,2
+69,Oi!,0,2
+70,Oi!,0,2
+71,Oi!,0,2
+72,Oi!,0,2
+73,Oi!,0,2
+74,Oi!,0,2
+75,Oi!,0,2
+76,Oi!,0,2
+77,Oi!,0,2
+78,Oi!,0,2
+79,Oi!,0,2
+80,Oi!,0,2
+81,Oi!,0,2
+82,Oi!,0,2
+83,Oi!,0,2
+84,Oi!,0,2
+85,Oi!,0,2
+86,Oi!,0,2
+87,Oi!,0,2
+88,Oi!,0,2
+89,Oi!,0,2
+90,Oi!,0,2
+91,Oi!,0,2
+92,Oi!,0,2
+93,Oi!,0,2
+94,Oi!,0,2
+95,Oi!,0,2
+96,Oi!,0,2
+97,Oi!,0,2
+98,Oi!,0,2
+99,Oi!,0,2
+100,Oi!,0,2
+101,Oi!,0,2
+102,Oi!,0,2
+103,Oi!,0,2
+104,Oi!,0,2
+105,Oi!,0,2
+106,Oi!,0,2
+107,Oi!,0,2
+108,Oi!,0,2
+109,Oi!,0,2
+110,Oi!,0,2
+111,Oi!,0,2
+112,Oi!,0,2
+113,Oi!,0,2
+114,Oi!,0,2
+115,Oi!,0,2
+116,Oi!,0,2
+117,Oi!,0,2
+118,Oi!,0,2
+119,Oi!,0,2
+120,Oi!,0,2
+121,Oi!,0,2
+122,Oi!,0,2
+123,Oi!,0,2
+124,Oi!,0,2
+125,Oi!,0,2
+126,Oi!,0,2
+127,Oi!,0,2
+128,Oi!,0,2
+129,Oi!,0,2
+130,Oi!,0,2
+131,Oi!,0,2
+132,Oi!,0,2
+133,Oi!,0,2
+134,Oi!,0,2
+135,Oi!,0,2
+136,Oi!,0,2
+137,Oi!,0,2
+138,Oi!,0,2
+139,Oi!,0,2
+140,Oi!,0,2
+141,Oi!,0,2
+142,Oi!,0,2
+143,Oi!,0,2
+144,Oi!,0,2
+145,Oi!,0,2
+146,Oi!,0,2
+147,Oi!,0,2
+148,Oi!,0,2
+149,Oi!,0,2
+150,Oi!,0,2
+151,Oi!,0,2
+152,Oi!,0,2
+153,Oi!,0,2
+154,Oi,0,1
+155,Steady!,1,2
+156,Oi!,0,2
+157,Oi!,0,2
+158,Toykit!,0,2
+159,Oi!,0,2
+160,Toykit!,0,2
+161,Oi!,0,2
+162,Toykit!,0,2
+163,Oi!,0,2
+164,Toykit!,0,2
+165,Oi!,0,2
+166,Toykit!,0,2
+167,Oi!,0,2
+168,Toykit!,0,2
+169,Oi!,0,2
+170,Toykit!,0,2
+171,Oi!,0,2
+172,Toykit!,0,2
+173,Oi!,0,2
+174,Toykit!,0,2
+175,Oi!,0,2
+176,Toykit!,0,2
+177,Oi!,0,2
+178,Toykit!,0,2
+179,Oi!,0,2
+180,Let's do very fast birthday greeting and then we're gonna play get a job Congratulations on joining the workforce.,2,23
+181,"All right, so her name is Evelyn.",1,9
+182,So what do you want to say?,0,8
+183,Get a job.,0,4
+184,I think that's the button you're in.,0,10
+185,"It all goes down from here, no.",0,9
+186,Happy birthday.,1,3
+187,Happy birthday.,1,3
+188,"All right, okay.",1,5
+189,We can sing to her.,0,6
+190,"Oh, okay, sure.",0,6
+191,"All right, I'll tell you when you're, okay.",1,13
+192,I'm about to press one.,0,7
+193,"One, two, three, you're on.",0,10
+194,Happy birthday to you.,1,5
+195,Happy birthday to you.,1,5
+196,Happy birthday dear Evelyn.,1,5
+197,Happy birthday to you.,1,5
+198,You guys rock.,0,4
+199,Thank you for indulging that and making me feel like less of an inept parent.,1,16
+200,"Okay, I have to go buy merch today to do that.",0,13
+201,A little bit of handkerchief work was requested.,1,9
+202,And we bought this to stand in with a handkerchief.,0,11
+203,"However,",0,2
+204,I just want to pass an object and see what happens.,-1,12
+205,"We've got this for playing hard, but the fact is I've got something else with me that I just happened to bring, which is this, which is an object that has a great deal of meaning to me.",-1,44
+206,made for me in Hong Kong.,0,7
+207,You can look at the roll hem if you want.,0,11
+208,It's extraordinary.,1,4
+209,And it was from someone who was very special to me and a brilliant theater maker.,1,17
+210,So let's just pass it.,0,7
+211,Because this has juju.,0,5
+212,So let's just,0,4
+213,Amen.,0,2
+214,What are flowers supposed to be?,0,7
+215,What are they supposed to be?,0,7
+216,What kind of flowers are they?,0,7
+217,They're the Grand Erebus Maximus.,1,7
+218,I don't know.,0,5
+219,Beautiful poppies.,1,3
+220,They remind me of the flowers from the fire tree.,0,11
+221,The fire tree?,0,4
+222,You find them in the Caribbean.,0,7
+223,It was inviting.,0,4
+224,"But the closer I got, the closer I feel like it called me to move into it, then somebody else met me that was in there.",1,29
+225,"That sounds like the scene yesterday that we read, the Bianca scene.",1,14
+226,"It felt invasive to me, of not only belonging to someone else, and then, and yet, and still, and being with it, taking it in, in a sensuous way, which for me was smelling, also felt like I was crossing a line.",-1,52
+227,I knew that I was crossing a line.,0,9
+228,"And also, just did it.",0,7
+229,affects the way that I engage with it or the questions I actually seek answers to in relation to the object.,-1,22
+230,That will inform our whole day.,0,7
+231,Thank you.,1,3
+232,There are so many different forms of relationship on display with the object.,-1,14
+233,"Some personal, some shared, some utilitarian, some public, some intensely private.",0,16
+234,And the totality of that actually loaded it with additional meanings.,0,12
+235,"Watching a big pastor in the circle,",0,8
+236,for those personal moments.,0,5
+237,"I wanted to know what was inside, whatever experience you were having with it, whatever experience you were having with it.",0,24
+238,Wanting a bit of that for myself and then all of that being molded into the expectation when it's past or past.,0,24
+239,"Well, so now you have a prop.",1,9
+240,This is not your prop.,0,6
+241,This is the real thing.,0,6
+242,"This is your prop, and feel free to play.",1,11
+243,All right.,1,3
+244,"Yeah, what are we doing now?",0,8
+245,"Yeah, interesting.",1,4
+246,All right.,1,3
+247,Now we're just playing.,0,6
+248,"Yeah, OK.",0,4
+249,Great.,1,2
+250,"Take a look, please.",0,6
+251,"Moving through your feet, heel, ball, toe.",0,11
+252,"The simplest kind of walk, just to find what that is.",1,13
+253,"We always think of walking as being simple, but walking on stage is profound.",1,16
+254,"So nothing extra, just walking, attending to the space above your head.",0,15
+255,the space behind your back and breathing.,0,8
+256,Keep your exhales nice and long.,1,7
+257,"You're not performing, you're merely walking, passing through the spaces between bodies and bodies and walls.",0,21
+258,"From this place, just widen your gaze so you can take in the entire room.",0,17
+259,You don't need your central vision so much today.,0,11
+260,"I mean, free to use it.",1,8
+261,But this is a lot of peripheral.,0,8
+262,And I like to think of tempo as two different things.,1,12
+263,You have an inner tempo and you have an outer tempo.,0,12
+264,And your outer tempo is obvious.,0,7
+265,It's clear to see.,1,6
+266,But your inner tempo is something that you can play hard with.,-1,13
+267,It will activate your outer tempo.,0,7
+268,You just have to make strong choices.,1,8
+269,"So right now, we're in a lot of medium tempo choices.",1,14
+270,"Let's just shake it up a little bit, please.",-1,12
+271,and play with more extremes.,0,6
+272,"We can go all the way from so slow, we're not even sure that this could be considered movement, through warp speed.",-2,26
+273,"We don't have, well, I guess we do have stopping and starting in the room.",1,19
+274,"So you may stop and start, which is another thing that we take for granted.",0,17
+275,What does it mean to find stillness out of movement?,0,11
+276,Does it even exist?,0,5
+277,Is it possible?,0,4
+278,I don't know.,0,5
+279,Don't know.,0,4
+280,Nice.,1,2
+281,Beautiful.,1,2
+282,Beautiful taking of cues and also playing with duration.,1,10
+283,So appreciate that first thing.,1,6
+284,"Oh, stunning.",1,4
+285,Repetition is in the room.,0,6
+286,Be as precise as possible.,1,6
+287,"Specificity is everything, everything, everything.",0,8
+288,Downstage is awake.,0,4
+289,Be aware of keeping your gaze at eye level or a little bit higher or not.,0,17
+290,"But if you're not, then it's a little bit of hiding, which is fine if you're going to have a revelation.",2,27
+291,"Yeah, spatial relationships are nice.",1,7
+292,Extreme close and extreme distance.,0,6
+293,All right.,1,3
+294,Beautiful.,1,2
+295,Shake it out.,-1,4
+296,That was gorgeous.,1,4
+297,You just jumped in and you're listening really hard.,-1,11
+298,Beautiful.,1,2
+299,Let's do a quick two groups to watch.,0,10
+300,But I'm going to tell you.,0,8
+301,Am I going to tell you the groups?,0,9
+302,Oh.,0,2
+303,These decisions weigh on me.,0,6
+304,"Yeah, okay, I'm gonna boss you.",0,11
+305,"Steph, Aaron, Josh, and Welland, please.",0,11
+306,"They're our first group, thank you.",1,9
+307,Everybody else come down stage.,0,6
+308,Watch as though you're making a play with these people.,0,12
+309,The stakes are high.,0,5
+310,Okay.,0,2
+311,I'm gonna give you at some point maybe a little bit of music.,0,16
+312,Who's being yurked?,0,5
+313,"Ah, well, you've already begun.",1,9
+314,There's a lot of information in the room.,0,10
+315,It's interesting.,1,4
+316,"Play with taking just a few cues too many, please.",0,12
+317,Hmm.,0,2
+318,Hmm.,0,2
+319,And blackout.,0,3
+320,Ugh.,-1,2
+321,"Okay, do it again from the top.",1,9
+322,"Yeah, what did you see?",0,7
+323,What just happened?,0,4
+324,Anybody from anybody.,0,4
+325,So too many cues always turns into the keystone cops.,0,11
+326,"But then, like after, I don't know, 30, 45 seconds, it becomes something else.",1,21
+327,Interesting seeing...,1,3
+328,"Aaron's body as protection against, for Stephanie, against other predators.",1,14
+329,"But that protection seemed suffocating in the beginning, and then particularly the foot, the use of the foot to push someone away was really interesting.",2,28
+330,"I saw caution, a lot of caution and reaction to, I will take this next step, I will take this next step, what are you going to do about it?",0,35
+331,Which gave it some dynamic shifting for me.,1,9
+332,"On stage, it was interesting experiencing so much contention and so much care at the same time.",0,19
+333,"We were really taking care of each other, I felt.",0,12
+334,And that meant that we could push harder.,0,9
+335,"Yeah, I saw a lot of beautifulness.",0,9
+336,"Let's have the other group of things, the rest of y'all.",0,14
+337,Someday I will give you music.,0,7
+338,"Yeah, all right.",1,5
+339,"So there's already a lot of vocabulary in the room, so keep that in mind.",0,18
+340,You can recycle.,0,4
+341,We don't really need to create anything new.,0,10
+342,It's all here.,0,5
+343,Hmm.,0,2
+344,Attending to space and time first.,0,7
+345,Nice listening.,1,3
+346,Beautiful.,1,2
+347,Thank you.,1,3
+348,Thank you.,1,3
+349,Your listening is beautiful.,1,5
+350,It gets harder with music.,0,6
+351,So I'll give you some.,0,7
+352,Thank you.,1,3
+353,Please accelerate into a simultaneous ending.,0,7
+354,Yes.,0,2
+355,Slow fade.,-1,3
+356,Slow fade to black.,-1,5
+357,Beautiful.,1,2
+358,"All right, what just happened?",1,7
+359,I lied about music.,-1,5
+360,"Sorry, I'm not sure why I don't have sound.",-1,13
+361,I was hearing music.,0,5
+362,I was hearing their breath.,0,6
+363,"Yeah, I mean, there's always sound design, so that is great.",1,16
+364,"Yeah, okay, what did you see?",0,9
+365,Heartbeat.,0,2
+366,The tether was so damn strong.,0,7
+367,"I just like, sometimes group agreement can get boring, but it was never boring in this improvisation to me.",-1,22
+368,"Um, the use of the, the, the shared vocabulary of the spinning and the way that it just became utterly suddenly simultaneous.",-1,26
+369,"And pulled from the first one, right?",1,9
+370,Yes.,0,2
+371,Yes.,0,2
+372,"So like, oh, thank you.",2,8
+373,Yeah.,0,2
+374,"I would have to, you know, I attribute it to this room and the intimacy with it, but I, you know, I agree that listening was really just deep and zoned in and hyper, hyper awareness of each other and what you're doing, even if you're not visually seeing them, but it was very powerful.",2,66
+375,It was great.,1,4
+376,"I mean, the energy can't go anywhere.",0,10
+377,"It's all, it's just stuck here, you know.",-1,13
+378,"Conversely, in that cavernous proscenium that we work on, sometimes it just shoots out and kind of dissipates.",1,21
+379,"But here, it's just so compact, and I think there was a real, whether conscious or unconscious, awareness.",1,24
+380,"Yeah, I'm really happy that we get to play in a different space without the vastness.",1,19
+381,I just want to protect and disrupt.,0,8
+382,Touch is very interesting in these exercises.,1,8
+383,"And I think it has something to do with, it might be a tempo thing.",0,17
+384,"Because it's like, OK, if you haven't made an intentional contact",1,15
+385,And the minutes keep ticking by.,0,7
+386,Do you know what I mean?,0,7
+387,"And then it's like, man, so when this happens, it's going to be more.",1,20
+388,"Because if you're out there for 30 seconds, and you make contact, or you do things, it's.",0,23
+389,"But the longer time goes by, the notion of making an intentional contact becomes more imbued with something.",0,20
+390,"And it's funny because you have to get out of your own head to not say it means this, right?",0,23
+391,"You just have to, like, when it comes, it'll come, and don't let that weight put you back in your own head.",1,29
+392,"Yeah, which is partly why we do work in two groups to watch each other, because we all know we're not working on narrative.",1,28
+393,"or character, or whatever.",0,6
+394,"But it's, oh, it's so cool.",1,11
+395,"But boy, oh boy, from the audience perspective, it was loaded with narrative and relationships.",0,19
+396,Yeah.,0,2
+397,"I was thinking a lot this time about the layer that we don't talk about, I think, which is like,",1,24
+398,"the other people in the space, what is their actual level of comfort with you in the space?",1,20
+399,"Actual, actual?",0,4
+400,Like what is underneath everything?,1,6
+401,I was aware of that today in a way that I don't think that I usually am.,0,19
+402,And that felt like a really interesting space,2,8
+403,that I'm trying to be more aware of with movement work.,1,13
+404,It's a different kind of listening.,0,8
+405,I don't know.,0,5
+406,Yeah.,0,2
+407,"Sometimes my body wanted to respond to something with my mind, didn't it?",0,16
+408,Because you're listening with all surfaces.,0,8
+409,Yeah.,0,2
+410,Let's do a little bit of open VPs.,0,10
+411,I don't know why I don't have sound right now.,1,13
+412,Is the speaker on?,0,5
+413,I do that all the time.,0,7
+414,I had sound before.,0,5
+415,I don't know.,0,5
+416,That's the first question from the service department.,0,10
+417,Always.,0,2
+418,My damn router's not plugged in.,-1,8
+419,"No, that'll be $150.",0,8
+420,"All right, gang.",1,5
+421,Rock and roll.,0,4
+422,"So open viewpoints means you play as hard as you want to, and if you want to come out and watch, you can do that as well.",0,30
+423,The space between offstage and onstage should be attended to carefully.,0,12
+424,"It's, I don't know where it is.",0,11
+425,"I don't know, but make sure that's.",0,11
+426,All right.,1,3
+427,Take a walk.,0,4
+428,"And spatial relationships are looking good, but let's keep that.",1,13
+429,Let's keep that.,0,5
+430,It's fun.,1,4
+431,Also listening.,0,3
+432,"Yeah, of course.",0,5
+433,as Evelyn would say.,0,5
+434,"Yeah, okay, encounter is in the room.",0,10
+435,So let's keep that element.,0,7
+436,"If an encounter happens, let it live.",0,9
+437,"And when the impulse is over, let it go.",0,11
+438,That's equally important.,1,5
+439,.,0,1
+440,.,0,1
+441,"Well, I was born an original sinner I was born from original sin And if I had a dollar bill",0,21
+442,"My mother told me good, my mother told me strong She said be true to yourself and you can't go wrong But there's just one thing that you must understand You can fool with your brother But don't mess with a missionary man Don't mess with a missionary man Don't mess with a missionary man Don't mess with a missionary man",-4,68
+443,He's got God on his side.,0,8
+444,He's got the saints and apostles backing up from behind.,0,12
+445,Like God looks from those Bible books.,1,8
+446,"He's a man with a mission, got a serious mind.",0,13
+447,There was a woman in the jungle and a monkey on a tree.,0,14
+448,"A missionary man, he was following me.",0,9
+449,"He said, stop what you're doing, get down upon your knees.",0,15
+450,I have a message for you to recognize.,0,9
+451,I was born an original sinner.,0,7
+452,I was born from original sin.,-1,7
+453,"If I had a dollar bill for all the things I've done, there'd be a mountain of money.",0,22
+454,Yeah.,0,2
+455,Oh.,0,2
+456,And please accelerate into a simultaneous ending.,0,8
+457,Look out.,0,3
+458,"All right, great.",2,5
+459,What is working in the room and what isn't working so well?,1,14
+460,Let's talk about that.,0,6
+461,"And any discoveries that were made, of course.",0,10
+462,Just moving without impulse.,0,5
+463,Yeah.,0,2
+464,"Letting go of preconceived ideas completely just for this work, trying to just be like, let go, let go, let go.",2,26
+465,Yeah.,0,2
+466,"Because the narrative wants to keep coming in always, always wants to keep coming in.",0,17
+467,"And sometimes it comes in and it's like, oh, OK.",1,14
+468,"And sometimes something's happening and it's like, oh, look at the narrative.",1,17
+469,"And then it's like, well, fuck the narrative, actually, because it's this now.",1,20
+470,"So just for myself, I felt that.",0,9
+471,"I'm such a sucker for repetition, you know?",-1,11
+472,"I mean, as long as it's not forced, right?",1,13
+473,"So I will be happy all week because there were these two opportunities to catch Stephanie's head on the way down, you know?",1,26
+474,"And it's just, you know, and it's like, no, it was just there, right?",2,22
+475,"Then, oh, there it is again, right?",1,11
+476,"And so that, I mean, that sense of something that's repeated that you, that's not forced, but that the opportunity arises and you remember your vocabulary And it presents itself as just, I mean, it's so pleasurable to be in that.",1,51
+477,Yeah.,0,2
+478,That's how I felt.,0,6
+479,"Yeah, and we can always hone in, hone the vocabulary in instead of creating more.",0,18
+480,"Right, right.",2,4
+481,That's keystone cards.,0,5
+482,Yeah.,0,2
+483,Yeah.,0,2
+484,Let's get some more vocab!,0,7
+485,"They say that, but I don't know what I practice.",0,13
+486,It's so hard to do.,-1,7
+487,"I'm like, no, I would make things.",1,11
+488,You're using the viewpoint of razzle-dazzle.,0,8
+489,I'm always talking to myself not to be too dancey.,0,12
+490,"It's hard to take care of space and time before everything else, but that's what has to happen or else the room is totally mushy.",-2,29
+491,"It's like I can't see anything, especially, and I'm an asshole about shape.",1,19
+492,"If shape and gesture starts coming in and space and time are not attended to,",0,16
+493,"then I can't, it's just like meh.",1,11
+494,"So that's a tough, it's a tough one, because it's like this has to be engaged with everybody else before we can play with these things.",3,32
+495,"Yeah, there's a lot of shape coming into the room.",0,13
+496,And it's not that shape is bad.,-1,9
+497,It's that it has to be sustained.,0,9
+498,It's like working on the floor.,1,8
+499,You have to work a thousand times harder.,1,9
+500,So I challenge you to trust that this is enough and play from here.,2,15
+501,It's hard because it's very exposing.,-1,9
+502,Exposure.,0,2
+503,"That's in joke, because we are making a show.",-1,12
+504,I thought you were talking about Northern Exposure.,0,9
+505,"It's a great show, by the way.",1,10
+506,Which is a great show.,1,6
+507,This is a different kind of exposure show.,0,9
+508,Cool.,1,2
+509,All right.,1,3
+510,Anything else that struck you?,-1,6
+511,"Did encounter happen, or did that kind of get lost?",-1,12
+512,"I mean, obviously it happened.",0,7
+513,Do you have any revelations about encounter?,0,8
+514,"Do you have a specific definition for that, or?",0,11
+515,"I think when I clocked you in the head, that was an encounter.",0,15
+516,I don't know.,0,5
+517,No.,0,2
+518,"Well, there's a pattern.",1,7
+519,"I guess, yeah, there's a pattern that I can see, which is fast, fast, encounter, slow, slow, slow.",-1,28
+520,Hmm.,0,2
+521,"And if I see your patterns, you have to shake them up.",-1,14
+522,Yeah.,0,2
+523,"Yeah, but that's very common.",0,8
+524,I'm trying to think about what I'm trying to say.,0,13
+525,"Different experiences, same experiences.",0,6
+526,"Same wall, same structure, different ways we talk about it when it comes down to movement and method, how I teach.",0,25
+527,"But then the whole other thing is in this place of trying to find real and impulse, the African diasporic of what's inside my body is percussive.",0,30
+528,And sometimes these moments here feel very white to me.,0,11
+529,of improv viewpoints.,0,4
+530,"And I want to disrupt sometimes, just fucking crump it out, you know what I mean?",-2,19
+531,"I just want to, because everything feels melodic in a way of conservative, melodic in a way of Queen's English, melodic in a way of, you know what I mean?",-1,36
+532,And so I have a hard time,-1,7
+533,"bringing that in and having experiences of what does it mean to bring the Yoruba in, the aesthetic of coolness.",0,22
+534,"There was this moment, an encounter of you coming over me, and I thought about birth, right?",1,21
+535,"Which then made me connect to Barbary, and being in the nanny in Africa, and your mother who passed away.",0,23
+536,"So there was many encounters, but at the same time, I felt myself trying to be in one world.",0,22
+537,What's the word?,0,5
+538,The legato.,0,3
+539,"Yeah, when you try to settle in.",0,9
+540,Assimilate.,0,2
+541,Assimilate.,0,2
+542,I found myself assimilating after years of years of trying to,0,11
+543,"to devise that shit, you know, and take it out and be in spaces that, you know, if it breaks out into just percussive enchants and vibrations from the inner, because all of that is still universal, right?",-1,45
+544,All of that is still universal.,0,7
+545,"That is shared through all of us, but different cultures speak to it differently.",0,16
+546,"And so, yeah, just try to navigate that.",0,11
+547,"If you brought that into the room, which I hope you feel empowered to do whenever it feels appropriate, is there anything that we should be aware of as we incorporate that into the vocabulary in a lot of white bodies?",1,44
+548,"No, I think it's, I mean, when the music came on,",0,16
+549,I just started going in a circle.,0,8
+550,I think it's more of me giving myself permission to be after years and years of being and navigating the structures where I acted but not showed.,0,29
+551,You know?,0,3
+552,"Sometimes it's easier when you have other individuals that, you know, that language is, you know, familiar in sometimes, because even, you know, there's lead and followers all the time.",2,40
+553,But I did think I got to a place of holding.,0,12
+554,Yeah.,0,2
+555,"Well, I think the viewpoint of fuck shit up is a really important one, right?",1,18
+556,Especially a thing,0,3
+557,Someone smash that.,-1,4
+558,"That's when I sit down back here and I'm like, smash it.",0,16
+559,That's when you jump in.,0,7
+560,"I'm like, I can't send it anymore.",1,11
+561,I'll smash it.,-1,5
+562,So I think absolutely.,0,5
+563,"The role of subverter is always a really fun one to enter a room with, no matter what the room is.",1,23
+564,So we can definitely add that.,0,7
+565,"It's nice to hear that because, I mean, first off, I was beautifully articulated and I was fascinated by your ability to be so aware of and able to translate that for me personally.",2,39
+566,"But I echo, I too felt like I wanted to disrupt, but I wasn't sure where that was coming from or if it was Josh wanting to disrupt and if that was okay to do, you know what I mean?",-1,45
+567,So...,0,2
+568,"And if I would say, no, it's not okay, then what?",0,16
+569,"That's fine, too.",1,6
+570,But that makes it even more imperative that you do it.,0,12
+571,I think.,0,3
+572,I guess I just didn't trust where it was coming from.,1,13
+573,You don't have to justify it.,0,8
+574,You have to justify anything.,0,6
+575,I think part of what this work does is if we can tap into that place of bypassing our own prefrontal cortexes is we can find a way of working that does not include justification or transitions from one state to another.,1,43
+576,And that's useful because humans,1,6
+577,don't do that.,0,5
+578,"But as actors, we often try to justify things, or make things make sense, and people don't make sense, so fuck sense.",-1,28
+579,It doesn't have to be.,0,7
+580,That is not a viewpoint.,0,6
+581,I wonder...,1,3
+582,"about that, because while I absolutely love the sentiment of it, I feel like in some ways the shape of the thing itself sometimes counters that.",2,29
+583,Because I think that on some level we as humans do it a lot.,0,15
+584,"I think a lot of the difficult conversation we had yesterday in the room was, in a way, actually, for example, doing the same thing to Keith, actually making him justify his subversion of a commonly understood practice of addressing text.",-2,47
+585,"And so I think that there's a level on which that translates to this space, too, where I think being the subverter in the room is a very exciting experience for certain people who have already been given the space to be the subverters in order to empower them.",2,53
+586,And I think there are some people who experience that actually in a very different way.,0,17
+587,And you're actually vilified for doing that.,0,9
+588,"And I'm just, I'm fighting myself because I similarly feel the impulse to hold because in some ways it's a very educational setup that we're in in this moment, which I think all of us on some level have some experience of having to be good students and all of that.",1,58
+589,"But I know I often find some of the prompts confusing in that way because they,",-1,17
+590,feel guided or directed.,0,5
+591,"And even as you said, you come in to mess it up.",-1,14
+592,"But even that is based on a personal assessment of its quality or its meaning or where it's coming from, which then immediately changes that dynamic.",1,29
+593,"And so then it's, well, I don't want you to come mess it up.",0,19
+594,So I have to find a way to do it.,0,11
+595,"that will come off in a way that you don't have to mess it up, for example.",-1,20
+596,"And this is me personally, even thinking about physical stuff.",0,12
+597,"It's like at the end of the day, doing this barefoot on a concrete floor, you're going to get less than you would get if I had shoes on because of just those kind of circumstances.",1,41
+598,So then the interpretation of what you're getting isn't full because there's so many things that we have to navigate.,0,24
+599,"For example, the very first day, I had to justify why I had socks on.",0,18
+600,which is actually counter to the experience we're creating.,0,11
+601,"Well, I did push against you because I didn't want you to slip.",1,16
+602,I was just concerned.,-1,5
+603,Absolutely.,0,2
+604,"And I think that is actually where it gets tricky, because your intention, absolutely.",-1,17
+605,But there's also a level of how do we clock it in a way?,0,16
+606,"Because the way it actually happened, I had to justify it.",0,13
+607,"Then I got the intention, which was concern.",-1,10
+608,"Yeah, I mean, there's also this idea that I'm in charge.",0,16
+609,And I'm not in charge.,0,7
+610,I'm just leading the room because this is my job today is to lead this room.,2,18
+611,"But I'm not the one to say, you know, oh, that's...",0,17
+612,I don't know.,0,5
+613,I'm not out here to sort of judge.,0,10
+614,I'm trying to find the moments that are alive.,0,11
+615,And I encourage you to come and go in the open viewpoint.,1,13
+616,It's like come and go so that you can do that too.,1,14
+617,Because I'm not the only set of eyes in the room by any stretch of the imagination.,0,19
+618,And I don't know what it means to mess things up.,-1,13
+619,"I say it, but it's like that could be any number of things.",1,16
+620,That could mean not moving for half an hour.,0,10
+621,I've seen that before.,0,6
+622,That's wild.,-1,4
+623,And that does fuck shit up.,-2,7
+624,It's interesting.,1,4
+625,So I don't know.,0,6
+626,I think I hear what you're saying.,0,9
+627,"And I would say push harder against notions of right and wrong, I think, just because in this space, that is what we make it.",0,29
+628,That is what we want it to be.,0,9
+629,Or it isn't.,0,5
+630,"We're creating a world from, you know,",0,10
+631,All we have are our flawed bodies.,-1,8
+632,Everybody has a flawed body somehow.,-1,7
+633,My left hip is a bitch.,-1,7
+634,"But we do what we can, you know, and we push against the things.",0,17
+635,"And I think that if it feels dictatorial,",-1,9
+636,"That's a really good reason to play hard, if that makes sense.",0,15
+637,"And if I can clarify, I'm not really talking so much about you specifically and what you brought.",0,21
+638,I'm actually pointing to the shape of our communication enforces it.,0,13
+639,"Because the way we have the conversation, the way that we",0,12
+640,like engage about the topics the way that we hear each other like is actually sometimes grounded in that experiences for example even yesterday i didn't actually hear keith say that anybody was of their asses i heard him say that that practice can lead to that and has led to that but like those are those things that like,6,61
+641,And I admittedly think this is a very difficult challenge in terms of figuring out how do we find ways of letting everyone have that freedom.,0,27
+642,And I guess it's maybe grounded in the trust that no one is giving less than.,1,18
+643,And I don't have the answer.,0,8
+644,"As I'm hearing it, I'm thinking that there are ways that the messaging is received",0,18
+645,whether intended or not.,0,5
+646,"When you say communication, just to clarify, do you mean spoken or physical communication or both?",0,19
+647,"I mean mostly spoken, but sometimes there is a physical communication to reinforce the spoken if it doesn't feel like it's been heard.",1,27
+648,"Which, for example, is a little bit what it feels like to come and mess it up is because the directives didn't mess it up for you.",-1,31
+649,So then there's a physical reinforcement or reassertion of that.,0,12
+650,"Our default, I think for me, is me bringing the thing I need to bring in to feel myself shouldn't feel like it's messing it up.",0,31
+651,"It shouldn't feel like it's disruptive, but it is.",0,13
+652,"And it kind of reminded me of like, you know, I taught my school that I'm no longer going to use ballet terminology.",1,27
+653,"in my hip hop curriculum because it's ballet technique, right?",1,13
+654,And so my daughter knows how to bend her knees.,0,11
+655,She don't need to know the plie.,0,9
+656,You know what I'm saying?,0,7
+657,"So it's rephrasing the words that we use that continue the systemic ideal that the only dance and everything after it comes from a Eurocentric, you know, ballet.",1,32
+658,"So I think for me, as we're having these deep, amazing conversations with the text,",1,19
+659,that shouldn't stop with the movement.,0,8
+660,Yeah.,0,2
+661,Right?,1,2
+662,Yeah.,0,2
+663,Especially because it's my first bit of communication.,0,10
+664,And movement is such a human nature thing that is beautiful.,1,12
+665,"But I do feel like for me,",1,8
+666,"it's so interesting coming into places that push, that talks about the edge, that disrupts, that's experimental, but still lack",0,26
+667,that still stems in Eurocentric mind frames and methodologies.,0,10
+668,"And so I think, but that's, it's not wrong, it's just the fact that I have to give myself permission, a viewpoint for me puts my mind into a certain place like port de bras.",0,43
+669,You know what I mean?,0,6
+670,A viewpoint for me.,0,5
+671,And so I have to switch it in my head that what feels human and natural to me is bringing the lived experience which is different how I'm moving right now.,1,33
+672,And I'm moving right now out of my learned environment of viewpoint space.,1,15
+673,And so I'm saying this for the first time because I'm back into this world where I want to do all of the truth of speaking and care that we're taking with examining,0,36
+674,a fellow within the movement as well.,1,8
+675,And so this is just discovery for me of making connections and lineages through it.,0,16
+676,I'm not saying it's bad or whatever.,-1,10
+677,"I'm just saying, ah, this is information for me, and I recognize something that I want to navigate and go against and layer and speak to.",0,31
+678,That's huge.,0,4
+679,"And if we need to,",0,6
+680,"I don't know, if we need to tweak our literal vocabulary, that's fine.",1,18
+681,I call it viewpoints.,0,5
+682,"Because that's something that I, you know, if Anne Bogart were here, if the city company were here, they'd be like, what the fuck is that?",0,34
+683,What are you doing?,0,5
+684,"You know, I've taken this information and bastardized it for my own purposes.",0,16
+685,"But, you know, it just is what it is.",0,12
+686,And what I like about it is that it's an articulation of things that we already do.,1,19
+687,It's not like a thing.,1,7
+688,"But if it feels like a thing, let's find ways to let the thinginess go.",1,18
+689,So every way of doing that we are used to or comfortable with has the potential to bring white fragility into the room.,1,24
+690,"If there's a moment of, what?",0,9
+691,It's not working for everyone?,0,7
+692,"And it may be a thing that is super important to you know, make sure that that doesn't come wafting into the room.",2,26
+693,"Because what you were just talking about now, it's like, man, there's a, there's a MA thesis or two in, you know, the racialized blind spots of training, you know, and it's like that, that stuff would be fascinating, you know, and so it's",2,60
+694,"Yeah, and then we'll break if you don't mind.",-1,13
+695,"Wait, sorry.",-1,4
+696,Say your thing and then we'll take a break if that was a good time.,0,17
+697,To what you're saying is like there's a certain set of norms and expectations that seem to be over the space maybe.,1,25
+698,"And so I get that idea of like disruption, it makes it feel like it's wrong because you're not in sync with the norms and expectations.",0,30
+699,"And the white fragility comment, too, I think makes sense because the room is dominated by certain bodies.",1,21
+700,And so I think it really is important to be atoned to that.,1,14
+701,Yeah.,0,2
+702,"Yeah, and thank you for articulating.",1,8
+703,had never occurred to me.,0,6
+704,"And I feel like, what the fuck?",0,9
+705,What the hell the fuck?,-2,6
+706,Especially likening it to Port de Bra.,0,8
+707,Yeah.,0,2
+708,I don't know.,0,5
+709,"On day one, if I had to do this, I don't know.",0,16
+710,But I think it's because we have been talking so much about this stuff.,0,16
+711,And I talk about so much about this stuff that I'm glad to be able to talk about it.,1,21
+712,"I know we have to break, but I think I need more.",-1,14
+713,"I don't need anything, but I would like more clarity on what one or two ultimate objectives is from this work.",3,24
+714,What am I trying to achieve?,0,7
+715,"If it's quieting any narratives or inhibitions or anything like that, that's great.",2,17
+716,"But to kind of like what Terrell was mentioning, this idea of like,",2,15
+717,"You know, something that crossed my mind when I was in it was like, you know, I think, I think what's important for me is to support whatever that is, even if that's a supporting and disruption, you know what I mean?",3,51
+718,"And so that's like intention and, you know, but if, and this is where I like was kind of gauging my own, uh, motives or whatever that, you know, I hadn't thought about disruption or empowering, but it probably wasn't, but it certainly was coming from some sort of egocentric place and not necessarily from a place of support.",1,72
+719,"And so for that, I'm thankful for that, that gauge on my own, you know what I mean?",1,23
+720,"That I was aware that, like, I don't think, right?",2,15
+721,"But then to hear you say, like, whatever it is, it's free and to put it in the room.",2,24
+722,And so I guess...,0,5
+723,"I guess what I'm asking is, what am I trying to achieve?",0,15
+724,One or two things.,0,5
+725,Total enlightenment.,1,3
+726,And that's the break.,-1,6
+727,Drop the mic.,0,4
+728,I think we've got to take a break right now.,0,12
+729,I need a second to think about that.,0,9
+730,"Yeah, that's a very good thing.",1,9
+731,"It's as soon as we stop moving, then it gets problematic for me.",-1,16
+732,"Yeah, the floor kind of sucks body heat, doesn't it?",-1,14
+733,It does.,0,3
+734,"It's not cold, but it just cools.",-1,10
+735,"All right, gang.",1,5
+736,"Let's circle up, circle up.",0,8
+737,Stock's on or off?,0,6
+738,Are we moving right immediately?,1,6
+739,I don't know.,0,5
+740,It's up to you.,0,6
+741,Stop being so dictatorial.,-1,5
+742,I have been called a fascist before.,-1,8
+743,So just FYI.,0,4
+744,By Damon.,0,3
+745,"For those of you who are Damon, I was like, why are you such a fucking fascist?",-1,20
+746,I immediately knew exactly who you were talking about.,0,10
+747,"I was like, that was definitely Damon.",1,9
+748,You're absolutely right.,1,5
+749,"Oh, and so Josh's question has been weighing heavily upon my soul these past 10 minutes.",0,19
+750,I'm not sticking with my original answer.,0,9
+751,"No, I mean, I can only talk about my purpose in this work, really.",1,18
+752,That may be helpful.,1,5
+753,Which is to provide a space...,0,7
+754,"for you all to find the tools to make what you need to make so I don't have to push you around, right?",1,26
+755,I don't like telling actors what to do.,1,10
+756,It's abhorrent to me.,0,6
+757,"And for a number of reasons, one of which is, I know that Keith talks about a lot is, you know,",0,25
+758,Who am I to tell you how to be in the world?,0,13
+759,"Who am I as cisgendered middle-aged white woman to tell anyone how to be in the world, right?",1,20
+760,"Even if it's less offensive if I'm telling you how to be in the world, but it's still offensive because fundamentally I disagree with the concept, but I'm a director.",-3,37
+761,So it gets complicated.,-1,5
+762,Because people expect me to push them around.,0,9
+763,And all I want to do is create a space for you to locate those tools.,0,17
+764,"To throw a bunch of actors into a space and say, do whatever you want, is generally not helpful because it's too much.",1,27
+765,"speak you can put on a costume you can do a soliloquy or a death seat you know it's like well that's it's there are too many options but to say uh these are some boundaries or not because all of the boundaries that i put into the room are suggestions and i don't know if i'm clear enough about that But it's like, yeah, you can try this because it might be grounding for you or a way to find another thing.",4,92
+766,"So I guess, I don't know if that answers your question at all.",0,16
+767,"Well, if I were to extract anything out of it, I would say it's to figure out how to be.",1,24
+768,Is that correct?,1,4
+769,To be in the world?,0,6
+770,To be authentically yourself in the world.,0,8
+771,Yeah.,0,2
+772,"Is to make choices for yourself from your own body and from your own experience and from your own, you know, history and vocabulary and everything.",0,29
+773,There's a battle in Viewpoint's work between the open and the arbitrary.,0,15
+774,Yeah.,0,2
+775,And so...,0,3
+776,"you know, open is good.",1,7
+777,Right.,1,2
+778,And then arbitrary feels like I could do some other thing.,0,12
+779,Right.,1,2
+780,"And so often obstructions get thrown in and obstructions are designed to be semi arbitrary so that, um, narrative and intent don't come in.",-1,28
+781,"But the thing is sometimes my, whatever,",0,9
+782,arbitrary instruction might register as intentional to someone else in which case I'm happily going along thinking let's just throw this in and see what happens but it might read as you just did a thing that now changes everything for me and that's that is hard very hard and it's a battle,-2,57
+783,"I, we were, Terrell and I were just talking a minute ago about this, and I think it's, I think it's like something that maybe we don't talk about, or I don't talk about enough, I don't always speak for myself, in the Viewpoints work, which is that, in the way that, just my opinion,",3,71
+784,"Work as an actor is me bringing myself with my lived experiences, my imagination to the given circumstances of the play.",1,23
+785,"So it's the intersection of me, what I have to give, whatever that is, singularness of that, and then the given circumstances and the playwright as a boujou, and we go together.",0,39
+786,"In the Viewpoints work, it's like, for myself, I have my impulsive self, which if I give myself full reign, can be a lot.",1,31
+787,"I can just do a lot of erratic,",-1,9
+788,crazy shit that other people might not appreciate.,-1,9
+789,I know that about myself.,0,6
+790,And I also know that it's important for me as an artist to be able to allow myself that because that is a language that I understand.,1,29
+791,"And yet, part one, I have to know and listen and be attuned to the other people in the space",0,22
+792,first before I can know what can be received and what can't be received.,0,16
+793,Do you know what I mean?,0,7
+794,So that there's like a period of listening and trying to get to know in the first part of it.,1,22
+795,"And then it's like, okay, so is this okay?",1,13
+796,"Well, what about this?",1,6
+797,"Well, what about this?",1,6
+798,"Okay, this, oh shit.",-1,7
+799,All right.,1,3
+800,"And now, okay.",0,5
+801,So now we can go to there,0,7
+802,"I don't know, I feel like that progression of getting to know and listening physically without words is sort of necessary as we go.",1,27
+803,"I don't know how to do that, I'm just articulating that it feels important for this room and this process.",1,24
+804,to a degree has to do that.,0,8
+805,"And because we've had different rooms each time, well, we don't sort of go back to zero of like, you know, I mean, whatever that means, there's nothing wrong with going back to zero.",1,44
+806,"But yeah, there's that.",0,7
+807,"I'm kind of revving up, listening what is okay.",0,12
+808,"it's just at the same time while we're taking in information about what is okay for each other, there's also that output, like what are you putting into the room of this is also okay, that is not too agreeable, right?",3,49
+809,"Agreements, we all are programmed to try to agree, and we do that physically too.",0,18
+810,"But because it's theater, we have to disagree.",-1,11
+811,We have to actively disagree sometimes.,-1,7
+812,And maybe that isn't the right term.,1,9
+813,"There are other ways of talking about it, of pushing against something, or just bringing in a very different texture, or tempo, or flavor,",0,29
+814,There are a billion different ways that we could discuss it.,0,12
+815,"Yeah, I'm just thinking this is the first time that I'm really even clocking this as a thing, but I'm also thinking about my teaching practice and what this means.",0,36
+816,I wonder if there is a listening and trying period.,1,11
+817,Maybe it's the first two minutes.,0,8
+818,Do you know what I mean?,0,7
+819,The first five minutes.,0,5
+820,"And then it's like, OK, OK.",1,10
+821,Okay.,0,2
+822,Okay.,0,2
+823,Okay.,0,2
+824,"Oh, here we are.",0,6
+825,And now we can like push harder or play harder.,1,11
+826,"Um, I'm just saying that only for myself that, that yeah, just that, I don't even know what that means.",0,27
+827,"It's just, I'm, I'm, I'm trying to take in these things that are being said and figure out like how do we,",1,30
+828,How do we honor all of that and then have everyone feel as if they can give themselves permission and there being enough space and enough listening for the room to support everything?,4,34
+829,"disagreeing when that's what's happening in the moment, which makes viewpoints to create behavior in general feels a little, it can feel arbitrary.",-2,28
+830,"Honestly, personally, some of my most unhealthy theatrical experiences were with directors who use this first and foremost, for many of these same reasons.",0,28
+831,But I do think that if we were to just,0,10
+832,"be in the space and do whatever as opposed to doing the thing that allows you to be close or some of the placeholders, it probably would look worse for a longer time.",-1,35
+833,Because we have to learn different languages.,0,8
+834,And I feel like sometimes the structure of it is actually avoiding that by actually creating a pressure for agreement and conformity.,1,23
+835,And that would be basically the physical equivalent of what we're doing in the talkie room.,0,18
+836,Which part would be?,0,5
+837,To leave it just for me to shut the fuck up and let it be.,-1,16
+838,And for you to just do your work.,1,9
+839,For all of us to do our work.,1,9
+840,"But that being, we just do.",0,8
+841,We just start.,0,4
+842,And I think that's huge.,0,7
+843,"That's a hugely, that's a huge revelation.",1,11
+844,"And I think it's, yeah, yes.",0,10
+845,And I wonder if that's a little bit of where the desire for like a context or an intention for the moment comes.,2,25
+846,"Because if we know we're exploring isolation or loneliness or conflict, having eight, nine, I don't know if there are, I can't count right now, that many,",-2,36
+847,"languages of isolation or loneliness or conflict, we all at least know what everyone's saying, which allows us to learn the languages faster, especially since we're doing so much work with the text.",-1,39
+848,And I wonder if there's a way to kind of meld the two so that the messiness doesn't have to feel like,2,24
+849,messiness and just being lost in it.,-1,8
+850,"And I think that's where we start to see character in it automatically, is because on one level, you're going to be your character, because your character is going to have your body when it's all said and done anyway.",0,47
+851,But it helps with the translation.,0,7
+852,"And it's like, if I know we're both talking about apple, and I say apple, and you say pom, we get it after a while.",1,32
+853,"But if I'm saying apple, and you're saying pom, and we're like, what are you talking about?",1,24
+854,Because we're in an empty room with nothing there.,0,11
+855,"it feels like we're lost, and I think that is part of the impulse to want to, like, well, let's all just do the same so that we can not feel lost.",1,39
+856,"And so I don't know what that looks like, but I feel like...",2,16
+857,"Well, that was my next question.",1,8
+858,Yes and how.,0,4
+859,"I mean, I guess it was just giving the context.",0,12
+860,"I mean, I don't know what it looks like in melding it with, like, your expertise in, like, the...",3,26
+861,"Objective that you kind of have in mind or the benefit you see so I'm just No, I mean it's like it only is what it is",2,30
+862,"I mean, you can't hide, but that's a tool.",0,14
+863,"You know, it's just, it is what it is.",0,13
+864,"And, yeah.",0,4
+865,"Yeah, I think my movement, if I was honoring myself, regardless if it was percussive, was still from emotion, right?",2,26
+866,And it would look isolating.,0,6
+867,"it would be probably in a place by itself, right?",1,12
+868,And I don't want to be in a place of isolating because I know I need to connect to the greater whole in some way or some form.,0,30
+869,So I think my fight was to assimilate into this before so long and bringing the outside.,0,18
+870,"trying to not bring the outside, but as black people, you live into realities as, you know.",0,21
+871,"Yeah, so I,",0,5
+872,"when you asked, you know, give me these intentions, I was like, you know, yes, this stripped down, the viewpoint, I think we're so, as a society, we want the word, we want the word, the codified language, and to strip that down and just talk about the, you know, come here, do what the fuck you want to, move and replace some emotion, you know what I mean?",0,89
+873,"But yeah, I think that finding our languages, I think most of us, I think some of us, I think I need to just be true to what my history, my present is telling me.",0,41
+874,"And then if there's commentary on top of that, be ready to speak about it versus",2,18
+875,"me, you know, assimilating and feeling like I'm now going back into this ideal of what this type of warm up and this, you know, of this process is and has been for me, you know, because, you know, I have to be here to continue to change it, which is the hard part, right?",3,67
+876,I'm sorry.,-1,4
+877,I'm sorry.,-1,4
+878,"I'm like,",1,4
+879,"Yeah, well, I think we should keep working with this in mind.",1,15
+880,"And also, no pressure to be good.",1,9
+881,No one's going to see this.,0,8
+882,"I mean, I don't know.",0,8
+883,"No, but it's like, but you know, this is not, it doesn't, it's not performative.",1,24
+884,It's not intended to be performative.,0,8
+885,It's not going into a play.,0,8
+886,It's not yet.,0,5
+887,And I think to be able to live in the process of that is really important.,1,17
+888,"And to step into a room and say, I mean, sometimes not to label things too much, but I'll walk into a viewpoint space and say, I'm going to suck today.",-1,38
+889,Because that will open up other things.,0,8
+890,And I think I probably do suck when I'm trying to.,-1,13
+891,I'm entirely capable of doing crappy work.,1,9
+892,"But sometimes it will explode other things, and then I have to let it go because it's a lot of pressure.",-1,24
+893,"But right now, let's just play.",1,9
+894,Let's play for a while.,0,7
+895,You can come in and out.,0,7
+896,You can do whatever you want.,0,7
+897,"I'll add one more possible element, which is you may work with your eyes closed.",1,18
+898,"No, that means that the whole room has to really take care, right?",1,16
+899,But it's absolutely possible if actors who work for hours on end with their eyes closed is quite extraordinary.,2,21
+900,Is there a...,0,4
+901,I'm just looking at what's actually behind these things.,0,12
+902,There's like a box full of swords behind it.,1,11
+903,Is this...,0,3
+904,fully open or is there a kind of like theme or like universal question?,2,15
+905,I don't know.,0,5
+906,I'm going to try to move from my organs.,0,11
+907,Is there music in this space?,0,7
+908,Do we want music?,0,5
+909,Maybe eventually.,0,3
+910,Okay.,0,2
+911,"Oh, God.",0,4
+912,you,0,1
+913,All right.,1,3
+914,you,0,1
+915,Thank you.,1,3
+916,Let's bring it in.,0,6
+917,"So I don't want to speak to the two others out here, but one of the big-ticket items of doing this stuff is recognizing when you've got the thing.",0,33
+918,That's not to say that it didn't keep evolving.,0,12
+919,It kept evolving.,0,4
+920,"But it's like every time it evolved, I don't know about you folks, but I had the sense again, it's like, oh, no, that's where the thing's going.",2,40
+921,You know?,0,3
+922,"I'm not trying to be stingy, but I'm good out here because this is now the thing.",0,21
+923,"Not to mention just selfishly, I just wanted to keep on watching because it was fascinating.",0,18
+924,watching this evolving dynamic between two separate duos that at times seemed to be in counterpoint with one another and to observe the sheer duration of that so that when,1,30
+925,"When Steph joined in with the other duo, and for a bit, Welland was outside of it, that felt radical.",-1,24
+926,"And then when he joined in, and it became a quartet for the first time, after so long of the two groups being separate, that felt radical.",-1,31
+927,"And then watching how hard they fought to try to maintain that, and it wanted to fall apart.",-2,20
+928,And watching different individuals try to get it back,0,9
+929,It just became this strange and beautiful story for me.,0,11
+930,"the human condition, the human being minus all of the shit that pisses me off, if there's no way to say that.",-1,26
+931,So I can just watch the body.,0,8
+932,"I can indulge in the beauty, the gentleness, the care, the awareness.",0,16
+933,"Your time is, I mean, I don't completely",0,11
+934,those human beings in the world that we create.,0,10
+935,"Yes, we have to put it back in.",0,10
+936,We have to build it back.,0,7
+937,But the animals are very clear.,1,7
+938,"The animals, you know, can be.",0,9
+939,"One of the really exciting things that I experienced that I clocked about halfway through having my eyes closed for the first time was that it took away, like it",2,31
+940,"it's, it's, it just makes me laugh when people are like, and you don't hear people say this seriously anymore, but like, I don't see color.",2,36
+941,"Oh, I'm white.",0,6
+942,Oh my God.,0,4
+943,"But like, right.",2,5
+944,"But like, I have a hard time really believing that they're serious cause it sounds so ridiculous.",-1,20
+945,"But, um,",0,4
+946,It didn't remove it from the room because at this point I know your body and I know what you smell like and what your breathing rhythm might be.,0,31
+947,But I don't know that until I'm right up in your personal space.,1,16
+948,Which...,0,2
+949,"highlighted for me just how much, how aware of it I am in the room, probably specifically this room.",0,22
+950,I hope every other room that I'm in.,0,10
+951,"But it was a completely different experience just on that level, never mind taking away one of my senses.",0,21
+952,"Yeah, just clocking now is all I have for the moment.",0,13
+953,"It's very useful, I think, because sight is so judgmental.",1,14
+954,"When you take it away, it's almost like, I think you can move very differently because you are moving from the inside of your body because that's all you have.",1,35
+955,"And that is a very different thing than I don't know, for me that's how it works.",1,21
+956,It shuts down the sort of image that I have of what I might be doing.,0,17
+957,"Because it's more about sensation than being pretty, for example.",2,13
+958,"Right, but my experience was that I'm not,",1,11
+959,"receiving impulses from what I'm seeing, it's from what I'm hearing and smelling and touching.",-1,20
+960,"And what those, what those specifics are doing to my inside, so it's an out, in, out.",0,23
+961,Yeah.,0,2
+962,"As opposed to out, in, judge, then out.",0,12
+963,You know?,0,3
+964,"Yeah, it's interesting that you mention smell, because I find that to be",0,16
+965,And inspiring in a very primal kind of way.,1,10
+966,"Oh, yeah.",0,4
+967,Yeah.,0,2
+968,"There was a sense of individuals for me, and probably largely because of the commitment to just be there with the smells and all that, especially when your eyes are closed.",0,34
+969,But it also made it so that,0,7
+970,whatever anyone was doing was the thing.,0,8
+971,"And in the same way, whatever I was doing was the thing.",0,14
+972,And that was plenty.,0,5
+973,"Because once you participate in the thing, it becomes something else.",0,13
+974,"And it felt like playing together, as opposed to playing in the same playground,",1,16
+975,Ha ha.,0,3
+976,Whatever that is.,0,4
+977,"Oh, that's like perfectly illustrated when I write it down.",2,13
+978,Yeah.,0,2
+979,I don't know that I could do the same.,0,11
+980,"We've been at this for a while, this kind of work.",1,14
+981,And I am realizing today that I think I've been letting myself off the hook.,0,17
+982,I still don't know what I do to a room or in a room with myself.,0,18
+983,"I've got a vague idea, but I don't think that I've",-1,15
+984,"really tried to develop it into a language that I understand, whether that's verbal or something else.",0,20
+985,"And I'm clocking that today, especially as you talk about this being a space to",0,17
+986,learn ourselves well enough that we have an understanding of our full palates and the ability to discern when we bring what forward in concert with other people.,2,29
+987,"And so this was very uncomfortable, this last session, very uncomfortable for me at the beginning because I didn't know my place and I think that there is something about the deeper the listening,",-2,38
+988,the more intimate the cues and not always being sure when what is being given is an invitation or when I'm crossing a line.,1,26
+989,And there's something about how it developed that felt really transgressive in a way that is still accepted because of the nature of the room that we've built.,0,31
+990,"but transgressive nonetheless, and that's about as far as I've gotten on that.",0,17
+991,Something that I noticed is I saw every person in this room move in a way that I never have seen you move before.,0,25
+992,"Like, I know you really well.",2,8
+993,"I was like, oh, fuck.",0,8
+994,You know?,0,3
+995,And that was just mind-blowing to me.,1,8
+996,"And yes, what Keith said is your commitment.",1,10
+997,"Every once in a while, he'd be like, fuck, you're playing hard.",-1,18
+998,I just want to like eat you up.,1,9
+999,It's so exciting.,1,5
+1000,It's so exciting.,1,5
+1001,"Being an observer and watching, for example, this strange grappling embrace that traveled and who was the mover and who was the recipient and whether it was dominating or tender, and it took so long and I couldn't take my eyes away.",0,47
+1002,"It was, it felt so, so full and I saw so much trust between the two of you that it was moving to watch.",1,27
+1003,Who is that?,0,4
+1004,Josh's thing?,0,4
+1005,Yeah.,0,2
+1006,"And also, the two of you, simultaneously, in a totally different way, exactly the same.",0,20
+1007,Who was initiating?,0,4
+1008,Who was listening?,0,4
+1009,Was it a warning or a...,-1,7
+1010,"I mean, it was just like, oh my god.",1,12
+1011,There was a lot going on.,0,7
+1012,I...,0,2
+1013,"Yes, this...",0,4
+1014,"This is curious to me because I think in letting myself off the hook and really looking at what I do in the room, I've been taking a lot of comfort in the story.",1,37
+1015,"Even as we push against the narrative, like this is not a relationship.",1,15
+1016,uh like our bodies in space that we've spent a lot of time in and there's so much safety in knowing kind of like what we do together you know and kind of what we do together um and there's there's like an invitation to explore this because the characters that we voice have something here and there's a bigger unknown on the other side of,2,71
+1017,no interaction in the play.,0,6
+1018,"And it's just like, the depth of how that creeps in, even when we press against it, ostensibly, still makes this feel vulnerable in a different kind of way to explore.",-1,37
+1019,"Well, it's very courageous, though,",2,9
+1020,And for being bloody brave.,0,6
+1021,Relentlessly brave.,0,3
+1022,Is it lunch time?,0,5
+1023,It is.,0,3
+1024,We are at 1.59.,0,5
+1025,I have one more minute.,0,6
+1026,"I wonder, um, Carol and David, can I, either we can eat lunch together and grab a table together out here and talk?",1,28
+1027,Because I want 15 minutes to wrap to you about this thing at Bates.,0,15
+1028,"If we can do that, if we can get a table together.",0,14
+1029,Can the rest of us not sit at your table?,0,11
+1030,We have to earn a place at the table?,0,10
+1031,You will be a distraction.,-1,6
+1032,Does anyone want to join me for a great teacher conference?,1,12
+1033,Video chat?,0,3
+1034,Anyone?,0,2
+1035,You're welcome.,1,4
+1036,That's what I do on my brain.,0,9
+1037,That's what I do on my brain.,0,9
+1038,I just need a bit of a self-ego massage.,0,10
+1039,I'm sorry.,-1,4
+1040,"Oh, I have done that before.",0,8
+1041,Do we have this lunch card thing?,0,8
+1042,"Oh, yes, I'm sorry.",-1,8
+1043,When that came on I'm aware of what they're doing over there kind of I understand that I'm gonna buy that song right now.,1,29
+1044,Now this is just getting cinematic.,0,7
+1045,Well sometimes it helps with scale because that song exists on such a large scale.,1,16
+1046,For sure.,0,3
+1047,"No, I understand the reasons for it.",0,9
+1048,I think she was just doing an interview.,0,9
+1049,She did not do anything wrong.,-1,7
+1050,From my point of view.,0,6
+1051,"It was literally just like the flash of moment where I was like, and now we're in a movie.",2,22
+1052,"Oh, that's funny.",-1,6
+1053,Okay.,0,2
+1054,Yeah.,0,2
+1055,"It was actually written for, I believe, the band members who died quite suddenly.",-1,17
+1056,Yeah.,0,2
+1057,"No, I mean, it's a beautiful song.",1,11
+1058,Did you find it?,0,5
+1059,What is it?,0,4
+1060,Are these just like soundscape songs?,1,7
+1061,What is her deal?,0,5
+1062,Do you know?,0,4
+1063,That's what I'm going to listen to while I'm staring at myself.,0,16
+1064,Could you find the whole album?,0,7
+1065,Because I couldn't.,0,5
+1066,"Oh, I'm sure.",0,6
+1067,Yeah.,0,2
+1068,Systems Layers.,0,3
+1069,Systems Layers is the name of it.,0,8
+1070,It's the album.,0,5
+1071,Yeah.,0,2
+1072,I want it to be warmer this weekend.,1,9
+1073,"I was like, what?",1,6
+1074,That's like driving home on a rainy afternoon.,1,10
+1075,"Yeah, right.",1,4
+1076,Crying to yourself.,0,4
+1077,Yeah.,0,2
+1078,You just spilled your favorite cup of tea an hour ago.,1,12
+1079,I wish I had my tea.,0,7
+1080,Or it's the end of the movie running in the rain to save the...,0,16
+1081,"Just love or whatever it is, you know what I mean?",1,13
+1082,Save the thing that you might have thrown into the garbage can.,-1,13
+1083,Sarah!,0,2
+1084,Or you gotta stop the garbage can.,-1,9
+1085,"No, what's the top of that show?",1,10
+1086,Stella.,0,2
+1087,Stella.,0,2
+1088,That's not the right character.,1,7
+1089,That's a funny take on it.,-1,8
+1090,"No, shit.",-1,4
+1091,The other one.,0,4
+1092,The other one.,0,4
+1093,Stella.,0,2
+1094,Yeah.,0,2
+1095,"Oh, stop it, Hans.",0,7
+1096,God damn it.,-1,4
+1097,"when it's like, I don't know, there's two, and then the four emerged.",1,20
+1098,You know what I mean?,0,6
+1099,"Yeah, that's right.",1,6
+1100,"So it needed to be stripped down to something, and then, yeah.",0,15
+1101,"And it seems to emerge on its own, like they were dragged along with what the organism was doing.",0,21
+1102,Yeah.,0,2
+1103,That's right.,1,4
+1104,That's the sweet spot.,1,6
+1105,"Yeah, that is the sweet spot.",1,8
+1106,Nobody's in charge.,0,5
+1107,And everybody is.,0,4
+1108,And there's the zeitgeist.,0,6
+1109,It's like those oh-so-rare moments as a writer when the characters are writing themselves.,1,16
+1110,It happens.,0,3
+1111,It doesn't always happen.,0,6
+1112,"But when it does, you just hold onto the tiger's tail.",0,14
+1113,Take the ride.,0,4
+1114,"Oh, that's wonderful.",1,6
+1115,Hi.,0,2
+1116,Hi.,0,2
+1117,Woof.,0,2
+1118,Yeah.,0,2
+1119,That was fun and good.,2,6
+1120,That was fun and good.,2,6
+1121,"Yeah, fun and good.",2,6
+1122,"I'm realizing that the physical exploration without the text, because I am in such a text-based, like we are in double text-based places, but just how I am reminded of what I already know, which is just how necessary it is",1,46
+1123,for all.,0,3
+1124,It is necessary.,0,4
+1125,I need to be rigorous about creating the space for that in my body person over the next three weeks.,0,21
+1126,Just in my life.,0,5
+1127,Just in my,0,3
+1128,"I'm just clocking it for myself, how good this is.",1,13
+1129,Good.,1,2
+1130,Do you want to walk?,0,6
+1131,I have to do a parent-teacher conference.,0,8
+1132,"Oh, yeah.",0,4
+1133,"Hi, can you hear me okay?",0,8
+1134,"Oh, okay, yes, yes, yes.",0,10
+1135,you,0,1
+1136,Thank you.,1,3
+1137,Thank you.,1,3
+1138,"Small, intimate you might say.",1,7
+1139,My luxurious couch.,1,4
+1140,"they will, depending on the ion,",0,8
+1141,"Yeah, it's almost like these ions are attracted, and when they get there, they see what's going on, what kind of party they're having, and they're like, that looks great to me.",3,43
+1142,"I'm going to jump in there, and why would I want to mess it up by being any different?",-1,22
+1143,"Yeah, and there were a couple of decent descriptions or metaphors, I guess, in this article in terms of long-range order and short-range order.",1,28
+1144,I thought that made a little bit of sense.,0,10
+1145,"Because crystals, like you said, can be a single crystal or it can be a very large structure.",1,21
+1146,Cheers.,0,2
+1147,I spray some lavender stuff.,0,6
+1148,I hope no one says it took to it.,0,10
+1149,Thank you.,1,3
+1150,"Just to, because that space that was found earlier is really thrilling, really thrilling.",2,17
+1151,And now that it's gone.,0,7
+1152,It's gotta be at least a man.,0,10
+1153,"By the way, if anybody has like soreness after being not moving I've got this very nice",1,19
+1154,"CBD or THC, something rub.",0,7
+1155,Only if you rub it again.,0,7
+1156,I'm a believer.,0,5
+1157,"I didn't believe it until you said THC and then I'm like, it's real.",1,19
+1158,Hold on.,0,3
+1159,"If you got THC, I want to really take a look at this.",0,15
+1160,I can't.,0,4
+1161,On my lower back.,0,5
+1162,"So are we done for the day, or are we working?",0,13
+1163,"I'm sorry, I didn't mean to derail your work.",0,13
+1164,There's drugs.,0,4
+1165,"All right, all right.",2,6
+1166,I'm just giving you shit.,-1,7
+1167,"We'll launch into a slightly different thing, I think.",0,12
+1168,Where's Tyrell?,0,4
+1169,Tyrell?,0,2
+1170,He was here.,0,4
+1171,He was here.,0,4
+1172,Rubbing with our hands down our pants!,0,8
+1173,Not really.,0,3
+1174,You don't want to get me stoned.,0,9
+1175,That does not go well.,1,6
+1176,That was funny though.,-1,5
+1177,So have any relevations come into this space since then?,0,11
+1178,"And Hedy, if you want to respond...",0,9
+1179,"No pressure, but you may because you have to do your thing.",0,14
+1180,I can respond.,0,4
+1181,"When I was in it, I felt continuously being present and being okay with allowing my anger to arise and being okay from moving from inside out and having",-1,30
+1182,that dialogue.,0,3
+1183,"And I was so present in the moment that when the alarm went off, I was like, oh.",0,21
+1184,"So I felt, for me, the journey of having to talk about not just this space, but all spaces.",0,23
+1185,and to not assume one space or the other is different.,0,12
+1186,"All of the spaces need to be talked about, but having those conversations definitely changed my experience the second time in relation to myself, but also in relationship to others and in space and in time.",0,39
+1187,"And as a journey, I want to continue on going on.",0,13
+1188,"Yeah, I want to make sure that we can continue to keep the space that.",0,17
+1189,"And if there's anything that I can do to make that happen, just tell me.",0,18
+1190,Because that's really beautiful.,1,6
+1191,"In general, I'll probably just try to shut up a little bit more and let y'all do your work, because you don't need me to tell you.",1,32
+1192,and the more that we can keep that articulated and all that stuff.,0,14
+1193,Communication.,0,2
+1194,Open.,0,2
+1195,She says before she starts pushing people around.,0,9
+1196,"You, go over there.",0,6
+1197,Louder.,-1,2
+1198,"Now, I'd like to do some solo compositions today.",1,12
+1199,"Yeah, we haven't.",0,6
+1200,"Well, we've never done them in this group, and they're just, they're a thing.",1,21
+1201,They're a way to make a thing.,0,9
+1202,Another way in.,0,4
+1203,"So, oh, do you have pencil utensils and things to write with and on?",0,17
+1204,I have a little bit of extra paper.,0,9
+1205,We've got extra paper.,0,6
+1206,Yeah.,0,2
+1207,Yeah.,0,2
+1208,I have pens and stuff if nobody has a pen.,0,11
+1209,I don't think I can write standing up.,0,10
+1210,I'm not sure I've ever written standing up.,0,11
+1211,You've never written standing up?,0,7
+1212,This is going to be a brand new day.,0,10
+1213,Doesn't it feel weird to me?,-1,8
+1214,"Oh yeah, we can do that.",0,8
+1215,"I mean, you can sit down if you want and just be eating it up.",0,17
+1216,Except that there are two separate groups working with two different sets of elements.,0,15
+1217,"So we've got, it's the same groups as before.",0,13
+1218,"Hedy, Heather, Kevin, Terrell are one.",0,10
+1219,"And then Steph, Aaron, Josh, and Wells are another.",0,13
+1220,"Gather together, if you wouldn't mind clumping in your groups.",0,13
+1221,We have a couch over here.,0,7
+1222,Is that an ox to give it to the other group?,0,12
+1223,No.,0,2
+1224,"No, it wasn't.",0,6
+1225,"All right, so.",1,5
+1226,"All right, so.",1,5
+1227,Compositions.,0,2
+1228,My daughter's going to this book.,0,8
+1229,She attacked it.,0,4
+1230,She knows her numbers.,0,5
+1231,So these are just pieces of theater that you make for yourself.,0,13
+1232,"They have a beginning, a middle, and an end.",0,12
+1233,They are non-narrative.,0,4
+1234,I'd say two to three minutes.,0,8
+1235,They don't have to be long.,0,8
+1236,"We're not going for length necessarily, but that, of course, is up to you.",0,19
+1237,"And they will contain the various elements that I give you, not in this order necessarily.",0,18
+1238,You can decide the order.,0,6
+1239,"Okay, I'm going to have a second.",0,10
+1240,You're going to switch those.,0,7
+1241,"OK, you're going to have a crossroads.",0,10
+1242,"So you have the crossroads, crossroads.",0,8
+1243,That's right.,1,4
+1244,So you can see.,0,5
+1245,"Right, so those are switched.",1,7
+1246,So now I'm back.,0,6
+1247,OK.,0,2
+1248,A sustained gesture.,0,4
+1249,Great.,1,2
+1250,So you will be working alone.,0,7
+1251,We'll work for 10 minutes.,1,7
+1252,10 whole minutes to make your play.,0,8
+1253,A lot of time.,0,5
+1254,"Sorry, did you say working alone?",-1,8
+1255,You mean working alone.,0,5
+1256,"Oh, so these are all solo.",0,8
+1257,They are solo pieces.,0,5
+1258,Okay.,0,2
+1259,Yeah.,0,2
+1260,Yeah.,0,2
+1261,The elements are open to interpretation.,0,7
+1262,"If you have questions, you can ask, but I will give you an answer.",0,17
+1263,So that's up to you.,0,7
+1264,Yeah.,0,2
+1265,Take it away.,0,4
+1266,I'll give you a little music just to keep the room warm.,1,14
+1267,And we'll check in.,0,6
+1268,May I suggest jumping right in?,1,7
+1269,Don't think too hard.,-1,6
+1270,"Just a suggestion, having done this.",0,8
+1271,"Be sure to attend to floor pattern, your topography.",0,11
+1272,"Okay, I'll stop talking.",0,7
+1273,I'll stop it.,0,5
+1274,Okay.,0,2
+1275,"Oh, that's what I was looking for before.",0,11
+1276,Is this the piece we just heard?,0,8
+1277,"No, it's not.",0,6
+1278,There's no more pieces.,0,6
+1279,No it's good.,1,5
+1280,Amen.,0,2
+1281,all right,1,2
+1282,Thank you.,1,3
+1283,Thank you.,1,3
+1284,Thank you.,1,3
+1285,Thank you.,1,3
+1286,That was perfect.,1,4
+1287,"Oh, it fell to your skin.",-1,8
+1288,"Oh, damn it.",-1,5
+1289,Thank you.,1,3
+1290,How are we doing?,0,5
+1291,"We've got two more minutes, yeah?",0,9
+1292,Two minutes for free dance.,1,6
+1293,"Yeah, two minutes for Ladybug.",0,7
+1294,All right.,1,3
+1295,Are we good?,1,4
+1296,Are we ready?,1,4
+1297,Yep.,0,2
+1298,"Okay, okay.",0,4
+1299,"Not that we're ever ready, but great.",2,10
+1300,"Okay, so how should we do this?",0,9
+1301,"Let's, um...",0,5
+1302,Do you want music with performance or not right now?,1,11
+1303,"No, let's hold up.",0,7
+1304,Let's just do the cozy.,1,7
+1305,Um...,0,2
+1306,Should we be in the round or proscenium?,0,9
+1307,So many choices.,0,4
+1308,Let's come down stage.,0,6
+1309,Are we anywhere that we're blocking the streaming people?,0,11
+1310,Sorry?,-1,2
+1311,Are we anywhere that we're blocking the streaming view?,0,11
+1312,"Oh, are you talking?",0,6
+1313,It doesn't look like it.,1,7
+1314,It doesn't matter.,0,5
+1315,"Okay, good, good, good.",3,8
+1316,"All right, and when you're ready, or a little bit before, do you think?",2,19
+1317,I've got just to get out of the way.,0,11
+1318,It's the end of the show.,0,8
+1319,Great.,1,2
+1320,Lovely.,1,2
+1321,All right.,1,3
+1322,Jump.,0,2
+1323,That CBD is not working.,0,6
+1324,You got to give it time.,0,7
+1325,Epidermal thing.,0,3
+1326,Blackout.,0,2
+1327,So...,0,2
+1328,Thank you.,1,3
+1329,Blackout.,0,2
+1330,Thank you.,1,3
+1331,Thank you.,1,3
+1332,That's so cool.,1,5
+1333,It's so much fun to see how things are interpreted.,1,12
+1334,Did you notice any recurring themes?,0,7
+1335,"Self-care, love.",1,4
+1336,"The touching of the head, self-care.",0,8
+1337,"Yeah, that was nice.",1,6
+1338,And the negative space behind the curtains and masks.,-1,10
+1339,The outwardly directed gesture then reversed and turned in.,0,10
+1340,"All right, so I'm going to",1,8
+1341,Let's go ahead and squish some things together and see what happens.,0,14
+1342,We should have had a post-lunch viewpoint.,0,8
+1343,What are we even doing?,0,6
+1344,"I need that moment of like, OK, wake up, wake up.",1,15
+1345,Maybe we'll do that later.,0,7
+1346,Huh?,0,2
+1347,"So all right, I'm going to squish you together.",1,12
+1348,OK.,0,2
+1349,Wells and Kevin will work together.,1,7
+1350,Terrell and Aaron will work together.,1,7
+1351,Josh and Steph and Heddy and Heather.,0,8
+1352,Because you're alliterated.,0,5
+1353,You are.,0,3
+1354,Yeah.,0,2
+1355,"So, OK.",0,4
+1356,"So be with your person, please.",0,8
+1357,It just helps.,0,4
+1358,"I ask you to do that, because it helps me to visualize.",0,14
+1359,I don't know.,0,5
+1360,I don't think so.,0,6
+1361,I don't think so.,0,6
+1362,I'm not adding gazillions of elements anymore.,0,9
+1363,"I'm trying to turn off my, make sure my vibrator is on.",0,15
+1364,We've got a few things.,0,7
+1365,Okay.,0,2
+1366,So we're going to squish them together.,0,9
+1367,And the squishing will change them.,0,7
+1368,"In general, they can be shorter.",0,8
+1369,"They get a bit lengthy, so keep that in mind.",-1,12
+1370,"In the squishing, we will have, hmm.",0,10
+1371,"Okay, I'm trying to be less dictatorial in my, okay.",-1,14
+1372,"Simultaneous movement is the thing I'm, one of the things I'm most excited about.",1,18
+1373,Simultaneous movements.,0,3
+1374,"So you'll be trying on each other's movement in your bodies, right?",1,16
+1375,So try to pull.,0,5
+1376,"Let's say pull from each piece, one thing from each piece.",0,14
+1377,I don't know how long it lasts.,0,9
+1378,Maybe it's the whole thing.,0,7
+1379,Maybe.,0,2
+1380,I don't know.,0,5
+1381,I don't know.,0,5
+1382,But you do.,0,4
+1383,So yes.,0,3
+1384,OK.,0,2
+1385,Simultaneous movement.,0,3
+1386,A first ever touch will be in this rejuvenated piece.,1,11
+1387,Did I say your piece will change?,0,8
+1388,Your piece will change.,0,5
+1389,"Not directly, but it will be tweaked.",0,9
+1390,A moment of collective wonder.,1,6
+1391,Thank you.,1,3
+1392,"A shared memory, please.",0,6
+1393,"He's down, sorry.",-1,6
+1394,I didn't intend to give you too many things.,0,11
+1395,Okay.,0,2
+1396,You're writing it down.,0,6
+1397,We should be writing these down.,0,7
+1398,Sure.,0,2
+1399,So what do we have we've got we've got simultaneous movement first ever touch Is that too close to shared memory It does look the same,0,28
+1400,You're right.,1,4
+1401,You're right.,1,4
+1402,"If I were being really clever, I'd kind of go through the same thing.",1,17
+1403,You can jam.,-1,4
+1404,You can jam.,-1,4
+1405,And then paying attention to your renewed topography and also eye contact.,1,13
+1406,What does that look like?,1,6
+1407,Yeah.,0,2
+1408,Dynamics.,0,2
+1409,Dynamics.,0,2
+1410,Just explore patterns.,0,4
+1411,Where you go in space.,0,6
+1412,What shape is it?,0,5
+1413,How big is it?,0,5
+1414,"You know, you can use a whole room or you can use two feet by two feet.",0,19
+1415,Yeah.,0,2
+1416,"I mean, not that you're changing them that much, but all right.",1,16
+1417,All right.,1,3
+1418,And you're in the same...,0,7
+1419,Are you in the same playground?,0,7
+1420,"You are playing together, I guess, is what I mean to say.",0,15
+1421,The playground is up to you.,0,7
+1422,So take five minutes to...,0,6
+1423,Yes.,0,2
+1424,To find your spots.,0,5
+1425,"And if you need to edit, that's fine.",1,11
+1426,You can edit.,0,4
+1427,"Not self-care, but joy, receiving care.",1,9
+1428,"Oh, good.",1,4
+1429,Surprising girls.,0,3
+1430,"So in terms of squishing them together, .",0,9
+1431,All the way.,0,4
+1432,.,0,1
+1433,.,0,1
+1434,.,0,1
+1435,.,0,1
+1436,"Oh, oh, oh, oh, oh, oh.",0,12
+1437,I don't know how to laugh.,0,8
+1438,"Oh, here.",0,4
+1439,Yeah.,0,2
+1440,It's a tight day.,0,6
+1441,It's a tight day.,0,6
+1442,"Touch, touch.",0,4
+1443,"I like this song, too.",1,7
+1444,"Oh, throwing myself some socks at me.",0,9
+1445,"Yeah, I love this song.",1,7
+1446,"It's a good song for this, too.",1,10
+1447,"I go down, you go down.",0,8
+1448,"Yeah, the camera's good.",1,7
+1449,"Like, when it can pick up the sound, it zooms in on them.",1,16
+1450,"So, yeah, when they're lying on the floor, it's a little harder, but...",-1,20
+1451,Alright.,0,2
+1452,Okay.,0,2
+1453,"Okay, let's see these mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",0,7
+1454,I'm gonna play the same song over and over so that I don't have to make decisions.,0,21
+1455,Okay.,0,2
+1456,It will be what you just heard.,0,8
+1457,Great.,1,2
+1458,"Beautiful, beautiful.",2,4
+1459,All right.,1,3
+1460,"All right, who's up?",1,7
+1461,"You're getting the same music, so.",0,9
+1462,Dirty it again.,-1,4
+1463,"All right, you tired of this song yet?",0,10
+1464,No.,0,2
+1465,Who is this?,0,4
+1466,LCD sound is done.,0,5
+1467,"Oh, yeah.",0,4
+1468,These are beautiful.,1,4
+1469,They all just woke up.,0,6
+1470,What just happened?,0,4
+1471,What struck you?,-1,4
+1472,So emotional.,0,3
+1473,I can't even speak right now.,1,8
+1474,That was wild.,-1,4
+1475,"When you couldn't lift Terrell, it was like this really strange, like you had altered the laws of physics or something happened.",1,26
+1476,It was really heartbreaking.,-1,5
+1477,And I don't know why it just was.,0,10
+1478,"There were, I mean, lots of moments of heartbreak.",0,12
+1479,"Oh, shit.",-1,4
+1480,It was like the weight.,1,6
+1481,You couldn't bear the weight.,0,7
+1482,And that strength is just heavy.,0,7
+1483,It's just so heavy.,0,6
+1484,"And at times, right?",1,6
+1485,"And it's joyful at times, but that was heavy.",1,12
+1486,"And then the try true, and then not knowing, testing the waters.",0,15
+1487,So many beautiful moments.,1,5
+1488,"And that discovery, exploration, but that's a flick.",0,12
+1489,I love that.,1,4
+1490,It was like electrifying.,1,5
+1491,"And this beginning of this, like, relationship, like, seemingly between the two of you, this kind of, like, rescuing, but is it a curse, or he sort of, like, resuscitates you?",3,43
+1492,"I don't know, there's, like, this, yeah.",1,14
+1493,And the many waves of striking.,1,7
+1494,"That was just, I appreciate that moment, because I remember it so clearly in the beginning of your solo, and I forgot about it.",2,28
+1495,"And it took on a different meaning, but it still had the same kind of abruptness to it.",0,20
+1496,The way the little splash of text just popped.,0,10
+1497,It had meaning specific to what was happening.,0,9
+1498,And it was just such sweetness in that relationship at the end.,1,13
+1499,I could have wept.,0,5
+1500,"Yeah, the touch, the quality of touch was so beautiful.",1,13
+1501,But also just the sense of humor inside of that whole piece.,1,13
+1502,"Oh, right.",1,4
+1503,The viewpoints of a sense of humor about what's in the work.,2,14
+1504,I remember that.,0,4
+1505,"Well, so you have things and you put them into a container.",1,14
+1506,What happens if you take the same things and put it into a slightly different container?,0,17
+1507,"And so, I mean, yeah, this kind of like, I don't know, whatever the first version was, it had a certain amount of loathing in it.",0,34
+1508,Suddenly it had a place to go that was not that.,0,12
+1509,"And it's like, oh man, yeah, thank you.",2,13
+1510,I got a different container.,0,6
+1511,"Yeah, that's what it is.",0,8
+1512,That's what it is.,0,6
+1513,And it transformed every one.,0,6
+1514,It was transformed by a new container.,0,8
+1515,"That always blows my mind, because it feels like magic.",2,12
+1516,"It's like, I do this all the time, but it still feels like fucking magic.",2,19
+1517,"Like, Steph and Josh, both in their solo pieces, have that tentative searching sort of energy, but when that was matched with another body doing the same thing, it's just supercharged.",0,38
+1518,I felt something similar with Eddie and Heather.,0,9
+1519,"They both already had a very groundedness that was also upright, but...",0,14
+1520,"Putting it together, there was strength, but also unity, but without having to give up independence, which was really nice to see just that synchronicity.",2,30
+1521,"With all the simultaneity, the moments of individual movement and moments stuck out that much more.",-1,18
+1522,"I just, I couldn't help to think, because you know where this came from with me.",0,20
+1523,"And then this silence of having you visibly as a white woman, me visibly as a black woman, and I thought about the Karens of the world, right, the quote, unquote, white woman who weaponized black bodies by calling police.",1,47
+1524,Gave them the nickname Karen.,0,6
+1525,"Not all Karens, right?",1,6
+1526,But that's the nickname that has been given.,0,10
+1527,The silence and don't.,0,6
+1528,But the shared moments of I'm human too.,0,10
+1529,"Yeah, when I turned and you were there before I was there, that was like a really awful moment.",0,22
+1530,"It was like, why did you go first?",1,10
+1531,You know what I mean?,0,6
+1532,It just happened that way.,0,6
+1533,"It was like, whoa.",2,6
+1534,"Okay, thank you.",1,5
+1535,Let's be back at 431 plus 10.,0,9
+1536,"I could just do the math, but it's not coming up.",0,14
+1537,"Thank you, everybody.",1,5
+1538,"Beautiful, beautiful, beautiful.",3,6
+1539,We'll return to this,0,5
+1540,"I know, it's just the most beautiful thing in the universe of life.",1,16
+1541,"I know, I know, exactly, that's why I say this song over and over and over.",0,21
+1542,Oh my goodness.,1,4
+1543,I got all of you all.,0,7
+1544,"Oh, yeah.",0,4
+1545,I was watching.,0,4
+1546,I was like watching.,1,5
+1547,like using express when things happen like that.,2,9
+1548,"Yeah, I know we're just laughing both.",0,10
+1549,"Eddie and Heather and Steph and Josh, please.",0,10
+1550,Mm-hmm.,0,2
+1551,Okay.,0,2
+1552,Yeah.,0,2
+1553,"Oh, sudden reversals, which I completely abandoned.",0,10
+1554,I'm sorry.,-1,4
+1555,Although you said sudden reversals.,0,6
+1556,Sudden reversals.,0,3
+1557,Okay.,0,2
+1558,Hmm.,0,2
+1559,So I'm just going to mush you up instantaneously.,0,11
+1560,So you're taking cues from each other.,0,9
+1561,"Again, playing with each other.",0,7
+1562,Are we doing duets or are we doing something?,0,10
+1563,"Well, now you're doing a quartet.",1,9
+1564,"Of the same, with the same content.",0,9
+1565,"Yeah, ish, you know.",0,7
+1566,Got it.,0,3
+1567,All right.,1,3
+1568,What'd she say?,0,5
+1569,We're diving right in.,1,6
+1570,We're diving.,0,4
+1571,We're just doing it.,0,6
+1572,Okay.,0,2
+1573,All right.,1,3
+1574,I like your attitudes.,1,5
+1575,"Um, same song.",0,5
+1576,I don't know.,0,5
+1577,We need something.,0,4
+1578,We need something thrilling.,1,5
+1579,Oh!,0,2
+1580,"Thrilling, thrilling.",2,4
+1581,Do I have thrilling?,1,5
+1582,John Cena.,0,3
+1583,"John Cena, it's a great song.",1,9
+1584,What song is that?,0,5
+1585,It's called John Cena.,0,6
+1586,Are we mushing our duets?,0,6
+1587,"Yeah, because it's a South African song.",0,10
+1588,You're mushing your duets.,0,6
+1589,We're just doing it on the fly.,0,9
+1590,Did you tell?,0,4
+1591,No!,0,2
+1592,Did I guess something correctly?,1,6
+1593,Probably.,0,2
+1594,Get out of my head!,0,6
+1595,Aaron is doing that moment.,0,6
+1596,"Oh, hey, if you're not telling me things, I'm not telling you things.",0,19
+1597,"All right, I'm being really...",1,8
+1598,That's not bad.,-1,5
+1599,"Maybe we will, maybe we won't.",0,9
+1600,What?,0,2
+1601,"All right, I'm giving you new music.",1,10
+1602,"I want the other one, though, but I don't know how to find it.",0,18
+1603,"Okay, okay.",0,4
+1604,Yeah.,0,2
+1605,"All right, places for the top of the show, please.",2,13
+1606,Bye.,0,2
+1607,I'm blinded by the lights in the core of the world.,0,13
+1608,Crystalline.,0,2
+1609,Crystalline.,0,2
+1610,With our heart.,0,4
+1611,Crystalline.,0,2
+1612,We kiss the choir.,0,5
+1613,Crystalline too.,0,3
+1614,"Yeah, yeah",0,3
+1615,.,0,1
+1616,.,0,1
+1617,.,0,1
+1618,Oh!,0,2
+1619,I didn't do it.,0,6
+1620,I didn't do it.,0,6
+1621,I didn't do it.,0,6
+1622,"Give me a little barata not young, crystal light.",0,11
+1623,What did I get myself into?,0,7
+1624,"Orgy meets, dead body meets.",-1,7
+1625,All the best orgies end with a dead body.,0,10
+1626,What did you tell Steph?,0,6
+1627,That's the reversal.,0,5
+1628,What did you tell Steph?,0,6
+1629,What did you tell her?,0,6
+1630,Kill Cassio?,-1,3
+1631,Cannibalization?,0,2
+1632,No.,0,2
+1633,"I don't know, maybe we should try this one more time.",0,14
+1634,"I'm curious, what was that like?",1,9
+1635,"Nope, I won't ask that question.",0,9
+1636,It was beautiful.,1,4
+1637,It was beautiful.,1,4
+1638,It was really hard because I threw you into a deep end unknown.,-2,14
+1639,"All right, let's do one more because this is moving day.",1,14
+1640,So we'll put off text a little bit longer.,0,11
+1641,Let's have the boys.,0,6
+1642,All right.,1,3
+1643,oh father tell me we get what we deserve oh we get what we deserve,0,15
+1644,"Oh, you let your feet run wild.",-1,9
+1645,Time has come as we all fall down.,-1,9
+1646,"Yeah, but for the folk who might do, you better look them right in the eye.",2,19
+1647,Down to the dark.,-1,5
+1648,"Yeah, someday we'll run you down.",0,9
+1649,Down to the dark.,-1,5
+1650,"Oh, oh, oh, oh, way down we go.",0,13
+1651,"Oh, oh, oh, oh.",0,8
+1652,So way down we go.,0,6
+1653,Way down we go.,0,5
+1654,"Oh, oh, oh.",0,6
+1655,"Interesting, interesting.",2,4
+1656,"So anything can be found, learned, saw?",0,10
+1657,doing her peyote.,0,4
+1658,There was that dynamic in the beginning that I was just worried about.,0,14
+1659,"You were seeing everyone kind of go through their own journey of life, like these stories.",1,18
+1660,And then it turned into like this discipleship towards the end.,1,12
+1661,It reminded me of like that.,1,7
+1662,And the washing felt very like something about it.,1,10
+1663,Like who was Judas?,1,5
+1664,Which one?,0,3
+1665,Cool.,1,2
+1666,Great.,1,2
+1667,"Yeah, I feel like bits of the worlds are emerging for sure.",1,14
+1668,I appreciated Welland and Terrell.,1,6
+1669,together in the last moment.,0,6
+1670,"I was just feeling like, don't leave Trell alone, don't leave Trell alone, don't leave Trell alone.",1,24
+1671,And it stayed.,0,4
+1672,"And I don't know, that was a thing.",0,11
+1673,Yeah.,0,2
+1674,"Yeah, which I also felt very strongly when you did the duet version.",0,15
+1675,"I was like, you're gonna leave.",1,10
+1676,Yeah.,0,2
+1677,Yeah.,0,2
+1678,Yeah.,0,2
+1679,"I definitely had a moment when I was behind the curtain and Kevin came through and I went, oh, thank God.",1,24
+1680,Is there a benefit for you telling us what you told Kevin and Steph?,1,15
+1681,I just told them to subvert.,-1,7
+1682,To subvert.,-1,3
+1683,To be the subverters.,0,5
+1684,Which people take differently.,0,5
+1685,Which means what exactly?,0,5
+1686,Exactly.,0,2
+1687,Yeah.,0,2
+1688,"All right, should we read things?",1,8
+1689,Yeah?,0,2
+1690,Okay.,0,2
+1691,Aaron's doing a happy day.,1,7
+1692,Okay.,0,2
+1693,So this is sort of a funky mashup of the end of 3-4 and the top of 5-1.,0,19
+1694,"Um, various reasons.",0,5
+1695,"Wait, what?",0,4
+1696,"Three, four, and five, one?",0,9
+1697,"Four, three.",0,4
+1698,"Must be four, three, four, and four, one?",0,13
+1699,Four.,0,2
+1700,I don't know.,0,5
+1701,It's the play.,0,5
+1702,It's a piece of the play.,0,8
+1703,I'm sorry.,-1,4
+1704,There's your piece of play.,0,7
+1705,Say your lines.,0,4
+1706,Stop asking questions and say your lines.,0,8
+1707,Just skipping act four.,0,5
+1708,"I'm into it, man.",0,7
+1709,We're still in process on that section.,0,9
+1710,I don't know.,0,5
+1711,I shouldn't even try to talk about numbers.,0,10
+1712,I get very lost very fast.,0,7
+1713,"Yes, of course.",0,5
+1714,"Do you know your lines, Dr.",0,8
+1715,Brown?,0,2
+1716,Shut up.,0,3
+1717,No.,0,2
+1718,Very good.,1,3
+1719,All right.,1,3
+1720,So...,0,2
+1721,"You all know who we are for the most part, except, um.",0,15
+1722,I don't know who I am.,0,8
+1723,"Um, what is this word?",0,7
+1724,Which word?,0,3
+1725,Touch not my mind.,0,5
+1726,"Oh, there's Greek.",0,6
+1727,I have no idea what the fuck that is.,-1,10
+1728,Can anyone speak Greek?,0,5
+1729,What's Bianca's first word here?,0,8
+1730,It is that to me.,0,6
+1731,The line is save you friend Cassio.,0,8
+1732,Just say that.,0,4
+1733,If I want to know still what this word is.,0,11
+1734,Cool.,1,2
+1735,KST's moves.,0,4
+1736,KST's moves.,0,4
+1737,KST's moves.,0,4
+1738,"Oh, okay.",0,4
+1739,I see.,0,3
+1740,We're going to point one.,0,7
+1741,Got you.,0,3
+1742,Okay.,0,2
+1743,Cool.,1,2
+1744,Thank you.,1,3
+1745,Thank you.,1,3
+1746,KST's moves.,0,4
+1747,All right.,1,3
+1748,"So, and Hedy, you're good to take Bianca.",1,12
+1749,Okay.,0,2
+1750,And everybody else is...,0,5
+1751,Not needing an explanation.,0,5
+1752,I know exactly what I mean.,0,7
+1753,Jarrell.,0,2
+1754,Jarrell.,0,2
+1755,Yeah.,0,2
+1756,Great.,1,2
+1757,So let's just give it a read and then think about it.,0,14
+1758,This section interests me for a variety of reasons.,2,10
+1759,But let's just stand.,0,6
+1760,"This is a pipe board, page five.",0,9
+1761,"I think I have something that's quite, um, .",0,12
+1762,Did everybody catch that on page five?,0,8
+1763,Page five.,0,3
+1764,Great.,1,2
+1765,No.,0,2
+1766,What if anything can be articulated in terms of what we take from everything we've done today into this?,0,21
+1767,Funny you should say that.,-1,6
+1768,"It is funny, isn't it?",-1,8
+1769,"It is, it's hilarious.",1,7
+1770,I was just thinking.,0,5
+1771,"Because the hardest part, I think, it's like movement is all great and good and revelatory and fun and thrilling and you're building these things and the world is emerging and then you get text and it all crashes to the ground.",4,47
+1772,And I don't want that to happen.,0,9
+1773,Just like that.,1,4
+1774,Thank you.,1,3
+1775,I do that just to see.,0,7
+1776,We'll take turns.,0,5
+1777,"So how do we sustain that level of work and sensibility and listening, even with these bossy-ass words?",1,20
+1778,Because words are bossy.,0,5
+1779,So I don't know the answer to that.,0,10
+1780,"Well, I think that's an answer and an awareness of exactly just that, trying to maintain physical listening, for lack of a better word.",1,29
+1781,"Yeah, because what I'm really interested in this section of text is the geography of it all, actually.",0,22
+1782,"But we can't achieve the geography without the words, so...",0,13
+1783,"So, here they are.",0,6
+1784,"So, let's just read through once.",0,9
+1785,"Standing, please.",0,4
+1786,It starts at the middle of the C.,0,9
+1787,"So, a fellow's left.",0,7
+1788,"He went hence, but now it certainly is strange on life.",-1,13
+1789,May he be angry?,-1,5
+1790,I have seen the cannon when he had blown his ranks into the air and like the devil from his very arm puffed his own brother.,0,27
+1791,Can he be angry?,-1,5
+1792,A moment then.,0,4
+1793,I will go meet him.,0,6
+1794,For they do so.,0,5
+1795,Something...,0,2
+1796,"And in such cases, men's natures wrangle with inferior things, though great ones are their object.",-2,20
+1797,"Tis even so, for that our finger ache, it induce those other helpful members even to that sense of pain.",-1,23
+1798,"May we must not think men are gods, nor look for them",0,13
+1799,"nor look, nor, this line always gets me.",0,11
+1800,"Tis even so, for let our finger ache, and it induce our other helpful members even to that sense of pain and pain.",-2,26
+1801,"We must think men are not gods, nor of them look for such obsurgency as fits the bridle.",0,20
+1802,"Tis a monster begot upon itself, born upon itself.",-1,11
+1803,I will go seek him.,0,6
+1804,"Mother, throw your vile guesses in the devil's teeth from whence you have them.",-2,17
+1805,"You are jealous now that this is from some mistress, some remembrance.",-2,14
+1806,Who is it?,0,4
+1807,I know not even either.,0,6
+1808,It worked well.,2,4
+1809,There'd be demanded as like it enough it will.,2,11
+1810,I'd have a copy.,0,6
+1811,"Now since, oh, it all comes o'er my memory, as doth the raven or the infected house that he had in my handkerchief.",-1,27
+1812,Or heard him say- Hath he said anything?,0,9
+1813,"If it he did,",0,5
+1814,We say lie on her when they belie her.,-2,10
+1815,Lie with her.,-1,4
+1816,That's fulsome.,0,4
+1817,Handkerchief confessions.,-1,3
+1818,I tremble at it.,0,5
+1819,He stirs.,0,3
+1820,No case is better.,1,5
+1821,It is the spite of hell that feeds Archmark to lip on wanting my secure couch and to suppose her chaste.,0,22
+1822,"Now, let me know, and knowing what I am,",0,12
+1823,"Whilst you were here, overwhelmed with your grief, Cassio came hither.",-2,14
+1824,And he confessed it.,0,5
+1825,I shifted him to the right way to excuse upon your ex-discipline and return.,0,15
+1826,Will you recall?,0,4
+1827,Great.,1,2
+1828,Great.,1,2
+1829,"You're all in the, in the green room snacking?",0,12
+1830,Yeah.,0,2
+1831,You don't get the luxury of snacks in the green room.,1,13
+1832,You missed your cue!,-1,5
+1833,I'm just practicing my part.,0,7
+1834,It was so believable that I believed it.,1,9
+1835,Thank you.,1,3
+1836,Thank you.,1,3
+1837,All right.,1,3
+1838,So now what we're going to do is we're going to mush together our two realities.,0,19
+1839,So we're going to start with our reality of the thing that we built this morning that I don't want to name because it feels dangerous.,-1,29
+1840,So we're going to,0,5
+1841,"We're going to be in the world all the time, so you don't get to leave.",0,20
+1842,"If you're not speaking, it doesn't mean you're not on stage.",0,16
+1843,It just means you're not speaking.,0,8
+1844,So let's begin.,0,5
+1845,"So you can take your text and, well, hold on.",1,13
+1846,I'm getting ahead of myself.,0,7
+1847,We'll begin in the place of working in space.,0,11
+1848,Are we in a naturalistic world?,0,7
+1849,I don't think so.,0,6
+1850,"I've never seen a world that's going to look like this, so I'm not going to call it naturalistic.",1,24
+1851,Drawing on all of the things of the day.,0,10
+1852,We've got more than enough material.,1,8
+1853,"If you need to be doing your solo or your duets, that's totally fine.",1,17
+1854,Those are our tools for right now so that you're not lost in space.,0,16
+1855,"And we'll begin with that for a while, and I'll give you a cue to begin, just so that we can get that kind of established first.",0,32
+1856,"And then as the text begins, you're just going to be taking physical cues from the text, right, so that you're not in one world and this is in another world.",1,37
+1857,"It can be subtle, but this is where your cues are coming from.",0,15
+1858,"Another thing to pay attention to is tempo, because I feel like you can play pretty freely with tempo up until the top of the Iago Othello entrance, and then it should become a really",3,37
+1859,of an acceleration.,0,4
+1860,"It's perhaps an acceleration from the beginning, but I don't know yet.",0,16
+1861,So an acceleration of the world.,0,7
+1862,"Again, subtle acceleration, but that's happening because I just want to see what happens when you respond to the event of Othello's seizure.",0,28
+1863,"And I know I'm not calling it that, but I'm so interested in the word seizure.",0,20
+1864,I've been obsessing about it all night.,0,9
+1865,How do we all seize?,0,6
+1866,"Anyway, that's a whole other conversation.",0,9
+1867,Don't worry about that.,-1,6
+1868,Sorry.,-1,2
+1869,OK.,0,2
+1870,"So at the bottom of page four, right?",1,10
+1871,"Nose, ears, and lips, which was in someone's compositions.",0,14
+1872,"Yeah, that was .",0,5
+1873,"is it possible, confess handkerchief into what ho, my lord.",-1,13
+1874,Let that stop the world.,0,6
+1875,The event of that.,0,5
+1876,"And Terrell, I don't know how much you want to do in that moment, but have, yeah, make the event, however you want, but that's a thing.",0,36
+1877,"And let that stop the world, and",0,8
+1878,and change your focus somehow.,0,6
+1879,And I think after that...,0,6
+1880,"That's a princess handkerchief, am I getting that right?",1,12
+1881,"That's correct, yeah.",1,6
+1882,That's when it...,0,5
+1883,"Actually, let's give it a cleaner.",1,9
+1884,"Let's say, what ho my lord, is the part, the moment that the world stops.",0,20
+1885,And it stops for a while.,0,7
+1886,"Then Cassie, okay, it stops the world except for Cassie's entrance.",0,15
+1887,But do take a moment before entering.,0,8
+1888,"I'm in, you've got that scene.",0,10
+1889,"I don't know, I don't know about the temples.",0,13
+1890,"No, the lunge.",0,5
+1891,He stirs.,0,3
+1892,"At the end of that bit, do you withdraw yourself a little while, you will recover straight.",1,20
+1893,The world that is frozen can begin to thaw.,-1,10
+1894,"So it's a slow thaw back into, I think it probably begins with a gaze shift and it turns into a slow acceleration into movement.",-2,28
+1895,And we'll see what that does.,0,8
+1896,No.,0,2
+1897,"So just keep your text like tucked into your underpants or something so you can grab it and let's, let's walk.",1,25
+1898,"Jessica, where's the escalation again?",0,8
+1899,Somebody else's underpants.,0,5
+1900,"It's around, you will withdraw, do you withdraw yourself a little while.",0,16
+1901,"It's around Casio's exit, but I'd rather you not all take the same cue for that.",0,21
+1902,"Okay, have a walk and a couple of breaths, please.",0,13
+1903,"Don't let the room collapse in on itself, but let your hunger to pass through these doorways increase, please, by 30%.",-1,27
+1904,"Mmm, nice.",1,4
+1905,Mmm.,0,2
+1906,Thank you.,1,3
+1907,"He went hence but now, and certainly in a strange appearance.",-1,13
+1908,Can he be angry?,-1,5
+1909,"I have seen the cannon, when it hath blown his ranks into the air, and like the devil from his very arm puffed his own brother.",0,29
+1910,And can he be angry?,-1,6
+1911,"Indeed him, there is something in it indeed, if he be angry.",-1,15
+1912,"For thee, dear so, something sure of state, either from Venice, or some unhatched practice made demonstrable here in Venice, hath puddled his clear spirit.",1,31
+1913,"And in such cases men's natures wrangle with inferior things, though great ones are their object.",-2,19
+1914,"even so, for let our finger ache, and it does injure those other healthful members even to that sense of pain.",-2,24
+1915,"We must not think men are gods, nor all of them look for such observancy as fits the bridle.",0,21
+1916,"They're jealous, they're jealous.",-2,8
+1917,"The monster, born upon himself, he got out.",-1,11
+1918,"Heaven, keep that monster from a fellow's mountain lady, amen.",0,14
+1919,I will go seek him out.,0,7
+1920,"Cassio, I'll keep your mouth.",0,8
+1921,"Well, throw your vile guesses in the devil's teeth from whence you have them.",-1,17
+1922,You are jealous now.,-1,5
+1923,Who is it?,0,4
+1924,I know not neither.,0,5
+1925,My book.,0,3
+1926,There would be demanded his likeness.,0,7
+1927,and do it and leave me alone.,0,8
+1928,Leave you?,0,3
+1929,"What if I said I had seen him do you wrong, or heard him say?",-1,17
+1930,Hath he said anything?,0,5
+1931,"Anyhath, my lord.",0,5
+1932,"Be ye well assured, no more than he'll unswear.",1,12
+1933,What hath he said?,0,5
+1934,Faith he did.,1,4
+1935,I know not what he did.,0,7
+1936,What?,0,2
+1937,What?,0,2
+1938,"On her, we say lie on her when they belie her.",-2,13
+1939,"Lie with her, that's fulsome.",-1,8
+1940,"Handkerchief, confession's handkerchief.",-1,6
+1941,"To confess and be hanged for his labor, I tremble at it.",-1,14
+1942,Nature would not invest herself in such shadowy passion without some instruction is not words that make me shake the wounds.,-2,22
+1943,Use the lips.,0,4
+1944,It's possible.,0,4
+1945,Confess.,-1,2
+1946,"How now, Cassio?",0,5
+1947,There's millions now alive that might rely on those improper beds which they dare swear peculiar.,-2,18
+1948,Your case is better.,1,5
+1949,What is the spite of hell?,-2,7
+1950,The fiend's arch mock to lip a wanton in a secure couch and suppose her chase?,-2,18
+1951,No.,0,2
+1952,Let me know.,0,4
+1953,And knowing what I,0,4
+1954,"Whilst you were here overwhelmed with your grief, Cassio came hither.",-2,13
+1955,I shifted him away and made good excuse upon your ecstasy.,1,12
+1956,Where?,0,2
+1957,How?,0,2
+1958,How?,0,2
+1959,"Great, great, great.",3,6
+1960,Okay.,0,2
+1961,Interesting.,1,2
+1962,Interesting.,1,2
+1963,How'd that go?,0,5
+1964,I don't know.,0,5
+1965,The paper felt like a new sense to me because I would get lost in my body.,0,18
+1966,"I'm like, oh, shit, I'm supposed to be speaking.",0,15
+1967,"Yeah, I know.",0,5
+1968,It's a special place.,0,6
+1969,And all the stopping cues.,0,6
+1970,"I was like, oh, that's why everyone's pros.",2,13
+1971,"I'm supposed to be pros, too.",1,9
+1972,"Well, it's usually things came out of it.",1,11
+1973,So let's do it again.,0,7
+1974,And let's.,0,4
+1975,push the extremes of heightened versus naturalism.,0,8
+1976,"And the world, the unspeaking world is heightened, and the speaking world is naturalistic, just to simplify profoundly.",2,22
+1977,"So if you're speaking, you're in naturalism and a much more sustained movement or stillness, whereas the rest of the world, when you are it,",0,31
+1978,"more, take more cues, but you're going to have to listen harder because the cues still have to come from the text.",0,26
+1979,So you're juggling a lot of things.,0,9
+1980,"Encounter is still in the room, and when it happened, it was really nice.",1,17
+1981,When it happened in the world outside of the speaking space.,0,12
+1982,So keep that.,0,4
+1983,Do you see?,0,4
+1984,The problem is I can't read my own handwriting.,-1,11
+1985,Do you see?,0,4
+1986,So there are things that you can hear.,0,9
+1987,"If you are mentioned, you can respond.",0,9
+1988,So the general.,0,4
+1989,You're mentioned a couple of times.,0,8
+1990,"And yeah, you were responding to that to a certain degree, particularly at the end.",0,18
+1991,"And Heather, you were with her, which was nice for the, you know, how is she being sexed?",1,23
+1992,"Oh, yeah.",0,4
+1993,Hedy bringing in the handkerchief at the mention of it was perfect.,1,13
+1994,So keep that.,0,4
+1995,"Yes, please.",0,4
+1996,"On Terrell's line, lie with her.",-1,9
+1997,"I know I'm giving you a lot of cues, but you can handle it.",0,17
+1998,"Can that be a collective inhale, please?",0,9
+1999,Just a .,0,3
+2000,again into your thing until you stop.,0,8
+2001,"The world stopped a bit early, it felt like to me.",1,13
+2002,I think it stopped during Iago's line.,0,9
+2003,"No, where was it?",0,6
+2004,"Oh, come on, Bertie.",0,7
+2005,Bottom of four.,0,4
+2006,"It stopped under Othello's lines, but it should stop...",0,12
+2007,"What home, my lord.",0,6
+2008,So that means that under Othello's...,0,8
+2009,"lines after lie with her, you're actually accelerating because the stop out of almost stillness doesn't really register.",-1,22
+2010,"So, accelerate, accelerate, accelerate, what will my lord stop?",0,14
+2011,Cool.,1,2
+2012,"Oh, and for the seizure, for the fit, will you?",0,14
+2013,know that something is very wrong.,-1,7
+2014,"And will you know that downstage, please?",0,9
+2015,Thank you.,1,3
+2016,All right.,1,3
+2017,"And then the world has to come back afterwards, which it didn't really, it was a bit tentative.",-1,22
+2018,"Well, it's after Iago's Would You Bear Your Fortune Like a Man.",3,16
+2019,It comes back slowly.,-1,5
+2020,Yeah.,0,2
+2021,Everybody cool?,1,3
+2022,Collected?,0,2
+2023,"Collective breath is on Lyle's line, lie with her.",-1,12
+2024,"Oh, okay.",0,4
+2025,"So Kevin says lie, and then he says lie with her, and that's collective inhale.",-2,19
+2026,"Groovy, let's do it again.",0,8
+2027,"The first lie with her, correct?",0,8
+2028,"The first one, yes.",0,6
+2029,He finishes it at his with her.,0,8
+2030,Sorry?,-1,2
+2031,"He finishes that line, like lie with her breath.",0,11
+2032,"Yes, exactly, exactly.",0,6
+2033,And you can take more.,0,6
+2034,You can be more aware of the scene from outside of the scene.,0,14
+2035,"It doesn't, we can, we can work in more sort of obvious ways right now.",2,19
+2036,And you can take very clear cues from what is being said.,1,13
+2037,Yeah.,0,2
+2038,And you can respond to what is being said with your body.,0,13
+2039,All right.,1,3
+2040,"All right, what's Lawrence's breach?",0,9
+2041,Walk in first.,0,4
+2042,He exhales nice and long.,1,6
+2043,Can he be angry?,-1,5
+2044,"I have seen the cannon when it hath blown his ranks into the air, like the devil from his very arm puffed his own brother.",0,27
+2045,Can he be angry?,-1,5
+2046,"It's only a moment, then.",0,8
+2047,"I will go meet him this matter, and indeed, if he be angry.",-1,16
+2048,I do so.,0,4
+2049,"And in such cases, men's natures wrangle with inferior things, though great ones are their object.",-2,20
+2050,"Tis even so, for let our finger hurt, and it induce those other helpful members even to that sense of pain.",-1,24
+2051,"Nay, we must think men are not gods, nor look of them without observancy of the bridle.",0,20
+2052,"No, you're violent guesses in the devil's teeth from which you haven't.",-2,17
+2053,Who is it?,0,4
+2054,I know not either.,0,5
+2055,I love the work well enough.,4,7
+2056,I would be demanded as I like it will.,1,10
+2057,"I'd have a copy, take it, and do it, and leave me for this time.",0,20
+2058,Leave you.,0,3
+2059,"What if I had said I'd seen him do you wrong, or heard him say...",-1,18
+2060,Hath he said anything?,0,5
+2061,Faith that he did.,1,5
+2062,I don't know what he did.,0,8
+2063,What?,0,2
+2064,What?,0,2
+2065,Lie.,-1,2
+2066,With her?,0,3
+2067,"Lie with her, lie on her.",-2,8
+2068,You say lie on her when they belie her.,-2,10
+2069,Lie with her.,-1,4
+2070,Look at it.,0,4
+2071,"But ho, my lord!",0,6
+2072,And then look slowly at the scene.,-1,8
+2073,"If not, he forms it north and by and by, except a savage madness.",-2,17
+2074,Keep him the cover straight.,0,6
+2075,"When he is gone, I would speak with you.",0,11
+2076,There's millions now alive that might rely on those improper vets which stand there swear peculiar.,-2,18
+2077,Your case is better.,1,5
+2078,"In spite of hell, the fiends arch mocked to live a wanton and a secure couch and suppose her chaste.",-2,22
+2079,"No, let me...",0,5
+2080,"Extend you apart a while, confine yourself within a patient list.",1,13
+2081,"Whilst you were here overwhelmed with your grief, Cassio came hither.",-2,13
+2082,He confessed?,0,3
+2083,No.,0,2
+2084,"I shifted him away, laid good excuse upon your ecstasy, paid him a non-return.",1,17
+2085,"Wow, nice.",2,4
+2086,That was very rich.,1,5
+2087,A lot going on.,0,5
+2088,"I think it's incredibly useful in understanding relationship by giving, particularly in moments where there isn't text, in figuring out and trying, not figuring out, but trying different ways of being with other characters and also clocking what",2,44
+2089,What is happening in between scenes?,0,7
+2090,All of the stuff that's missing.,0,8
+2091,It's an opportunity to explore what might be happening in another space simultaneously that's not in the play.,0,21
+2092,What's happening in my body?,0,7
+2093,research for the relationship that's research for the end of the play that's research for it's not for me personally I can only speak for myself this work informs the whole trajectory of the character in the relationship it doesn't necessarily inform this scene for me but it informs something,1,54
+2094,"There's something I felt that you and I, at least anyway, were figuring out about when we go from I don't trust you to I need you to I will let you need me to I'm going to protect you now.",2,47
+2095,And we don't really have any text to explore that trajectory at all.,0,15
+2096,"So the chaos here that's happening for me speaks volumes because as we sit at the table and just do the words and have questions about the words and edit the words, those same inquiries happen in the body.",-1,42
+2097,"Because if not, you just see talking heads.",0,10
+2098,And so we're not just talking no matter how much the emotion is coming through the mouth.,0,19
+2099,We are human.,0,4
+2100,Movement is part of our everyday language.,0,8
+2101,And what makes it believable is because we move without thinking about it.,1,14
+2102,Everything is a gesture that we do.,0,8
+2103,"So to make this feel in the world,",0,9
+2104,And being able to also metaphorically do movement out of that world gives it a whole bunch of context for me.,0,22
+2105,It feels layered.,0,4
+2106,"Not that every time it's just going to be just open, but all of this gives us structure to the ability to structure the chaos in a way that what happens with the body when sorrow is there?",-2,41
+2107,Is it just vertical?,0,5
+2108,"Well, you know, when humans get, when we cry, all of our breath go here, you know?",0,23
+2109,"But when we're acting, we're still using our diaphragm.",0,13
+2110,"And so in these moments of emotion, to be able to fully embody, maybe in an expansive way, the nuances that's happening through text is just another way to communicate.",1,35
+2111,And I'm speaking for me.,0,7
+2112,"When I do this, I'm just getting bits and pieces.",0,13
+2113,to continue to add to a scene and make it full and not one dimensional.,0,16
+2114,Others?,0,2
+2115,"Personally, I struggle once we get here.",-1,9
+2116,And I'm just being open and transparent.,1,9
+2117,"Like for me, I feel I get a lot out of the first part of the day.",1,19
+2118,"But for me, it kind of",0,7
+2119,exist in a vacuum that I'm able to get a lot of it as an artist and as an actor and like spatial relationships and impulses and,1,28
+2120,all of that but but once we start getting here I just had a hard time bridging the gap and part of it is is you know we're holding a script and stuff like that and it's like and it's it's not anything that I see it's it's ultimately how I feel about myself which it just feels silly you know what I mean to be like you know what I mean and I'm not saying that that I get that from other people but I personally feels like silly when I'm doing that stuff.,1,104
+2121,"For me, it feels like there's some steps missing in a way, you know what I mean?",1,21
+2122,"I feel like this is one thing, and then this is over here, and then I just can't find the bridge.",1,25
+2123,And it's always been that way with my limited experience with viewpoints.,-1,14
+2124,This space is always rocky.,-1,6
+2125,"Yeah, totally.",0,4
+2126,But that's not to say I don't get anything out of it.,0,15
+2127,I don't think there's anything in here that doesn't have value.,0,15
+2128,"OK, so when does the text come into this?",0,11
+2129,Are we going to do five hours of viewpoints training and then 45 minutes of working on six pages of text when we've worked intensively on text for the two days prior?,1,34
+2130,Is that an efficient use of our time?,1,9
+2131,"And if it is,",0,5
+2132,"get those words in their bodies, they can move around all they want without the text in hand and do whatever this work is.",1,26
+2133,And it will look like something.,1,7
+2134,It will look more like the stuff that was going on in the first half of the day.,1,19
+2135,"Yeah, simply put, I feel like there's not enough text in this.",2,16
+2136,There's not enough.,1,5
+2137,I'd be interested to know how people feel about it.,0,12
+2138,That's all.,0,4
+2139,If I may.,0,4
+2140,Of course.,0,3
+2141,"One way that I look at it and experience it is, how do I put this?",0,18
+2142,"I'd say, especially with the, as you say, the first half of the day versus the latter half of the day, I think there is a difference.",0,33
+2143,"This scene I struggled with because I'm not in it, so I don't really know what to do with it.",-1,24
+2144,"But, so I'm not a good judge in terms of the latter half.",1,16
+2145,"But the first half, because Rodrigo has this body, I view it as akin to just like you've asked us to do several times.",1,28
+2146,"Like, what is your character's last name?",1,10
+2147,What is your parentage?,0,5
+2148,"Um, do you have, like, were you ever in an accident as a child?",1,18
+2149,"Uh, have you seen a dead man?",-1,9
+2150,"Like, it's all, like, it's, it's a lot of backstory.",2,18
+2151,"And it's, and it's body and relationship specific.",0,12
+2152,"Um, and that I can actually bring into the text analysis for the characters.",0,16
+2153,"Um, in terms of, like, well, like, wouldn't Would the character that I'm playing say this in this way?",3,27
+2154,And does this body need to say that?,0,9
+2155,And does he need to use these words?,0,9
+2156,Or she?,0,3
+2157,Or they?,0,3
+2158,Whatever pronoun you want to use.,0,7
+2159,"So in that way, as much as my body resents it,",0,13
+2160,I find it really useful.,1,6
+2161,I give a perfect example.,1,6
+2162,"When we did this last time we were here, when me and Aaron got to work together, I had never given thought what Casio thinks about Brabantio or what that relationship is.",1,35
+2163,well and articulated.,1,4
+2164,"I mean, and as we see, as we continue, I mean, it can't help but have Desdemona in the room and Amelia, whether we want to or not.",0,35
+2165,Last residency week?,0,4
+2166,"Yeah, last residency week.",0,6
+2167,"But it applies to today, too, as well.",1,11
+2168,I'm just pointing to a perfect example when Aaron and I got to work together.,2,17
+2169,"And it was kind of like a fast-track, physical, non-cerebral way to identify exactly that backstory and what Cassio may feel about",1,24
+2170,Because I hadn't even thought about it.,0,9
+2171,"Because I have no scenes with him, right, other than sitting in the thing.",1,17
+2172,And that does absolutely just flesh out the world and make it more three-dimensional.,0,15
+2173,"When you yesterday got up and you went over her in that scene, you brought that chair out and you went over her, things changed, right?",1,30
+2174,"And I got excited about it because the relationship, the physicality matched that tone.",1,16
+2175,And it started getting on this feet.,0,8
+2176,"Now, granted, you all know the words.",0,10
+2177,I was coming in from the beginning.,0,8
+2178,But I think it's a skill trying.,1,9
+2179,"If I waited until I knew this, in a way that was just from my memory, to start playing physicality to it, It would feel too late.",0,31
+2180,"Barbary felt all day for me, though, because she doesn't have words.",0,16
+2181,So Barbary feels like movement.,1,6
+2182,Barbary feels like space.,1,5
+2183,And she feels like hovering and always kind of in the space.,1,13
+2184,"And when we get there, I think Barbary is the reason why this relationship is happening, because there's some familiarity of seeing black skin at the first year first when you're younger, and there's a connection to that, and everything else that goes with that.",0,53
+2185,"But just, you know, Yeah, it's clunky, though.",-1,14
+2186,"It's hella clunky because once I get into it, I forget where I am.",-1,17
+2187,But that kind of tells me something.,0,8
+2188,I'm being present fully in something.,0,8
+2189,I saw that.,0,4
+2190,"I'm questioning if five hours of viewpoints training is valuable, or is it two, and then we get to do text work, and then we get to start to do stuff with this clip, as opposed to watching people do this thing.",2,48
+2191,I think it would be interesting if we had a little viewpoints every day to start the day.,1,19
+2192,"If we had an hour of movement, And then we hit the text.",0,15
+2193,I'm only speaking for myself.,0,7
+2194,You all know I'm going to beat this drum all day.,0,13
+2195,But then it will pour into the text.,0,9
+2196,"For me personally, the in-between place where I'm not solidly off book and I'm trying to do stuff full out with movement is pure hell.",0,29
+2197,is just pure hell.,0,5
+2198,"Because it's two different parts of the brain, and it's just, it's hard.",-1,19
+2199,It's hard.,-1,4
+2200,I echo that.,0,4
+2201,"I feel admittedly clunky when we start to do this, because I just wish that I was more online in any capacity.",-1,24
+2202,And with my brain split between what is this doing and what is that doing with the words.,-1,19
+2203,There's absolutely no part of me that can clock if any of it's useful.,1,17
+2204,"But at the same time, there was something in what just happened and that chaos at the end.",-1,20
+2205,"You talked about internal and external pace, was it?",0,11
+2206,Tempo.,0,2
+2207,Tempo.,0,2
+2208,And I think that that is another way of exploring it.,0,12
+2209,"the externalized tempo, the words, and the storm that is going on inside that only in this kind of very sloppy, throw the paint of the canvas kind of situation can I explore, that's what's going on inside.",-1,45
+2210,And that is a valuable takeaway.,1,7
+2211,I don't know.,0,5
+2212,I think that that could be a takeaway from other combinations of movement and text,0,15
+2213,But there is something really essential to allowing the sloppiness as well.,1,13
+2214,But I would love to do more of this in smaller bits every day.,1,15
+2215,"Well, I'll think of the actual duets that actually talk to each other, just to see them all move together, will be very, very interesting.",2,31
+2216,How do we affect that?,0,6
+2217,"Yeah, OK.",0,4
+2218,"We have allies here, but we bring something to this space which is very unorthodox and not what any.",-1,21
+2219,My experience with academic institutions is that we are not at home.,0,13
+2220,We cannot do just what we want to do.,0,11
+2221,And I stay very aware of that because I want this to go on.,0,15
+2222,I understand and I think I agree with you that,0,10
+2223,that helps in certain respects and removes us in others.,0,11
+2224,"It's tricky for me, and honestly, even in hearing everything, sometimes I actually get a little confused about what everyone is saying they're getting and not getting at times.",-2,35
+2225,"Because for example, even like the example of when Keith stood over Amelia in rehearsal,",1,17
+2226,"That's a little bit of what's confusing to me, because I don't understand what's in the way of that anyway.",-1,26
+2227,"And then I do appreciate, I don't understand what's keeping that from happening.",1,17
+2228,"Like you said, it happened, and it was powerful, and it did that.",2,17
+2229,So I don't personally understand what we're doing here that's supposed to make that more possible in the room.,0,23
+2230,"I do find that, particularly when we're doing what we usually do in the first half of the day, that as just an artist in my body, it's beneficial.",1,35
+2231,"More often than not, the thing that I think is the most valuable is actually the conversations we're having about",1,22
+2232,"the challenges or the variation in our experiences coming to it, which is actually what I think the play needs and our other room needs.",0,27
+2233,But that doesn't.,0,5
+2234,What does the other room need?,0,7
+2235,The awareness about all of the variation in the experience of doing and being in the world.,0,18
+2236,"Because to me, being in this room is being in the world together.",0,15
+2237,"But it is in no way a homogeneous experience, which I think is the very reality we're exploring in the room.",0,24
+2238,"Personally, I find that when that comes up, it's not treated like it's what we need in the room.",1,24
+2239,And so then I start to get a little confused about what we're doing.,-1,16
+2240,And I definitely get that as far as having scripts and all that stuff.,0,15
+2241,And Hannah's always awkward when we're trying to move.,-1,12
+2242,"I guess I then, like for me, I have a script in the hand.",1,17
+2243,I'm also trying to think about what does it mean to do the composition we did earlier and like all these things.,1,24
+2244,So I actually have more things in my hand in a way.,0,13
+2245,But then I don't actually have even like architecture or anything that lets me know what I'm playing within.,1,22
+2246,"So then I still feel like I'm kind of in that amorphous space and even like some of the things that are happening and I can definitely understand what we're talking about world building and what would the behavior be happening in the background, all of that.",2,51
+2247,I think this is absolutely great for that.,1,9
+2248,There's a moment when you were talking about,0,9
+2249,the shift in tempo with the seizure moment.,0,9
+2250,"And I was like, oh yeah, on stage, that'd be a beautiful moment if everybody else kind of went into a soft freeze and we had that focus.",2,33
+2251,"But to me, that's not for me as the actor.",0,13
+2252,It didn't really feed me in any way other than knowing what our bigger picture was.,0,18
+2253,"No, and so I guess I find myself in, I guess, up against the challenge of figuring out",0,21
+2254,what it is that we need in the room and how it is that we're pursuing it in this space.,0,22
+2255,"And because I don't ever know if we're doing it or not, so it's like, oh, we found that here.",1,27
+2256,"OK, so tomorrow let's find it in the room.",0,12
+2257,So that can even be a conversation.,0,8
+2258,"Sometimes it's like, I found something, and it was good, but intangible still.",2,18
+2259,"And so we get to the room, and it's just as intangible.",0,15
+2260,"I don't know, it's because I'm a dancer and I do a lot of physical theater.",0,21
+2261,"How we use the time, there's things we can always talk about.",0,15
+2262,"Like if we bring in text in, the next time that we do this, if we want to introduce the text in the beginning of the day and move afterwards and then back, all of that makes sense to me.",1,44
+2263,And I think it's always great to continue to try to configure how we're doing with this opportunity that we have to process.,1,26
+2264,But I also feel,0,4
+2265,"Discomfort, certain discomforts, right, is the place of growth.",0,13
+2266,And it depends what room you're in.,0,9
+2267,There was so much information that happened.,0,8
+2268,"Now, granted, I, for the first time in a long time, been in and not out there watching.",0,23
+2269,"But I'm gathering, you know,",0,8
+2270,"you know, oh, I can imagine many things is happening when you are having this spell, when you're having this episode, because I've already seen your body the first half of the day go through this.",0,43
+2271,I see how people react.,0,6
+2272,"But when the text comes, all of a sudden, we stop again, and we go back into our normal patterns of, what do I do with my body?",0,33
+2273,And so I feel that I see that all the time.,0,12
+2274,"I'm always like, why they're holding the body like that, relaxing.",2,16
+2275,And all of that moment was us discovering that today.,0,11
+2276,And it is...,0,4
+2277,"It's interesting trying to marry those two together, but I think that's why it's like what is happening.",2,23
+2278,Does it need to be the whole day?,0,9
+2279,I don't know.,0,5
+2280,"I get what you're saying where you're like, oh, there's different ways we can configure it.",1,22
+2281,"But I do think there's still much in this that we're giving one day out of this week here that is in a research type of way, in a process type of way.",0,37
+2282,Thank you.,1,3
+2283,I appreciate that.,1,4
+2284,I don't think that I have ever wondered what to do with my body once the words were in it.,0,22
+2285,"Once I embodied a text and began to say the words of the text, not only the script, but once I, as an actor, began to speak, they informed what I did.",0,38
+2286,And that's just the way I work.,1,9
+2287,"Now, that doesn't mean that's the way we all have to work.",1,16
+2288,"I'm figuring out, and maybe, Jess, it's time for you to talk.",0,18
+2289,What we've discovered is that people have been getting up into the middle of the room and doing stuff.,0,21
+2290,This is process.,0,4
+2291,"This is not going to be finished, and it's not going to be comfortable for you or for anyone in the room.",1,25
+2292,"When we take the text, I mean, and we put it, when we've been moving, and then we take the text, it's always a disaster.",-1,33
+2293,The reason we do it is to practice how do we handle it?,0,14
+2294,And it's...,0,4
+2295,How do we handle what?,0,6
+2296,How do we handle the...,0,6
+2297,panic that we go into when we are handed both movement and text.,-1,14
+2298,Because everybody does that.,0,5
+2299,Everybody goes under first.,0,5
+2300,"So this is messy space, right?",0,8
+2301,"This place of I'm going to hand you words on a page and expect you to take all the information that we've just spent five hours creating and to marry them, it is never going to be successful until you do it for life",1,47
+2302,"what is it, 10,000 hours, something?",0,9
+2303,But why doesn't their speaking inform their movement?,0,10
+2304,Why are we creating movement before there's anything to move about?,0,13
+2305,Is there not?,0,4
+2306,I don't think that it is not informed by their speaking.,0,13
+2307,"I think there are different ways in, and that beginning",0,11
+2308,"that tangible, visceral place in space and with each other will explode the possibilities that otherwise can be very limited.",-2,22
+2309,"Because when it's only informed by words, it becomes predictable often.",0,14
+2310,And it's really hard to blow that open.,-2,10
+2311,"This takes longer, but it also yields",0,8
+2312,more interesting results and by more interesting that's the understatement of the century results that affect audience in a way that is visceral that is tangible that is real that is not faked and often if you just say here do your words now move in a way that makes sense,2,52
+2313,Then you have living room drama.,0,7
+2314,Are you suggesting that without viewpoints that plays can't work?,1,12
+2315,Nope.,0,2
+2316,I'm saying that this is a way in.,0,10
+2317,"It's one of a billion different ways in to text and to naturalism, if that's what you're going for.",0,24
+2318,It's just another way.,0,6
+2319,It's just a tool.,0,6
+2320,"In my experience, it's a very effective tool, but it takes And in the same way that we are working with text with a fine tooth comb and it's exhausting and excruciating to work with the words the way that we are, the movement has to be given the same kind of space, the same kind of time, and we can't expect an hour to generate a finished product.",2,78
+2321,That's not what I'm doing.,0,8
+2322,I'm not looking for a finished product.,0,9
+2323,Don't get me wrong.,-1,6
+2324,I wasn't.,0,4
+2325,I wasn't.,0,4
+2326,"Well, what is the process?",1,7
+2327,What is the process?,0,5
+2328,What is experimental about this?,0,6
+2329,"What can feel traditional about something that we're trying to break something new in, right?",0,18
+2330,So those are the questions.,0,6
+2331,Is there rules?,0,4
+2332,Is there a place that we have the ability to play?,0,12
+2333,"And we're giving space to play when we're sitting with the words, which is incredible.",1,19
+2334,And you know it.,0,5
+2335,And I'm learning this.,0,6
+2336,"There's things that I'm like, oh, and ah, and ooh, and might not agree with everything.",1,23
+2337,"But let's not forget, the body is another way of communication.",0,14
+2338,"Well, I hear you.",1,6
+2339,And we're communicating.,0,5
+2340,I'm not disputing that.,0,6
+2341,And I think we are creating the rules.,0,9
+2342,We are creating them.,0,5
+2343,I'm not saying no to anything.,0,8
+2344,I'm asking questions after sitting here watching this entire day.,0,12
+2345,"I also think that, and we've expressed this before, but we are all unique individuals.",0,19
+2346,This process seems to be celebrating our uniqueness as individuals and coming in together.,0,15
+2347,And we are trying to find a new way to work.,1,12
+2348,I perceive that we are trying to find a new way to work.,1,14
+2349,"For me, body is...",0,6
+2350,Research.,0,2
+2351,It is research.,0,4
+2352,"It is experiential research that occurs in layers, and when something is experienced only one time, it lives in my body.",0,24
+2353,"And I'm like, ah, that part of Amelia, I know what this is right here.",2,20
+2354,I know what it is.,0,6
+2355,"Maybe I can't name it, but I feel it, and I know it, and I can access it when I need it at the end of the play, because I found it today, right?",1,41
+2356,But I also think that we all,0,7
+2357,we come at our individual processes different.,0,8
+2358,"So I'm hearing, great, your connection with text and my connection with body.",1,17
+2359,And that has to do with how we learn.,0,10
+2360,I'm a kinesthetic learner.,0,6
+2361,That's how I learn.,0,6
+2362,That's how I memorize my lines.,0,8
+2363,I have to move.,0,5
+2364,I can't sit.,0,5
+2365,"And other people are sound, and other people are sight.",0,12
+2366,And we have an ensemble of different people who are inspired in different ways and learn in different ways.,0,20
+2367,"So if we are a collective,",0,7
+2368,"then how do we find a way that honors all the different people in the room and the way in which they create so that we have this kind of like, I don't know, cauldron of good things.",2,42
+2369,I have no words.,0,5
+2370,And I'm so new here.,0,7
+2371,I just wanted to ask the question.,0,8
+2372,I assume that there is watching of a video afterwards at different times where you do recalls.,0,18
+2373,"Well, that's what we're archiving it for.",1,11
+2374,Yeah.,0,2
+2375,"Like recalls and going, OK, in this day, random tableau that happened over there would actually be beautiful in scene two when these together.",2,28
+2376,"And so it's something that when we go into scene two, then we can recall that moment and not mimic that moment, but go back into a suggested feeling of, hey, when we did this and you all were together here, there was something beautiful and visceral about your relationship.",1,57
+2377,And now you know the words.,0,7
+2378,treating it like archival.,1,5
+2379,That's what I'm thinking.,0,7
+2380,"Just a second, Kevin.",0,6
+2381,"Emily, did you want to?",0,7
+2382,"Well, I was going to offer two things.",1,10
+2383,"One is that, you know,",0,7
+2384,"come back in January, we could do it all in the middle of the atrium.",0,17
+2385,No one won't be here.,0,7
+2386,"The bets are off, right?",1,7
+2387,Exactly.,0,2
+2388,Nobody will be here.,0,5
+2389,So we'll have a lot of space to play with.,0,12
+2390,The second thing it occurred to me when you guys were talking about,0,13
+2391,"watching it was, I couldn't really follow the text because I couldn't hear, you know what I mean?",0,23
+2392,"Like, I couldn't, people were, and so, like, how the voice comes through is another component.",2,23
+2393,I dare say that the voice will follow.,0,9
+2394,"I mean, for an audience member in this room, you're going to lose things just",-1,18
+2395,For me.,0,3
+2396,For me.,0,3
+2397,But this is something slightly different.,0,7
+2398,So I'm not as concerned personally.,-1,8
+2399,I'm not talking about speaking properly.,1,8
+2400,I'm talking about like.,1,6
+2401,"Yeah, I know.",0,5
+2402,I know.,0,3
+2403,"I wonder if that's all part of it, in that even, I mean, because I feel like it kind of happened in the first day, too, where",2,33
+2404,Like there's a bit of an assumption that like not meeting the expectation is a signifier of certain things.,2,21
+2405,And like we didn't have a conversation about what actually would be necessary for people to succeed at incorporating what we did into the text.,2,27
+2406,And if we actually had,0,5
+2407,what we needed based on the different ways that we work to meet that challenge.,1,16
+2408,"And instead, it was interpreted, from what I'm hearing, as coming in under or falling.",-1,20
+2409,"And it's like, but there may have been reasons all along why that really happens that aren't about capacity to do it or not.",1,28
+2410,"And that's what I actually always appreciate about movement work is that, yeah, you can explore your full spectrum.",2,23
+2411,"But to build to moments, or to ground the reality of a moment that could contain a certain physical expression, I think sometimes requires more shaping or just having certain elements",0,33
+2412,present or available for people to really get there.,1,10
+2413,And I think that's different for people.,0,9
+2414,"And then when they're not there for everyone, then it becomes a very confusing storytelling experience.",-1,19
+2415,At least it does for me.,0,7
+2416,"So Kevin, did you, you've been trying to?",0,12
+2417,"I'm just, I'm very mindful of the profound thing, Keith, that you are doing with this project, right?",2,25
+2418,"Which is you are building in time, okay?",0,10
+2419,"So in this good faith conversation, it may very well be the case that the balance is wrong, that the balance is off somehow, right?",3,29
+2420,"And if we were within the production machine and the balance is wrong, the production's fucked.",-1,19
+2421,But you are building time into this.,0,8
+2422,"And the time means that the ensemble may keep working towards the optimal balance of the things that, what about this?",1,23
+2423,Are we missing this?,0,5
+2424,Could we do more of that?,0,7
+2425,What if you did that?,0,6
+2426,"Because you are building time in, the ensemble may well find those things that are going to pay off two years from now.",1,25
+2427,"Yeah, and I want to briefly piggyback on that and say, you said the thing that it is.",0,21
+2428,"When you were speaking a little while ago, you said we're creating process.",0,16
+2429,And that's exactly it.,0,6
+2430,what it is because we're making something brand new.,0,11
+2431,We're doing a thing that hasn't been done before.,0,12
+2432,"And in order to do that, we have to create the process that has also never been done before to create the thing.",0,25
+2433,"And so I think that's why, you know, we have to throw so much spaghetti at so many walls is because...",0,25
+2434,"The tools that I try to bring into these rooms, some of them are consistent, viewpoints being one of them, but a lot of the other stuff I'm bringing in actually isn't viewpoints per se.",1,41
+2435,It's different.,0,4
+2436,"different exercises, different things, some of which land better than others, some of which are more successful than others.",2,23
+2437,That's always true.,0,5
+2438,Different ensembles respond differently to different things.,0,8
+2439,But I think that is finding the ones that really wake up.,0,13
+2440,"Whatever it is we're doing, textual or movement or otherwise, then we have those, and then we can move forward with them.",0,27
+2441,Two things.,0,3
+2442,"I didn't really follow what you were saying, but we're 25 minutes over.",0,17
+2443,"So can you keep that in your mind and give it to us again, first of the day, tomorrow, so we can have some time in the room to talk about what that was?",0,38
+2444,That's the first thing.,0,6
+2445,Thank you.,1,3
+2446,"The second thing is, what, going forward, do we want to try and do?",0,18
+2447,"If it's about keeping, well, this is the last, first of all, this is the last day like this that we have until January.",2,30
+2448,"January could be a different thing entirely,",0,8
+2449,"Well, we circle up in the mornings.",1,9
+2450,Can we talk about what we're bringing into the circle?,0,12
+2451,"Can we also physically talk about what we're bringing into the circle for a little, like a gesture, a physical component of what we're bringing into the circle that's adding some movement into it?",1,40
+2452,"I mean, it sounds like you want more than that.",1,12
+2453,What am I hearing?,0,5
+2454,"Can I, I mean, it sounds like just based on how long it takes this group to come to conclusions, like we need to schedule a time to talk about this and like problem solve together, unless you and Jessica want to do it.",2,49
+2455,"Well, we'll talk, but let's.",1,10
+2456,"Because I have my thoughts, but there's a whole room of us.",0,15
+2457,You want to take the first hour tomorrow?,0,9
+2458,Would that be valuable?,1,5
+2459,To talk or?,0,4
+2460,To talk.,0,3
+2461,And to define process.,0,5
+2462,Sure.,0,2
+2463,Yeah.,0,2
+2464,I'm game.,0,4
+2465,Yeah?,0,2
+2466,Jess?,0,2
+2467,Absolutely.,0,2
+2468,Sure.,0,2
+2469,Back up in the room.,0,6
+2470,Back up.,0,3
+2471,Just as Keith.,0,4
+2472,Yeah.,0,2
+2473,And I know it's 630.,0,7
+2474,"I'm so sorry, but I had one question, a really important one.",0,16
+2475,Thank you.,1,3

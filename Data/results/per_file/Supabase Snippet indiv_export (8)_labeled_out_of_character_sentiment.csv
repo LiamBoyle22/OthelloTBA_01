@@ -1,0 +1,453 @@
+line_num,line,bing_liu_score,n_tokens
+1,Cheers.,0,2
+2,"Yeah, coffee over there.",0,6
+3,"Well, I don't run anymore, and I think that this is how I .",1,17
+4,Remind me to talk to you afterwards.,0,8
+5,"No, no.",0,4
+6,I was not being very kind to me.,0,9
+7,Remind me.,0,3
+8,Would you like some chairs?,1,6
+9,I'll get you some.,0,6
+10,I'm sitting tall in my mind.,0,8
+11,Thank you.,1,3
+12,I haven't tried multiple times.,0,7
+13,"Because it's because I'm tall, right?",1,10
+14,I need a taller chair so that my chest.,0,10
+15,"Oh, I see, I see.",0,8
+16,"So, welcome back to the",1,6
+17,Sixth of seven of these.,0,6
+18,The seventh not yet scheduled.,0,6
+19,Probably be sometime in the middle.,0,7
+20,"My birthday is September 22nd, please.",0,8
+21,Is it a Sunday?,0,5
+22,I don't know.,0,5
+23,That's a Monday.,0,5
+24,It's a Monday.,0,5
+25,That's a Wednesday.,0,5
+26,That's a Wednesday?,0,5
+27,It's a Monday.,0,5
+28,But we'll talk about that and everything else on the other end of this.,0,16
+29,What's up?,0,4
+30,Trying to get that.,0,5
+31,"So, we have Tyrell back, which is wonderful.",1,11
+32,switching roles today for everybody who wasn't here.,0,10
+33,"I think this team was all here last week, so they saw that configuration of Amelia and Bianca.",0,20
+34,"So today they get to see the reverse along with me, and that's exciting.",1,17
+35,This is Neil Bledsoe.,0,5
+36,You want to say hello and talk about yourself?,0,10
+37,Sure.,0,2
+38,What should I say about myself?,0,7
+39,Just who you are.,0,5
+40,My name is Neil.,0,5
+41,"I'm an actor, writer.",0,7
+42,I'm excited to be here.,1,7
+43,I'm excited to see what you guys do.,1,10
+44,We had a wonderful conversation.,1,6
+45,I'm very excited and honored to give it to play with you guys.,2,15
+46,So a pair of colored blue.,0,7
+47,More baseball men than a football men.,0,8
+48,"But yeah, it's going to happen.",0,9
+49,"And one other thing, I'm actually going to Venice in a week.",0,15
+50,"Yes, you told me.",0,6
+51,Yeah.,0,2
+52,So I'll go do some locations.,0,8
+53,Take a good look around then.,1,7
+54,Get the feel for it.,0,6
+55,"Speaking of which, that is a really great segue.",1,11
+56,I don't want to take up a lot of time.,0,12
+57,I don't want to blather on it as I usually do.,-1,13
+58,And so I won't.,0,6
+59,But I wondered if we could start this reading this week.,0,12
+60,"I've been thinking a lot about circumstances, location, going through the week in my life and trying to understand how do I feel because a certain set of circumstances are in place on this day, whether they come at me through the news or something I hear, how somebody treats me, circumstances in the family, things that I have to do, pressures, whatever they are.",0,75
+61,We're all feeling those things.,0,7
+62,"We're all feeling them in terms of life in general because of COVID, because of the various devolving political situations, Afghanistan, whatever it is.",0,29
+63,"My sense is, my sense would be going forward in a rehearsal situation, that we would be trying to be aware of what that environment was in the world that we were operating in.",0,37
+64,"And of course, we don't know right now because we haven't made that up.",1,18
+65,We haven't figured that out for ourselves.,0,9
+66,"Just curious, I wanted y'all to sort of chime in about anything particular that you're feeling with regard to that.",1,23
+67,"Your circumstance, what it's making you feel, how it relates to your being in this play.",0,20
+68,"Just something to charge this next to last reading with in terms of, again, we haven't really established a circumstance, a place when things exactly happen.",0,31
+69,"But just in general terms, anybody who's got anything to sort of talk about that is, I'm here today in the midst of, I'm feeling, I see these connections, whatever.",0,39
+70,Now's the time.,0,5
+71,I'll hop in.,0,5
+72,I've been fascinated by the events that happened at the Cool Air Force and our pulling out of the Afghan war.,1,23
+73,"And it's hard not to look at that in the broader context of what that means geopolitically in terms of American power, in terms of our moral mission in the world, whether we had a moral mission in the world where we went awry, and something that is thousands and thousands and thousands of miles away, as relatively as Cyprus may be in this play.",-1,71
+74,direct and indirect impact at home.,0,7
+75,"And oddly enough, I think the dichotomy of seeing pictures that are so present, like those horrific video of the plane taking off, people clinging to it, while the call sign of the plane literally was 9-11 reversed.",0,43
+76,those images are so present and yet the dichotomy is is that they're thousands of miles away and i would imagine that i mean even in terms of this christianity versus islam there is a clash of civilization there is a clash of ideals and it's hard not to feel the knock-on effects i think,-3,57
+77,that mean?,0,3
+78,What does it carry forward?,0,6
+79,"I would expect that what the Venetians felt against the Ottoman Empire would have been the same kind of existential threat, although probably a greater existential threat because it was literally kind of at their doorstep.",-2,38
+80,So that's one commonality that I see in what's kind of recharging me through this.,0,18
+81,I appreciate that.,1,4
+82,"I'm looking at the same thing, and something that keeps coming up for me is how Joe Biden is fielding this first real existential crisis of his administration because people are now pushing back.",-1,37
+83,"The glow is off the rose, right?",2,9
+84,"They say, OK, now what are you going to do, old man?",0,16
+85,How are you going to deal with this?,0,9
+86,he's having a hard time keeping up with that.,-1,11
+87,"At the same time, the African-American media is pushing back at him because the voting rights issue said, you said, we were the people who were the backbone of your administration.",0,35
+88,"We got this done for you, and now what are you doing?",0,14
+89,"And it leads me to wonder how many of us as Americans believe that any politician is actually on our side, and how many actually know",2,27
+90,"You know, that politicians are people striving for self-service, trying to get, they can code in things.",1,21
+91,"I'm in politics for, you know, to serve the community or serve the nation or whatever, but it isn't coding.",0,26
+92,"It has to be, you know.",0,8
+93,"This is a thing that a person does for oneself, ultimately.",0,13
+94,There's far too much to gain in doing it for oneself that isn't selfish.,0,17
+95,They think it's anything else.,0,7
+96,"I think Mother Teresa, it's something else.",0,10
+97,And I think of that in the context of the play.,0,12
+98,"How jaded are this group of people coming together realizing that everything everybody else is doing is for their own ends, including the senators.",-1,26
+99,"of that because I think I've been thinking a lot about kind of the idea of scale and the lens that we look at things through and how much that influences the meaning, its impact, our motivations and whether it's even in terms of time we can look at the immediate need or the immediate want and neglect the long term and things can become okay that really aren't when you look at their fallout or even geographically and how focusing on your home, or your community, or your country, or the world, can lead to completely different opinions, perspectives, and senses of right and wrong.",-1,118
+100,And I feel like there's a lot of that in the play.,1,14
+101,"I mean, that's really, I think, what we're all doing to some degree.",0,19
+102,"And at times, we are matching each other's scale.",0,12
+103,And that's when we have unity of purpose and unity of interest and all of that.,2,18
+104,"But sometimes, even in that, you can get hurt.",-1,12
+105,"comes back to the personal, to my personal fear, to my personal breath, to my personal desires.",-1,21
+106,Excuse me.,-1,3
+107,"So I am really curious, kind of, with this conversation, then actually this coming to the forefront of my mind, when we're changing and shifting the scale in order to do things or say things or understand things in the play?",0,47
+108,Yeah?,0,2
+109,Yeah.,0,2
+110,That's interesting.,1,4
+111,That makes me think about POV and how we switch point of view and perspective throughout the play.,0,19
+112,There are two things.,0,5
+113,One is the political that's happening now.,0,9
+114,"I've always wanted to run for political office, and I feel like you do.",1,17
+115,"I feel that politicians, and I've spoken to politicians about running for office, and then I listen to them, and I'm like, what the fuck is wrong with you?",-1,36
+116,"There's a guy that's over my district in Harlem, and I reached out to him, and I was like, what the fuck is wrong with you?",-1,32
+117,You've been doing this for 25 years.,0,9
+118,And I've never seen you or met you.,0,10
+119,"I didn't say this to him, but after the conversation, I was like, he actually has no interest in making the community better.",2,28
+120,I would imagine at some point in the beginning that he did.,0,13
+121,"Like, that's why he ran.",1,8
+122,And then it makes me fear.,-1,7
+123,"If I run, will I turn into this?",0,10
+124,It's such a strange thing.,-1,7
+125,"And one of the things that relates to the play, and just politics in general, is I've always thought about politicians.",0,25
+126,And I have never heard a politician,0,7
+127,At all or without being compelled?,0,7
+128,"Without being compelled, right?",1,6
+129,"Like just saying, you know, saying, oh, Biden saying, you know, the way I pulled out of Afghanistan, I could have done it in a better way.",2,35
+130,"The way I went about it wasn't the best way to go about it, and now I see that.",1,22
+131,And I'll do better in the future.,1,9
+132,You know what I mean?,0,6
+133,"Like that's the type of politician that I want, but you never see.",1,16
+134,And I see that in this play.,0,8
+135,"I was like, does anybody ever say, I'm sorry?",0,13
+136,You know?,0,3
+137,The fellow doesn't say it.,0,7
+138,He always says the opposite.,0,6
+139,I ain't sorry.,-1,5
+140,And the other doesn't say it.,0,8
+141,"You know, I'm like, no one says, I'm sorry, I was wrong.",-1,19
+142,The fellow doesn't even say it.,0,8
+143,"You know, at the end, he laments and he's, you know, he can tell he's sorry for what he's done.",-1,28
+144,"But he doesn't say, gentlemen, what I did was wrong.",-1,14
+145,So I think that's interesting in the play of why we behave that way.,1,16
+146,"And then number two is,",0,6
+147,"This whole thing, like Othello reminds me of this, and Afghanistan reminds me of this.",1,18
+148,"Years ago, like this table right here, I was having dinner with a bunch of people after a play.",2,22
+149,"And some military people, it was a military play, and some military people came and saw the play.",0,21
+150,And one was a writer.,0,6
+151,"I can't remember, I'm sorry I can't remember his name, but I can look it up and tell you guys later.",-1,27
+152,So we went and had lunch in between shows.,0,10
+153,"And there was this guy there who's very well read and this student writing his mouth about the politics, you know, the military play and military in general and our role overseas, right?",2,38
+154,Our role in Iraq and Iran and Afghanistan.,0,9
+155,"And so there was a guy that sat there who, he was the writer of this book and he was a, Tired Green Beret, like military.",0,30
+156,"We're talking, you know, retired, but he sat there still the entire time.",0,18
+157,And it reminds me a little bit of like maybe who a fellow was.,1,15
+158,Maybe.,0,2
+159,I don't know.,0,5
+160,But he sat there and this guy was running his mouth and running his mouth and talking about it.,0,20
+161,And this guy was sitting there just cutting his food.,0,11
+162,He didn't say a word.,0,7
+163,There was a TV show called The Unit.,0,9
+164,It was based off of his book.,0,8
+165,So that's who's sitting here.,0,8
+166,And he's silent.,1,5
+167,And this guy was running his mouth.,0,8
+168,And then he put his utensils down.,0,8
+169,"And he looked at this guy and he said, you have no idea what you're talking about.",0,20
+170,"And I remember looking at this guy, and the only thing that went through my mind was he could pick up that knife, stab that guy in the neck, wipe it off, and keep on eating.",-2,41
+171,"That's what it felt like, right?",2,9
+172,"I remember we got back to the green room, and everybody was like, what the fuck?",0,19
+173,Did you see that guy?,0,6
+174,"Like, everybody felt it.",1,6
+175,"And that guy shut, and there was silence for the rest of the meal.",0,16
+176,"Everybody was polite, shook hands.",1,7
+177,What is that?,0,4
+178,Because you saw all those things.,0,7
+179,What has that guy seen?,0,6
+180,That nobody else in this room has seen.,0,9
+181,Who was the fellow who was talking?,0,8
+182,I don't know.,0,5
+183,It was just a guy that came to see the play.,0,12
+184,"He was in, I don't know how he knew, because we didn't know him.",0,19
+185,The actors didn't know him.,0,7
+186,He came with this group.,0,6
+187,"One was a showrunner and one was like, He wasn't an actor.",1,15
+188,So I don't know.,0,6
+189,But he was spouting out facts and information.,0,9
+190,But he wasn't a military guy.,0,8
+191,I'm curious.,0,4
+192,"What did the blowhard say after this guy looked at him and said, do you have no idea what you're talking about?",0,25
+193,Nothing.,0,2
+194,Nothing.,0,2
+195,"No, it felt like, yeah, it was nothing.",1,12
+196,He just looked at him.,0,6
+197,That was it.,0,4
+198,What did you say?,0,5
+199,So I don't know.,0,6
+200,I was thinking about that.,0,6
+201,I wish presidential debates would go like that.,1,9
+202,I just didn't believe them.,0,7
+203,We're four and a half hours early.,0,9
+204,Right.,1,2
+205,That's beautiful.,1,4
+206,"Well, would there so much discussion, or what has become discussion in our culture, wouldn't go like that, that we cut to the truth of the matter.",2,33
+207,"You know wherever you speak, or you don't.",0,11
+208,"And if you don't, it's all right, but say that.",1,15
+209,"Say that, and then I'll listen to you.",0,11
+210,"And again, that leads me to wonder about our sense of jadedness.",2,14
+211,Have we all accepted this as what discourse should be?,0,11
+212,how we interact with each other.,0,7
+213,Do you cut through that at your peril on some level?,-1,12
+214,I feel like I do.,1,6
+215,I feel like I've often sort of,1,8
+216,called things as they were and paid a price for it.,0,12
+217,"But I also think I have a tendency to talk outside my knowledge as well and say a lot of shit that's just, oh, bye, bye.",0,31
+218,"And somebody needs to say to me, you need to shut the fuck up.",-1,16
+219,So I feel myself intensely human on all fronts.,0,10
+220,This is good stuff.,1,5
+221,Should we read?,0,4
+222,Yeah.,0,2
+223,"Tush, never tell me.",0,6
+224,Despise me if I do not.,-1,7
+225,Three great ones are singing.,1,6
+226,I'm worth no worse of this.,0,8
+227,"For certainty, says he, I've already chose my officer.",0,13
+228,"For a suitor, greater arithmetician, one Michael Cassio,",0,11
+229,"a foreign team, a fellow, almost damned in a fair wife, but never say squadron in the field, nor the division of the battle knows more than a spinster, unless the bookish theory, wherein the toged consuls can propose as masterly as he, near proud and without practice is all his soldiership, but he, sir, had the election, and I, of whom his eyes had seen the proof at Rhodes, at Cyprus,",0,86
+230,Other grounds christened and heathen must be believed and calmed by debitor and creditor.,-1,15
+231,We cannot all,0,4
+232,"doting on his own obsequious bondage, wears out his kind much like his master's ass for not the provender.",1,22
+233,"And when he is old, with me such honest knaves others there are, who trained in forms and visages of duty keep yet their hearts",1,27
+234,"but shows of service on the lords do well thrive by them, and when they have lined their coats, do themselves homage these fellows' hats and soul.",3,31
+235,"For when my outward action doth demonstrate the native hue, the native act, and figure of my heart in complement externally, tis not long after, but I will bear my heart upon my sleeve for dogs to peck.",1,43
+236,Yet I'm not what I am.,0,8
+237,"of delight, proclaim him in the streets.",1,9
+238,"And though he in a fertile climate dwell, plague him with flies.",0,14
+239,Here's our father's house.,0,7
+240,I'll call him out.,0,6
+241,"Soon, sir, you're one of those that will not serve God if the devil bid you.",-1,20
+242,your nephews made you.,0,5
+243,What profane wedge I'm about.,-2,7
+244,"I have no leave, Rodrigo.",0,7
+245,"Sir, I will answer anything.",0,7
+246,"But I beseech you, if it be your pleasure and most wise consent, as partly I find it is, that your fair daughter, at this odd even and dull watch of the night, transported with no worse nor better guard but with a knave of common hire, a gondolier, to the gross clasps of a lascivious moor, if this be known to you, and your allowance,",-3,76
+247,"Your daughter, if you have not given her leave, I say again, hath made a gross revolt, tying her duty, beauty, weight, and fortunes in an extravagant and willing stranger of here and everywhere, straight satisfying herself.",-1,46
+248,"I feel loved, friends, Livia.",1,8
+249,"It seems not me even wholesome to my place to be reduced, as if I stay, I shall against the war.",1,24
+250,I do know the state.,0,6
+251,"However, this Magaul, in the Suchet, cannot with safety cast him, for he's embarked with such loud reason to the Cyprus' wars, which even now stands an act that for their souls, another of their families, may have none to leave their business.",-1,54
+252,"In which regard, though I do hate him as I do hell pains, yet for necessity for present life I must show out a flag and sign of love, which is indeed but sign that you shall surely find him, lead to the Sagittary grace of search, and there will I be with him.",1,60
+253,So fair enough.,2,4
+254,It is too true a legal thing.,0,8
+255,Gone she is.,0,4
+256,What's to come of my despising time is not a bitterness.,-1,13
+257,"Unhappy girl with the moor, sayest thou.",-1,9
+258,Who would be a father?,0,6
+259,How didst thou know t'was her?,0,7
+260,"Oh, she deceives me fast-thought.",0,7
+261,What said she to you?,0,6
+262,Get me some tapers.,0,5
+263,Raise all my kindred.,0,5
+264,"Are they married, think you?",0,7
+265,Truly I think they are.,0,6
+266,"Oh, yeah.",0,4
+267,"Oh, got she out.",0,6
+268,Treason of the blood.,-1,5
+269,Is there not charms by which the property of youth and maithood may be abused?,-1,16
+270,I pray you lead on.,1,6
+271,"At every house I'll call, I may command at most, get weapons home, and raise some special officers of the night on, Claude Rodrigo.",0,30
+272,I'll deserve your pains.,-1,6
+273,I lack iniquity sometimes to be in service.,-2,9
+274,Nine or ten times I thought it would be here.,0,11
+275,Didn't hear under the ribs.,0,7
+276,"He, he, pregnant, spoke such scurvy and provoking terms against your honor that I, with little godliness I have, I did full heart for Baird.",1,31
+277,"And I pray you, sir, are you fast married?",1,12
+278,"Be assured of this, that the Magnifico is much beloved, and hath in effect the boy's potential as double as the jinx.",1,26
+279,He will divorce you.,0,5
+280,"Put upon you what restraint of grievance the law, with all his might to enforce it on, will be incapable.",-2,23
+281,Let him do his fight.,0,6
+282,"My services, which I have done, signori, shall outtongue his complaints.",-1,15
+283,"is yet to know, which when I know that boasting is an honor, I shall promulgate, I fetch my life and being from men of royal siege, and my demerits may speak unbonneted to as proud a fortune as this that I have reached, for know the honor, but that I love the gentle Desdemona.",5,62
+284,"What's the matter, think you?",0,8
+285,"The galleys have sent a dozen sequined messengers this very night at one another's heels, and many of the consuls raised and met are at the dukes already.",0,31
+286,You have been hotly called for.,0,7
+287,It is Brabantio.,0,4
+288,"General, be advised, he comes to bad intent.",-1,11
+289,"Senor, it is Lamora.",0,6
+290,Down with him.,0,4
+291,Ah.,0,2
+292,"Damned as thou art, thou hast enchanted her, for I'll refer me to all things of sense, if she in chains of magic were not bound, whether a maid so tender, fair, and happy, so opposite to marriage, that she shunned the wealthy, curled darlings of our nature, would ever have to incur a gentle mock run from her guardage to the sooty bosom of such a thing as thou, to fear, not to delight.",4,89
+293,"Were it my cue to fight, I should have known it without a prompter.",0,16
+294,Where will you that I go to answer this your charge?,0,12
+295,"The duke himself, or any of my brothers of the state, cannot but feel this wrongness for their own.",0,23
+296,"And mine two hundred, but though they jump not on a just account, as in these cases where the Abe reports tis oft with difference, yet do they all confirm a Turkish fleet and bearing up to Cyprus.",0,42
+297,"This cannot be, by no essay of reason.",0,11
+298,Tis a pageant to keep us in false gaze.,-1,10
+299,"When we consider the importance of Cyprus to the Turk, and let ourselves again but understand, that as it more concerns the Turk than Rhodes, so may he with more facile question bear it, for that it stands not in such warlike brace, but altogether lacks the abilities that Rhodes is dressed in.",-3,59
+300,So did I yours.,0,5
+301,"For my particular grief is of so floodgate and ore-bearing nature that in heaven blunts and swallows other sorrows, and it is still itself.",0,26
+302,Why?,0,2
+303,"Whoe'er he be, that in this foul proceeding hath thus beguiled your daughter of herself, and you of her, the bloody book of law you shall yourself read in the bitter letter, after your own sense, yea, though our proper son stood in your action.",-2,52
+304,The very head in front of my offending hath this extent no more.,-1,14
+305,"Rude am I in my speech, and little blessed with a soft phrase of peace, for since these arms of mine had seven years pith, till now some nine means wasted they have used their dearest action in the tinted field.",0,45
+306,"Yes, yet, by your gracious patience, I will around unvarnished tale deliver of my whole course of love, what drugs, what charms, what conjuration, and what mighty magic for such proceeding I am charged with all.",5,44
+307,"that must be driven to find out practices of coming hell, why this should be.",-1,17
+308,Ancient conductor who does not replace until she come as truly as to heaven.,1,15
+309,"From year to year, the battles, sieges, fortunes that I had passed, I ran it through, even from my boy's days to the very moment that he bade me tell it.",0,38
+310,"moving accidents by flood and field, of hairbread scapes and the imminent deadly breach, of being taken by the insolent foe and sold to slavery, of my redemption there's importance in my travel's history.",-3,40
+311,"Wherein, mantras vast in deserts idle, rough quarries, rocks, and hills whose heads touch heaven, it was my head to speak, such was the process, and of the cannibals did each other eat, the anthropophagons.",-1,44
+312,"and men whose heads that do grow beneath their shoulders, this to hear with Desdemona seriously inclined.",0,19
+313,"Whichever as she could, with haste dispatched, she'd come again with a greedy ear, devour up my discourse, which I, observing, took once a pliant hour and found good means to draw from her a prayer of earnest heart, that I would all my pilgrimage delayed, whereby parcels she had something heard, but not intentably.",-1,66
+314,She thanked me and bade me.,0,7
+315,"If I had a friend that loved her, I should not teach him how to tell my story, and that would",1,23
+316,Upon this hint I spake.,0,6
+317,My life and education both do teach me how to respect you.,1,13
+318,You are the lord of duty.,0,7
+319,I am hitherto your daughter.,0,6
+320,"But here's my husband, and so much duty as my mother showed to you, preferring you before her father, so much I challenge that I may profess due to, the more, my lord.",1,40
+321,"Come be with you, I've done it.",0,10
+322,"than get it, but even more.",0,8
+323,But words are words.,0,5
+324,I never did yet hear that the bruised heart was pierced through the ear.,-1,15
+325,At how many beseeched the affairs of the state?,0,10
+326,I do agnose a natural and prompt alacrity.,1,9
+327,"That I did love this man to live with him, my downright violence and scoring of fortunes made trumpet to the world.",2,24
+328,My heart subdued even to the very quality of my lord.,-1,12
+329,"Bounce with me, heaven.",1,6
+330,I therefore beg it not to please the palate of my appetite.,-1,13
+331,"that my disports corrupt and taint my business, let housewives make a skillet of my own, and all in thine and base adversities make head against my estimation.",-2,31
+332,"Oh, villainous.",-1,4
+333,"I have looked upon the world for four times seven years, and since I could distinguish betwixt a benefit and an injury, I never knew a man who knew how to love himself.",1,36
+334,What should I do?,0,5
+335,"Come here, hey man, drown myself?",0,9
+336,Drown cats.,0,3
+337,Blind puppies.,-1,3
+338,I could never better study than now.,1,8
+339,Put money in my purse.,0,6
+340,Follow what it works.,1,5
+341,Defeat by favor with a usurped beard.,2,8
+342,"I say, put money in my purse.",0,9
+343,"Now, it cannot be long that Desdemona should long continue her love to more put money in thy purse, nor he his to her.",1,28
+344,"It was a violent commencing in her, and now shalt see an answerable sequestration put by money in thy purse.",-1,22
+345,"These norms are changeable in their wills, filled by purse of money, the food to him that now is as luscious as locust shall be to him surely as as Colin Quintina.",0,35
+346,She must have changed.,0,5
+347,She must.,0,3
+348,"Therefore, put money in my purse.",0,8
+349,"If I will need to damn myself, do it in a more delicate way than drowning.",-1,18
+350,Make all the money thou canst.,0,7
+351,"If so much money and a frail thou which wits in every barbarian and a super subtle Venetian be too tough for my wits and all the tribes of hell, thou shalt enjoy her.",0,36
+352,"Therefore, make money.",0,5
+353,"A pox of drowning thyself, clean out of the way.",0,12
+354,"Go, make money.",0,5
+355,"My cause is heeding, and I have no less reason.",0,12
+356,True verse.,0,3
+357,"Go, provide thy money.",0,6
+358,Adieu?,0,2
+359,I hate the more.,-1,5
+360,And it's thought abroad that twigs my sheets and he's done my office.,0,16
+361,"I know not if it be true, but I, for mere suspicion in that kind, will do as a for surety.",-1,25
+362,He holds me well.,1,5
+363,"Cassie, though, is a proper man.",1,9
+364,Let me see now.,0,5
+365,"To get in this place,",0,6
+366,to plume up my will in double navery.,0,9
+367,How?,0,2
+368,How?,0,2
+369,Let me see now.,0,5
+370,"Thinks the wind hath spoke aloud at land, full of glass, never shoved",0,15
+371,what ribs of oak when mountains melt upon them can hold the mortis?,0,14
+372,"Varanessa, Michael Cassia, lieutenant to the warlike Moor Othello, has come on shore.",-1,17
+373,"Pray heavens he be, for I have served him and the man commands like a full soldier.",1,19
+374,"Let's to the seaside hope, as well to see the vessel that's come in has to throw out our eyes for brave Othello, even till we make the main ethereal blue an indistinct regard.",3,39
+375,"Come, let's do so.",0,7
+376,"Thanks, you, the valiant of this warlike isle that so approved more.",0,15
+377,Assail!,-1,2
+378,Assail!,-1,2
+379,Assail!,-1,2
+380,The town is empty.,0,5
+381,"On the brow of the sea stands ranks of people, and they cry, Assail!",-2,17
+382,"I pray you, sir, go forth and give us truth.",0,13
+383,I shall.,0,3
+384,"Most fortunately, he hath achieved a maid that Paragon's description and wild fame one that excels the quirks of blazoning pens and in the essential vesture of creation does tire in the iron.",2,36
+385,How now?,0,3
+386,Who is put in?,0,5
+387,"Tempests themselves, high seas and howling winds, the guttered rocks and congregated sands, traitors, insteeped to clog the guiltless keel, as having sense of beauty, do omit their mortal natures, letting go safely by the divine Desdemona.",2,45
+388,"Great Job, Othello guard, and swell his sail with thine own powerful breath, that he may bless this bay with his tall ship, make love's quick pants in Desdemona's arms, give renewed fire to our extinct spirits, and bring all Cyprus comfort.",6,51
+389,"Oh, come on, come on!",0,8
+390,You are pictures out of doors.,0,7
+391,Bells in your parlors.,0,5
+392,Wildcats in your kitchens.,0,5
+393,Saints in your injuries.,0,5
+394,Devils being offended.,0,4
+395,Players in your housewifery.,0,5
+396,And housewives in your beds.,0,6
+397,Fie upon these slanderers.,0,5
+398,"Name is true, Rosina Turk.",0,7
+399,You rise to play.,0,5
+400,"Come on, assay.",0,5
+401,Has one gone to harbor?,0,6
+402,I am.,0,3
+403,I am not Mary.,0,5
+404,I do beguile the thing I am by seeming otherwise.,-1,11
+405,"Oh, I am about it.",0,7
+406,"But indeed, my invention comes from my pain as a bird mine does from freeze.",-2,17
+407,It plucks out brains and all.,0,7
+408,"But my news labors, and thus she is delivered.",0,11
+409,"These are old, fond paradoxes to make fools laugh in the alehouse.",1,14
+410,What miserable praise hast thou for her that's foul and foolish?,-2,13
+411,Is he not a most profane and liberal counselor?,-1,10
+412,"He speaks home, madam.",0,6
+413,You may relish him more in the soldier than in the scholar.,1,13
+414,He takes her by the palm.,0,7
+415,I well said whisper.,1,5
+416,I smile upon her do.,1,6
+417,Are you so true?,0,5
+418,Very good.,1,3
+419,Well kissed.,1,3
+420,"Ooh, an excellent courtesy.",1,6
+421,What they were clistered pipes for your sake.,0,9
+422,I know it's chumpet.,0,6
+423,"Oh, my soul's joy.",1,7
+424,"If after every tempest comes such calms, may the winds blow till they have waked death, and let the laboring bark climb hills of seas Olympus high, and duck again as low as hells from heaven.",-3,40
+425,The Turks are drowned.,0,5
+426,"Oh, my sweet, I prattle out of fashion, and I dot in mine own comforts.",0,19
+427,"I pray thee, good young.",1,7
+428,"If thou beest valiant, as they say, these men being in love have an ability in their natures where it is native to them listening, Lieutenant Knight watches on the court of guard first.",2,38
+429,I must tell you this.,0,6
+430,With him?,0,3
+431,Lay thy finger thus.,0,5
+432,Her eye must be felt.,0,6
+433,"gorge, disrelish, and abhor the more, a very natureful instructor in it, and compel her to some second choice.",0,24
+434,Lechery by this hand.,-1,5
+435,An index and obscurity.,-1,5
+436,"Sir, he's rash and very sudden in color, and happily with his truncheon may strike at you.",-1,21
+437,Provoke if any may.,-1,5
+438,I will warrant you.,0,5
+439,Meet me by my visitor.,0,6
+440,I'm such as necessary as a shore.,0,9
+441,I will.,0,3
+442,But you?,0,3
+443,"albeit that I endure him not, is of a constant loving and noble nature, and I dare to think he'll prove to Desdemona a most dear husband.",2,31
+444,"Now I do love her too, not out of absolute lust, though per venture I stand accounting for his greatest sin, but partly led to die of my revenge.",0,33
+445,"a mineral, a poisonous mineral, gnaw at my innards, and nothing can nor shall content my soul till I am evened with him, wife for wife, or failing so, yet that I put the more and leased into a jealousy so strong that judgment cannot cure.",-1,54
+446,"Abuse him to the more of the rank guard, for I fear Cassio with my nightcap too.",-2,19
+447,Let's take a break.,-1,6
+448,Let's take 10.,0,5
+449,Racket to 34.,0,4
+450,Thank you.,1,3
+451,That was great.,1,4
+452,It was exciting.,1,4

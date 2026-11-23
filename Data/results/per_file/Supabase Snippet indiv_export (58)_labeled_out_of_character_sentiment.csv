@@ -1,0 +1,1383 @@
+line_num,line,bing_liu_score,n_tokens
+1,"Ricky, are your parents are nasty?",-1,8
+2,Yes.,0,2
+3,"Instead of like, Jim Cassidy being like, how can I sit?",2,14
+4,Sit.,0,2
+5,But I'm kind of afraid.,-1,7
+6,Okay.,0,2
+7,What'd you say?,0,5
+8,Sense of play.,0,4
+9,"Oh, you weren't?",0,6
+10,I love being heard.,1,5
+11,To be heard!,0,4
+12,What is it that you have to pay?,0,9
+13,I'm bringing understandings of what I'm doing in this room that are ever evolving.,0,17
+14,And I really want to share those things with one another and receive them from you all.,0,18
+15,And I think I'm going to do that ASAP.,0,11
+16,Are you broken?,-1,4
+17,"Checking with your occipitals, please.",0,7
+18,That's your brain stem.,0,6
+19,Just give yourself a little quick brain stem massage.,0,10
+20,"If you feel like it, it's a suggestion.",1,11
+21,It can wake up something new sometimes.,0,8
+22,You can massage each other's brain stems unlike exploring the insides of,0,13
+23,I'm bringing a massive excitement to understand and to live inside what is this next part of our process and I really like,2,24
+24,Watching actors play and get down and dirty and surprise each other.,-1,13
+25,"And I have a feeling that just the energy in the room is making me think, yeah, we're going to have a little too much fun today.",1,31
+26,So rock and roll.,0,5
+27,All right.,1,3
+28,Have too much fun.,1,5
+29,Let's do it.,0,5
+30,Let's do it too much fun.,1,8
+31,I sent the email.,0,5
+32,I don't know why nobody else did it.,0,10
+33,That's the green.,0,5
+34,It's a silly place.,-1,6
+35,"Yeah, because we're losing that style, we're losing that sense of humor, we're losing all that kind of stuff.",-2,26
+36,You were not in shape.,0,6
+37,I agree.,0,3
+38,I think it's a great game thing.,1,9
+39,"Yeah, I think it's a curious thing.",0,10
+40,It starts to shift over.,0,6
+41,"And now, it's like you have more access to media.",1,13
+42,I'm dealing with it because I don't watch it so much.,0,14
+43,Are either of you reading?,0,6
+44,"And if you are, does it follow through this afternoon?",0,12
+45,Yes.,0,2
+46,We can figure out who's actually here to stay.,0,11
+47,Yeah.,0,2
+48,"So, I.",0,4
+49,Joe is one of our readers.,0,7
+50,Joe is one of our readers.,0,7
+51,"Hello, Joe.",0,4
+52,"Hey, Joe.",0,4
+53,Are you here throughout the day?,0,7
+54,"I think so, yeah.",0,6
+55,We're making him be here throughout the day.,0,10
+56,"Let me give you a script, Joe.",0,9
+57,He does have to leave at 4.45.,0,8
+58,He has to be somebody who doesn't appear at the end of the play.,0,16
+59,But I think there are people who don't appear again.,0,12
+60,We have these lovely soldiers and senators.,1,8
+61,At the end?,0,4
+62,"No, they're in the very beginning.",0,9
+63,"They pop up and disappear, never to be heard from again.",0,13
+64,"Yeah, I was thinking Joe could do one of the guys who appear in the Senate scene, but don't necessarily come back.",0,26
+65,All right.,1,3
+66,I'm happy to be at stage 1.,1,9
+67,I can read stage 1.,0,6
+68,It's a problem.,-1,5
+69,You can also be at stage 1.,0,8
+70,I don't know.,0,5
+71,Yeah.,0,2
+72,I have colleagues.,0,4
+73,You have colleagues?,0,4
+74,Yeah.,0,2
+75,"Okay, never mind.",0,5
+76,"Thanks, Joe.",0,4
+77,Thank you.,1,3
+78,Is Colleen in the show?,0,6
+79,Yes.,0,2
+80,Charlie will be here.,0,5
+81,"Yeah, Charlie can also be here.",0,8
+82,"Yeah, if anybody wants to move up here.",0,10
+83,Right.,1,2
+84,Who else?,0,3
+85,"I will read, well let's talk about stage directions.",1,12
+86,How shall we do that?,0,6
+87,Why don't you take stage directions?,0,8
+88,I will take the Duke at the top.,1,9
+89,We should have.,0,4
+90,We have Joel reading first senator.,0,7
+91,Okay.,0,2
+92,There's a second senator and then there's soldiers and stuff.,0,13
+93,We'll just see where we get.,0,8
+94,I mean for this read through we don't have to be.,0,13
+95,"Yeah, so I think that we probably can get Colleen who was in here a lot.",0,18
+96,You guys might remember Colleen wearing hair glasses.,0,9
+97,"She's been here a lot, so I think, I just don't know exactly when.",0,19
+98,I just have to go get here.,0,8
+99,"And then, and then is also available.",1,9
+100,"So that's two more, you know, readers.",0,11
+101,"Well, let's start to read and see who shows up.",1,13
+102,Okay.,0,2
+103,And stop.,0,3
+104,Okay.,0,2
+105,Where we need to go.,0,6
+106,Could I make a quick request about stage directions?,0,10
+107,Yes.,0,2
+108,I'm going to see if everybody agrees.,0,9
+109,"Like, could we not read simple exits and entrances and directionals and expressive directions, like, angrily?",1,20
+110,"Are there points where, you know, the internal is to the Duke, to a fellow?",0,19
+111,Right.,1,2
+112,I feel like we can still do that as the actor in the moment rather than having the interruption,0,19
+113,"Yeah, I felt that yesterday.",0,7
+114,Just tell me if there's one you don't want that I'm reading.,0,16
+115,You know what I mean?,0,6
+116,"As we're going, I'll just not do that.",0,12
+117,If I do anything wrong.,-1,6
+118,"Yeah, I already created one.",0,7
+119,Shall we go ahead?,0,5
+120,"Do you want me to read Act 1, Scene 1?",0,12
+121,We don't need those.,0,6
+122,"Mike, how are you doing?",0,7
+123,"Good, how are you?",1,6
+124,Tush!,0,2
+125,Never tell me.,0,4
+126,Despise me not if I do not.,-1,8
+127,"Three great ones of the city, in personal suit to make me as lieutenant, oft cast to him.",1,21
+128,"And by my faith, I know of my price, I am worth no worse a place.",1,19
+129,"But he, as loving in his own pride and purposes, evades them with bombast circumstance, horribly stuffed with epithets of war, and in conclusion, none suits my mediators.",2,34
+130,"Oh, sir, it is, says he.",0,10
+131,"Florentine that never set a squadron on field, nor the division of battle knows more than a spinster.",-1,20
+132,Mere practical without practice is all his soldiership.,0,9
+133,"But he, sir, had the election, and I, of whom his eyes had seen the proof at Rhodes, at Cyprus, and on other grounds Christian and heathen, must be belayed and calmed by debtor and creditor.",-1,44
+134,"And when he's old, cashier it.",0,9
+135,"With me, such are his names.",0,8
+136,"Others there are, who trimmed in forms and visage of duty, keep yet their hearts attending on themselves, and throwing but shows of service on their lords, do well thrive by them, and when they have lined their coats, do themselves homage.",3,49
+137,"These fellows have some soul, and such a one do I profess myself.",0,15
+138,"For when my outward actions doth demonstrate the native act and figure of my heart and compliment exterm, it is not long after, but I will wear my heart upon my sleeve for doors to pack at.",1,40
+139,I am not what I am.,0,7
+140,I'll call aloud.,0,5
+141,with a timorous accent.,0,5
+142,Ho!,0,2
+143,Awake!,0,2
+144,"What ho, Brabantio?",0,5
+145,Thieves!,0,2
+146,Thieves!,0,2
+147,Thieves!,0,2
+148,Look to your house!,0,5
+149,Your daughter in your bags!,0,6
+150,Thieves!,0,2
+151,Thieves!,0,2
+152,"He's an older man, but not visibly infirm.",-1,11
+153,"His is the sort of wealth that, health, that wealth will purchase the aged if they are making any effort of their own at all to stay healthy.",1,31
+154,He is indeed waking from a sound sleep.,0,9
+155,The house and others are waking too.,0,8
+156,Put on your gown.,0,5
+157,Your heart is burst.,0,5
+158,"In honest plainness I was heard me say, My daughter is not for thee.",1,16
+159,"This I shall be, sir.",0,7
+160,"I know you, Arrigo.",0,6
+161,"Sir, I will answer anything.",0,7
+162,"But I beseech you, if it be your pleasure, and most wise consent, as partly I find it is, that your fair daughter, at this odd, even, and dull watch of the night, transported with no worse nor better guard, but with a name of common hire, to the gross clasps of a lascivious moor,",-2,66
+163,"beauty, wit, and fortunes, to an extravagant and reeling stranger of here and everywhere.",-1,18
+164,Street satisfy yourself.,1,4
+165,"plays to be produced, as if I stay I shall against them all.",0,15
+166,"For I do know this state, however this may gall him with some check, cannot what's safe to cast him, for he's embarked with such loud reason to the Cyprus wars, which even now stand in act, that for their souls another of his fathom they have not to lead their business.",0,61
+167,"With regard, though,",1,5
+168,"I do hate him as I do held pains, yet for necessity of present life I must show out the flag and sign of love, which is indeed but sign, that you shall surely find him, lead him to the Sagittary, the raised search, and there will I be with him.",0,58
+169,So farewell.,0,3
+170,It is too true an evil.,-1,7
+171,"Gone she is, and once to come of my despised time is not but bitterness.",-2,17
+172,"Now, Roderick, go.",0,6
+173,Where didst thou see her?,0,6
+174,A happy girl!,1,4
+175,"With amour, sayest thou, who would be a father?",0,12
+176,How didst thou know it was she?,0,8
+177,She sees me past thought.,0,6
+178,What said she to you?,0,6
+179,Raise all my kindred!,0,5
+180,"Are they married, think ye?",0,7
+181,Truly.,0,2
+182,I think they are.,0,5
+183,What got she out?,0,5
+184,Treason of the blood.,-1,5
+185,Is there not charms by which the property of youth and maidhood may be of use?,0,17
+186,Call up my brother.,0,5
+187,Do you know where we may apprehend her in the morning?,0,12
+188,I lack iniquity sometimes to do my service.,-2,9
+189,Nine or ten times I have thought I've yurked him here under the ribs.,0,16
+190,"Nay, but he prated and spoke such scurvy and provoking terms against your honor that with the little godliness I have I did full hard forbear him.",0,29
+191,"but I pray you, sir, are you fast married?",1,12
+192,"He will divorce me, or put upon you what restraint and grievance the law, with all his might to enforce it on, will give him cable.",-1,30
+193,Let him do his spite.,-1,6
+194,"My services, which I have done this scenery, shall out-tongue you.",0,14
+195,"I fetch my life and being from men of royal siege, and my demerits may speak unbonneted to as proud a fortune as this that I have reached.",1,30
+196,What lights come yon?,0,5
+197,"Something from Cyprus, as I may divine, and many of the councils raised and met are at the Duke's already.",1,24
+198,"For I'll refer me to all things of sense, if she in chains of magic were not bound, whether a maid so tender, fair, and happy, so opposite to marriage that she shunned the wealthy, curled darlings of our nation, would ever have to incur a general muck run from her garden to the sooty bosom of such a thing as thou",4,70
+199,to fear not to delight.,0,6
+200,Lay hold upon him!,0,5
+201,"If he do resist, subdue him at his peril.",-1,11
+202,Where will you that I go to answer this your charge?,0,12
+203,"To prison, till fit time be found.",-1,9
+204,A council chamber in the hall of the Venetian Senate.,0,11
+205,"About 2.20 a.m., the Duke, the senators, and attending military officers are gathered around a long table.",0,21
+206,On the table is a map and various paperwork.,0,10
+207,My letters say 107.,0,5
+208,And mine 140.,0,4
+209,So do we have a second senator that's going to be with us?,0,15
+210,"Yeah, sure.",0,4
+211,Yeah.,0,2
+212,And mine 200.,0,4
+213,"but thought they jumped not on a just account, yet do they all confirm a Turkish fleet and bearing up to Cyprus?",0,24
+214,"All right, so that's another bite.",1,9
+215,Do you want that uniformed messenger enters in haste?,-1,10
+216,I don't mind it.,0,6
+217,I'm more worried about finding the various voices to people at this scene.,-1,15
+218,Do we have someone else?,0,6
+219,"Yeah, just a second.",0,6
+220,I'm just wondering if we have people coming to be these people in the afternoon.,0,17
+221,Because now we can just make do.,0,8
+222,I don't mind that.,0,6
+223,"Yeah, I mean, I had about five kids, but I don't know who can get here right now.",1,23
+224,That is true.,0,4
+225,That is true.,0,4
+226,"Do you want to, why don't, why don't, Rachel, are you going to keep second, Senator?",0,24
+227,Sure.,0,2
+228,I'm actually going to start keeping track of what we're assigning.,0,14
+229,"Okay, that's great.",1,6
+230,Thank you.,1,3
+231,You want to do the messenger?,0,7
+232,Sure.,0,2
+233,So you've got the aggregate.,0,7
+234,And we have two officers.,0,6
+235,"Tina, one and two, first officer.",0,9
+236,Charlie.,0,2
+237,"You know what, I'm fine, so that's not you, right?",2,16
+238,"I can choose several officers, did I do that elsewhere?",0,12
+239,No.,0,2
+240,The second officer could be Charlie.,0,7
+241,"Yeah, or it can be Colleen.",0,8
+242,Okay.,0,2
+243,Or Angelica.,0,3
+244,"I'll read it for now, but I'll find them.",0,13
+245,Great.,1,2
+246,Okay.,0,2
+247,So from the top of eleven.,1,7
+248,"But though they jump not on just account, yet do they all confirm a Turkish fleet and bearing up to Cyprus?",0,23
+249,A uniformed messenger enters in haste.,-1,7
+250,When we consider the importancy of Cyprus to the Turk...,0,11
+251,An officer enters in haste.,-1,6
+252,"Senior Montano, your trusty and most valiant servitor commends you thus and prays you to relieve him.",2,19
+253,The Duke is saying the newly assembled retinues registers recognition of all those attending.,0,15
+254,Let's leave that.,0,5
+255,Let's skip that.,0,5
+256,And the next one as well.,1,7
+257,"Neither my place nor aught I heard of business hath raised me from my bed, nor doth the general care take hold on me, for my peculiar grief is of so flood-gate and o'er-bearing nature that it engluts and swallows other sorrows, and it is still itself.",-2,51
+258,My daughter.,0,3
+259,"Well, my daughter.",1,5
+260,Hide me.,0,3
+261,She's abused.,-1,4
+262,Stoned from me and corrupted by spells and medicines bought of Mount Bex.,-1,14
+263,"Where he be that in this foul proceeding hath thus beguiled your daughter of herself, and you have heard the bloody book of law, and you shall yourself read in the bitter letter after your own sense.",-3,40
+264,"Yea, though our proper son stood in the action.",1,11
+265,Humbly I thank your grace.,2,6
+266,Here is the man.,0,5
+267,Othello has not yet looked up from the table a second time.,0,13
+268,He's studying the maps and perusing the letters that purport the Turkish movements.,0,15
+269,The senators' and officers' traits and furtive looks.,0,11
+270,"No one expected this, and it's a really bad time to be obligated to deal with legal matters regarding their commanding generals.",-1,25
+271,One in your own part.,0,6
+272,Can you say to this?,0,6
+273,Potenticity.,0,2
+274,Gravi.,0,2
+275,"Irreverendi, signori.",0,4
+276,The very head in front of my offending hath this extent no more.,-1,14
+277,"Rude, am I in my speech?",-1,8
+278,Let's leave that.,0,5
+279,"Yet, by your gracious patience, I will around unvarnished tale deliver of my whole course of love.",3,20
+280,"What drugs, what charms, what conjuration, and what mighty magic for such proceeding I am charged withal, I won his daughter.",3,26
+281,"A maiden never bold, a spirit so still and quiet that her motion blushed at itself, and she, in spite of nature, of years, of country, credit, everything, to fall in love with what she feared to look of?",0,48
+282,"Ancients, conduct them.",0,5
+283,You best know the place.,1,6
+284,"Until she come, most justly I'll present how I did thrive in this fair lady's love, and she in mine.",4,25
+285,"hair-breath scapes in the imminent deadly breach of being taken by the insolent foe and sold to slavery, of my redemption thence and portents in my travailist history, wherein of antlers vast and deserts idle, rough quarries, rocks and hills whose heads touch heaven, it was my head to speak, such was the process, and of the cannibals that each other eat, the anthropophaga,",-4,73
+286,and men whose heads do grow beneath their shoulders.,0,10
+287,This to hear were Desdemona seriously inclined.,0,8
+288,"Whichever as she could, with haste this fact, she'd come again, and with a greedy ear, devour up my discourse, which I, observing, took once a pliant hour and found good means to draw from her a prayer of earnest heart.",0,50
+289,"Passing strange, t'was pitiful, t'was wondrous pitiful.",-2,10
+290,She thanked me and bad me.,-1,7
+291,"If I had a friend that loved her, I should but teach him how to tell my story, and that would woo her.",2,26
+292,Upon this hint I spake.,0,6
+293,My life and education both do learn me how to respect you.,1,13
+294,You are the lord of duty.,0,7
+295,"With all my heart I would keep from thee for your sake, Jewel.",0,15
+296,"I have done, my lord.",0,7
+297,I have only besieged thee.,0,6
+298,"You, proceed to the affairs of state.",0,9
+299,Can we read the Othello doesn't move?,0,9
+300,The what?,0,3
+301,Othello doesn't move.,0,5
+302,This page direction?,0,4
+303,Yes.,0,2
+304,Sure.,0,2
+305,"When he says, come here the more.",0,9
+306,"Oh, sure.",0,4
+307,"Yeah, yeah, yeah.",0,6
+308,"Do you want the next one, too, or no?",0,12
+309,Why not?,0,3
+310,Yeah.,0,2
+311,Yeah.,0,2
+312,Othello doesn't move.,0,5
+313,Brabantio with his daughter by the arm goes to him.,0,11
+314,It is yet another fraught moment.,-1,7
+315,"The Duke would like to offer something to further mitigate the circumstance, but the affairs of state are pressing.",1,21
+316,The Turk with most mighty preparation makes for Cyprus.,1,10
+317,"Othello, the fortitude of the place is best known to you.",2,13
+318,"And though we have there a substitute of most allowed efficiency, yet opinion throws a more safer voice on you.",0,22
+319,"Most humbly, therefore, bending to your state, I crave fit disposition for my wife, due reference of place and exhibition, with such accommodation and besort as levels with her braiding.",0,36
+320,If you please be it her father's.,0,9
+321,"I'm not headed, sir.",0,7
+322,Nor I.,0,3
+323,"And to his honors and his valiant parts did I my soul and fortunes consecrate, so that, dear lords, if I be left behind a moth of peace and he go to the wars, the rights for which I love him are bereft me, and I a heavy interim shall support by his dear absence.",2,61
+324,Let me go with him.,0,6
+325,Let her have your voices.,0,6
+326,"Bounce with me, Heaven, I therefore beg it not to please the palate of my appetite, but to be free and bounteous to her mind.",1,29
+327,Let's take that note.,0,6
+328,The hesitance in the room remains palpable.,0,8
+329,"When light-winged toys of feathered Cupid sealed with wanton dullness, my speculative and office instruments that my disports corrupt and taint my business, that housewives make a skillet of my helm, and all in dying and base adversities make head against my estimation.",-4,47
+330,"Unusual as it is, this is not an issue nearly as important as that of the war itself.",-1,20
+331,"Be it as you shall privately determine, neither for her staying or going.",0,15
+332,Your fair cries haste and speed must answer it.,0,10
+333,"Adieu, Gravemore.",0,4
+334,"Look to her, poor.",-1,6
+335,And maybe.,0,3
+336,"Desdemona attempts to intercept her father before he exits, but he goes out of his way to avoid her without a further word, leaving her standing awkwardly alone.",0,31
+337,"Othello has dismissed the old man with a wave and traverses the rest of the space to confer with Iago, speaking almost over Brabantio as he exits.",0,29
+338,"I have looked upon the world for six times seven years, and since I could distinguish betwixt a benefit and an injury, I never found a man that knew how to love himself.",1,36
+339,What should I do?,0,5
+340,I hurt you a fig.,-1,6
+341,It is in ourselves that we are thus or thus.,0,11
+342,"Our bodies are our gardens, to which our wills are our gardeners.",0,14
+343,Put money in that purse.,0,6
+344,Follow thou the war.,0,5
+345,"I mean, it cannot be that Desdemona should long continue her love of the Moor, nor even his to her.",1,24
+346,Colin Quintida.,0,3
+347,Colin Quintida.,0,3
+348,As luscious as Colin Quintida.,0,6
+349,She must change for you.,0,6
+350,She must have changed.,0,5
+351,She must.,0,3
+352,"Therefore, put money in thy purse.",0,8
+353,"If thou wilt sneeze down thyself, do it more delicate way than drowning.",-1,15
+354,Pox on drowning thyself.,-1,5
+355,Seek thou rather to be hanged in compassing thy joy than to be drowned and go without it.,1,19
+356,"My cause is hearted, thine hath no less reason, and let us be conjunctive in our revenge against him.",-1,22
+357,And I hate them all.,-1,6
+358,And it is thought abroad that tricks my sheets as done my office.,0,14
+359,"I know not that it be true, but I for mere suspicion in that kind will do as it for sure",-1,22
+360,Shall my purpose work on him?,1,7
+361,Cassius is a proper man.,1,6
+362,How?,0,2
+363,How?,0,2
+364,Iago exits.,0,3
+365,The island.,0,3
+366,"Let's stop for just a second, because I think if, if, if.",0,17
+367,"Joe, if Joe is staying further, we could give him more in this scene.",0,17
+368,I didn't know how long.,0,7
+369,Yeah.,0,2
+370,"So, will we, will, will?",0,9
+371,"Yes, Joe is staying.",0,6
+372,And we're gonna have Colleen at three.,0,10
+373,"We can give her something though, she's a quick read.",0,13
+374,So you become third soldier.,0,6
+375,"I'm keeping track of it here too, Keith, so I can send out that.",0,18
+376,Okay.,0,2
+377,So Joe's gonna need third soldier.,0,9
+378,"Yeah, so we need first soldier and second soldier.",0,11
+379,"You wanna read second soldier, or first soldier, Dr.",0,13
+380,Bell.,0,2
+381,"Sure, I'll read first soldier.",0,8
+382,You first.,0,3
+383,I'll read second.,0,5
+384,"And I will, is the next C.",0,9
+385,Okay.,0,2
+386,"The island of Cyprus, a fortress garrison that overlooks the sea, a war room.",0,17
+387,It is approximately 2 p.m.,0,6
+388,and about 12 days have passed.,0,7
+389,An intense storm rages.,-1,5
+390,Cyprus is under Venetian occupation in a theater of war.,0,11
+391,"The garrison is rough-hewn, ungentle, and crawling with military personnel.",0,13
+392,"In all such places there are natives, some who align with occupiers, others who do not, and some that cannot be distinguished one way or other so easily.",1,33
+393,They are all here.,0,5
+394,The territorial struggle has been going on for some time.,-1,11
+395,The room is bustling.,0,5
+396,"We discover Montano and two soldiers scanning the seascape for vessels, ostensibly from behind a large glass board wall.",0,21
+397,Montano is another powerfully built hired warrior of Moorish descent.,1,11
+398,"He, like Othello, looks very much the part of a man quite capable of leading troops and slaughtering enemies.",2,22
+399,"Emily, can you change Moorish to African descent?",0,10
+400,Could we possibly lose the physical description after Glassport Wall?,-1,11
+401,what I think his description is important.,1,8
+402,Are you saying not to describe him because we're seeing it and not?,0,15
+403,"Yeah, we can do that.",0,7
+404,Not powerfully built?,1,4
+405,"No, nothing from after Glassforth wall.",0,8
+406,"Okay, so stick, okay.",0,7
+407,No African descent.,0,4
+408,"No, none of that.",0,6
+409,So your last good line is we discover Montano and two soldiers getting the seascape for vessels essentially from behind the large glass fourth wall.,1,26
+410,Got you.,0,3
+411,Okay.,0,2
+412,Nothing at all.,0,4
+413,"Sorry, I'm first soldier, right?",0,9
+414,"Okay, you're first.",0,6
+415,Huh.,0,2
+416,"The Varanessa, Michael Cassio, lieutenant to the warlike Moor Othello, is come on shore.",-1,18
+417,The Moor himself- He is a worthy governor.,1,9
+418,"Pray heavens he be, for I have served him, and the man commands like a full soldier.",1,20
+419,"As Montano speaks, Cassio enters, wet and attended.",0,11
+420,He will shift.,0,4
+421,"His bark is stoutly timbered, and his pilot a very expert in a proven allowance, therefore my hopes stand in bold cure.",2,25
+422,A distant cannon shot is fired.,0,7
+423,A soldier enters at a run.,0,7
+424,The storm begins to abate.,0,6
+425,How now?,0,3
+426,Who's put in?,0,5
+427,"Tempests themselves, high seas and howling winds, as having sense of beauty.",1,15
+428,"Great Jove, a fellow guard, that he may bless this bay with his tall ship and bring all Cyprus comfort.",3,23
+429,"Before he can answer, Desdemona enters with Emilia, Iago, Rodrigo, and attendants.",0,17
+430,"They too are wet, as if having run up from the harbor, though less so as the weather has calmed.",0,23
+431,Desdemona makes a beeline for Cassio.,0,7
+432,Emilia moves so as to be in constant proximity to her mistress.,-1,13
+433,Iago goes to make the acquaintance of Montano.,0,9
+434,Rodrigo tries to figure out what to do with himself.,0,11
+435,Another cannon shot its fire.,0,6
+436,Bahark.,0,2
+437,"Oh, that's me.",0,6
+438,Sorry.,-1,2
+439,The Ancient!,0,3
+440,You are welcome.,1,4
+441,Should there be some...,0,5
+442,Stage direction?,0,3
+443,Yep.,0,2
+444,Stage direction there?,0,4
+445,A welcome kiss on the cheek or something?,1,9
+446,No?,0,2
+447,I mean...,0,3
+448,I can just say Cassio kisses Amelia.,0,8
+449,"Yeah, sure, it doesn't hurt.",-1,9
+450,"It's undecided what that is, you know, and Shakespeare has no direction.",-1,16
+451,"It's kind of like, we intuit it at this point from what Cassio said.",1,17
+452,"Okay, we can leave.",0,6
+453,"Ah, but that's not how we're approaching anything else.",0,13
+454,How about Cassio embraces Emilio?,0,6
+455,I love it.,1,4
+456,Fine.,1,2
+457,That's vague.,-1,4
+458,"Yeah, I dig it.",0,6
+459,Great.,1,2
+460,Cassio embraces Amelia.,0,4
+461,"Oh, yeah.",0,4
+462,"Welcome, mistress.",0,4
+463,So it would come there.,0,6
+464,"Welcome, mistress.",0,4
+465,Cassio embraces Amelia.,0,4
+466,"Let it not gall your patience, good Iago, that I explain my manners.",1,16
+467,It is my breeding that gives me this bold show of courtesy.,0,13
+468,Come on.,0,3
+469,Come on.,0,3
+470,You have pictures out of doors.,0,7
+471,Bells in your parlors.,0,5
+472,Wildcats in your kitchens.,0,5
+473,Saints in your injuries.,0,5
+474,Devils being offended.,0,4
+475,Players in your housewifery.,0,5
+476,And housewives in your beds.,0,6
+477,I am not married.,0,5
+478,"He speaks home, madam.",0,6
+479,You may relish him more in the soldier than in the scholar.,1,13
+480,Well-kissed and excellent courtesy.,1,5
+481,"He takes her, I will sit.",0,8
+482,The more.,0,3
+483,"Cassio gently attempts to restrain Desdemona slightly, who is not yet familiar with the military protocols.",0,18
+484,Enter Othello in attendance.,0,5
+485,He first attends all military business and Montano.,0,9
+486,"Emily, could we also have the trumpet with him?",1,11
+487,Yes.,0,2
+488,Thank you.,1,3
+489,We're going to go back.,0,7
+490,He first attends all military business with Aunt Montano.,0,10
+491,"Oh, my soul's joy, if after every tempest come such calms, may the winds blow till they have wakened death, and let the laboring bar climb hills of seas Olympus high and duck again as low as hells from heaven.",-2,46
+492,"If it were now to die, for now to be most happy, for I fear my soul have her contempt so absolutes.",-2,25
+493,The Turks are drowned.,0,5
+494,"Oh, my sweet, I prattle out of fashion, and I doze in mine own comforts.",0,19
+495,"Prithi, Anastiano, go to the bay and disembark my coffers.",0,13
+496,Should we say that just so we know that...,0,10
+497,Say what?,0,3
+498,Exit.,0,2
+499,That we exit so that we know he's not saying this to everybody.,0,15
+500,Exit.,0,2
+501,I'm just going to say exit.,0,8
+502,That's okay with everybody.,0,6
+503,Exit.,0,2
+504,"Othello, Desdemona, and attendance.",0,7
+505,"If thou best doubt it, list me.",0,9
+506,The lieutenant tonight watches on the court of the guard.,0,11
+507,"First, the lieutenant tonight watches on the court of the guard.",0,13
+508,"First, I must tell thee this.",0,8
+509,"Her eyes must be fed, and what delight shall she have to look on the devil?",0,18
+510,"simply in years, manners, and beauties, all which the more is effective in.",1,17
+511,"Now, sir, it is granted.",0,8
+512,"as it is most pregnant in unforced position, who stands so eminent in the degree of misfortune as Cassio does?",0,22
+513,"Or none, none.",0,5
+514,A slipper and a subtle knave.,-1,7
+515,Letcherie by this hand.,0,5
+516,and index an obscure prologue to the history of lust and foul thoughts.,-2,14
+517,"But sir, be ruled by me.",0,8
+518,Watch you tonight.,0,4
+519,"Sir, he is rash, and very sudden in color, and happily may strike at you.",-1,19
+520,"Provoke him that he may, for even out of that will I cause these of Cyprus to mutiny.",-1,20
+521,who shall come into no true trust again but by the displanting of Cassio.,1,15
+522,"So shall you have a shorter journey to your desires, by the means I shall then have to prefer them, and the impediment most profitably removed, without the which there are no expectations of our prosperity.",1,40
+523,"I will do this, if you can bring it to any opportunity.",0,14
+524,I warrant thee.,0,4
+525,Meet me by and by the Citadel.,0,8
+526,much fetch his necessaries assure.,1,6
+527,Farewell.,0,2
+528,Rodrigo exits.,0,3
+529,Iago walks to the window and looks out upon the seascape.,0,12
+530,Acasio loves her.,1,4
+531,I do well believe it.,1,6
+532,I dare think he'll prove Desdemona a most dear husband.,0,12
+533,"Now, I do love her too.",1,8
+534,"Not out of absolute lust, but partly led to diet my revenge.",0,14
+535,But that I do suspect the lusty moor had leaped into my seat.,-1,14
+536,"and thought whereof, doctor, like a poisonous mineral gnaw in my innards, inwards, and nothing can or shall content my soul till I am even with him, white for one, or failing so, yet that I put the more at least into a jealousy so strong that judgment cannot cure.",0,59
+537,"Which things do, if this poor trash of Venice stand the putting on, I'll have our Michael Cassio on their hip.",-2,25
+538,It is here.,0,4
+539,I'll get you next.,0,6
+540,Yado stands alone.,0,4
+541,Over a public address system is heard the following.,0,10
+542,We have Angelica now if you want.,0,8
+543,"Yeah, I'll take this one.",0,8
+544,"For besides these beneficial news, it is the celebration of his nuptial.",2,14
+545,There is full liberty of feasting from this present hour of five till the bell have tolled eleven.,1,19
+546,"Heaven bless the Isle of Cyprus and our noble general, Othello.",3,13
+547,"Michael, good night.",1,5
+548,"Tomorrow with your earliest, let me have speech with you.",0,12
+549,Good night.,1,3
+550,"Not this hour, Lieutenant.",0,6
+551,Tis not yet ten o'clock.,0,6
+552,Indeed.,0,2
+553,Methinks it sounds a part of the provoking ship.,0,10
+554,"Not tonight, good Iago.",1,6
+555,I have very poor and unhappy brains for drinking.,-2,10
+556,I could well wish courtesy would invent some other custom of entertainment.,1,13
+557,"Ah, they are our friends, but one cup.",0,11
+558,I have drunk but one cup tonight.,-1,8
+559,"And that was craftily qualified, too.",0,8
+560,what innovation it makes here.,1,6
+561,"Well, here they come.",1,6
+562,Montano enters with a couple of soldiers and three Cypriot natives.,0,12
+563,Rodrigo's there too.,0,5
+564,Iago meets them as they enter with bottles of...,0,10
+565,"Some wine, hope!",0,5
+566,The Cypriot men begin a drinking song in Greek.,0,10
+567,It is something folkloric and a couple of them dance as well.,1,13
+568,"They attempt to teach Cassio the steps, but he never quite has the hang of it.",-1,18
+569,Now Iago begins an Italian song.,0,7
+570,He sings it very well.,1,6
+571,It is too folkloric and a couple of the soldiers.,0,11
+572,It too is folkloric and a couple of the soldiers.,0,11
+573,Why?,0,2
+574,This is a more exquisite song than the other.,1,10
+575,Won't you hear it again?,0,7
+576,"No, for I hold him to be unworthy of his place that does those things.",-1,17
+577,"Well, gods above all, and there be souls must be saved.",1,14
+578,There be souls must be saved.,0,7
+579,Let's have no more of this.,0,8
+580,Let's to our affairs.,0,6
+581,"Gentlemen, let's look to our business.",0,9
+582,"To the platform, masters.",1,6
+583,"The soldiers, one by one, head out to their posts.",0,13
+584,As if he insists first as well.,1,8
+585,"And do but see his vice, tis to his virtue a just equinox, the one as long as the other.",0,23
+586,"Tis pity of him, I fear the trust O'fella put in him on some odd time of his infirmity will shake thee silent.",-2,25
+587,But is he oftenless?,0,5
+588,He'll watch the horloge a double set if it drink not.,0,13
+589,"If it were well, the general would put in mind of it.",1,14
+590,There is the sound of mayhem within.,0,8
+591,"To cure him of his evil, my father.",0,10
+592,"Come, you're drunk.",-1,6
+593,Drunk?,-1,2
+594,"Away, I say.",0,5
+595,"Go on, inquire with me.",0,7
+596,Rodrigo at six running.,0,5
+597,"As such brawls go, the combatants become confused.",-1,10
+598,"With no one really knowing who's fighting whom or why, just as Iago had planned, Montano is fierce in a street fight.",-1,26
+599,One gets the sense that this is why these African mercenaries are hired to fight others' wars.,0,19
+600,"Nay, good lieutenant!",1,5
+601,"God's will, gentlemen!",0,6
+602,Help!,0,2
+603,Help!,0,2
+604,Lieutenant!,0,2
+605,Sir!,0,2
+606,A loud alarm bell begins to ring.,-2,8
+607,Cassio has pulled a blade and jams it into Montano's leg.,0,13
+608,The town will rise.,0,5
+609,"He immediately throws himself into the melee, parting men and tossing soldiers and native men off of each other.",0,21
+610,"Despite his annoyance, there's an odd glee as well.",0,12
+611,This is the environment in which he operates best.,1,10
+612,He's in his element.,0,6
+613,Othello's killing potential is as much emotional as it is physical.,-1,13
+614,"As soon as I bleed, he dies!",-2,9
+615,The fight rages on.,0,5
+616,"For a moment, it looks like Othello and Montano against the rest, and they would win.",2,19
+617,Hold!,0,2
+618,Hold!,0,2
+619,Lieutenant!,0,2
+620,Sir Montano!,0,3
+621,Gentlemen!,0,2
+622,Hold for your lives!,0,5
+623,"The brawl is finally halted, the combatant all standing or lying about.",-1,14
+624,some only a twitch away from falling to one another's throats again.,-1,14
+625,A soldier and a native break out into a violent skirmish again.,-2,13
+626,A third jumps in.,0,5
+627,"A fellow moves to separate them, and Iago assists.",0,11
+628,He that stirs next to carve for his own rage holds his soul light.,-1,15
+629,He dies upon the motion.,-1,6
+630,"Silence that dreadful bell, and fights the isle from her propriety.",-1,13
+631,To Iago.,0,3
+632,Speak!,0,2
+633,Who began this?,0,4
+634,The bell stops ringing.,0,5
+635,"And then, but now, as if some planet had unwitted men in opposition bloody.",-2,17
+636,I cannot speak any beginning to this peevish odds.,-1,11
+637,What's the matter that you unlace your reputation thus and spend your rich opinion for the name of a night brawler?,2,23
+638,Give me answer to it.,0,6
+639,"nor know I ought by me that said or done amiss this night, lest to defend ourselves it be a sin when violence assails.",-2,26
+640,"Now, by heaven, my blood begins my safer guides to rule, and passion, having my best judgment colleague, assays to lead the way.",4,29
+641,"If I once stir,",0,5
+642,"Thus it is, General.",0,6
+643,"Montano and myself, being in speech, there comes a fellow, and Cassio following to execute upon him.",0,21
+644,So this gentleman steps in to Cassio and entreats his paws.,0,12
+645,"He, swift of foot, outran my purpose, and I returned the rabbit to Cassio, high enough, which till tonight I never might say before.",2,30
+646,"When I came back, I found them even as again they were when you yourself impart them.",0,19
+647,"Though Cassio did some little wrong to him, as men in rage strike those that wish them best, yet surely Cassio, I believe, received from him that fled some strange indignity which patience could not pass.",-3,41
+648,"Cassio, I loved you.",1,6
+649,I passed all the surgery.,0,6
+650,Reputation.,1,2
+651,"Reputation, reputation.",2,4
+652,"I have lost the immortal part of myself, and what remains is bestial, my God.",-2,18
+653,"Reputation, E.R., my reputation!",2,7
+654,Desdemona exits above.,0,4
+655,"As I am an honest man, I thought you had received some bodily wound.",0,16
+656,There is more sense in that than in reputation.,1,10
+657,"Reputation is an idol in most false imposition, oft got without merit and lost without deserving.",1,18
+658,"That we should, with joy and pleasure, rebel and applause, transform ourselves into beasts.",2,18
+659,"Why, but you are now well enough.",2,9
+660,How came you thus recovered?,0,6
+661,It has pleased the devil drunkenness to give place to the devil wrath.,-2,14
+662,One unperfectness shows me another to make me frankly despise myself.,-1,12
+663,He shall tell me I have a drunkard.,-1,9
+664,"Come, come.",0,4
+665,"Expand no more against it, Mungu-Lieutenant.",0,8
+666,You think I love you?,1,6
+667,"I have well approved, sir.",1,7
+668,I talk.,0,3
+669,"Somewhere early within the succeeding exchange, Rodrigo returns unnoticed and hears Iago deliver the last of his advice to Cassio.",0,22
+670,"Confess yourself freely to her, importune her help to put you in your place again.",-2,17
+671,My money is almost spent.,0,6
+672,"I've been tonight exceedingly well-cudgelled, and I think the issue will be I shall have so much experience for my pains, and so, with no money at all,",-1,33
+673,"and little more wit, return again to Venice.",0,10
+674,Content thyself a while.,0,5
+675,"By the mast, tis morning, pleasure, and action make the hours seem short.",1,17
+676,"Away, I say.",0,5
+677,"After having tried several times to interject of his further discontent at points throughout this last speech, Rodrigo gives up and exits.",-1,24
+678,Iago exits.,0,3
+679,"So, it is 1233, and...",0,8
+680,"Emily, if we assume that the time we took in figuring out who was reading substitutes for the front matter that we will have at 3.30, that comes out to about an hour 20?",0,37
+681,Yeah.,0,2
+682,So that would be a good place to take that break?,0,12
+683,"Yeah, I think so, because I had 1.14, too, so that would be a good place to take that break, yeah.",0,27
+684,"Yeah, okay.",0,4
+685,Because I imagine you probably,0,5
+686,Maybe go a little bit faster.,1,7
+687,Yeah.,0,2
+688,But we'll give them the break there.,-1,9
+689,How much time?,0,4
+690,I don't know.,0,5
+691,"It doesn't matter to me how much time you take, like, at that point, right?",2,20
+692,"Classes, I don't know how many classes at 5 p.m.",0,13
+693,might be coming in.,0,5
+694,I imagine more people will just kind of stay if they can.,0,13
+695,Does a 10 make sense?,0,6
+696,Sure.,0,2
+697,Okay.,0,2
+698,What we're discussing is that the classes are changing at an odd time.,-1,15
+699,"And so there might be a need for a break right here of five, 10 minutes.",0,18
+700,So we can take our natural break and we are due a break right now as well.,0,18
+701,So let's take our 10 right now.,1,9
+702,Anyone back?,0,3
+703,Yes.,0,2
+704,I wanted to make a request or a posit for some of the stage directions in the scene that we just read.,0,23
+705,Can I start with a minute of that when we come back.,0,13
+706,Yeah.,0,2
+707,1244.,0,2
+708,We're back.,0,4
+709,Thank you back.,1,4
+710,Thank you.,1,3
+711,Can I make a quick observation?,0,7
+712,We were just talking about in the kitchen.,0,9
+713,I think it's really clear.,1,7
+714,"Tell me if you disagree, but I think the clarity is the thing that gives you permission to play and have too much fun, so I just appreciate that.",2,32
+715,that we were discussing at dinner is that character and self are coming closer and closer.,0,17
+716,And that's a good thing.,1,7
+717,It's on the bus.,0,6
+718,"But for everybody else, it's a good thing.",1,11
+719,So you're saying we need to have an intervention for Josh's.,0,14
+720,It's really late.,0,5
+721,"I was going to ask if we could trim some of the stage directions on 33 and 34, just because we haven't taken the time yet to have the larger conversation about the culture of a fellow Montano, the men in their ranks, and really dig into what their opinions and their motivations might be for all of those interactions.",0,65
+722,hoping we can leave a bit more room for ambiguity.,-1,11
+723,"So at the bottom of 33, I would offer ending the stage direction at just as Iago had planned.",0,21
+724,"And then the following page, ending in the middle, that larger stage direction after Native men off of each other.",0,23
+725,What was the second one?,0,6
+726,"page 34, middle of the page, ending the State Direction Act, soldiers and Native men off of each other.",0,23
+727,"Which is not to invalidate the possibility of what's currently there, I just think that we haven't had a larger conversation about it yet.",-1,28
+728,And then you're referencing kind of what sort of came up yesterday around what it might be doing that we're asserting the like romantic exoticized,2,27
+729,sense of these particular bodies.,0,6
+730,"Right, right.",2,4
+731,That there might be opinion and backstory that just wants a bit more flexibility to develop.,1,17
+732,Is that happening on 34?,0,6
+733,Fierce in a Street Bite.,-1,6
+734,"a black male body, so it confirms it in a way.",0,13
+735,"But again, this is because we haven't had the larger conversation.",0,14
+736,So this is really probably not my conversation to spearhead.,0,11
+737,"I would just offer that we should leave ourselves the room and that we actually, like, we don't need that to get through this afternoon.",1,29
+738,"After 33, what is the other one?",0,9
+739,"On page 34, I suggested that we leave off after Native men off of each other.",0,18
+740,Where's that?,0,4
+741,In the middle of 34.,0,6
+742,So how's it go?,0,6
+743,"He immediately throws himself into the melee, parting men, tossing soldiers and Native men off of each other.",0,21
+744,That's it?,0,4
+745,Yeah.,0,2
+746,So that Ralph can decide if he believes it or not.,0,12
+747,"However, there's a suggestion.",0,7
+748,It's fine.,1,4
+749,"For now, it doesn't, you know, I just wanted Emily to know, because she's reading them, so.",0,25
+750,Thank you.,1,3
+751,efforts have been made to make the residents nominally pleasant in the midst of the garrison.,1,17
+752,The efforts have been half successful.,1,7
+753,"There are a couple of ornate benches and perhaps a large pot of plant or two, not in keeping with the corrugated metal that lies about.",-1,28
+754,Some soldiers are carrying out and setting up a large table and share to perform a desk.,0,18
+755,on the table they place a coffee service as well as a decanter of whiskey and glasses.,1,18
+756,One soldier stays close at hand.,0,7
+757,Emily is here.,0,4
+758,Yeah.,0,2
+759,Servants also mill about the compound.,0,7
+760,Cassio enters.,0,3
+761,His state is none better than when we last saw him.,1,12
+762,"Encountering a Cypriot woman carrying a basket of laundry, she tries to pass, but he physically stops her and speaks to her with that odd admission omission of syntax that people inadvertently employ when speaking to people who do not speak their language, attempting to articulate his wishes with gestures and volume as if he were speaking to someone who is deaf.",-2,66
+763,The woman is both confused and frightened to be confronted in this way.,-1,14
+764,"Having learned that the best way not to offend the soldiers on the base is not to interact with them, she continues to try and get by, but Cassio will not relent.",1,35
+765,"Amelia enters, and her voice is all that is needed to distract Cassio.",-1,15
+766,I am...,0,3
+767,"Amelia insinuates herself between Cassio and the washerwoman, dismissing her brusquely to the woman.",0,16
+768,Go.,0,2
+769,Vanish.,0,2
+770,Into air.,0,3
+771,Away.,0,2
+772,To Cassio.,0,3
+773,He has been at his watch all night and looks it.,0,12
+774,"Between the party and the excitement the night before and then attending the watch, does anyone notice that he never sleeps?",1,23
+775,The unexpected discovery of Amelia and Cassio together stops Iago.,-1,11
+776,"Unnoticed, he listens to the conversation unfold before approaching.",-1,11
+777,Amelia looks to Iago as if waiting for him to offer his approval when he does.,1,17
+778,Reu.,0,2
+779,"Come in, I will bestow you where you shall have time to seek your pleasant feeling.",1,18
+780,Amelia and Cassio exit.,0,5
+781,"Iago looks after them, but the sound of Othello's voice turns in.",0,15
+782,"Othello enters, walking briskly with Montano and another officer.",0,11
+783,"He speaks to Iago offhandedly as he passes, handing him a sheaf of letters.",0,16
+784,Prepare that to me.,0,5
+785,Iago stands alone again.,0,5
+786,"My good one, I'll do.",1,8
+787,He exits.,0,3
+788,"Desdemona, Amelia, and Cassio enter from within.",0,10
+789,"You know, sure, good Cassio.",1,8
+790,Good Madam Due.,1,4
+791,polite distance.,1,3
+792,"But, lady, that policy may either last so long or breed itself so out of circumstance that I, being absent and my place supplied, my general will forget my love and service.",1,37
+793,Do not doubt that.,-1,5
+794,"Before Amelia here, I give thee warrant of thy place.",0,12
+795,"Assure thee, if I do vow a friendship, I'll perform it to the last article.",1,19
+796,When he is now.,0,5
+797,I suit so humble that he hath left part of his grief with me to suffer with him.,-1,19
+798,"Good luck, call him back.",2,7
+799,Tuesday morn.,0,3
+800,Or Tuesday noon.,0,4
+801,Or night.,0,3
+802,Or Wednesday morn.,0,4
+803,"If faith, he's penitent, and yet his trespass in our common reason is not almost a fault to incur a private check.",0,26
+804,When shall we come?,0,5
+805,Tell me.,0,3
+806,"But then, I wonder,",1,6
+807,in my soul what you would ask me that i should deny stand so mannerly on what michael cassio that came alluring with you and so many time when i spoke of you just praisingly i've paid your part to have so much to do to bring him in,0,50
+808,"Privy, no more.",0,5
+809,"Grant me this, to leave me but a little to myself.",0,13
+810,Shall I deny you?,-1,5
+811,No.,0,2
+812,"Farewell, my lord.",0,5
+813,"Farewell, my dear Lord.",0,6
+814,"It's a desperate sort of hug, as if he's afraid to let her go.",-1,18
+815,"Iago and Amelia and others look on, embarrassed or perhaps jealous of so public and yet so unabashedly intimate and unapologetic moments.",1,24
+816,But I do love thee.,1,6
+817,"And when I love thee not, chaos has come again.",0,12
+818,"Finally, Othello releases her.",0,6
+819,She kisses him.,0,4
+820,Iago and Amelia stand.,0,5
+821,"Amelia, come.",0,4
+822,They exit.,0,3
+823,"By heaven, thou echoest me, as if there was some monster in thy thought too hideous to be shown.",-1,22
+824,"If thou dost love me, I think thou dost, and waste thy words before thou givest them breath.",0,21
+825,"Iago moves to exit, perhaps, by saluting and turning, but Othello's now not going to let this go.",0,23
+826,Speak!,0,2
+827,Give thy worst of thoughts the worst of words.,-2,10
+828,"Why, say they are vile and false.",-2,9
+829,As wears the palace wherein to follow things sometimes intrude not.,-1,12
+830,"Who has a breast so pure, but some uncleanly apprehensions?",0,12
+831,"I have a chance ambitious in my guess, as I confess it is my nature's plague to spy into a",-1,22
+832,"I entreat you, then, from one that so imperfectly conjects.",-1,13
+833,"who steals my purse, steals trash, to something, nothing, to his mind is his, and has been slave to thousands.",-4,26
+834,Let's leave this up.,0,6
+835,"Let's leave out this resurrection, and Michael, just take the long beat.",0,16
+836,It is the green-eyed monster which stuck with mock the meat it feeds on.,-3,15
+837,"That couple lives in bliss who, certain of his fate, loves not his wronger.",2,17
+838,"Therefore, as I am bound, receive it from me.",0,12
+839,I speak not yet of proof.,0,7
+840,Look to your wife.,0,5
+841,"Their best conscience is not to leave them done, but keep them known.",1,15
+842,"I hope you will consider where this spoke comes from, my love.",1,14
+843,But I do see you move.,0,7
+844,"but pardon me, I do not in position distinctly speak of her, though I may fear her will, recoiling to her better judgments, may fail you, fail to match you with her country forms, and happily repent.",0,44
+845,Othello stares.,0,3
+846,Can we stop for a minute?,0,7
+847,"Michael, just for clarity,",1,6
+848,Can you split all three of those thoughts?,-1,9
+849,That's one thought.,0,5
+850,But pardon me is the last thought that drives to the end.,1,13
+851,"So just put space, because I had a hard time following the logic.",-1,15
+852,All right.,1,3
+853,Can you do it again?,0,6
+854,"Sure, I'll just stop.",0,7
+855,You want me to give me the best one?,1,10
+856,"No, no, no.",0,6
+857,Sure.,0,2
+858,stares.,0,2
+859,Farewell.,0,2
+860,"Iago starts to speak, but...",0,7
+861,Farewell!,0,2
+862,Iago salutes and begins to exit.,0,7
+863,"Sorry, do we need those two directions, Othello, stairs, and Yago starts to speak?",-1,19
+864,Couldn't those just be beats?,0,7
+865,Gun?,0,2
+866,Yep.,0,2
+867,"I mean, it depends if people will be able to see it.",0,14
+868,You can play it.,0,5
+869,"I also think if you need to stand up and move or play each other, there's got to be space for that.",0,25
+870,"The mic is attached to you, so it's not like you're stuck to the chair.",0,19
+871,I got you.,0,4
+872,I just don't know the environment.,0,8
+873,"But yeah, let's play it.",0,8
+874,Do you want the salutes and begins to accent her name?,0,12
+875,You could just do it.,0,6
+876,Yeah.,0,2
+877,Yeah.,0,2
+878,Yeah.,0,2
+879,Yeah.,0,2
+880,Yeah.,0,2
+881,Yeah.,0,2
+882,Yeah.,0,2
+883,Yeah.,0,2
+884,Yeah.,0,2
+885,Yeah.,0,2
+886,Yeah.,0,2
+887,Yeah.,0,2
+888,Yeah.,0,2
+889,Iago exits.,0,3
+890,"Thalo stands for a long moment, attempting to piece together what that was, and from where it arose, he begins to finally resettle into the paperwork that is there upon the table.",0,36
+891,Iago re-enters.,0,3
+892,"My lord, I wonder if I might entreat your honor to scan this thing no further.",2,18
+893,Leave it to time.,0,5
+894,Do that one.,0,4
+895,Just scannously no further.,0,5
+896,Leave it to time.,0,5
+897,"In the meantime, let me be thought too busy in my fears.",-1,14
+898,I want you to take my own.,0,8
+899,"Iago turns and takes steps to leave once again, but Othello stops him with a snap or two of his fingers.",0,23
+900,He returns again to the general.,0,7
+901,"When they are face to face, Othello draws back a hand like lightning and slaps him so hard it literally lifts Iago off his feet.",0,27
+902,"Do you want to do any of, like, snap?",1,12
+903,"Iago is dizzy, combative, apologetic in posture, then dizzy again, almost to falling, all in the course of three seconds.",-4,26
+904,"Othello sits down and goes back to work, dismissing Iago, and with a wave and a glare that could set his clothes on fire.",0,27
+905,"Iago, still dazed from the blow, comes to attention, salutes, turns, and exits.",-2,19
+906,Othello stands.,0,3
+907,He takes a tight-fitting head wrap from his head.,0,10
+908,It has a flowing trail.,0,6
+909,All the African Soldiers wear them.,0,7
+910,He daubs his brow with it.,0,7
+911,How now?,0,3
+912,Othello rises to greet her.,0,6
+913,"To Desdemona, it is immediately clear something is wrong with his energy and she's at once concerned.",-1,20
+914,Are you not well?,1,5
+915,Tool wire again.,0,4
+916,Let me find it hard.,-1,6
+917,Within this hour it will be well.,1,8
+918,Desimona takes from her waist a large handkerchief made of dark brownish black fabric ornately embroidered with Arabic designs and writing.,-1,22
+919,and with red strawberries that stand out sharply against the dark background and white embroidery.,-2,16
+920,"She first dobs the perspiration on Othello's brow, then attempts to wrap the kerchief around his head and tie it.",0,23
+921,"Othello is so taken with her loving attention that, in a rush of passion, he takes her up in his arms and kisses her deeply.",2,28
+922,"She responds to the kiss with an equal energy, wrapping her arms about him and embracing his head with both her hands.",0,24
+923,"Within the throes of this, she drops the handkerchief to the ground.",0,14
+924,"When they finally break the kiss, they stand with their faces very close, speaking to each other through the energy of intense arousal.",-2,26
+925,Come.,0,2
+926,Desdemona continues to kiss his head and face until he pulls away and takes her by the hand.,0,19
+927,"They exit arm in arm, forgetting Amelia.",0,9
+928,Held somehow between them is the head wrap mistaken for the handkerchief.,-1,13
+929,Amelia picks up the handkerchief.,0,6
+930,There's a moment of indecision when she might run after her mistress to return it.,-2,17
+931,"There's a second such moment, then something else.",0,11
+932,"Amelia stands with the handkerchief, feels it, smells it, rubs it against her skin.",-1,18
+933,She sits with it.,0,5
+934,Daylight fades.,0,3
+935,Garrison lights come on.,0,5
+936,Amelia sits.,0,3
+937,Iago enters at length.,0,5
+938,Has he been looking for her?,0,7
+939,Was she expected somewhere and failed to show up for being lost in her reverie?,-2,16
+940,His sudden presence startles her and she stands.,0,9
+941,How now?,0,3
+942,What do you hear along?,0,6
+943,Do not you chide?,-1,5
+944,It is a common thing to have a foolish wife.,-1,11
+945,"Iago, in taking Amelia by the arm, notices the handkerchief she's holding.",0,16
+946,He recognizes it.,0,4
+947,Have I stolen it from her?,-1,7
+948,No.,0,2
+949,Faith.,1,2
+950,"She let it drop by negligence, and I...",-1,10
+951,Iago snatches the handkerchief from Amelia's hand.,0,9
+952,Get at me.,0,4
+953,Amelia just as quickly snatches it back.,0,8
+954,What will you do with it?,0,7
+955,"Through the following, they tussle for the possession of the handkerchief.",0,13
+956,What's that?,0,4
+957,"If it be not for some purpose of import, Give it me again.",0,15
+958,"Poor lady, she shall run mad if she shall lack it.",-3,13
+959,You have nothing.,0,4
+960,"No, no.",0,4
+961,I'll have you source.,0,6
+962,The tussle stops with Amelia in possession of the handkerchief.,0,11
+963,"But yet, in their stillness, there's an energy, a look, a tone of voice, and Amelia slowly hands the piece to Iago, who takes it while holding her in his gaze.",-1,39
+964,Go.,0,2
+965,Lead me.,1,3
+966,"Reluctantly, Amelia exits and Iago watches her go.",-1,10
+967,Good watch.,1,3
+968,"Once she's gone, he examines the handkerchief.",0,10
+969,Trifles light as air are to the jealous confirmation strong as proofs of holy writ.,1,16
+970,This may do something.,0,5
+971,Iago hears an approach and gets up to see who's arriving.,0,13
+972,He stuffs the handkerchief into his pants.,0,8
+973,"As Othello enters, Iago snaps to attention.",0,9
+974,"Why, how now, General, of all to be gone?",0,13
+975,Iago turns and exits.,0,5
+976,Make me to see it.,0,6
+977,O wretched fool that leads to make thine honesty a vice.,-1,12
+978,Yago turns and takes steps again as it to exit.,0,11
+979,Stay.,0,2
+980,He turns back.,0,4
+981,We can leave that.,0,5
+982,We can actually leave him for it too.,0,9
+983,Okay.,0,2
+984,Stay.,0,2
+985,Thou shouldst be honest.,1,5
+986,I should be wise.,1,5
+987,But honesty is a fool and losers that it works for.,0,12
+988,I'll have some proof.,0,6
+989,I will go on.,0,5
+990,"I lay with Cassia lately, being troubled with rage and tooth, I could not sleep.",-2,18
+991,There are a kind of men so loose a soul that in their sleeps will mutter their things.,-1,19
+992,One of this kind is Cassia.,0,7
+993,"In sleep, I heard him say, cursed faith that gave me to them all.",0,17
+994,"Nay, this was what his dream.",0,8
+995,Tis a shriek down.,-1,5
+996,"Though it be but a dream, tell me about this.",0,12
+997,"Never, Iago, my bloody thoughts shall ne'er look back, ne'er am to humble love.",1,18
+998,For that a capable in wide revenge swaddled them up.,0,11
+999,Perhaps you may change.,0,5
+1000,The lift between them resolves once and for all that Othello's mind will not change.,0,17
+1001,Let your command and today shall be in me remorse.,-1,11
+1002,"No, you can play, you can play.",0,10
+1003,Whatever you play is...,0,5
+1004,"Keith, I have a question.",0,7
+1005,Yeah.,0,2
+1006,"Do you want to pause there for the decision, or do you want it right away?",1,18
+1007,Yago's response?,0,4
+1008,Yeah.,0,2
+1009,"Well, playing it right away,",2,7
+1010,kind of gives the suggestion this is what it was working toward you know yeah it's in the right I mean that's how it's written too so I just was chewing the scenery no no no but I don't know what I'm asking like which one is whichever you want to play for the sake of the reading is fine whatever you're playing with this is what you're playing with it's cool I'll give it to you fast want to do it again,5,92
+1011,Is that at your request?,0,6
+1012,Let her live.,0,4
+1013,"Othello exits, Iago follows.",0,6
+1014,"Rune, what are our thoughts on reassigning but let her live to Othello?",0,15
+1015,I don't think it's the best time to talk about it.,1,14
+1016,"I mean, if it's going to engender a discussion.",0,12
+1017,Why would you say that?,0,6
+1018,Put a pin in it.,0,6
+1019,Do you want to just read it?,0,8
+1020,I don't think it makes sense to give it to Adela.,0,13
+1021,"Immediately, it doesn't sound like it does, but maybe Stephanie has some sense of it.",1,19
+1022,I think that it probably does require more thought than tracking it through.,0,14
+1023,Can't we just read it?,0,7
+1024,Just try and keep going.,0,6
+1025,But let her live.,0,5
+1026,"Othello exits, Iago follows.",0,6
+1027,I don't know what that means.,0,8
+1028,"Okay, ready?",1,4
+1029,"Before the Citadel, same as the previous scene, it's about 1 p.m., Desdemona and Amelia enter.",0,21
+1030,Amelia?,0,2
+1031,I know not how.,0,5
+1032,"Believe me, I had rather lost my purse full of croissados.",-1,13
+1033,"Well, my lady.",1,5
+1034,"Well, my good lady, how do you, Desnemon?",2,12
+1035,"Well, my good lord.",2,6
+1036,"She takes his hand with both of hers and kisses it, and kisses him.",0,16
+1037,"This hand is moist, my lady.",0,8
+1038,Not?,0,2
+1039,No.,0,2
+1040,That is a fault.,-1,5
+1041,That handkerchief did an Egyptian to my mother give.,0,10
+1042,She was a charmer and could almost read the thoughts of people.,0,13
+1043,"She told her, while she kept it, it would make her amiable and subdue my father entirely to her love.",2,23
+1044,Yes.,0,2
+1045,"But if she lost it or made gift of it, my father's eye",-1,15
+1046,"should hold her load, and the spirits should hunt after new fancies.",0,14
+1047,"She, dying, gave it me, and bid me, when my feet should have me wide, to give it her.",-1,25
+1048,"I did so, so to he.",0,8
+1049,It is true.,0,4
+1050,It's lost.,-1,4
+1051,Speak!,0,2
+1052,Say you?,0,3
+1053,It is not lost.,-1,5
+1054,But what nith' it were?,0,7
+1055,How?,0,2
+1056,Fetch!,0,2
+1057,Let me see it.,0,5
+1058,You think?,0,3
+1059,You are to blame.,-1,5
+1060,Fellow rises abruptly in excess.,-1,6
+1061,They are all but stomachs.,0,6
+1062,and we all but food.,0,6
+1063,Look you.,0,3
+1064,Cassio and Iago enter.,0,5
+1065,Iago goes to Amelia.,0,5
+1066,"Desdemona speaks, but the focus of her energy remains directed off in the direction her husband is gone.",0,20
+1067,"Oh, no.",0,4
+1068,Good.,1,2
+1069,Cassio.,0,2
+1070,"Oh, what's the news with you?",0,9
+1071,"Madam, my former suit, I do beseech you that by your virtuous means I may again exist and be a member of this love, whom I, with all the office of my heart, entirely honor.",2,41
+1072,"I would not be delayed if my offense be of such mortal kind that nor my service past, nor present sorrows, nor purpose, merit, and futurity can ransom me into his love again, but to know so must be the first— I said so, Cassio.",1,53
+1073,"What I can do I will, and more I will than for myself I dare.",0,17
+1074,Let that suffice you.,1,5
+1075,Can he be angry?,-1,5
+1076,"I have seen the cannon when it hath blown his ranks into the air, and like the devil from his very arm popped his own brother.",0,28
+1077,And can he be angry?,-1,6
+1078,"Something of a moment, then.",0,7
+1079,I will go meet him.,0,6
+1080,Could he do so?,0,5
+1081,Yago exits.,0,3
+1082,"And in such cases men's natures wrangle with inferior things, though great ones are their object.",-2,19
+1083,It is even so for let our finger ache and induce our other helpful members into that sense of pain,-1,20
+1084,"Now we must think men are not gods, nor of them look for such observancy as fits the bridal.",0,21
+1085,"Tis a monster begot upon itself, born on itself.",-1,11
+1086,A message.,0,3
+1087,"Cassio bows and Desdemona, are you saying that?",0,10
+1088,No.,0,2
+1089,"No, okay.",0,4
+1090,Cassio baths and Desdemona and Amelia exit.,0,8
+1091,He stands around attempting to figure out what to do with himself when Bianca enters.,0,16
+1092,Bianca is a Cypriot or more Cypriot than anything else.,0,11
+1093,"She's perhaps unplaceable by feature or accent, but she lives in Cyprus.",0,15
+1094,She's beautiful.,1,4
+1095,What does that mean?,0,5
+1096,I'm physically powerful.,1,5
+1097,"perfectly as capable of kicking a man in the balls and stomping on his face when she's down, when he's down, as do I?",2,29
+1098,We don't need that for the sake of what we did.,0,13
+1099,A lot of this stuff has to do with something that we're writing to be read and will evolve.,0,21
+1100,"I mean, this was, many of these are orphans from the very first",0,15
+1101,"version of script which has changed drastically, so none of this is.",-1,14
+1102,"Yeah, I'll just go Bianca enters.",0,9
+1103,Sure.,0,2
+1104,Or do you want Bianca as a separate one?,0,10
+1105,I think Bianca enters is sufficient.,1,7
+1106,Sufficient.,1,2
+1107,Sure.,0,2
+1108,Castillo.,0,2
+1109,You are jealous now.,-1,5
+1110,"No, by my faith, Bianca, I found it in my chamber.",1,15
+1111,I let the work well.,2,6
+1112,"Or I attend here, but.",0,7
+1113,Bianca exits.,0,3
+1114,"Saifers, before the citadel, same as the previous scene.",0,12
+1115,It's about 3 p.m.,0,6
+1116,"What if I had said I had seen him do you wrong, or heard him say?",-1,18
+1117,I tremble at it.,0,5
+1118,It is not words that...,0,6
+1119,"Shake me thus, noses, ears, and lips.",-1,11
+1120,What?,0,2
+1121,"Ho, my lord.",0,5
+1122,"If not, he bones at mouth, and by and by breaks out his savage madness.",-3,18
+1123,What disturbs?,0,3
+1124,He'll recover straight.,1,5
+1125,"When he is gone, I'll speak with you.",0,11
+1126,Casio answers.,0,3
+1127,Would you would bear your fortune on your hand?,1,10
+1128,As millions now alive that nightly lie in those unproper beds which they dare swear are peculiar.,-2,18
+1129,In your case it's better.,1,7
+1130,Othello rises and begins to get his bearings.,0,9
+1131,"He attempts to speak, perhaps in Arabic.",0,9
+1132,Stand your welcome.,1,4
+1133,"Whilst you were overwhelmed with your grief, Cassio came hither.",-2,12
+1134,"I should keep him away and lay good skews upon your ecstasy, fading unarmed her.",2,17
+1135,Do uncape yourself and mark the fears and jibes and notable scorns that dwell in every region of his face.,-1,21
+1136,"Othello, as recovered as he can make himself from his seizure, looks about for a place from which to observe.",0,23
+1137,He's not one for hiding and he's not sure about this idea His hesitancy is obvious.,0,19
+1138,Iago's impatience is also obvious.,-1,7
+1139,Leave him down.,0,4
+1140,"Slowly, Othello finds a place which he can easily see and can, in fact, be easily seen if someone knows where to look.",-1,27
+1141,"He's not so much in hiding as inconspicuous, ready to jump out at any moment.",1,18
+1142,"How do you now, Lieutenant?",0,7
+1143,"I was talking on the sea bank with certain Venetians, and thither comes the barbell.",0,17
+1144,"And by this end, she follows me thus about my neck, so hangs and lulls and weeps upon me, so shakes and pulls me up.",-1,29
+1145,"that same handkerchief you gave me, even now I was a fine fool to take it, that you should find it in your chamber and not know who left it there, there wheresoever you had it.",0,40
+1146,I'll take out no work on it.,1,9
+1147,She silences him.,0,4
+1148,Bianca turns and exits.,0,5
+1149,After her!,0,3
+1150,After her!,0,3
+1151,"Faith, I am.",1,5
+1152,Go to.,0,3
+1153,Say no more.,0,4
+1154,Running a fellow emerges.,0,5
+1155,"And to see how he prizes the foolish woman, your wife.",-1,13
+1156,"She gave it to him, and he had given it to him.",0,14
+1157,That's all it finds to see who sits.,0,10
+1158,My heart is turned to stone.,0,7
+1159,"I strike it, and it hurts my hand.",-2,10
+1160,The world hath not a sweeter creature.,0,8
+1161,She might lie by an emperor's side and command him tasks.,-1,13
+1162,"Give me some poison, Iago, this night.",-1,10
+1163,Cut old me.,0,4
+1164,They were now poisoned.,0,5
+1165,Strangling her in her bed.,0,6
+1166,Even the bed that she had in town.,0,9
+1167,This is another moment where a fellow can only stop and scrutinize Iago's enthusiasm.,1,16
+1168,Could I cut that?,0,5
+1169,not with poison from her.,-1,6
+1170,"Strangle her in her bed, even the bed she hath contaminated.",-2,13
+1171,You show them all by midnight.,0,7
+1172,A trumpet sounds.,1,4
+1173,Lodovico proffers a letter.,0,5
+1174,Othello takes and kisses the letter.,0,7
+1175,He opens the letter and walks apart to read.,0,10
+1176,"It's not lost on Desdemona, but honesty on the cut.",0,13
+1177,We can cut that and have a lot of people play it.,0,13
+1178,Thank you.,1,3
+1179,You want to take it again?,0,7
+1180,Thank you.,1,3
+1181,"Cousin, there's fallen between him and my lord an untimed breach.",-2,14
+1182,But you shall make all well.,1,7
+1183,Are you sure of that?,0,6
+1184,My lord?,0,3
+1185,He did not call.,0,5
+1186,He's busy in the paper.,0,7
+1187,Othello drops the letter and turns on him.,0,9
+1188,Indeed!,0,2
+1189,My lord?,0,3
+1190,I am glad.,1,4
+1191,My sweet Othello.,1,4
+1192,Othello slaps Desdemona with the force of the slap that he gave to Iago.,-1,15
+1193,It knocks her off her feet.,0,7
+1194,All present are stunned.,1,5
+1195,I have not.,0,4
+1196,To serve today's.,0,5
+1197,And yet go on and turn again.,0,8
+1198,He spins her about roughly by the arm.,0,9
+1199,Ludvico intervenes.,0,3
+1200,"And she can weep, sir.",-1,7
+1201,Weep!,-1,2
+1202,Get you away.,0,4
+1203,I'll sing for you anon.,0,7
+1204,"Sir, I obey the mandate and will return to Venice.",0,12
+1205,Hips!,0,2
+1206,Avolt!,0,2
+1207,Desdemona has been standing awestruck by Othello's behavior turns and exits.,1,13
+1208,Cassius will have my place.,0,6
+1209,"And, sir, tonight I do a treat that we may sub together.",0,15
+1210,He is much changed.,0,5
+1211,Are his wits safe?,1,5
+1212,Is he not line of brain?,0,7
+1213,Is that he is?,0,5
+1214,Should we say our fellow exits?,0,7
+1215,Yeah.,0,2
+1216,Okay.,0,2
+1217,Strike his wife.,-1,4
+1218,"Faith, that was not so well.",2,8
+1219,Yet would I knew that stroke proved the worst.,-1,10
+1220,It is not honesty in me to speak what I see and know.,1,14
+1221,You shall observe him and his own courses will denote him so that I may say in my speech.,0,20
+1222,But do but go after and mock how he continues.,-1,11
+1223,Lonomico turns and exits with attendants quickly.,0,8
+1224,Iago exits slowly in the same direction.,-1,8
+1225,Othello and Desdemona's bedchamber.,0,6
+1226,It's about 5 p.m.,0,6
+1227,Othello and Amelia are discovered in conversation.,0,8
+1228,And then I saw no harm.,-1,7
+1229,And then I heard each syllable that Rath made up between them.,0,13
+1230,"For if she be not honest, chaste and true, there's no man happy.",3,17
+1231,The purest of their wives is foul with slander.,-2,10
+1232,"Bid her come hither, go.",0,7
+1233,Amelia bows and exits.,0,5
+1234,"She says enough, yet she's a simple baud that cannot say as much.",1,17
+1235,This is a subtle whore.,-1,6
+1236,Descimona enters with Amelia.,0,5
+1237,Your mystery.,-1,3
+1238,Amelia bows again and reluctantly she exits.,-1,8
+1239,Desdemona and the fellow stand facing each other down in silence.,0,12
+1240,"To whom, my lord?",0,6
+1241,With whom?,0,3
+1242,How am I false?,-1,5
+1243,"Ay, rest alone, away.",0,7
+1244,"Away, away!",0,4
+1245,Unless the heavy day!,0,5
+1246,Why do you weep?,-1,5
+1247,"If you have lost him, why, I have lost him too.",-2,14
+1248,"Had it pleased heaven to try me with affliction, had there rained all kinds of sores and shames on my bare head, steeped me in poverty to the very lips given to captivity, me and my utmost hopes,",0,42
+1249,"I should have found in some place of my soul a drop of patience, but alas, to make me a fixish figure for the time of scorn, to point his slow, unmoving finger at?",-1,39
+1250,Yet I could bear that too.,0,7
+1251,"Well, very well.",2,5
+1252,"the fountain from which my current runs or else dries up, to be discarded debts, or keep it as a cistern for vile toes, to not engender it.",-2,32
+1253,What committed?,0,3
+1254,"Committed, open thou I should make the very forges of my cheeks, that would to cinders burn up modesty, did I but speak thy deeds.",0,29
+1255,What committed?,0,3
+1256,"You, mistress, would have the office opposite the St.",-1,12
+1257,Peter and keep the gate of hell.,-1,8
+1258,"You, you, I, you.",0,8
+1259,We have done our course.,0,6
+1260,There's money for your pains.,-1,7
+1261,"Before we start this next part of the scene, we're coming up on eight minutes away from two o'clock, which is the lunch hour.",0,28
+1262,"and would be, if we apply this a second after the day, this would be the end of the day.",0,23
+1263,So this is as far as we will have gotten by 6 p.m.,0,14
+1264,more or less.,0,4
+1265,"Well, probably less because we're not starting at 3, we're starting at 3.30, right?",2,20
+1266,So some things to discuss.,0,6
+1267,"Everybody's working to hear themselves and hear each other, and so they're slow.",-1,17
+1268,"and that slow has a value, if that's what you want to do.",-1,16
+1269,"If you want them to hear more of the play, we have to make other choices going forward.",0,20
+1270,"I don't know if we want to decide now, do we want to read into lunch to the end of the play?",0,25
+1271,We can do that.,0,5
+1272,Thoughts?,0,2
+1273,I would opt for picking up cues and earning the air that you need.,0,15
+1274,"But in terms of tempo of speech, I would favor clarity at this point in the game.",2,19
+1275,I agree.,0,3
+1276,I'm not talking about rushing your lines internally.,0,10
+1277,I'm talking about picking up your cues.,0,9
+1278,You can even interrupt each other a little bit.,-1,10
+1279,"Could we, just a suggestion, could we read to the end of this get to act four?",0,20
+1280,and see how that feels there.,0,7
+1281,It's 78.,0,4
+1282,It's only three more pages.,0,7
+1283,"And by my clocking it, you actually would be finishing around 545 to page 75 at the pace you were going.",0,23
+1284,With break and with whatever at the front end?,-1,10
+1285,"Not including the break, but probably including the front end.",-1,12
+1286,"But the break, I imagine, how long are you going to break?",-2,15
+1287,Ten.,0,2
+1288,Ten.,0,2
+1289,"Then, yeah, almost six o'clock.",0,8
+1290,"Yeah, we're almost at the same.",0,9
+1291,Okay.,0,2
+1292,Let's continue.,0,4
+1293,"I'm saying, like, see how you feel when you get to the end of 4-2.",1,19
+1294,Yeah.,0,2
+1295,I have none.,0,4
+1296,I cannot weep.,-1,5
+1297,"For thee tonight lay on my bed my wedding sheets, remember?",0,13
+1298,Such as,0,2
+1299,He called her whore.,-1,5
+1300,A beggar in his drink could not have laid such terms upon his callus.,-1,15
+1301,Be shrewd him for it.,0,6
+1302,I'll be hanged else.,0,6
+1303,What should he call her core?,0,7
+1304,Who keeps her company?,0,5
+1305,What place?,0,3
+1306,What time?,0,3
+1307,What form?,0,3
+1308,What likelihood?,0,3
+1309,"Oh, fire upon them.",0,6
+1310,"Good friend, go to him.",1,7
+1311,"And by this light of heaven, I know not how I lost him.",0,15
+1312,Here I kneel.,0,4
+1313,"If e'er my will did trespass against his love, either in discourse of thought or actual deed, or that mine eyes, mine ears, or any sense delighted them, in any other form, or that I do not yet and ever did and ever will, though he do shake me off to pay early divorcement, love him dearly, comfort forswear me.",2,70
+1314,"Unkindness may do much, and his unkindness may defeat my life, but never taint my love.",1,19
+1315,I cannot say whore.,-1,6
+1316,It doesn't harm me now.,-1,7
+1317,I speak the word to do.,0,7
+1318,Go in and weep not.,-1,6
+1319,All things shall be well.,1,6
+1320,Desdemona exits with Emilia.,0,5
+1321,Iago exits in the opposite direction in order to enter into the next scene.,0,15
+1322,So what do you think?,0,6
+1323,"Well, you know where you stopped?",1,8
+1324,Yeah.,0,2
+1325,"I probably see them, you know, in Othello's exit.",0,13
+1326,You could end there.,0,5
+1327,"It handles what we said yesterday, which is that we'd rather end on a fellow frame as opposed to a different frame.",0,25
+1328,Yes.,0,2
+1329,And you'll probably get there a little bit quicker.,1,11
+1330,Maybe.,0,2
+1331,Maybe.,0,2
+1332,"But even if you don't, that's okay.",0,11
+1333,Okay.,0,2
+1334,I can let them know we're not going to get to the end.,0,15
+1335,"Well, you weren't going to get to the end.",1,12
+1336,"Yeah, but I mean we can let them know.",0,11
+1337,"If everybody feels comfortable with that, I don't wanna, if you wanna read the whole thing.",1,22
+1338,"Well, we've got, I mean, the time is the time, right?",2,17
+1339,"We're gonna keep them past six, really, but it makes sense.",0,16
+1340,"I mean, unless we just wanna keep going, that's fine.",1,15
+1341,"Yeah, I mean, it's Tuesday night, I mean, six o'clock is the output, I mean, if you guys wanna stay and read to the end of the play,",0,37
+1342,I'm happy.,1,4
+1343,I'll do whatever.,0,5
+1344,I just try to coordinate for the presentation aspect of this event.,0,13
+1345,I think there's a lot that's already really interesting for people to see and think about and talk about as far as I'm concerned.,0,28
+1346,I don't know how the rest of that would be.,0,12
+1347,It makes a lot of sense.,0,7
+1348,Yeah.,0,2
+1349,It moves and it makes sense.,0,7
+1350,Belied.,0,2
+1351,Belied.,0,2
+1352,Belied and columns.,0,4
+1353,Lee is a voting term.,0,6
+1354,It means the side of the boat that the wind is not blowing up.,0,15
+1355,Belied and columns.,0,4
+1356,"Zooms, not zones.",0,5
+1357,The raised search.,0,4
+1358,That's just a scansion thing.,0,7
+1359,Yeah.,0,2
+1360,Senior.,0,2
+1361,I said so.,0,4
+1362,I said so.,0,4
+1363,Senior.,0,2
+1364,Bestial.,-1,2
+1365,Bestial.,-1,2
+1366,Zooms.,0,2
+1367,Dilatory time.,0,3
+1368,Dilatory.,0,2
+1369,And plumed troops.,0,4
+1370,Those are the ones that I noticed.,0,8
+1371,So I think we're back here at 3 for the mics.,0,13
+1372,We're going to go down.,0,7
+1373,Is he going to do them here?,0,8
+1374,Okay.,0,2
+1375,Yeah.,0,2
+1376,The room is set up and then he's like walking around and seeing what it's like.,2,19
+1377,Back to back.,0,4
+1378,"Oh, okay.",0,4
+1379,Back to back.,0,4
+1380,Back to back.,0,4
+1381,Yes.,0,2
+1382,Yeah.,0,2
