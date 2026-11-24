@@ -20,7 +20,7 @@ extras_stops = {
     "ay","aye","nay","oh","o","ll","ve","d","s","st","wilt","shalt","ere",
     # common filler in the play
     "lord","sir","come","let","know","think","good","shall","pray","speak",
-    "say","make","like","did","does","man","men","well","yes","enter","exit"
+    "say","make","like","did","does","man","men","well","yes", "okay", "right", "yeah", "sure", "then","enter","exit"
 }
 STOP_WORDS = list(ENGLISH_STOP_WORDS | extras_stops)
 
@@ -54,7 +54,7 @@ tfidf_para_vectors = tfidf_para_vectorizer.fit_transform(paragraph_df["text"])
 
 nmf_para_model = NMF(n_components = 10, random_state = 42)
 W_para_matrix = nmf_para_model.fit_transform(tfidf_para_vectors)
-print("\n----- NMF topics -----")
+print("\nNMF topics")
 display_topics(nmf_para_model, tfidf_para_vectorizer.get_feature_names_out())
 #LDA
 count_para_vectorizer = CountVectorizer(stop_words = STOP_WORDS, min_df = 5, max_df = 0.7)
@@ -62,7 +62,7 @@ count_para_vectors = count_para_vectorizer.fit_transform(paragraph_df["text"])
 
 lda_para_model = LatentDirichletAllocation(n_components = 10, random_state = 42)
 W_lda_para_matrix = lda_para_model.fit_transform(count_para_vectors)
-print("\n----- LDA topics -----")
+print("\nLDA topics")
 display_topics(lda_para_model, count_para_vectorizer.get_feature_names_out())
 
 lda_display = pyLDAvis.lda_model.prepare(lda_para_model, count_para_vectors,
