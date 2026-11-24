@@ -1,34 +1,3 @@
-#!/usr/bin/env python3
-"""
-othello_split.py — label transcript segments as in-character (Othello text)
-or out-of-character (present-day discussion) by fuzzy-matching against the play.
-
-Subcommands
------------
-  label     Segment a transcript and auto-label every segment.
-  sample    Draw a blind random sample for hand-labeling (validation set).
-  evaluate  Compare your hand labels to the pipeline's labels (precision/recall/F1).
-
-Typical workflow
-----------------
-  python othello_split.py label  --play othello.txt --script video1.srt --out video1_labeled.csv
-  # or several transcripts at once (each gets its own 3 output files):
-  python othello_split.py label  --play othello.txt --script v1.srt v2.srt v3.vtt v4.txt v5.csv --out-dir labeled/
-  # open video1_labeled.csv, fill `final_label` for rows where auto_label == "review"
-  python othello_split.py sample --labeled video1_labeled.csv --n 100 --out gold_sample.csv
-  # fill `gold_label` in gold_sample.csv WITHOUT looking at the labeled file
-  python othello_split.py evaluate --labeled video1_labeled.csv --gold gold_sample.csv
-
-Labels
-------
-  in_character      segment matches a line (or run of lines) from the play
-  out_of_character  no meaningful match: present-day discussion
-  mixed             discussion that contains a quoted play line (see quoted_play_text)
-  review            uncertain-band score; needs a human decision
-  too_short         too few words to match reliably (e.g. "my lord", "yeah"); needs a human decision
-
-Requires: pip install rapidfuzz
-"""
 from __future__ import annotations
 
 import argparse
@@ -46,18 +15,14 @@ try:
 except ImportError:
     sys.exit("Missing dependency: run  pip install rapidfuzz")
 
-LABELS = ["in_character", "out_of_character", "mixed"]  # 'mixed' only in --labels three
-
-# --------------------------------------------------------------------------- #
-# Text normalization
-# --------------------------------------------------------------------------- #
+LABELS = ["in_character", "out_of_character", "mixed"]
 _PUNCT = re.compile(r"[^a-z0-9\s]")
 _SPACES = re.compile(r"\s+")
 
 
 def normalize(text: str) -> str:
     text = text.lower().replace("’", "'").replace("‘", "'")
-    text = text.replace("'", "")          # 'tis -> tis, it's -> its
+    text = text.replace("'", "")
     text = _PUNCT.sub(" ", text)
     return _SPACES.sub(" ", text).strip()
 
@@ -86,11 +51,7 @@ def archaic_density(norm: str) -> float:
     hits = sum(1 for t in toks if t in ARCHAIC or (len(t) > 4 and t.endswith(("eth", "est"))))
     return round(hits / len(toks), 3)
 
-
-# --------------------------------------------------------------------------- #
-# Play loading
-# --------------------------------------------------------------------------- #
-_SPEAKER_PREFIX = re.compile(r"^\s*[A-Z][A-Z' ]{1,30}[.:]\s+")           # "OTHELLO. text" / "IAGO: text"
+_SPEAKER_PREFIX = re.compile(r"^\s*[A-Z][A-Z' ]{1,30}[.:]\s+")
 _STAGE = re.compile(r"\[.*?\]|\(.*?\)")
 _SKIP_LINE = re.compile(r"^\s*(ACT|SCENE|Enter|Exit|Exeunt|Re-enter|Flourish|Dramatis)\b", re.I)
 
@@ -108,7 +69,7 @@ def load_play(path: Path) -> list[str]:
         s = line.strip()
         if not s or _SKIP_LINE.match(s):
             continue
-        if s.isupper() and len(s.split()) <= 4:      # speaker heading like "OTHELLO"
+        if s.isupper() and len(s.split()) <= 4:
             continue
         s = _STAGE.sub(" ", s)
         s = _SPEAKER_PREFIX.sub("", s)
@@ -122,7 +83,6 @@ def load_play(path: Path) -> list[str]:
 
 
 def build_windows(play_lines: list[str], max_span: int = 3):
-    """Windows of 1..max_span consecutive lines, since a spoken sentence can span verse lines."""
     windows = []
     for span in range(1, max_span + 1):
         for i in range(len(play_lines) - span + 1):
@@ -131,15 +91,10 @@ def build_windows(play_lines: list[str], max_span: int = 3):
     for wid, w in enumerate(windows):
         for t in set(w.split()):
             index[t].add(wid)
-    # rarer words count more when picking candidates (so "I am not what I am" still finds its line)
     n = len(windows)
     idf = {t: math.log((n + 1) / (len(ids) + 1)) + 0.1 for t, ids in index.items()}
     return windows, (index, idf)
 
-
-# --------------------------------------------------------------------------- #
-# Transcript loading + segmentation
-# --------------------------------------------------------------------------- #
 _TS = re.compile(r"(\d{1,2}:)?\d{1,2}:\d{2}[.,]\d{1,3}\s*-->\s*")
 _SPEAKER_TAG = re.compile(r"^\s*([A-Za-z][\w .'-]{0,30}):\s+(.*)$")
 _SENT_SPLIT = re.compile(r"(?<=[.!?;])\s+")
@@ -150,14 +105,10 @@ ID_COL_GUESSES = ["transcript_number", "transcript_id", "video_id", "id"]
 
 
 def load_transcript(path: Path, text_col="auto", speaker_col="speaker", start_col="start") -> list[dict]:
-    """Returns turns: {transcript, speaker, start, text}.
-
-    CSV cells may hold a whole multi-line transcript ("SPEAKER_13: ...\nSPEAKER_00: ...");
-    each line becomes its own turn, with the speaker taken from its tag."""
     suffix = path.suffix.lower()
     turns = []
     if suffix == ".csv":
-        csv.field_size_limit(min(sys.maxsize, 2**31 - 1))     # full transcripts can be huge cells
+        csv.field_size_limit(min(sys.maxsize, 2**31 - 1))
         speaker_col, start_col = speaker_col.lower().strip(), start_col.lower().strip()
         with path.open(newline="", encoding="utf-8-sig") as f:
             reader = csv.DictReader(f)
@@ -194,13 +145,12 @@ def load_transcript(path: Path, text_col="auto", speaker_col="speaker", start_co
             if _TS.search(s):
                 start = s.split("-->")[0].strip()
                 continue
-            s = re.sub(r"<[^>]+>", "", s)               # strip vtt tags
+            s = re.sub(r"<[^>]+>", "", s)
             m = _SPEAKER_TAG.match(s)
             spk, txt = (m.group(1), m.group(2)) if m else ("", s)
             turns.append({"speaker": spk, "start": start, "text": txt})
         return turns
 
-    # plain text: one turn per non-empty line, optional "Speaker: text"
     for line in raw.splitlines():
         s = line.strip()
         if not s:
@@ -219,7 +169,7 @@ def segment(turns: list[dict], unit: str) -> list[dict]:
             if p.strip():
                 segs.append({"transcript": t.get("transcript", ""), "speaker": t["speaker"],
                              "start": t["start"], "text": p.strip()})
-    if unit == "turn":   # merge consecutive lines from the same speaker
+    if unit == "turn":
         merged = []
         for s in segs:
             if (merged and s["speaker"] and merged[-1]["speaker"] == s["speaker"]
@@ -230,10 +180,6 @@ def segment(turns: list[dict], unit: str) -> list[dict]:
         segs = merged
     return segs
 
-
-# --------------------------------------------------------------------------- #
-# Matching
-# --------------------------------------------------------------------------- #
 def best_match(norm: str, windows, index_idf, max_candidates: int = 300):
     index, idf = index_idf
     counts = Counter()
@@ -251,7 +197,6 @@ def best_match(norm: str, windows, index_idf, max_candidates: int = 300):
         f = fuzz.ratio(norm, w)
         if f > best_full:
             best_full, best_full_wid = f, wid
-        # partial match: a play line quoted inside a longer discussion sentence
         if len(w.split()) >= 4 and len(norm) > len(w) * 1.3:
             al = fuzz.partial_ratio_alignment(w, norm)
             if al.score > best_part:
@@ -272,19 +217,13 @@ def classify(full, part, n_words, hi, lo, min_words):
         return "out_of_character"
     return "review"
 
-
-# --------------------------------------------------------------------------- #
-# Subcommands
-# --------------------------------------------------------------------------- #
 def resolve_binary(rows, hi, lo):
-    """Collapse to two labels. Uncertain rows are decided by their neighbours
-    (in-character lines come in runs), then by score / archaic language."""
     first = []
     for r in rows:
         lab = r["auto_label"]
         if lab == "in_character":
             first.append("in_character")
-        elif lab in ("out_of_character", "mixed"):      # a quote inside discussion is still discussion
+        elif lab in ("out_of_character", "mixed"):
             first.append("out_of_character")
         else:
             first.append(None)
@@ -305,7 +244,6 @@ def resolve_binary(rows, hi, lo):
 
 
 def expand_scripts(patterns: list[str]) -> list[Path]:
-    """Accept explicit paths and glob patterns (e.g. "transcripts/*.srt", handy on Windows)."""
     paths = []
     for p in patterns:
         hits = sorted(glob.glob(p)) if any(ch in p for ch in "*?[") else [p]
@@ -313,7 +251,7 @@ def expand_scripts(patterns: list[str]) -> list[Path]:
             print(f"WARNING: pattern matched no files: {p}", file=sys.stderr)
         paths.extend(Path(h) for h in hits)
     seen, unique = set(), []
-    for p in paths:                      # drop exact duplicates, keep order
+    for p in paths:
         key = p.resolve()
         if key not in seen:
             seen.add(key)
@@ -332,7 +270,6 @@ def output_paths(scripts: list[Path], a) -> list[Path]:
     stems = Counter(s.stem for s in scripts)
     outs = []
     for s in scripts:
-        # same file name in different folders -> prefix the parent folder so nothing is overwritten
         stem = f"{s.parent.name}_{s.stem}" if stems[s.stem] > 1 else s.stem
         outs.append(out_dir / f"{stem}_labeled.csv")
     if len(set(outs)) != len(outs):
@@ -396,8 +333,6 @@ def cmd_label(a):
     if not scripts:
         sys.exit("No transcript files to process.")
     outs = output_paths(scripts, a)
-
-    # The play index is the slow part, so build it once and reuse it for every transcript.
     play = load_play(Path(a.play))
     windows, index = build_windows(play, a.max_span)
     print(f"Play: {len(play)} lines -> {len(windows)} match windows | {len(scripts)} transcript(s)")
@@ -407,7 +342,7 @@ def cmd_label(a):
         print(f"\n[{n}/{len(scripts)}] {script}")
         try:
             label_one(a, script, out, windows, index)
-        except (Exception, SystemExit) as e:   # one bad file shouldn't stop the batch
+        except (Exception, SystemExit) as e:
             print(f"  FAILED: {e}", file=sys.stderr)
             failed.append(script)
 
@@ -426,7 +361,7 @@ def cmd_sample(a):
     with open(a.out, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["segment_id", "speaker", "text", "gold_label"])
         w.writeheader()
-        for r in pick:   # blind: predicted labels and scores are NOT included
+        for r in pick:
             w.writerow({"segment_id": r["segment_id"], "speaker": r["speaker"],
                         "text": r["text"], "gold_label": ""})
     print(f"Wrote {len(pick)} blind rows to {a.out} (seed={a.seed}). "
